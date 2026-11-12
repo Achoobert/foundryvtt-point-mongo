@@ -1,0 +1,25 @@
+_id: jhXDYcFgHyC8FsH5
+_key: '!journal!jhXDYcFgHyC8FsH5'
+name: Borin Draughtwell
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: LQMH8LMT4jzZKtzb
+    _key: '!journal.pages!jhXDYcFgHyC8FsH5.LQMH8LMT4jzZKtzb'
+    name: Borin Draughtwell
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A potion maker who insists every brew is ''technically correct,'' even when it very much isn''t.</em></p><p><strong>Type:</strong> Potion Maker</p><p>Insists everything he brews is "technically correct," even when it isn''t. Quest hook: test his "stable prototypes," which are never quite stable.</p><hr><p><em>Source: Community submission — Kyron786 (Crawler #11890). From <a href="https://pointmongo.com/browse/npcs/borin-draughtwell">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 254
+    category: npcs
+    slug: borin-draughtwell
+    url: https://pointmongo.com/browse/npcs/borin-draughtwell
+    source: 'Community submission — Kyron786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-02T04:50:41.4118901Z'
+    needsRestat: false
+    missingFields: []

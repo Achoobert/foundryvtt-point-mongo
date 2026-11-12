@@ -1,0 +1,24 @@
+_id: MdZpQ0VX3raswrVW
+_key: '!journal!MdZpQ0VX3raswrVW'
+name: We've Met Before
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: Q3oXPJuBudac8vkZ
+    _key: '!journal.pages!MdZpQ0VX3raswrVW.Q3oXPJuBudac8vkZ'
+    name: We've Met Before
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you recognize and correctly identify a recurring NPC or enemy.</em></p><p>You recognized someone you encountered earlier in the dungeon.</p><p>Congratulations!</p><p>Your memory is functioning properly.</p><p>Please enjoy this achievement before something kills you.</p><p>Reward: Bronze Explorer''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/we-ve-met-before">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 666
+    category: achievements
+    slug: we-ve-met-before
+    url: https://pointmongo.com/browse/achievements/we-ve-met-before
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0077423Z'
+    needsRestat: false
+    missingFields: []

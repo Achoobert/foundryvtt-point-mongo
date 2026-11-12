@@ -1,0 +1,25 @@
+_id: yZFjY5VlWLLyFV45
+_key: '!journal!yZFjY5VlWLLyFV45'
+name: Muffin
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: BhvMb6v36Y6ffkYW
+    _key: '!journal.pages!yZFjY5VlWLLyFV45.BhvMb6v36Y6ffkYW'
+    name: Muffin
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A short-legged, hand-having pastry pet that smells delicious and may be able to mess with mob and crawler minds.</em></p><p><strong>Species:</strong> Muffin</p><p>A moving muffin — blueberry or chocolate chip — with short legs and hands. Unclear how it eats, but it smells delicious and may have some way of affecting mobs'' and crawlers'' minds.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/pets/muffin">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 318
+    category: pets
+    slug: muffin
+    url: https://pointmongo.com/browse/pets/muffin
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.75108Z'
+    needsRestat: false
+    missingFields: []

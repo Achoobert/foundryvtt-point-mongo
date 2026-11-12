@@ -1,0 +1,20 @@
+_id: TWG1XkgrMqis6D0e
+_key: '!items!TWG1XkgrMqis6D0e'
+name: Fuzzy Dice
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> item type</p><p><em>Hang them in any vehicle for extra speed and a steadier hand at the wheel.</em></p><p>Hang these on any vehicle to add +10 Move and +2 to the driver''s skill.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+10 Move</li><li>+2 Drive (or appropriate control skill)</li></ul><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/loot/fuzzy-dice">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 850
+    category: loot
+    slug: fuzzy-dice
+    url: https://pointmongo.com/browse/loot/fuzzy-dice
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.1663699Z'
+    needsRestat: false
+    missingFields:
+      - item type

@@ -1,0 +1,23 @@
+_id: GJfXFMKzsdQLknQI
+_key: '!items!GJfXFMKzsdQLknQI'
+name: Steed - Automaton
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>An upgradable, soul-crystal-powered warhorse automaton that answers to Ed or Edwina.</em></p><p><strong>Type:</strong> Mount</p><p>An upgradable, shaggy warhorse automaton powered by a soul crystal, identifying as Ed and/or Edwina.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Mount</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/steed-automaton">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 193
+    category: magic-items
+    slug: steed-automaton
+    url: https://pointmongo.com/browse/magic-items/steed-automaton
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+      - mount
+    updatedAt: '2026-09-30T20:04:01.9646717Z'
+    needsRestat: false
+    missingFields:
+      - effects

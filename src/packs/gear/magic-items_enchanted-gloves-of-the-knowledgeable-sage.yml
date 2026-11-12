@@ -1,0 +1,19 @@
+_id: dHPPmk7yMKJBwMZb
+_key: '!items!dHPPmk7yMKJBwMZb'
+name: Enchanted Gloves of the Knowledgeable Sage
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Thin leather gauntlets that sharpen a caster''s mind without getting in the way of a single spell.</em></p><p>These thin leather gauntlets do not impede spellcasting in any way.  They bestow +5 INT, and +1 DR.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Gauntlets</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5 Intelligence</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-gloves-of-the-knowledgeable-sage">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 985
+    category: magic-items
+    slug: enchanted-gloves-of-the-knowledgeable-sage
+    url: https://pointmongo.com/browse/magic-items/enchanted-gloves-of-the-knowledgeable-sage
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-28T16:58:32.3905863Z'
+    needsRestat: false
+    missingFields: []

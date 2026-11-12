@@ -1,0 +1,24 @@
+_id: gwgBakapvLnFxACR
+_key: '!items!gwgBakapvLnFxACR'
+name: The Sighing Bomb Satchel
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A cursed bomb bag that boosts explosives skill but compels the wearer to keep detonating things whenever they witness an explosion.</em></p><p>Accessory, cursed</p><p>A ruddy, worn bomb bag with small lit bomb emblems covering it. It feels warm in your hands and while wearing it, it feel like it’s breathing shallowly.</p><p>+5 bomb making, +5 explosives</p><p><strong>Compulsion:</strong> “Another One” When you witness an explosion, you must succeed on a DC (rank of the bomb) WIS save or feel compelled to create or trigger another explosive effect within 1 minute.</p><table><tbody><tr><th>Type</th><td>Accessory</td></tr></tbody></table><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/loot/the-sighing-bomb-satchel">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 164
+    category: loot
+    slug: the-sighing-bomb-satchel
+    url: https://pointmongo.com/browse/loot/the-sighing-bomb-satchel
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - loot
+      - cursed
+    updatedAt: '2026-09-22T05:37:48.9544112Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

@@ -1,0 +1,23 @@
+_id: rVrQSrDtjl0aN9AJ
+_key: '!items!rVrQSrDtjl0aN9AJ'
+name: Banana Farmer
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Druid class that shoots banana tree seeds from its hands and grows them at speed, and does very little else.</em></p><p>You may have felt like a loser at points in your life (and justifiably</p><p>so), but you’ll never be a terrified monkey dancing for an audience in a</p><p>banana suit. You are a Druid. A very specialized Druid.</p><p>A Banana Farmer.</p><p>You shoot banana tree seeds from your hands and makes them grow really fast. That’s it.</p><p>Still, there’s something to be said for doing one thing extremely well, and having a tree explode from your body is a surprisingly gruesome way to die.</p><table><tbody><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 Con</li><li>+2 Int</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Alchemy</li><li>+2 First Aid</li><li>+2 Survival</li><li>+2 Cooking</li><li>+3 Reap Spell (Interrupt, Attack, Favored: Druid):</li><li>Mana 20</li><li>Target must be Seeded.</li><li>The seed explodes into a violent growth spurt from inside the target''s body.</li><li>Base Damage: 1d12+INT Bludg.</li><li>Rank 5: +1d12 and damage is Armor Piercing</li><li>Rank 10: +1d12</li><li>Rank15: +1d12 and 5ft Splash</li></ul><p><strong>Benefits</strong></p><ul><li>Your Mana recovers at twice the normal rate in a natural environment <em>(minor)</em></li><li>Sow:  Dexterity based natural attack [Rank = Floor Number] that deals 1d6 + Dex Piercing dmg. Add another d6 at Rank 5, 10, and 15. Rank only increases by Floor. A natural Dex based 1d6 attack (10ft reach). If target is hit it gets the debuff "Seeded" (3pts) <em>(moderate)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/banana-farmer">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Druid
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 524
+    category: classes
+    slug: banana-farmer
+    url: https://pointmongo.com/browse/classes/banana-farmer
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6059788Z'
+    needsRestat: false
+    missingFields: []

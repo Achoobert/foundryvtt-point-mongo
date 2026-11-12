@@ -1,0 +1,23 @@
+_id: fGeYaMOCn5KMZ5Wd
+_key: '!items!fGeYaMOCn5KMZ5Wd'
+name: One Hit Wonder
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Mage class built around one favorite attack spell, cast with advantage and extra damage at the cost of every other spell.</em></p><p>You enter the Dungeon and discover that magic is real. The power to shape reality at your will. And it works. And kept working. So, why change it, right? I mean, if it works, it works. Maybe you can even make it work even better.</p><table><tbody><tr><th>Prerequisites</th><td>Must be Rank 5 in one Attack spell that costs 3 or less mana. This class will only be offered to those who really prioritize this Spell during the Tutorial Floors</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+8 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 to the Spell that gave you access to this class.(4pts)</li><li>+1 Aiming (2pts)</li><li>+2 to Corrupt Offering (Use Powerful Strike, only applied to magic attacks)</li></ul><p><strong>Benefits</strong></p><ul><li>May use Aiming to Single target attacks of your favored Spell <em>(moderate)</em></li><li>You roll the attacks of your favored Spell with advantage <em>(major)</em></li><li>Add Int a second time on damage if you used your favored spell at least once since the start of the last round. <em>(major)</em></li><li>Add Rank dice to damage of this spell if you use your favored spell at least twice in this combat. <em>(major)</em></li><li>Roll with advantage on making Advancement Rolls for your favored Spell (2pts) <em>(moderate)</em></li><li>Your favored spell may be raised to rank 20.(1pt) <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>+1 mana cost of all non self healing spells that are not your favored spell. <em>(1 pt)</em></li><li>Halve the effect of all spell damage that is not your favored spell. <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/one-hit-wonder">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Mage
+  prerequisites: Must be Rank 5 in one Attack spell that costs 3 or less mana. This class will only be offered to those who really prioritize this Spell during the Tutorial Floors
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1159
+    category: classes
+    slug: one-hit-wonder
+    url: https://pointmongo.com/browse/classes/one-hit-wonder
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1883954Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,24 @@
+_id: Zg4TKgzCbpKZFyzV
+_key: '!journal!Zg4TKgzCbpKZFyzV'
+name: I Regret Nothing
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: MAMKL0mkM05NW80O
+    _key: '!journal.pages!Zg4TKgzCbpKZFyzV.MAMKL0mkM05NW80O'
+    name: I Regret Nothing
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you take a reckless decision that produces a positive result.</em></p><p>You made a terrible decision.</p><p>Against all available evidence, it worked.</p><p>Please do not interpret this reward as encouragement to repeat the process.</p><p>Reward: Silver Lucky Bastard Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/i-regret-nothing">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 646
+    category: achievements
+    slug: i-regret-nothing
+    url: https://pointmongo.com/browse/achievements/i-regret-nothing
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9914173Z'
+    needsRestat: false
+    missingFields: []

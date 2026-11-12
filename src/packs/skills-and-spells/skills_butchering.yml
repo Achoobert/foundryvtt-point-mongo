@@ -1,0 +1,41 @@
+_id: 5HX64PGzczYb0AWe
+_key: '!items!5HX64PGzczYb0AWe'
+name: Butchering
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>The Intelligence skill for cutting meat, and organs, while keeping the best parts intact.</em></p><p>You''ve learned the secret art of the neighborhood meat market people. You know those places where your pets go missing, and small meat chunks are now on sale, or the homeless population dwindles just around their borders but these guys are still around. either way, you know how to cut them and slice them while maintaining the integrity of the finest parts. you do need a safe location for this.</p><p>Used for organ harvesting, use a medical table for best results.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/skills/butchering">Point Mongo</a>.</em></p>'
+  governingStat: int
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: OPpB2VNdwTPmWM7L
+      rankThreshold: 5
+      description: <p>increase the quality of meat by 1 step.</p>
+    - id: AIrQNpDBvqDvOZQr
+      rankThreshold: 10
+      description: <p>gain the ability to attack organic things without significant harm to valuable parts</p>
+    - id: hDUr7RWwuVTpc7e2
+      rankThreshold: 15
+      description: <p>gain advantage on attacks against living foes</p>
+flags:
+  point-mongo:
+    id: 866
+    category: skills
+    slug: butchering
+    url: https://pointmongo.com/browse/skills/butchering
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.7147291Z'
+    needsRestat: false
+    missingFields: []

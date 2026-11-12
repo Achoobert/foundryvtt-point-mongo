@@ -1,0 +1,26 @@
+_id: r70ziRFjR7JQLxXP
+_key: '!journal!r70ziRFjR7JQLxXP'
+name: 'Bubble #999 (Floor 5)'
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: I7pal3m3qQ5uQaE7
+    _key: '!journal.pages!r70ziRFjR7JQLxXP.I7pal3m3qQ5uQaE7'
+    name: 'Bubble #999 (Floor 5)'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A frozen-wasteland Floor 5 bubble — ''Hell Frozen Over'' — spanning a mountaintop skyfowl aerie, a predator-filled boreal forest, a murderous hockey-themed frozen sea, and an ice-troll crevasse.</em></p><p><strong>Type:</strong> Floor 5 Bubble</p><p>Air — The Aerie: a snow-capped mountain peak above the clouds, nesting ground of the Hawkey Players with sparse Skyfowl settlements and cave-dwelling Snow Stompers. Land — The Chill Hills: a boreal forest of Snow Mobile Leopards, Dire Wolves, and Killer Bunnies, with a lone wood-elf village and a Stationary Stan''s Sales Station franchise. Water — The Pond: a vast frozen sheet hunted by 32 murderous Hawkey Player teams competing for The Cup (used to drink crawler blood), plus Blood Ermine, Timberland Wolves, and small Ursine ice-fishing villages. Subterranean — The Crevasse: a mile-deep glacial crack lined with ice caves housing Ice Elementals, Ice Trolls, Stalking Stalactites, and two friendly gnome settlements with penguin companions. (Based on Lucia''s account of starting in this bubble in The Butcher''s Masquerade, Ch. 37.)</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/floors/bubble-999-floor-5">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 232
+    category: floors
+    slug: bubble-999-floor-5
+    url: https://pointmongo.com/browse/floors/bubble-999-floor-5
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - floors
+      - bubble
+    updatedAt: '2026-09-02T04:50:41.6584578Z'
+    needsRestat: false
+    missingFields: []

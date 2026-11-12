@@ -1,0 +1,58 @@
+_id: iYW5xNXiOIm19t8w
+_key: '!actors!iYW5xNXiOIm19t8w'
+name: Nimbus Angel
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>A whale-sized Colossal mob that disguises itself as a cloud and drops onto unsuspecting crawlers from above.</em></p><p>Also called the Cloud Angel — a whale-sized mob that disguises itself as an ordinary cloud, dropping in on unsuspecting crawlers below and consuming them. Found in open landscapes with plenty of visible sky.</p><table><tbody><tr><th>Floor</th><td>3</td></tr></tbody></table><hr><p><em>Source: Community submission — TheMrPanda (Crawler #—). From <a href="https://pointmongo.com/browse/mobs/nimbus-angel">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 15
+  size: Colossal (7)
+  creatureType: Monstrosity
+  move: '40'
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 3
+  stats:
+    str:
+      value: 4
+    dex:
+      value: 6
+    con:
+      value: 31
+    int:
+      value: 6
+    cha:
+      value: 3
+  attacks:
+    - name: Bite
+      toHit: ''
+      damage: 3d6+2
+      damageType: ''
+      range: ''
+      effect: ''
+    - name: Consume
+      toHit: ''
+      damage: 3d10+2
+      damageType: ''
+      range: ''
+      effect: ''
+prototypeToken:
+  name: Nimbus Angel
+  actorLink: false
+flags:
+  point-mongo:
+    id: 112
+    category: mobs
+    slug: nimbus-angel
+    url: https://pointmongo.com/browse/mobs/nimbus-angel
+    source: 'Community submission — TheMrPanda (Crawler #—)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-22T04:40:29.5942749Z'
+    needsRestat: false
+    missingFields: []

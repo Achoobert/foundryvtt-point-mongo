@@ -1,0 +1,24 @@
+_id: 6bEnXQkhAecMtpqb
+_key: '!journal!6bEnXQkhAecMtpqb'
+name: We Come in Peace
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: Ol31paTAaIA6XvlF
+    _key: '!journal.pages!6bEnXQkhAecMtpqb.Ol31paTAaIA6XvlF'
+    name: We Come in Peace
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you successfully convince a hostile Mob or NPC not to attack.</em></p><p>You convinced someone who wanted to hurt you that violence wasn''t necessary. Diplomacy has been confirmed to be useful. The System remains deeply suspicious.</p><p>Reward: Silver Diplomat''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/we-come-in-peace">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 625
+    category: achievements
+    slug: we-come-in-peace
+    url: https://pointmongo.com/browse/achievements/we-come-in-peace
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9741703Z'
+    needsRestat: false
+    missingFields: []

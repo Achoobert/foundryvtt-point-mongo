@@ -1,0 +1,24 @@
+_id: Tqk4uZHj9WoJhQMF
+_key: '!journal!Tqk4uZHj9WoJhQMF'
+name: Who Broke the Crystal?
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: dZJVs4qshoMVUWeQ
+    _key: '!journal.pages!Tqk4uZHj9WoJhQMF.dZJVs4qshoMVUWeQ'
+    name: Who Broke the Crystal?
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you destroy an important-looking magical object without knowing what it does.</em></p><p>You destroyed an important-looking magical object without first determining what it did.</p><p>The System AI would normally provide useful feedback.</p><p>Unfortunately, the System AI is still laughing.</p><p>Reward: Silver Asshole''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/who-broke-the-crystal">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 655
+    category: achievements
+    slug: who-broke-the-crystal
+    url: https://pointmongo.com/browse/achievements/who-broke-the-crystal
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9987325Z'
+    needsRestat: false
+    missingFields: []

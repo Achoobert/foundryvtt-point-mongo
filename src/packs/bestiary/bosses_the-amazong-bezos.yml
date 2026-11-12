@@ -1,0 +1,51 @@
+_id: B48Uw7kxS0q5e4Dr
+_key: '!actors!B48Uw7kxS0q5e4Dr'
+name: The Amazong Bezos
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> Level, stat scores, Floor (sets DR), attacks</p><p><em>A colossal, coin-plated floating head City Boss that hoards gold and loot, immune to everything but fire or lava.</em></p><p>12 HD / F</p><p>Immune to all attacks except fire and lava</p><p>1d100 to each crawler caught in the cone of attack</p><p>This guy is a slippery bastard in more ways than one! A colossal, perfectly spherical monstrosity resembling a smooth, uncanny humanoid head of Jefferimius Bezos floats inches above the ground. Its polished surface gleams like burnished coin, reflecting the terrified faces of crawlers who approach this abomination. It''s mouth is a black hole that hungers for all things shiny. Gold or loot. Greed is not just its theme, it is its weapon. Once it sucks in enough gold and loot, it will shoot it back at the crawlers and then suck it all back in. Yeah this guy sucks more than a Dyson vacuum. It is protected by an army of explosive flying golden drones. This boss is invulnerable to all attacks except fire or lava. Basically you poor crawlers need to make a fellowship and drop this grease ball into a Mordor-like volcano or cook it to a crisp.</p><p><strong>Submitted by Otuon:</strong> Crawler #1427</p><p>Varnath</p><p>Size Gargantuan (30'')</p><p>8HD / Floor</p><p>AC -6</p><p>Plus immunities to elemental attacks and non-magical physical attacks</p><p>4d12 with Morning star /F</p><p>3d10 with Stomp / F</p><p><strong>Lion Flame Breath Weapon:</strong> 6d6 / F</p><p><strong>Goat:</strong> Induce Madness Debuff</p><p><strong>Snake:</strong> Poisonous Venom Spray: 4d6 + ""I''m melting"" Debuff /F</p><p>Access to all Evocation Spells at Level 15</p><p>MP 300</p><p>Varnath is a Chimera Demon.  Standing 30'' tall, this heavily muscled, bipedal, bat winged demon has 3 heads like the creature of legend: A flame breathing Lion, a madness inducing Goat, and an poisonous acid spitting snake. It walks on cloven hooves, and has two clawed arms which also allows it to wield It''s massive morning star.</p><p>All Chimera Demons are Immune to all Elemental attacks and all non-magical physical attacks.</p><p><strong>I''m Melting Debuff:</strong> Crawlers afflicted will suffer 1d4 dmg /round /F until the acid is removed, or they are a steaming puddle.</p><p>V''arnath''s feral clutchmate Talok who was once banished to the Nothing can be found elsewhere in the Dungeon as a Floor Boss, and if the two were ever to meet, they would attempt to kill each other on sight."</p><hr><p><em>Source: Community submission — Otuon (Crawler #1427). From <a href="https://pointmongo.com/browse/bosses/the-amazong-bezos">Point Mongo</a>.</em></p>'
+  mobTier: city
+  level: 1
+  size: Colossal (7)
+  creatureType: ''
+  move: '40'
+  hbSlotsOverride: null
+  hb:
+    value: 20
+    max: 20
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: The Amazong Bezos
+  actorLink: false
+flags:
+  point-mongo:
+    id: 84
+    category: bosses
+    slug: the-amazong-bezos
+    url: https://pointmongo.com/browse/bosses/the-amazong-bezos
+    source: 'Community submission — Otuon (Crawler #1427)'
+    tags:
+      - dcc-ccs
+      - city-boss
+      - bosses
+    updatedAt: '2026-11-11T20:08:41.5928846Z'
+    needsRestat: true
+    missingFields:
+      - Level
+      - stat scores
+      - Floor (sets DR)
+      - attacks

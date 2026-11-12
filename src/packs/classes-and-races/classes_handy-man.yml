@@ -1,0 +1,23 @@
+_id: 2elOzV3H5SvE3U3s
+_key: '!items!2elOzV3H5SvE3U3s'
+name: Handy Man
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Monk/Mage class that fights with magic in the palms of its hands, making melee spells cheaper and hitting harder up close.</em></p><p>Wielding the power of creation in the literal palm of your hands. Discipline allows your hands to be filled with magic. Up, close and personal</p><table><tbody><tr><th>Prerequisites</th><td>Must have rank 5 in a melee Spell.</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Intelligence</li><li>+3 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Pugilism</li><li>+1 Attack of Opportunity</li><li>+1 Balance</li><li>+1 Frost Scar</li><li>+1 Fire Fingers</li><li>+1 Fang Bang</li><li>+1 Shield Spell</li><li>+1 Corrupt Offering (Like Powerful Strike for spells)</li><li>+1 Soul Strike (Iron Punch for Melee Spells)</li></ul><p><strong>Benefits</strong></p><ul><li>May use Melee Spells with Attack of Opportunity <em>(moderate)</em></li><li>+5ft to Step <em>(major)</em></li><li>You may add your Int mod twice to Melee Spell Attack <em>(moderate)</em></li><li>Melee spells or spells with a range of “self” cost 1 less mana <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Increase the mana cost of all spells that are not melee spells or have a range of “Self” by 1 <em>(1 pt)</em></li><li>You halve the effect of any non hand-to-hand Melee Weapon <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/handy-man">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Monk / Mage
+  prerequisites: Must have rank 5 in a melee Spell.
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1157
+    category: classes
+    slug: handy-man
+    url: https://pointmongo.com/browse/classes/handy-man
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1865179Z'
+    needsRestat: false
+    missingFields: []

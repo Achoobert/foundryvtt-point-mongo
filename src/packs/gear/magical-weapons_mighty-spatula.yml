@@ -1,0 +1,22 @@
+_id: fpVxtFhxAniXVBdv
+_key: '!items!fpVxtFhxAniXVBdv'
+name: Mighty Spatula
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> effects</p><p><em>One mustn''t question the sturdiness of this spatula, nor the bulging muscles of the frycook wielding it.</em></p><p>This weaponized Spatula does 1d4 Bludgeoning damage. It also doubles your Strength when you are flipping something over with it.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Spatula</td></tr><tr><th>Weapon skill</th><td>Improvised Weapons</td></tr></tbody></table><hr><p><em>Source: BanzaiZAP. From <a href="https://pointmongo.com/browse/magical-weapons/mighty-spatula">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 478
+    category: magical-weapons
+    slug: mighty-spatula
+    url: https://pointmongo.com/browse/magical-weapons/mighty-spatula
+    source: BanzaiZAP
+    tags:
+      - magical-weapons
+      - mace
+    updatedAt: '2026-09-03T05:54:47.8523417Z'
+    needsRestat: true
+    missingFields:
+      - effects

@@ -1,0 +1,51 @@
+_id: M7bpoHVQIqAqNUDs
+_key: '!actors!M7bpoHVQIqAqNUDs'
+name: Xatra
+type: mob
+img: icons/svg/mystery-man.svg
+folder: qiYCTsz5olch4hb3
+system:
+  biography: '<p><strong>Missing:</strong> Level, stat scores, Floor (sets DR), attacks</p><p><em>An equine speedster NPC pulled into the Nothing after sacrificing himself for his party, later escaping — changed by the experience.</em></p><p><strong>Type:</strong> NPC (Equestrian, Track Star) · <strong>Size:</strong> Medium · <strong>Move:</strong> 20''</p><p>Bonus to DEX/STR/Speed. Skills: Speedster (bullet-time speed for 10s, once every 5 hours at level 1, up to 60s hourly at level 20), Flash Step (light-speed 3'' movement, 10-minute cooldown at level 1, improving to 10'' with a 5-minute cooldown at level 20). Spells: After-Image (leaves a 3-second clone illusion after Flash Step, upgradable to 15s), Faster than the Speed of Light (rewinds time 1 second daily, upgradable to 10s). Restrictions: no heavy armor, no two-handed weapons. Sacrificed himself in his last stand against an unnamed horror, sucked into the Nothing by a sand trap; eventually escaped, changed.</p><hr><p><em>Source: Community submission — Blackscyes (Crawler #33822). From <a href="https://pointmongo.com/browse/npcs/xatra">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: Medium (4)
+  creatureType: NPC
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Xatra
+  actorLink: false
+flags:
+  point-mongo:
+    id: 124
+    category: npcs
+    slug: xatra
+    url: https://pointmongo.com/browse/npcs/xatra
+    source: 'Community submission — Blackscyes (Crawler #33822)'
+    tags:
+      - dcc-ccs
+      - the-nothing
+      - npcs
+    updatedAt: '2026-09-03T16:29:38.9404937Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - stat scores
+      - Floor (sets DR)
+      - attacks

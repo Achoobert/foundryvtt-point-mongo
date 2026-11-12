@@ -1,0 +1,19 @@
+_id: d6EfSm6uICr1K0D0
+_key: '!items!d6EfSm6uICr1K0D0'
+name: Ring of Deft Persuasion
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A polished copper ring for talking your way out of the frying pan, then surviving the fire you talked yourself into.</em></p><p>This freshly polished copper ring bestows +4 Persuasion Skill, +5% Dexterity, and Immunity to Fire Damage for those moments when you talk your way out of the frying pan, and find yourself in the proverbial fire.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Ring</td></tr><tr><th>Tier</th><td>Platinum</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5% Dexterity</li><li>+4 Persuasion Skill</li><li>Immunity to Fire damage</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/ring-of-deft-persuasion">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1040
+    category: magical-jewelry
+    slug: ring-of-deft-persuasion
+    url: https://pointmongo.com/browse/magical-jewelry/ring-of-deft-persuasion
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-01T19:31:04.7708707Z'
+    needsRestat: false
+    missingFields: []

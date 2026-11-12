@@ -1,0 +1,26 @@
+_id: FKsjli0p1oAnc3tV
+_key: '!items!FKsjli0p1oAnc3tV'
+name: Kitsune
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>A fox-spirit shapeshifter trading Strength for Charisma, with illusions, fox-fire and a weakness to iron.</em></p><p>Special Trait / Ability: Shape-shifting ability to alternate between a full fox form and humanoid/hybrid form) or Kitsune Magic (innate illusion or fox-fire cantrip capabilities tied to your Charisma stat)</p><table><tbody><tr><th>DR</th><td>2</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>Dexterity: +2</li><li>Charisma: +2 or +3</li><li>Strength: -2</li></ul><p><strong>Skill bonuses</strong></p><ul><li>Shapechange, Illusion / Fox-Fire (Spell Skill): Starts at Rank 2.</li></ul><p><strong>Benefits</strong></p><ul><li>Deception / Clout (Passive Skill): Grants a permanent passive bonus to checks when appealing directly to the viewing audience or the AI</li></ul><p><strong>Detriments</strong></p><ul><li>Iron Vulnerability: As a creature born of spirit magic and fire, your species template would include an elemental vulnerability.</li></ul><hr><p><em>Source: Community submission — Brad8675309. From <a href="https://pointmongo.com/browse/classes/kitsune">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter
+    - Rogue
+    - assassin
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 828
+    category: classes
+    slug: kitsune
+    url: https://pointmongo.com/browse/classes/kitsune
+    source: Community submission — Brad8675309
+    tags: []
+    updatedAt: '2026-09-28T03:33:05.8875653Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

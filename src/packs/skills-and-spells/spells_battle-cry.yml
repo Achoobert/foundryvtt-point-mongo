@@ -1,0 +1,39 @@
+_id: v1G7ANFGZ8ZEOFcC
+_key: '!items!v1G7ANFGZ8ZEOFcC'
+name: Battle Cry
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A barbaric yawp that boosts allies'' attack rolls and lowers enemy attack/evade for a round.</em></p><dl class="stat-block"><dt>Type</dt><dd>Buff / Debuff</dd><dt>Area of Effect</dt><dd>1 target / ability level</dd><dt>Duration</dt><dd>1 round / ability level</dd><dt>Cost</dt><dd>2 mana</dd></dl><p>The Crawler utters a mighty, barbaric yawp before rushing into battle, striking fear into the hearts of their enemies and boosting the morale of their allies. Allies gain +1 on all attack rolls for 1 turn. Enemies that fail to avoid the effects are -1 on attack and evade checks for one round.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/spells/battle-cry">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 21
+    category: spells
+    slug: battle-cry
+    url: https://pointmongo.com/browse/spells/battle-cry
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - ability
+      - buff
+      - debuff
+    updatedAt: '2026-08-31T17:12:29.7065817Z'
+    needsRestat: false
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

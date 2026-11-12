@@ -1,0 +1,23 @@
+_id: ceOPnfmIVXxm7DcC
+_key: '!items!ceOPnfmIVXxm7DcC'
+name: A Free Pass
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A celestial one-use item letting the holder take literally any action, of any kind, before disintegrating.</em></p><p><strong>Notes:</strong> See Description.</p><p>This one use item* allows the user to do anything they''d like. Any action, any take backs, any summoning, anything they can think of, imagine or dream. Anything...Seriously...AAAaanyyything!! This unassuming, laminated business card reads: "I can!" on one side and on the other: "Yes really!" *The card will disintegrate on use. BUT may be reinstated with a benefactor ''lucky bastard box'' or if the Second Chance spell is cast on it at the same time as its used, or if you can roll a d100 and hit the number the AI is thinking of right then. Not that it will tell you any of this of course!</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Item</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — K8 (Crawler #71). From <a href="https://pointmongo.com/browse/loot/a-free-pass">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 126
+    category: loot
+    slug: a-free-pass
+    url: https://pointmongo.com/browse/loot/a-free-pass
+    source: 'Community submission — K8 (Crawler #71)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-09-30T20:04:01.879806Z'
+    needsRestat: false
+    missingFields:
+      - effects

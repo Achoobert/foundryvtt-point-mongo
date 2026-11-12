@@ -1,0 +1,41 @@
+_id: J5crEB5whNWf7m7O
+_key: '!items!J5crEB5whNWf7m7O'
+name: Hand Crossbow
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A Dexterity-based ranged attack skill for one-handed crossbows, out to 30 feet.</em></p><p>This is the Attack Skill for using Hand Crossbows, the much smaller, one-handed crossbows.</p><p>Range: 30 Feet</p><table><tbody><tr><th>Category</th><td>Ranged Attack</td></tr><tr><th>Base damage</th><td>1d6</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/skills/hand-crossbow">Point Mongo</a>.</em></p>'
+  governingStat: dex
+  category: attack
+  attackType: ranged
+  isPassive: false
+  range: 30 Feet
+  cooldown: None
+  limitations: Each Attack requires proper ammunition.
+  aiFavor: 0
+  baseDamage:
+    dice: 1d6
+    stat: ''
+    damageType: piercing
+  upgrades:
+    - id: bMwWDCLNODXYcVZ0
+      rankThreshold: 5
+      description: <p>+1d6 base damage</p>
+    - id: BHnkrFyE1eFE2yWj
+      rankThreshold: 10
+      description: <p>+1d6 base damage, and add 1 Rank damage die</p>
+    - id: SssM7dHD2N5TQdWP
+      rankThreshold: 15
+      description: <p>+1d6 base damage, and the range becomes 60 feet</p>
+flags:
+  point-mongo:
+    id: 728
+    category: skills
+    slug: hand-crossbow
+    url: https://pointmongo.com/browse/skills/hand-crossbow
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.7151308Z'
+    needsRestat: false
+    missingFields: []

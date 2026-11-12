@@ -1,0 +1,25 @@
+_id: fjL2xBe9zD5EFUaQ
+_key: '!journal!fjL2xBe9zD5EFUaQ'
+name: Starship Troopers Floor
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: TSgFWx1eIGVc6wLu
+    _key: '!journal.pages!fjL2xBe9zD5EFUaQ.TSgFWx1eIGVc6wLu'
+    name: Starship Troopers Floor
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Massive bugs. In space. What could go wrong?</em></p><p>MASSIVE BUGS IN SPACE. WHAT CAN GO WRONG?</p><hr><p><em>Source: Community submission — The Royal Grumble. From <a href="https://pointmongo.com/browse/floors/starship-troopers-floor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 458
+    category: floors
+    slug: starship-troopers-floor
+    url: https://pointmongo.com/browse/floors/starship-troopers-floor
+    source: Community submission — The Royal Grumble
+    tags:
+      - dcc-ccs
+      - floors
+    updatedAt: '2026-08-31T17:12:39.4379908Z'
+    needsRestat: false
+    missingFields: []

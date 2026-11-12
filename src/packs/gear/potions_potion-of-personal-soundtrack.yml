@@ -1,0 +1,22 @@
+_id: VxyAqVH4TAdahmuR
+_key: '!items!VxyAqVH4TAdahmuR'
+name: Potion of Personal Soundtrack
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A potion that plays the drinker''s favorite song in their head, boosting Dexterity and Intelligence at a cost to Charisma.</em></p><p>Potion of personal soundtrack You know how you just work better when you can groove to your favorite jams? This potion plays your favorite song in your head and nobody knows why the hell you''re boppin'' to the beat. Provide a +2 bonus to Dex and Int but provides a negative -1 to Cha because people think you''re just out of your damn mind.</p><table><tbody><tr><th>Type</th><td>Buff</td></tr></tbody></table><hr><p><em>Source: Community submission — Barry (Crawler #3779). From <a href="https://pointmongo.com/browse/potions/potion-of-personal-soundtrack">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 336
+    category: potions
+    slug: potion-of-personal-soundtrack
+    url: https://pointmongo.com/browse/potions/potion-of-personal-soundtrack
+    source: 'Community submission — Barry (Crawler #3779)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-22T05:38:20.3357143Z'
+    needsRestat: false
+    missingFields:
+      - effects

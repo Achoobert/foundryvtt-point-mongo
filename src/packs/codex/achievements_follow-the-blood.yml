@@ -1,0 +1,24 @@
+_id: 9JWK00RTTX7Wcb5Q
+_key: '!journal!9JWK00RTTX7Wcb5Q'
+name: Follow the Blood
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: Ba1V0HYhLny8DM7C
+    _key: '!journal.pages!9JWK00RTTX7Wcb5Q.Ba1V0HYhLny8DM7C'
+    name: Follow the Blood
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you track a wounded creature using its blood trail and successfully locate it.</em></p><p>You tracked a wounded creature using its own blood trail. Congratulations! Nothing says professional adventurer quite like following a trail of bodily fluids into somewhere you probably shouldn''t go.</p><p>Reward: Silver Assassin''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/follow-the-blood">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 606
+    category: achievements
+    slug: follow-the-blood
+    url: https://pointmongo.com/browse/achievements/follow-the-blood
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.958664Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,39 @@
+_id: pLOx0vcijzlm3gLK
+_key: '!items!pLOx0vcijzlm3gLK'
+name: Draconic Rage
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>An Evocation buff granting bonus fire damage that refunds actions on critical or exceptional hits.</em></p><p><strong>School:</strong> Evocation · <strong>AoE:</strong> Caster · <strong>Duration:</strong> 1 minute + 1/level · <strong>Cost:</strong> 30 MP</p><p>Base: attacks deal +1d6 Fire damage for the duration. Rank 5: a natural-20 critical hit refunds the action used. Rank 10: +1d6 damage; a Spectacular hit (beat the roll by 10+) also refunds the action. Rank 15: any landed hit refunds the action.</p><hr><p><em>Source: Community submission — Riley R (Crawler #10268). From <a href="https://pointmongo.com/browse/spells/draconic-rage">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 394
+    category: spells
+    slug: draconic-rage
+    url: https://pointmongo.com/browse/spells/draconic-rage
+    source: 'Community submission — Riley R (Crawler #10268)'
+    tags:
+      - dcc-ccs
+      - spells
+      - evocation
+    updatedAt: '2026-09-02T04:50:41.8691444Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

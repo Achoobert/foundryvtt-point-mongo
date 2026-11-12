@@ -1,0 +1,25 @@
+_id: aT7N4CVd2wchKUnB
+_key: '!journal!aT7N4CVd2wchKUnB'
+name: Gwen Stacey
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: DekAFep1xzGqxu7r
+    _key: '!journal.pages!aT7N4CVd2wchKUnB.DekAFep1xzGqxu7r'
+    name: Gwen Stacey
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler''s rescue attempt accidentally kills the crawler they were trying to save.</em></p><p><strong>Trigger:</strong> A crawler accidentally causes another crawler''s death while trying to save them.</p><p>No skull marker is added to the crawler''s name, but they carry the knowledge that the other crawler might still be alive if not for their actions.</p><hr><p><em>Source: Community submission — Ian O''H (Crawler #4207). From <a href="https://pointmongo.com/browse/achievements/gwen-stacey">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 278
+    category: achievements
+    slug: gwen-stacey
+    url: https://pointmongo.com/browse/achievements/gwen-stacey
+    source: 'Community submission — Ian O''H (Crawler #4207)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-02T04:50:41.6931891Z'
+    needsRestat: false
+    missingFields: []

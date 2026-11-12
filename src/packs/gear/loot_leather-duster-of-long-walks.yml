@@ -1,0 +1,24 @@
+_id: ThjgE7jvSCXlhwxf
+_key: '!items!ThjgE7jvSCXlhwxf'
+name: Leather Duster of Long Walks
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>An epic long coat granting endurance and constitution buffs, cursed to make short-statured beings irresistibly attracted to the wearer.</em></p><p><strong>Type:</strong> Cursed Coat</p><p>Grants Brisk-Walk (doubles pace), enhanced endurance (less fatigue), +10 Constitution, and Short-Shanks Summon (item spell, 1x/30 hrs, summons 4 short stout warriors who fight and cook, remembering each death). The curse: makes the wearer irresistibly appealing to anyone under 4'' tall, with +15% charisma toward short-folk, who may start following the wearer around.</p><table><tbody><tr><th>Type</th><td>Coat</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/loot/leather-duster-of-long-walks">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 158
+    category: loot
+    slug: leather-duster-of-long-walks
+    url: https://pointmongo.com/browse/loot/leather-duster-of-long-walks
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - loot
+      - cursed
+    updatedAt: '2026-09-03T16:30:37.1367304Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

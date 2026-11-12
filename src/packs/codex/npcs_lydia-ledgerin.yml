@@ -1,0 +1,25 @@
+_id: tKQvC8heVm79foEq
+_key: '!journal!tKQvC8heVm79foEq'
+name: Lydia Ledgerin
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: CFev6896hbyMzr49
+    _key: '!journal.pages!tKQvC8heVm79foEq.CFev6896hbyMzr49'
+    name: Lydia Ledgerin
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A manager with a suspicious emotional attachment to filing systems, overseeing crawler item storage.</em></p><p><strong>Type:</strong> Manager</p><p>Manages player items with a suspicious emotional attachment to proper filing systems. Quest hook: recover "misplaced artifacts" that were actually stolen, sold, or misappropriated.</p><hr><p><em>Source: Community submission — Kyron786 (Crawler #11890). From <a href="https://pointmongo.com/browse/npcs/lydia-ledgerin">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 259
+    category: npcs
+    slug: lydia-ledgerin
+    url: https://pointmongo.com/browse/npcs/lydia-ledgerin
+    source: 'Community submission — Kyron786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-02T04:50:41.4148793Z'
+    needsRestat: false
+    missingFields: []

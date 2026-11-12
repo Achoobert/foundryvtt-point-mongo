@@ -1,0 +1,19 @@
+_id: QO3Fl8XNa8c5XKRa
+_key: '!items!QO3Fl8XNa8c5XKRa'
+name: Legendary Amulet of The Unseen Healer
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>An amulet for the battlefield healer who''d rather not be seen: invisibility, a free Heal, and once-a-floor Health and Mana refills.</em></p><p>Invisible you say!  Mischief Managed!  Coupled with the healing spells provided by this magical amulet, this item is perfect for a battlefield healer who doesn''t want to have to deal with being a target of opportunity while they provide healing and support to their party.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Amulet</td></tr><tr><th>Tier</th><td>Legendary</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Heal Spell at Rank 5, no Mana cost, 10 hour cooldown</li><li>Once per floor: Recovery (full Health)</li><li>Invisible Buff</li><li>Once per floor: Restore (full Mana)</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/legendary-amulet-of-the-unseen-healer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 967
+    category: magical-jewelry
+    slug: legendary-amulet-of-the-unseen-healer
+    url: https://pointmongo.com/browse/magical-jewelry/legendary-amulet-of-the-unseen-healer
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-23T19:20:32.2139236Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,26 @@
+_id: 2Alnn5wYhL2cLkIW
+_key: '!journal!2Alnn5wYhL2cLkIW'
+name: Sticky Tongue
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: gsFIFtTiuWgG1HZn
+    _key: '!journal.pages!2Alnn5wYhL2cLkIW.gsFIFtTiuWgG1HZn'
+    name: Sticky Tongue
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A pangolin companion with natural armor plates, climbing claws, and a defensive curl-into-a-ball ability.</em></p><dl class="stat-block"><dt>Species</dt><dd>Pangolin</dd><dt>Stats</dt><dd>Level 1</dd><dt>Class</dt><dd>See Description</dd></dl><p><strong>Traits:</strong> Natural Armor Plates, Whip Tongue, Natural Claws.</p><p><strong>Skills:</strong></p><ul><li>Rugged Climbing — can climb near-smooth surfaces due to curved claws on each leg</li><li>Total Protection — when curled into a ball, increases toughness by 500%, but cannot make physical attacks while active</li><li>Bonded Skill: Ball Shield — when bonded, the pangolin curls up into a ball on your hand and forearm, activating Total Protection</li></ul><p><strong>Bonus:</strong> Racial Enemy — Insects. +5% damage increase to all physical damage against creatures with the insect trait at level 1 (up to 50% at level 15, and 200% at level 20).</p><hr><p><em>Source: Community submission — Blackscyes (Crawler #33822). From <a href="https://pointmongo.com/browse/pets/sticky-tongue">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 36
+    category: pets
+    slug: sticky-tongue
+    url: https://pointmongo.com/browse/pets/sticky-tongue
+    source: 'Community submission — Blackscyes (Crawler #33822)'
+    tags:
+      - animal-companion
+      - pet
+      - pangolin
+    updatedAt: '2026-08-31T17:12:29.7279521Z'
+    needsRestat: false
+    missingFields: []

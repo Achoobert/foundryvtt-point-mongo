@@ -1,0 +1,19 @@
+_id: cant3g4ariwbasTL
+_key: '!items!cant3g4ariwbasTL'
+name: The Knowledgepack of Strength
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>An ordinary backpack that refuses to carry anything but books, and pays you in brains and Mana for every one you cram in.</em></p><p>Who says you have to choose between brains OR brawn?</p><p>This is just a standard, ordinary backpack, but it can only store Textbooks, Spellbooks, and Spell Scrolls.</p><p>For each textbook you carry in this backpack, you gain +2 to Intelligence and +1 to Strength.</p><p>For each spellbook and scroll you carry, you also gain +1 to your Mana Pool.</p><p>For each book or scroll you read that has spent time in the Knowledgepack of Strength, you gain a permanent +2 to Intelligence and +1 to Strength.</p><p>Value: 50,000 Gold</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Bag of Holding</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>Limitations</th><td>Only holds Textbooks, Spellbooks, and Spell Scrolls</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 to Intelligence</li><li>+1 to Strength</li><li>+1 to Mana Pool (only with Spellbooks and Scrolls)</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Myles L., Crawler #26933. From <a href="https://pointmongo.com/browse/magic-items/the-knowledgepack-of-strength">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 549
+    category: magic-items
+    slug: the-knowledgepack-of-strength
+    url: https://pointmongo.com/browse/magic-items/the-knowledgepack-of-strength
+    source: 'Community submission — BlessedPsycho, Myles L., Crawler #26933'
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6612102Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: mf8JKehpVEX7PKNY
+_key: '!journal!mf8JKehpVEX7PKNY'
+name: Lockjaw (Debuff)
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: w0suOtWCj57ipJsl
+    _key: '!journal.pages!mf8JKehpVEX7PKNY.w0suOtWCj57ipJsl'
+    name: Lockjaw (Debuff)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A disease from dirty wounds that clamps the jaw shut, so talking, biting or drinking a potion takes a Constitution check first.</em></p><p>This disease is typically caused by infected cuts and punctures made by dirty objects such as rusty nails. Those suffering from Lockjaw have difficulty unclenching their jaw.</p><p>To perform any action or skill that requires the movement of the mouth, requires a successful constitution check to attempt. This includes talking, singing, biting, manually drinking potions, and any other activities that the AI deems appropriate (such as what your mother charges $5 for behind Denny''s).</p><p>This condition lasts until the end of a short rest or when healed by any thing that would remove a minor injury.</p><hr><p><em>Source: Community submission — Ben D. From <a href="https://pointmongo.com/browse/buffs-debuffs/lockjaw-debuff">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1107
+    category: buffs-debuffs
+    slug: lockjaw-debuff
+    url: https://pointmongo.com/browse/buffs-debuffs/lockjaw-debuff
+    source: Community submission — Ben D
+    tags: []
+    updatedAt: '2026-11-09T03:03:17.4556504Z'
+    needsRestat: false
+    missingFields: []

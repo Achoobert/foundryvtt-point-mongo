@@ -1,0 +1,24 @@
+_id: OSaQDqZYJDYFjCtq
+_key: '!journal!OSaQDqZYJDYFjCtq'
+name: Double Dipper
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: dEP5XiYcHwzpMKgu
+    _key: '!journal.pages!OSaQDqZYJDYFjCtq.dEP5XiYcHwzpMKgu'
+    name: Double Dipper
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you discover a hidden second stash or secret area after already looting a defeated Boss.</em></p><p>Most crawlers stop looking the second the map drops into their Inventory. You kept digging. Turns out there was more. There''s always more, if you''re willing to look. Greed, properly channeled, is a virtue down here.</p><p>Reward: Gold Second Helpings Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/double-dipper">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 712
+    category: achievements
+    slug: double-dipper
+    url: https://pointmongo.com/browse/achievements/double-dipper
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0452788Z'
+    needsRestat: false
+    missingFields: []

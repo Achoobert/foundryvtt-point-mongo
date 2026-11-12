@@ -1,0 +1,24 @@
+_id: 636uZOXbLPO5DExq
+_key: '!journal!636uZOXbLPO5DExq'
+name: Lichen It or Not
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: RIMI4p0L07jtrmGE
+    _key: '!journal.pages!636uZOXbLPO5DExq.RIMI4p0L07jtrmGE'
+    name: Lichen It or Not
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you eat, lick, or otherwise personally test the orange lichen growing along the Second Floor''s cinder block walls.</em></p><p>You looked at unidentified alien fungus growing on a dungeon wall and thought, "yeah, I''ll have a taste." Bold. Reckless. Weirdly on-brand for this floor. The System AI has added a content warning to the broadcast, purely for comedic effect.</p><p>Reward: Bronze Dietary Choices Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/lichen-it-or-not">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 680
+    category: achievements
+    slug: lichen-it-or-not
+    url: https://pointmongo.com/browse/achievements/lichen-it-or-not
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0195569Z'
+    needsRestat: false
+    missingFields: []

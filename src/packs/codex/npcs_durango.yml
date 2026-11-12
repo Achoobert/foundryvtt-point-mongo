@@ -1,0 +1,23 @@
+_id: kCKjbEAYy7kjTKsk
+_key: '!journal!kCKjbEAYy7kjTKsk'
+name: Durango
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: PAVEdbQ1XNOPzyz7
+    _key: '!journal.pages!kCKjbEAYy7kjTKsk.PAVEdbQ1XNOPzyz7'
+    name: Durango
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A gruff former crawler turned bugbear who runs the Dodge Guild on the Fourth Floor, and lives by the lessons of Dodgeball.</em></p><p>Game Guide</p><p>Race: Bugbear</p><p>Guild Master: Dodge Guild</p><p>Level 50</p><p>This is a non combatant NPC.</p><p>Durango is a former Crawler who took a deal on the 10th floor many cycles ago.  Originally a male Yenk, these days he spends most of his time in the dungeon as the Guild Master of the Dodge Guild on the 4th Floor.  Gruff, aggressive, and short tempered, Durango is actually an excellent resource for Crawler''s that can win him over and earn his tutelage.  He will offer to train any Crawlers that he takes an interest in in 1 level of Dodge before they depart the training guild.</p><p>One of Durango''s original party members was Ikicha, a fellow Yenk (and Author of the 11th edition of the Dungeon Anarchist''s Cookbook - who died tragically on the 6th floor of their crawl)  Durango won''t talk about Ikicha and what went on, other than to allude to the fact that it was seeing his loved one recycled as a Dungeon Boss that ultimately broke him, leading to his demise.</p><p>Durango has fallen in love with Earth entertainment - specifically cinema - and he has taken the lessons taught by the cinematic masterpiece: Dodgeball to heart. After all, "If you can Dodge a wrench, you can Dodge a mob." Since his transformation into a bugbear,  his catch phrase "Why Dodge it, when you can Ram it" has taken on new meaning.</p><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/npcs/durango">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 914
+    category: npcs
+    slug: durango
+    url: https://pointmongo.com/browse/npcs/durango
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6847995Z'
+    needsRestat: false
+    missingFields: []

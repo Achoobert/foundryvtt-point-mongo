@@ -1,0 +1,25 @@
+_id: ht7QdWLGFtcobzVd
+_key: '!journal!ht7QdWLGFtcobzVd'
+name: Komodo Dragon (Pet)
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: 7qlF3L3GK62kA2XC
+    _key: '!journal.pages!ht7QdWLGFtcobzVd.7qlF3L3GK62kA2XC'
+    name: Komodo Dragon (Pet)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A pet komodo dragon whose poisonous bite stacks sepsis damage and can sense invisible foes by tasting the air.</em></p><p><strong>Species:</strong> Komodo Dragon · <strong>Stats:</strong> STR 15, CON 20, DEX 10, INT 3</p><p>Because who hasn''t wanted a pet dragon. Poison bite inflicts sepsis, stacking 2% health damage over time; a tail whip arc attack knocks back enemies; can sense invisible foes within range by tasting the air.</p><hr><p><em>Source: Community submission — Ceronuss (Crawler #34393). From <a href="https://pointmongo.com/browse/pets/komodo-dragon-pet">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 317
+    category: pets
+    slug: komodo-dragon-pet
+    url: https://pointmongo.com/browse/pets/komodo-dragon-pet
+    source: 'Community submission — Ceronuss (Crawler #34393)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.7503169Z'
+    needsRestat: false
+    missingFields: []

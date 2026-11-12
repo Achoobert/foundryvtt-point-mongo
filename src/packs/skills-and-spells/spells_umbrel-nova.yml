@@ -1,0 +1,39 @@
+_id: zY8ZlUdZJrpBUocY
+_key: '!items!zY8ZlUdZJrpBUocY'
+name: Umbrel Nova
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>An Evocation shadow-explosion spell that grows in size, pulling power, and damage with level.</em></p><p><strong>School:</strong> Evocation · <strong>AoE:</strong> 60'' AoE · <strong>Duration:</strong> 1 round · <strong>Cost:</strong> 15 MP</p><p>Lv1: launches a void sphere dealing 2d10 Shadow damage on impact. Lv5: AoE grows to 20'' radius, damage to 3d10. Lv10: pulls creatures toward the center (DC16 CON save or move 5'' closer on fail), damage to 4d10. Lv15: duration extends to 3 rounds with a new explosion each round, damage to 5d10. Lv20: damage rises to 8d10.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/spells/umbrel-nova">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 425
+    category: spells
+    slug: umbrel-nova
+    url: https://pointmongo.com/browse/spells/umbrel-nova
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - spells
+      - evocation
+    updatedAt: '2026-09-02T04:50:41.8888793Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

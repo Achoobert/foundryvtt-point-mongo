@@ -1,0 +1,24 @@
+_id: ZLmDDuumUunG8FQJ
+_key: '!journal!ZLmDDuumUunG8FQJ'
+name: One Crawler’s Trash...
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: ERZB46jg8YVDw0o5
+    _key: '!journal.pages!ZLmDDuumUunG8FQJ.ERZB46jg8YVDw0o5'
+    name: One Crawler’s Trash...
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you turn Misc. Junk into something genuinely useful.</em></p><p>You turned a piece of junk into something genuinely useful. The System rewards creativity. It also strongly recommends that you stop calling everything "junk."</p><p>Reward: Silver Crafter''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/one-crawler-s-trash">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 629
+    category: achievements
+    slug: one-crawler-s-trash
+    url: https://pointmongo.com/browse/achievements/one-crawler-s-trash
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.977302Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,58 @@
+_id: QhS3Kwl4WYRG856z
+_key: '!actors!QhS3Kwl4WYRG856z'
+name: Mother Smother
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>A towering, pastel-wrapped Large mob with too many mitten-covered arms, obsessed with ''protecting'' you from everything, forever.</em></p><p>Mob Threat: Suffocating (literally and emotionally). A towering, soft-bodied figure in cheerful pastel fabric with unnaturally elastic, padded-mitten-equipped arms and a permanently over-wide smile. Carries a coffin-sized diaper bag endlessly producing juice boxes, wet wipes, and guilt. She doesn’t want to destroy you — she wants to protect you, from everything, forever, including yourself.</p><table><tbody><tr><th>Floor</th><td>4</td></tr></tbody></table><hr><p><em>Source: Community submission — Shawn (Crawler #—). From <a href="https://pointmongo.com/browse/mobs/mother-smother">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 25
+  size: Large (5)
+  creatureType: Humanoid
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 4
+  stats:
+    str:
+      value: 8
+    dex:
+      value: 6
+    con:
+      value: 9
+    int:
+      value: 42
+    cha:
+      value: 3
+  attacks:
+    - name: Smother
+      toHit: ''
+      damage: 2d8+3
+      damageType: ''
+      range: 5ft
+      effect: On a successful hit, the Crawler suffers the HELD debuff
+    - name: Drain Life
+      toHit: ''
+      damage: 2d6+3
+      damageType: necrotic
+      range: ''
+      effect: 'When a creature is Held, Mother Smother will then cast Drain Life at Level 5: 14 Mana Cost'
+prototypeToken:
+  name: Mother Smother
+  actorLink: false
+flags:
+  point-mongo:
+    id: 110
+    category: mobs
+    slug: mother-smother
+    url: https://pointmongo.com/browse/mobs/mother-smother
+    source: 'Community submission — Shawn (Crawler #—)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-22T01:07:36.1116663Z'
+    needsRestat: false
+    missingFields: []

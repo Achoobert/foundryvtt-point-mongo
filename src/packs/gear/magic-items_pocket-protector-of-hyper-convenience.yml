@@ -1,0 +1,23 @@
+_id: HvUOLJGozOkf6Gke
+_key: '!items!HvUOLJGozOkf6Gke'
+name: Pocket Protector of Hyper Convenience
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>Clips into a shirt pocket and quietly buys you three more Hotlist slots, for anything small enough to fit.</em></p><p><strong>Type:</strong> Item</p><p>Inserted into a buttoned shirt pocket, adds up to three compact items to the wearer''s Hotlist.</p><table><tbody><tr><th>Type</th><td>Item</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/pocket-protector-of-hyper-convenience">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 186
+    category: magic-items
+    slug: pocket-protector-of-hyper-convenience
+    url: https://pointmongo.com/browse/magic-items/pocket-protector-of-hyper-convenience
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-24T18:09:52.9523828Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

@@ -1,0 +1,23 @@
+_id: dFxN5d9CHV7f2vEL
+_key: '!items!dFxN5d9CHV7f2vEL'
+name: Scout This Monocle
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A single lens that picks out what matters at range and tells you where to put the shot.</em></p><p><strong>Type:</strong> Eyewear</p><p>Grants the wearer Targeting skill, level 3.</p><table><tbody><tr><th>Type</th><td>Eyewear</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/scout-this-monocle">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 189
+    category: magic-items
+    slug: scout-this-monocle
+    url: https://pointmongo.com/browse/magic-items/scout-this-monocle
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-24T18:09:52.952927Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

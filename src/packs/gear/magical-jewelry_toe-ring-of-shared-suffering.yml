@@ -1,0 +1,24 @@
+_id: HGBxnKrD97FNBtba
+_key: '!items!HGBxnKrD97FNBtba'
+name: Toe Ring of Shared Suffering
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A cursed toe ring granting combat perks that come at the cost of a random, painful side effect each time they''re used.</em></p><p>Toe ring, cursed</p><p>A rusty silver toe ring that always feels slightly too tight. Warm to the touch.</p><p><strong>Effect While worn:</strong> +2 AGILITY Immune to being knocked prone once per combat Once per fight, you may force an enemy within melee range to reroll a successful attack against you</p><p>Curse The ring transfers pain instead of preventing it. Every time you activate the ring’s effect, roll 1d4:</p><p>1d4 Curse Effect:</p><p>1 Your calf violently cramps. Movement speed is halved next turn.</p><p>2 One toe bends the wrong direction. Take 1d4 damage.</p><p>3 Your leg falls asleep instantly. -2 AGILITY for 1 round.</p><p>4 The ring tightens painfully. You scream involuntarily, ruining stealth.</p><p>After several days, the ring permanently bonds to the wearer’s toe. Removing it requires breaking the toe.</p><p>“GOOD NEWS, CRAWLER! YOUR PAIN HAS BEEN REDISTRIBUTED TO A DIFFERENT LOCATION. SCIENCE!”"</p><table><tbody><tr><th>Type</th><td>Toe Ring</td></tr></tbody></table><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/magical-jewelry/toe-ring-of-shared-suffering">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 165
+    category: magical-jewelry
+    slug: toe-ring-of-shared-suffering
+    url: https://pointmongo.com/browse/magical-jewelry/toe-ring-of-shared-suffering
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - loot
+      - cursed
+    updatedAt: '2026-09-22T05:37:48.8900445Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

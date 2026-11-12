@@ -1,0 +1,41 @@
+_id: V3z0LwNyNP4Bn9xY
+_key: '!items!V3z0LwNyNP4Bn9xY'
+name: Inked Up
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A Limited Passive granting +1 DR for every tattoo you have on show, up to ten.</em></p><p>For each Tattoo that you''re showing off and is “mostly uncovered”*, you gain +1 DR.</p><p>This Limited Skill is an Extreme Benefit (4 BP)</p><p>* "Mostly uncovered" means you aren''t wearing something over the Tattoos with +DR like armor. Or pants covering up the butt cheek MOM heart tat. Use the "rule of cool", as long as a good chunk of the art is uncovered, it passes!</p><table><tbody><tr><th>Category</th><td>Passive</td></tr></tbody></table><hr><p><em>Source: Community submission — Mr King. From <a href="https://pointmongo.com/browse/skills/inked-up">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: passive
+  attackType: ''
+  isPassive: true
+  range: ''
+  cooldown: ''
+  limitations: This Limited Skill can only be learned via a Race, Class, or item. Up to 10 Tattoos can benefit from this skill at a time. Skill Rank is equal to the number of Tattoos gotten while in the Dungeon, either Enhancement or Social.
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: m9Uge0OCPUePe8Sr
+      rankThreshold: 5
+      description: <p>For each Tattoo, you gain +1 DR, and +50% Enhancement Bonus to the Tattoo’s Stats.</p>
+    - id: YhyjCb7x0HRUvA0E
+      rankThreshold: 10
+      description: <p>For each Tattoo, you gain +2 DR, +50% Enhancement Bonus to the Tattoo’s Stats, and +1 Rank to the Tattoo’s Skills.</p>
+    - id: 4dCbnKkZKWSS9Fiv
+      rankThreshold: 15
+      description: <p>For each Tattoo, you gain +1 DR, +100% Enhancement Bonus to the Tattoo’s Stats, and +2 Rank to the Tattoo’s Skills.</p>
+flags:
+  point-mongo:
+    id: 790
+    category: skills
+    slug: inked-up
+    url: https://pointmongo.com/browse/skills/inked-up
+    source: Community submission — Mr King
+    tags: []
+    updatedAt: '2026-09-20T19:30:22.5210318Z'
+    needsRestat: false
+    missingFields: []

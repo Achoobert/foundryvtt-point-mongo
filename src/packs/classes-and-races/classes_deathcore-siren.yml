@@ -1,0 +1,23 @@
+_id: lKqgsSJHC9N1JEoF
+_key: '!items!lKqgsSJHC9N1JEoF'
+name: Deathcore Siren
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>An aquatic Bard tank that fights with harsh vocals and breakdowns, tanking on Charisma and tattoos instead of Constitution.</em></p><p>From the blackest depths of the infamous Flaming Lochs of Sheol comes a Bard tank that pushes Singing to the absolute limit. Switching between Style Skills like piercing High Frys and guttural roars, the Harsh Vocals produced by a Deathcore Siren demands attention from their enemies with wide sweeping sonic attacks, then stops everyone in their tracks with a brutal Breakdown.</p><p>Their numerous Tattoos not only mask the pain they feel inside, but they also provide buffs as long as they''re on display with the Limited Skill, Inked Up. Paired with the Body Art Benefit, a Deathcore Siren is fully prepared to take everything the Dungeon can dish out, and then drag its victims down into The Deep with them.</p><p>The denizens of Sheol LOVE this genre of music, so be prepared to attract some attention from the 15th floor if you choose this class.</p><table><tbody><tr><th>Prerequisites</th><td>Only aquatic Races can choose this class. A Rank 5 Singing Skill or Rank 5 Performance Skill with a vocal speciality is required to choose this class.</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Singing</li><li>+1 High Fry</li><li>+1 Harsh Vocals</li><li>+1 Breakdown</li><li>+1 Inked Up Skills</li></ul><p><strong>Benefits</strong></p><ul><li>Can raise these 5 Skills to Rank 20 (Singing, High Fry, Harsh Vocals, Breakdown &amp; Inked Up) <em>(moderate)</em></li><li>Add 1 to your Skill Advancement Checks for these 5 Skills at the end of the floor (Singing, High Fry, Harsh Vocals, Breakdown &amp; Inked Up) <em>(moderate)</em></li><li>The Patron Benefit <em>(moderate)</em></li><li>+1 Popularity when Singing with a Style* Skill rolls a Critical Success <em>(moderate)</em></li><li>The Manager Benefit <em>(major)</em></li><li>Swap Constitution for determining Health Bar values with Charisma <em>(major)</em></li><li>The Body Art Benefit <em>(major)</em></li><li>Advantage on all Charisma Stat Checks <em>(extreme)</em></li><li>+1 to all Skills in a thematically linked group of 3-5 Skills (Singing, High Fry, Harsh Vocals, Breakdown &amp; Inked Up) <em>(extreme)</em></li><li>+1 to a Skill that you wouldn''t normally be able to learn (Inked Up) <em>(extreme)</em></li></ul><p><strong>Detriments</strong></p><ul><li>2 Acute Hearing Skill</li></ul><hr><p><em>Source: Community submission — Mr King. From <a href="https://pointmongo.com/browse/classes/deathcore-siren">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Bard
+  prerequisites: Only aquatic Races can choose this class. A Rank 5 Singing Skill or Rank 5 Performance Skill with a vocal speciality is required to choose this class.
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 791
+    category: classes
+    slug: deathcore-siren
+    url: https://pointmongo.com/browse/classes/deathcore-siren
+    source: Community submission — Mr King
+    tags: []
+    updatedAt: '2026-09-20T19:30:22.527888Z'
+    needsRestat: false
+    missingFields: []

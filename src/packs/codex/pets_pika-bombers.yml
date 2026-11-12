@@ -1,0 +1,25 @@
+_id: U7zMPkxVjeeLzyjz
+_key: '!journal!U7zMPkxVjeeLzyjz'
+name: Pika Bombers
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: IeIJko9ouEPH7snu
+    _key: '!journal.pages!U7zMPkxVjeeLzyjz.IeIJko9ouEPH7snu'
+    name: Pika Bombers
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Small, screaming rabbit-like rodents that build static charge and can be thrown for a stunning shock attack.</em></p><p><strong>Species:</strong> Pika Bomber</p><p>Small rodent-like members of the rabbit family known for sonic "eep" screams that fend off predators. Pocket-sized at 6-8" and 4-12 oz, they can build a static charge and be thrown at mobs for a devastating stun attack.</p><hr><p><em>Source: Community submission — Ogrekin (Crawler #30788). From <a href="https://pointmongo.com/browse/pets/pika-bombers">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 319
+    category: pets
+    slug: pika-bombers
+    url: https://pointmongo.com/browse/pets/pika-bombers
+    source: 'Community submission — Ogrekin (Crawler #30788)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.751665Z'
+    needsRestat: false
+    missingFields: []

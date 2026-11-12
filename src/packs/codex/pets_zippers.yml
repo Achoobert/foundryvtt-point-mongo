@@ -1,0 +1,25 @@
+_id: bLsvUkl2RG0LIVyQ
+_key: '!journal!bLsvUkl2RG0LIVyQ'
+name: Zippers
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: qeeXp2hdZ8e3nzhX
+    _key: '!journal.pages!bLsvUkl2RG0LIVyQ.qeeXp2hdZ8e3nzhX'
+    name: Zippers
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Land-and-water piranha-chihuahua hybrid pets that hunt in packs and swarm anything smelling of blood.</em></p><p><strong>Suggested Name:</strong> n/a</p><p>These are fish creatures that have legs to get themselves around the dungeon. Think of a cross between a piranha and chihuahua. They hunt in packs and swarm anything they deem edible, crawlers, mobs, etc. They yip and bark around and when they bite ankles, it''s more than just a little nip. They are attracted to the scent of blood so if one of their scouts gets a successful bite on you, more will be on their way soon. Zippers are at home both on land and in water. Having one as a pet is ok, but you really want to form a pack (or school) of them. Btw, this is the form you''ll find if met as a mob in the dungeon but will grow over time to something like a cross between a direwolf and shark.</p><hr><p><em>Source: Community submission — Matthew Kearns (Crawler #7562). From <a href="https://pointmongo.com/browse/pets/zippers">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 325
+    category: pets
+    slug: zippers
+    url: https://pointmongo.com/browse/pets/zippers
+    source: 'Community submission — Matthew Kearns (Crawler #7562)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-22T05:38:18.0725074Z'
+    needsRestat: false
+    missingFields: []

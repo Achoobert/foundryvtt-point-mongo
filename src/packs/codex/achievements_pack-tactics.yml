@@ -1,0 +1,24 @@
+_id: e6P3yWPxnqmaY2VJ
+_key: '!journal!e6P3yWPxnqmaY2VJ'
+name: Pack Tactics
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 13fLK5t6ihzATMPc
+    _key: '!journal.pages!e6P3yWPxnqmaY2VJ.13fLK5t6ihzATMPc'
+    name: Pack Tactics
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you take down multiple Goblins from the same pack in a single combat encounter.</em></p><p>A whole pack of Goblins descended on you, and you sent the survivors running with a story to tell. Goblins love an explosion. They love a beatdown considerably less. Somewhere, a Goblin storyteller is already exaggerating your kill count.</p><p>Reward: Silver Pest Control Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/pack-tactics">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 698
+    category: achievements
+    slug: pack-tactics
+    url: https://pointmongo.com/browse/achievements/pack-tactics
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0339935Z'
+    needsRestat: false
+    missingFields: []

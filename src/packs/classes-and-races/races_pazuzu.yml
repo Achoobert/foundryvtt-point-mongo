@@ -1,0 +1,23 @@
+_id: W4QkvJ2Jp383Rtcw
+_key: '!items!W4QkvJ2Jp383Rtcw'
+name: Pazuzu
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Tiamat''s half-human, half-scorpion foot soldiers, with a venomous tail and no fear of poison.</em></p><p>Pazuzu are half-Human, half-scorpion beings created by the goddess Tiamat to serve as foot soldiers and guardians. Their scorpion bodies are about the size of a pony, complete with eight legs, two pincers, and a venomous tail. Where the scorpion’s head would normally be, it has the upper torso, arms, and head of a Human. It’s basically a “scorpitaur,” if you will.</p><table><tbody><tr><th>Size</th><td>Large (5)</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 Constitution</li><li>+2 Dexterity</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Stinger Skill (Like Back Claw, but Piercing dmg instead of Slashing and Poison instead of Blood Trail at Rank 15)</li><li>+1 Wrassling</li><li>+1 Choke Out</li></ul><p><strong>Benefits</strong></p><ul><li>5ft Move <em>(major)</em></li><li>Additional functional arm <em>(extreme)</em></li><li>Additional functional arm <em>(extreme)</em></li><li>Immunity to Poison <em>(extreme)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Moderate: Disadvantage on all social checks beside Intimidation and Taunt <em>(2 pt)</em></li><li>Moderate: Cannot equip items on Feet and Leg <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/pazuzu">Point Mongo</a>.</em></p>'
+  size: Large (5)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 846
+    category: races
+    slug: pazuzu
+    url: https://pointmongo.com/browse/races/pazuzu
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6962766Z'
+    needsRestat: false
+    missingFields: []

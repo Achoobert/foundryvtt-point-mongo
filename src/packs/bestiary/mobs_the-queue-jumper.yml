@@ -1,0 +1,59 @@
+_id: ZWPgEdbKUpUhBVab
+_key: '!actors!ZWPgEdbKUpUhBVab'
+name: The Queue Jumper
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>A chaotic Petite gremlin that swaps places with party members and mobs mid-combat, capturable as a wearable button.</em></p><p>A minion of the goddess Eris that switches places with a randomly rolled party member or mob (75% chance). On a natural 1 it also swaps equipment and clothes; on a natural 20 it transfers 1d4 of its stolen loot to that crawler. If captured (reduced to 5% HP, immobilized, and shamed with a show of social outrage), it transforms into a wearable button that can swap places with a chosen target, skip normal looting order, or grant one-time entry to the Desperado Club (25% chance to disappear after each use).</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — K8 (Crawler #71). From <a href="https://pointmongo.com/browse/mobs/the-queue-jumper">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 3
+  size: Petite (3)
+  creatureType: Humanoid
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 3
+    max: 3
+  dr: 1
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 2
+    con:
+      value: 2
+    int:
+      value: 4
+    cha:
+      value: 2
+  attacks:
+    - name: Claw
+      toHit: ''
+      damage: 1d4+1
+      damageType: ''
+      range: 5ft
+      effect: ''
+    - name: Teleport
+      toHit: ''
+      damage: ''
+      damageType: ''
+      range: ''
+      effect: See Description
+prototypeToken:
+  name: The Queue Jumper
+  actorLink: false
+flags:
+  point-mongo:
+    id: 98
+    category: mobs
+    slug: the-queue-jumper
+    url: https://pointmongo.com/browse/mobs/the-queue-jumper
+    source: 'Community submission — K8 (Crawler #71)'
+    tags:
+      - dcc-ccs
+      - mobs
+      - gremlin
+    updatedAt: '2026-09-22T04:40:29.5968394Z'
+    needsRestat: false
+    missingFields: []

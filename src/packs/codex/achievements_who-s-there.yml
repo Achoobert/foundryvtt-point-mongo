@@ -1,0 +1,24 @@
+_id: x56U0oOMx6jAY0IT
+_key: '!journal!x56U0oOMx6jAY0IT'
+name: Who's There
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: M1XF71abDTLYZXYV
+    _key: '!journal.pages!x56U0oOMx6jAY0IT.M1XF71abDTLYZXYV'
+    name: Who's There
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you get badly startled by a Janitor Mob going about its cleaning duties.</em></p><p>A Mob whose entire job is sweeping up blood and viscera just scared the absolute hell out of you. It wasn''t even trying. It was mopping. Maybe work on those Perception checks.</p><p>Reward: Bronze Jump Scare Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/who-s-there">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 686
+    category: achievements
+    slug: who-s-there
+    url: https://pointmongo.com/browse/achievements/who-s-there
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0242294Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: v1Pjq55BWmfRwKDa
+_key: '!items!v1Pjq55BWmfRwKDa'
+name: Sin Eater
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Warlock/Mage class that pulls debuffs off others and into itself, then shrugs them off and heals for the trouble.</em></p><p>This is a Warlock/Mage subclass that makes use of Affliction Spells (also published here in Point Mongo)</p><p><strong>Stat bonuses</strong></p><ul><li>+5 Constitution</li><li>+5 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Endurance</li><li>+1 Cockroach</li><li>+1 First Aid</li><li>+2 to your choice between Poison Trail, Fire Cloud, Fang Bang or Paper Cuts spell</li><li>+1 Prolonged Suffering Spell</li></ul><p><strong>Benefits</strong></p><ul><li>You may make an Unopposed Int check to pull a damaging debuff from a target within 30ft of you. The effect ends on the target and you take the debuff. <em>(moderate)</em></li><li>Upon reaching the 6th floor, you may use this ability on a number of targets equal to your Int modifier <em>(moderate)</em></li><li>Whenever you take damage from a debuff, you may make an Unopposed Endurance check. You end one stack of that debuff on yourself per level of success <em>(extreme)</em></li><li>When you end a debuff on yourself, you may heal 1 HB, up to 5 HBs per scene or combat. <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Major: Nourishing your body with plagues does take its toll and leaves marks. Your Charisma stat is capped at 10</li><li>Minor: Disadvantage in Good First Impression checks</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/sin-eater">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Warlock/Mage
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 941
+    category: classes
+    slug: sin-eater
+    url: https://pointmongo.com/browse/classes/sin-eater
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-10-20T15:14:57.4172524Z'
+    needsRestat: false
+    missingFields: []

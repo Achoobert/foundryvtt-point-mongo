@@ -1,0 +1,24 @@
+_id: jNLEc4oRpmaYGY2u
+_key: '!journal!jNLEc4oRpmaYGY2u'
+name: That Wasn't There Before
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: sEeLmA8bGGnudXcV
+    _key: '!journal.pages!jNLEc4oRpmaYGY2u.sEeLmA8bGGnudXcV'
+    name: That Wasn't There Before
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you discover a previously unseen section of the Dungeon.</em></p><p>You discovered a previously unexplored section of the dungeon! Either you''re very observant, very lucky, or the dungeon just changed when you weren''t looking. Let''s hope it''s the first one.</p><p>Reward: Bronze Explorer''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/that-wasn-t-there-before">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 582
+    category: achievements
+    slug: that-wasn-t-there-before
+    url: https://pointmongo.com/browse/achievements/that-wasn-t-there-before
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9397344Z'
+    needsRestat: false
+    missingFields: []

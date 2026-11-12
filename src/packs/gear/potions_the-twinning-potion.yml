@@ -1,0 +1,22 @@
+_id: z22HFooJ47DeEsqx
+_key: '!items!z22HFooJ47DeEsqx'
+name: The Twinning Potion
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A short-shelf-life potion that grows an exact duplicate of the drinker over 30 hours — memories, mannerisms, and all.</em></p><p>The Twinning Potion This is a consumable item. This item has a short shelf-life! You have 30 hours to use this item before it expires. Have you ever wanted to be in two places at once? Ever wished for another version of yourself to complete your chores for you? How about the age-old human adage of "more hands make for light work"? Well this potion will make those wishes (and more!) come true! After consuming this potion you will be placed into a coma for 30 hours. During this time, an exact duplicate of you will be grown from your body and separate into its own being! This duplicate has all of your stats, skills, memories, and mannerisms! For all intents and purposes they are you (all the way down to the molecular level)! The duplicate does not spawn with any of your current gear. Keep in mind that this duplicate is exactly like you - they don''t have any new reasons for helping you! They might not appreciate being forced to complete your now very-late Calculus homework, and they might even think THEY are the original! Use at your own risk.</p><table><tbody><tr><th>Type</th><td>Buff</td></tr></tbody></table><hr><p><em>Source: Community submission — Riley R (Crawler #10268). From <a href="https://pointmongo.com/browse/potions/the-twinning-potion">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 344
+    category: potions
+    slug: the-twinning-potion
+    url: https://pointmongo.com/browse/potions/the-twinning-potion
+    source: 'Community submission — Riley R (Crawler #10268)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-22T05:38:20.3302263Z'
+    needsRestat: false
+    missingFields:
+      - effects

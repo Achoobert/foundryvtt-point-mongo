@@ -1,0 +1,37 @@
+_id: SOrGEK28GQCDkmcn
+_key: '!items!SOrGEK28GQCDkmcn'
+name: EMT
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>A bonus to first aid and non-magical healing, with a calm head under pressure.</em></p><p>Bonus to first aid and non-magical healing. Calm under pressure.</p><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/skills/emt">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 67
+    category: skills
+    slug: emt
+    url: https://pointmongo.com/browse/skills/emt
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - skill
+      - healing
+    updatedAt: '2026-08-31T17:12:29.7733652Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

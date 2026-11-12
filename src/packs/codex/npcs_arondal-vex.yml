@@ -1,0 +1,26 @@
+_id: m2OFXLELsGSTAchF
+_key: '!journal!m2OFXLELsGSTAchF'
+name: Arondal Vex
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: frVsFxhg5zuoIyyJ
+    _key: '!journal.pages!m2OFXLELsGSTAchF.frVsFxhg5zuoIyyJ'
+    name: Arondal Vex
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A ruthless Crocodilian ''Clause Reaper'' lawyer from a hell-adjacent legal institute, known for challenging sponsor corruption in crawler contracts.</em></p><p><strong>Infernal Collegium of Binding Law:</strong> Arondal Vex is a renowned Crocodilian attorney from the swamp-city of Vash Kord, a brutal legal metropolis where contracts carry more weight than morality. Gifted with an incredible memory and a ruthless understanding of loopholes, he attended the Blackwater Academy of Contractual Sciences before graduating from the Infernal Collegium of Binding Law, a notorious institution partially located in a hell dimension. Rather than entering the Dungeon himself, Arondal built his reputation representing crawlers in the chaotic legal system surrounding the Crawl. Over time, he became one of the few attorneys willing to challenge sponsor and government corruption and fight against exploitative contracts hidden in crawler agreements.</p><p>Known throughout the galaxy as “The Clause Reaper,” Arondal specializes in loot disputes, resurrection rights, and wrongful death claims connected to the Dungeon. He has defended several crawlers, argued for the legal rights of sentient companions, and once successfully sued a sponsor network over deceptive floor advertisements that resulted in mass crawler casualties. While many see him as cold and manipulative, countless crawlers owe their survival—or at least their exit deals—to his work. Armed with an obsession with technicalities, Arondal treats every courtroom like a battlefield and every contract like a weapon.</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/npcs/arondal-vex">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 240
+    category: npcs
+    slug: arondal-vex
+    url: https://pointmongo.com/browse/npcs/arondal-vex
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - lawyer
+    updatedAt: '2026-09-22T05:37:55.6336816Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,22 @@
+_id: mFaSXrLWjx9lwI9u
+_key: '!items!mFaSXrLWjx9lwI9u'
+name: The Insta-Model Sole Serum
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>An Epic-rarity foot oil that biases the AI in the drinker''s favor, softening traps and boosting loot quality during combat.</em></p><p><strong>Rarity:</strong> Epic</p><p>The Dungeon AI Description This viscous, glowing lavender oil is meant to be applied directly to the soles of a barefoot crawler. It doesn''t heal wounds, but it makes every step look cinematic. Mechanics The Money Shot:Your feet emit a soft, professional-grade studio glow. The AI’s "Excitement Meter" fills 25% faster during combat encounters, leading to more frequent Level Up bonuses.</p><p><strong>Narrative Favoritism:</strong> The AI becomes noticeably biased. Traps in the immediate vicinity have a 15% chance to "glitch" and fail to trigger to avoid damaging the "merchandise."</p><p>The "Linger" Effect Loot boxes dropped while this potion is active have a high probability of containing Legendary-tier footwear (which the AI will then strongly encourage you not to wear).</p><p><strong>Side Effect Heavy Breathing:</strong> The dungeon’s environmental audio is replaced by the sound of the AI’s rhythmic, heavy breathing and inappropriate compliments whenever you sprint.</p><p>"Look at those arches, Carl! The lighting in this sub-level is doing wonders for your keratin levels. Let’s get a close-up for the fans—and for me."</p><table><tbody><tr><th>Type</th><td>Buff</td></tr></tbody></table><hr><p><em>Source: Community submission — David Brookhart (Crawler #26531). From <a href="https://pointmongo.com/browse/potions/the-insta-model-sole-serum">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 343
+    category: potions
+    slug: the-insta-model-sole-serum
+    url: https://pointmongo.com/browse/potions/the-insta-model-sole-serum
+    source: 'Community submission — David Brookhart (Crawler #26531)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-22T05:38:20.3333076Z'
+    needsRestat: false
+    missingFields:
+      - effects

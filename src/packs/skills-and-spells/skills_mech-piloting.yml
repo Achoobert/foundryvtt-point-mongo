@@ -1,0 +1,41 @@
+_id: xCyMHVVtRl9PKFqn
+_key: '!items!xCyMHVVtRl9PKFqn'
+name: Mech Piloting
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>The Intelligence skill for steering a mech through anything harder than a straight line.</em></p><p>Unlike other Piloting skills, this one is done with Intelligence.</p><p>You don’t need to use this Skill if you’re simply moving from point A to point B, but if you’re racing, chasing, trying to turn quickly in combat, you better have some ranks in this skill.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/skills/mech-piloting">Point Mongo</a>.</em></p>'
+  governingStat: int
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: 'Limitations: You suffer Disadvantage on Attack Skill Checks made while Mech Driving.'
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: LBoa2oGQWuYgoXOq
+      rankThreshold: 5
+      description: <p>Your Mech has +5ft Movement. You no longer suffer Disadvantage when attacking while Mech Piloting.</p>
+    - id: hzBZdGsy8xYQRnxw
+      rankThreshold: 10
+      description: <p>on a Success, you effectively double the Mech's DR until the end of the round.</p>
+    - id: UCSXfkk3bzBR0bN0
+      rankThreshold: 15
+      description: <p>Your Mech has +5ft Movement. On an Amazing Success on Mech Piloting, your next mounted Weapon Attack has advantage</p>
+flags:
+  point-mongo:
+    id: 852
+    category: skills
+    slug: mech-piloting
+    url: https://pointmongo.com/browse/skills/mech-piloting
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.1705519Z'
+    needsRestat: false
+    missingFields: []

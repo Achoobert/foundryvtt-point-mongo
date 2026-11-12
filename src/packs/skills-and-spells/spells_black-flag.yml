@@ -1,0 +1,44 @@
+_id: SLSjP2NlryEAilDn
+_key: '!items!SLSjP2NlryEAilDn'
+name: Black Flag
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>A free utility aura that frightens enemies and eventually turns fresh corpses into a temporary crew.</em></p><p><strong>Level 1:</strong> Turn on the Black Flag Aura, brandishing a spectral black flag. Enemies who see it become Frightened for 1 Round.</p><p><strong>Level 5:</strong> Allies in the Black Flag Aura deal bonus 1d6 damage to Frightened enemies.</p><p><strong>Level 10:</strong> Enemies that die within the Black Flag Aura grant double their gold reward when looted.</p><p><strong>Level 15:</strong> Some intelligent enemies may surrender and seek to join your ''crew''. Those that surrender can only be used on your current floor.</p><p><strong>Level 20:</strong> When activating Black Flag Aura, all nearby corpses reanimate and join your ''crew'' temporarily for (x) minutes, where x is equal to your total Charisma.</p><table><tbody><tr><th>Base damage</th><td>n/a</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>None</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/black-flag">Point Mongo</a>.</em></p>'
+  governingStat: cha
+  manaCost: 0
+  range: 60 Feet
+  duration: At Will
+  cooldown: NOne
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: vB15I7i7K7Y3hUhd
+      rankThreshold: 5
+      description: <p>Allies in the Black Flag Aura deal a bonus +1d6 damage to enemies with the Terrified and/or Slow debuff.</p>
+    - id: RoV86kFCHfkALghF
+      rankThreshold: 10
+      description: <p>Enemies that die within the Black Flag Aura range grant double their gold reward when looted.</p>
+    - id: 2ymcbR1jMD09xyNg
+      rankThreshold: 15
+      description: <p>Some intelligent enemies may surrender and seek to join your 'crew'. Those that surrender can only be used on your current floor. Your Charisma must be higher than theirs for them to even consider surrendering. This does not affect Crawlers, Elites, or Bosses.</p>
+flags:
+  point-mongo:
+    id: 383
+    category: spells
+    slug: black-flag
+    url: https://pointmongo.com/browse/spells/black-flag
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+    updatedAt: '2026-09-22T05:46:52.7336691Z'
+    needsRestat: true
+    missingFields: []

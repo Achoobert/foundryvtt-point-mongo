@@ -1,0 +1,25 @@
+_id: 2rQjh0enX5FtlwgZ
+_key: '!journal!2rQjh0enX5FtlwgZ'
+name: Church of the Mad Llama
+folder: hvyWwMcQCbDfRsP5
+pages:
+  - _id: CzuLJWsfmqhQg3ft
+    _key: '!journal.pages!2rQjh0enX5FtlwgZ.CzuLJWsfmqhQg3ft'
+    name: Church of the Mad Llama
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A pseudo-religious sponsor organization awaiting ''The Great Spit,'' funding crawlers who cause chaos without harming cameloid creatures.</em></p><p>A pseudo-religious organization preparing for what it calls "llamageddon" or "the alpacalypse," holding firm to a prophecy it believes leads to "The Great Spit." Sponsors crawlers who cause as much chaos and destruction as possible, so long as no cameloid (or semi-cameloid) creature is harmed in the process.</p><hr><p><em>Source: Community submission — John (Crawler #25497). From <a href="https://pointmongo.com/browse/sponsors/church-of-the-mad-llama">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 348
+    category: sponsors
+    slug: church-of-the-mad-llama
+    url: https://pointmongo.com/browse/sponsors/church-of-the-mad-llama
+    source: 'Community submission — John (Crawler #25497)'
+    tags:
+      - dcc-ccs
+      - sponsors
+    updatedAt: '2026-09-02T04:50:41.8017793Z'
+    needsRestat: false
+    missingFields: []

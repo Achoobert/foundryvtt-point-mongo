@@ -1,0 +1,25 @@
+_id: bhZpjL4W4A3jT35j
+_key: '!journal!bhZpjL4W4A3jT35j'
+name: Village of Rude Lawn Gnomes
+folder: cWQgUi6OmzYETooo
+pages:
+  - _id: DolAvnDmblGUh0gu
+    _key: '!journal.pages!bhZpjL4W4A3jT35j.DolAvnDmblGUh0gu'
+    name: Village of Rude Lawn Gnomes
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A village overrun by crude lawn gnomes doing off-putting things everywhere you look — and freezing in place the moment you spot them.</em></p><p><strong>Population:</strong> Rude Lawn Gnomes</p><p>These ain''t your grandmas sweet innocent lawn gnomes holding pretty flowers. Everywhere you look, there is a lawn gnome doing something...a little off-putting. There could be one pissing on a building, another fornicating on a balcony (or street). Maybe they are just disassembling the vehicle you just parked at the Saferoom. The strangest thing is they freeze in place when you directly look at them.</p><hr><p><em>Source: Community submission — Myles L.. From <a href="https://pointmongo.com/browse/neighborhoods/village-of-rude-lawn-gnomes">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 441
+    category: neighborhoods
+    slug: village-of-rude-lawn-gnomes
+    url: https://pointmongo.com/browse/neighborhoods/village-of-rude-lawn-gnomes
+    source: Community submission — Myles L.
+    tags:
+      - dcc-ccs
+      - neighborhoods
+    updatedAt: '2026-08-31T17:12:37.1292063Z'
+    needsRestat: false
+    missingFields: []

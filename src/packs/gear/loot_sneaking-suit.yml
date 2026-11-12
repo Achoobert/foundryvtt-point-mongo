@@ -1,0 +1,26 @@
+_id: pcUmshIKK1tZkzaA
+_key: '!items!pcUmshIKK1tZkzaA'
+name: Sneaking Suit
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>Full black leather armor with a strong stealth bonus and an enchantment that silences movement noise.</em></p><dl class="stat-block"><dt>Type</dt><dd>Leather Armor</dd><dt>AC Bonus</dt><dd>AC 7, see description</dd></dl><p>This intricately detailed full set of black leather armor bestows the wearer with a +25% bonus on all hide and sneak checks, and has an enchantment that silences any environmental noise created by the wearer''s passage through a space.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/loot/sneaking-suit">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 50
+    category: loot
+    slug: sneaking-suit
+    url: https://pointmongo.com/browse/loot/sneaking-suit
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - armor
+      - leather
+      - magical-armor
+      - stealth
+    updatedAt: '2026-08-31T17:12:29.7468211Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

@@ -1,0 +1,26 @@
+_id: qCyF5R0qq2Zlyo2U
+_key: '!journal!qCyF5R0qq2Zlyo2U'
+name: Solstice (Game Guide)
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: 01pVAFbdDqqebLMQ
+    _key: '!journal.pages!qCyF5R0qq2Zlyo2U.01pVAFbdDqqebLMQ'
+    name: Solstice (Game Guide)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A level-50 Cat Girl Game Guide, a former Crawler who survived on PR and fan-box hustling rather than combat skill.</em></p><p><strong>Type:</strong> Game Guide (PR Rep) · <strong>Level:</strong> 50 · <strong>Race:</strong> Cat Girl · <strong>Guild:</strong> Social Media</p><p>Survived to floor 11 in her previous crawl relying almost entirely on fan and benefactor boxes rather than mechanics like potion-brewing or mob identification. First season as a guide — she can''t teach crafting, but she can teach a crawler how to be the most popular one in the game.</p><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/npcs/solstice-game-guide">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 235
+    category: npcs
+    slug: solstice-game-guide
+    url: https://pointmongo.com/browse/npcs/solstice-game-guide
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - game-guide
+    updatedAt: '2026-09-02T04:50:41.4009725Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,27 @@
+_id: T3xJ737RvIClheCC
+_key: '!items!T3xJ737RvIClheCC'
+name: Gladiator
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>Strength-based Fighter built for arena spectacle, intimidation, and finishing off outnumbered enemies.</em></p><dl class="stat-block"><dt>Type</dt><dd>Strength based Fighter</dd><dt>Stat Bonus</dt><dd>Str +2, Chr +1, Dex +1</dd></dl><p>The Gladiator is an arena combatant built for spectacle, survival, and making violence look worth the price of admission. No strangers to fighting impossible odds, Gladiators will use every tool in their kit to ensure they get to live and breathe another day. One mustn''t underestimate a Gladiator''s toolkit, lest they be slain before their adoring fans.</p><p><strong>Class Benefits:</strong></p><ul><li>+2 to all Intimidation checks</li><li>Gains a Trident melee weapon</li><li>Gladiator''s Net spell — conjures a magical net that can pin a target to the floor or wall (can be destroyed)</li><li>Thumbs Down spell — can execute a target at or below 5% health, guaranteeing additional loot while the body remains (cannot be used on Borough Bosses or above)</li><li>Arena Shout spell — taunts a number of enemies equal to your Charisma</li><li>Betting Against the Odds (passive) — gain 10 gold x Charisma per enemy defeated if combat starts while outnumbered</li><li>Blood for the Crowd (passive) — while outnumbered, Melee Weapon Skills deal extra damage</li></ul><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/classes/gladiator">Point Mongo</a>.</em></p>'
+  classTypes: []
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 6
+    category: classes
+    slug: gladiator
+    url: https://pointmongo.com/browse/classes/gladiator
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - floor-class
+      - fighter
+    updatedAt: '2026-08-31T17:12:29.6085548Z'
+    needsRestat: false
+    missingFields:
+      - stat bonuses
+      - benefits
+      - Build Point costs

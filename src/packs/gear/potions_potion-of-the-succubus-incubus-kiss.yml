@@ -1,0 +1,22 @@
+_id: NwsbFA8ntw7psqbs
+_key: '!items!NwsbFA8ntw7psqbs'
+name: Potion of the Succubus / Incubus Kiss
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A potion that makes a chosen target become infatuated with the drinker for 30 hours, with real risk of obsessive backlash.</em></p><p>Wow, you really got a good one, here. While this potion doesn''t raise your charisma, necessarily, it will make someone of your choice (gender, sexual orientation, etc.) become infatuated with you for 30 hours. They will do your bidding and even your bedding (not what you think, perverts, this isn''t a drug your date kind of thing...I meant make your bed). You must be speaking directly to them (not in chat) for this to even work. They will be completely aware of their actions and will not do anything that is completely against their personality. You can''t make Deb in accounting suddenly think you''re anything more than amusing, though or. Once the effect wears off, though, since they were aware of everything happening, there is a good chance they will be pissed at you and make you regret what you did in the first place. Warnings: There is a 1.135% chance per charisma over 30 that the subject will become completely obsessed with you... You know, stalk you, create a shrine in their bedroom, take locks of your hair, threaten anyone who looks at you... that kind of thing. There is a 15% chance that this will not work if your charisma is really low (below 20). In fact, if it doesn''t work, there is an additional 5% chance per charisma point below 30 that the subject will become immediately hostile towards you.</p><table><tbody><tr><th>Type</th><td>Buff</td></tr></tbody></table><hr><p><em>Source: Community submission — John (Crawler #25497). From <a href="https://pointmongo.com/browse/potions/potion-of-the-succubus-incubus-kiss">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 339
+    category: potions
+    slug: potion-of-the-succubus-incubus-kiss
+    url: https://pointmongo.com/browse/potions/potion-of-the-succubus-incubus-kiss
+    source: 'Community submission — John (Crawler #25497)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-22T05:38:20.3308574Z'
+    needsRestat: false
+    missingFields:
+      - effects

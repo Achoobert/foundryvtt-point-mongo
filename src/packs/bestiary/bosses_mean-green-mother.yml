@@ -1,0 +1,80 @@
+_id: UZ5KOGXfkF3hwLmG
+_key: '!actors!UZ5KOGXfkF3hwLmG'
+name: Mean Green Mother
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><em>A carnivorous plant from outer space and elite Borough Boss that bites, entangles and swallows crawlers whole, then tempts the rest with their heart''s desire.</em></p><p>Now, in all fairness, there are PLENTY of carnivorous plants in the galaxy that I could’ve chosen from. Hundreds, in fact. But this Mean Green Mother From Outer Space? How could I pass up a chance to bring him into the dungeon? Are you kidding me?! Now there’s a creature with some BITE!</p><p>This is one of the great movie monsters of your 20th century. That bloodlust! That manipulation – so obvious, yet so subtle at the same time! It just sends shivers down my spine! And I don’t even have a physical body!</p><p>This level 20 herbaceous carnivore is out for blood, and you lot sure do look mighty tasty! Better watch out for those thorns!!</p><p>Notes: Fast-Growing—Heals 1 HB slot at the end of each round.</p><p>Loot</p><p>- Not-Hard-To-Come-By Plant Food (Potion) (x2)</p><p>- Spellbook: Vine Eruption</p><p>- Brawndo (x5)</p><p>Loot Box for highest damage dealer:</p><p>- Enchanted Leather Jacket of the Skid Row Dentist (Patch Jacket)</p><p>- Upgrade Pin of the Teasing Pod (Enamel Pin)</p><table><tbody><tr><th>Floor</th><td>2</td></tr><tr><th>Elite</th><td>Yes (acts once per crawler)</td></tr></tbody></table><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/bosses/mean-green-mother">Point Mongo</a>.</em></p>'
+  mobTier: borough
+  level: 20
+  size: Huge (6)
+  creatureType: Herbaceous
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 17
+    max: 17
+  dr: 2
+  stats:
+    str:
+      value: 20
+    dex:
+      value: 22
+    con:
+      value: 20
+    int:
+      value: 23
+    cha:
+      value: 20
+  attacks:
+    - name: Snap-Bite
+      toHit: 15+F
+      damage: 3d6+5
+      damageType: piercing
+      range: 5ft
+      effect: On an Evade Major Fail or worse, the crawler gains the Poison Debuff.
+    - name: Vine Capture
+      toHit: 15+F
+      damage: 3d4+5
+      damageType: bludgeoning
+      range: 30ft
+      effect: Any hit crawler gains the Entangled Debuff and is pulled 10’ ft closer to the plant.
+    - name: Deadly Bloom
+      toHit: 15+F
+      damage: 3d8+7
+      damageType: poison
+      range: 15ft Burst radius
+      effect: Any crawler who fails to Evade gains the Poisoned Debuff.
+    - name: Vine Eruption
+      toHit: ''
+      damage: 3d8+5
+      damageType: poison
+      range: 20' ft
+      effect: Bursting thorn-covered vines shoot up out of the floor in a 20-foot zone. Affected grid tiles become difficult terrain.
+    - name: Feed Me! (Swallowed)
+      toHit: ''
+      damage: ''
+      damageType: ''
+      range: ''
+      effect: The Mean Green Mother swallows the crawler whole. Crawlers receive the Swallowed Debuff. When a Crawler escapes the Mean Green Mother, or when the plant dies, affected crawlers may remove the Swallowed debuff.
+    - name: Secret Desires
+      toHit: ''
+      damage: N/A
+      damageType: ''
+      range: 100' ft/20' ft blast radius
+      effect: The Mean Green Mother offers the crawler whatever they most desire. Crawlers make a CHA Check vs DC 15+F or they gain the Mesmerized Debuff.
+prototypeToken:
+  name: Mean Green Mother
+  actorLink: false
+flags:
+  point-mongo:
+    id: 1005
+    category: bosses
+    slug: mean-green-mother
+    url: https://pointmongo.com/browse/bosses/mean-green-mother
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.5916045Z'
+    needsRestat: false
+    missingFields: []

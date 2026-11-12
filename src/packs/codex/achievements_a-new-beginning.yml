@@ -1,0 +1,24 @@
+_id: 3RMbIr9uCrSYVQM1
+_key: '!journal!3RMbIr9uCrSYVQM1'
+name: A New Beginning
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 9RBagjEBEtVZ3Vwc
+    _key: '!journal.pages!3RMbIr9uCrSYVQM1.9RBagjEBEtVZ3Vwc'
+    name: A New Beginning
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you enter the World Dungeon as someone who was homeless.</em></p><p>You have entered the Dungeon, leaving your home behind. Oh who are we kidding, you never had a home, you transient. You were homeless when you entered the Dungeon, and one of the few lucky hobos who wasn''t caught inside a shelter or a tent when the Collapse occurred. You entered the Dungeon because, let''s face it, where else are you going to go? Here''s your chance at a fresh start.</p><p>Reward: You''ve received a Silver Adventurer''s Box</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/a-new-beginning">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 566
+    category: achievements
+    slug: a-new-beginning
+    url: https://pointmongo.com/browse/achievements/a-new-beginning
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.92669Z'
+    needsRestat: false
+    missingFields: []

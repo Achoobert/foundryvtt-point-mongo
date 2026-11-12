@@ -1,0 +1,25 @@
+_id: mrS2tMJhxfO7Lzbj
+_key: '!journal!mrS2tMJhxfO7Lzbj'
+name: Witchlight Carnival
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: DCdvCMnHjp6fnuNi
+    _key: '!journal.pages!mrS2tMJhxfO7Lzbj.DCdvCMnHjp6fnuNi'
+    name: Witchlight Carnival
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A dazzling, unsettling traveling carnival floor in the vein of the Witchlight Carnival.</em></p><p>It would be a carnival similar to the Witchlight Carnival.</p><hr><p><em>Source: Community submission — Aaron. From <a href="https://pointmongo.com/browse/floors/witchlight-carnival">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 462
+    category: floors
+    slug: witchlight-carnival
+    url: https://pointmongo.com/browse/floors/witchlight-carnival
+    source: Community submission — Aaron
+    tags:
+      - dcc-ccs
+      - floors
+    updatedAt: '2026-08-31T17:12:39.4398384Z'
+    needsRestat: false
+    missingFields: []

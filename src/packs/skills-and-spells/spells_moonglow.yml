@@ -1,0 +1,42 @@
+_id: QcY7RSxOtFETukz1
+_key: '!items!QcY7RSxOtFETukz1'
+name: Moonglow
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>A Passive spell that bathes twenty feet in moonlight from a carried item or a floating orb, lasting until the next saferoom or floor.</em></p><p>You an imbue a carried item with the light of the moon.  It provides soft light for a 20ft radius and dim light for a 20ft radius past that.  Alternately create a magical orb of light that follows slightly above and behind you.</p><p>This is a variant on the Torch Spell - CRB Pg 212.</p><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/spells/moonglow">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 1
+  range: Self
+  duration: Until you enter a saferoom or descend to a new floor
+  cooldown: ''
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: NWAwZe24OXiuAY2x
+      rankThreshold: 5
+      description: <p>You can move the orb up to 20 feet away from you.  You can now extinguish the light with a thought.</p>
+    - id: P2rNiRfleAyDrcJm
+      rankThreshold: 10
+      description: <p>You can move the orb up to 60 feet away from you and can double or half the radius of the brightness with a thought.</p>
+    - id: rMuCaVFDt0NFEit2
+      rankThreshold: 15
+      description: <p>You can move the orb up to 100 feet away from you and attach it to a Dungeon surface as an Action.</p>
+flags:
+  point-mongo:
+    id: 805
+    category: spells
+    slug: moonglow
+    url: https://pointmongo.com/browse/spells/moonglow
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-09-24T03:11:39.3552118Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,19 @@
+_id: T3COWBbMaS8Ze4Rm
+_key: '!items!T3COWBbMaS8Ze4Rm'
+name: Enchanted Toe Ring of the Daddy Tax
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A softly glowing silver toe ring that toughens you up and brings you back to full health once a floor. Time to pay the Daddy Tax.</em></p><p>This simple silver toe ring has no noticeable adornment, but it glows with soft blue light on command.  When equipped it bestows the following benefits: +4 Constitution, Once Per Floor: Recovery (Full Health).  While the system has certainly taken notice of you equipping this item, don''t think that makes you anything special.  You''ll have to earn your keep.  You know what that means.  It''s time to pay the Daddy Tax.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Once per floor: Recovery (full Health)</li><li>+4 Constitution</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-daddy-tax">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1143
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-the-daddy-tax
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-daddy-tax
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1241498Z'
+    needsRestat: false
+    missingFields: []

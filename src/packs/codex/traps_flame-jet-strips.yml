@@ -1,0 +1,25 @@
+_id: 37NaLI1FLHJFPisO
+_key: '!journal!37NaLI1FLHJFPisO'
+name: Flame Jet Strips
+folder: i4V5JDum8ZGrgq0L
+pages:
+  - _id: WJvKHdSEReFmrprj
+    _key: '!journal.pages!37NaLI1FLHJFPisO.WJvKHdSEReFmrprj'
+    name: Flame Jet Strips
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Applicable flame-jet trap modules, dealing fire damage per jet and often paired with oil or slippery-terrain traps.</em></p><p>Think spike strips, but with flame. Applied to any surface, triggering causes a 4'' gout of flame per level of the creator, dealing 1d8 fire damage per flame jet. Often paired with traps like Oilslick or Slippery Slope to create upgraded trap modules.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1942). From <a href="https://pointmongo.com/browse/traps/flame-jet-strips">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 361
+    category: traps
+    slug: flame-jet-strips
+    url: https://pointmongo.com/browse/traps/flame-jet-strips
+    source: 'Community submission — DeaDPaN79 (Crawler #1942)'
+    tags:
+      - dcc-ccs
+      - traps
+    updatedAt: '2026-09-02T04:50:41.8269788Z'
+    needsRestat: false
+    missingFields: []

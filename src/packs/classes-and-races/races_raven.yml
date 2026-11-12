@@ -1,0 +1,23 @@
+_id: OXn2228ORsWq4lBK
+_key: '!items!OXn2228ORsWq4lBK'
+name: Raven
+type: race
+img: https://pointmongo.com/img/entries/races-raven.jpg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>An Earth raven with sharp eyes, unlimited flight and a long memory for anyone who wronged it. Basically a flying raccoon with better PR.</em></p><p>Corvus Corax! You are now a member of one of Earth''s most intelligent avian species. You have glossy black feathers, powerful wings, a formidable beak, and the natural ability to make people uncomfortable simply by staring at them.</p><p>You are well known for being a clever little shit, an adaptable nuisance, a mischievous miscreant, and notoriously difficult to intimidate. You can fly, recognize faces, mimic sounds, solve puzzles, and remember every single person who has ever wronged you. Ravens are intelligent, resourceful, and capable of forming surprisingly complex social relationships. They also enjoy shiny objects, stealing unattended food, and occasionally ruining someone''s entire afternoon for absolutely no reason. In other words, you''re basically a flying raccoon with better PR.</p><table><tbody><tr><th>Size</th><td>Small (2)</td></tr><tr><th>Prerequisites</th><td>This limited Race is only available to crawlers who are already a Raven</td></tr><tr><th>Build points</th><td>28</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Intelligence</li><li>+2 Dexterity</li><li>+2 Charisma</li><li>−2 Strength</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Dodge Skill (passive)</li><li>+2 Slice Attack Skill</li><li>+1 Deception Skill (mimicry skill)</li></ul><p><strong>Benefits</strong></p><ul><li>You can see twice as far as most creatures <em>(minor)</em></li><li>the ability to fly with no limitations <em>(epic)</em></li><li>Small size (Size 2 or smaller) <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Vulnerability: Take double damage from Cats and Beasts <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Paul Robinson. From <a href="https://pointmongo.com/browse/races/raven">Point Mongo</a>.</em></p>'
+  size: Small (2)
+  prerequisites: This limited Race is only available to crawlers who are already a Raven
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1065
+    category: races
+    slug: raven
+    url: https://pointmongo.com/browse/races/raven
+    source: Community submission — Paul Robinson
+    tags: []
+    updatedAt: '2026-11-11T22:25:38.9434345Z'
+    needsRestat: false
+    missingFields: []

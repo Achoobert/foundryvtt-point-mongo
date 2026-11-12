@@ -1,0 +1,41 @@
+_id: Eiby0gcprkMsTco3
+_key: '!items!Eiby0gcprkMsTco3'
+name: Mantis Shrimp Strike
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>Punches that land like a mantis shrimp''s strike: a Pugilism damage effect that ignores DR and costs you a Health Bar slot, until higher ranks turn it into a line of force through a crowd.</em></p><p>This passive damage effect starts to turn your punches into massive weapons. Sometimes it can hurt you as well. Mantis shrimp are said to have a strike fast and strong enough to feel like a small gun shot you, breaking glass and bones.</p><table><tbody><tr><th>Category</th><td>Passive</td></tr><tr><th>Base damage</th><td>+1 Rank damage die, ignore DR</td></tr></tbody></table><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/skills/mantis-shrimp-strike">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: passive
+  attackType: ''
+  isPassive: true
+  range: 15 feet
+  cooldown: 3 hours
+  limitations: Pugilism damage effect, You lose 1 Health bar slot.
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: force
+  upgrades:
+    - id: o7ReHHdSR7ZQIu5H
+      rankThreshold: 5
+      description: <p>You don't take any damage from your own attack.</p>
+    - id: pWZe6o8lVZZXXkoq
+      rankThreshold: 10
+      description: <p>+5ft range. Everyone in a 10 foot wide line of this attack takes full damage unless evaded. Evades against the line are made with advantage</p>
+    - id: OMTmhSwkt7mFcB24
+      rankThreshold: 15
+      description: <p>+10ft range, Everyone makes their evade check normally.</p>
+flags:
+  point-mongo:
+    id: 888
+    category: skills
+    slug: mantis-shrimp-strike
+    url: https://pointmongo.com/browse/skills/mantis-shrimp-strike
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-10-17T17:40:16.6304838Z'
+    needsRestat: false
+    missingFields: []

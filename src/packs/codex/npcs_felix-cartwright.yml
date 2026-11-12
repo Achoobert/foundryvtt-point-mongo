@@ -1,0 +1,25 @@
+_id: eLj0zQTaojOGoMW1
+_key: '!journal!eLj0zQTaojOGoMW1'
+name: Felix Cartwright
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: UUDHCylZ4oAMrebz
+    _key: '!journal.pages!eLj0zQTaojOGoMW1.UUDHCylZ4oAMrebz'
+    name: Felix Cartwright
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A cheerful, suspiciously punctual trader whose ordinary wagon keeps attracting bandits for unknown reasons.</em></p><p><strong>Type:</strong> Merchant</p><p>A cheerful trader who always arrives suspiciously on time, whether needed or not. Quest hook: escort his "completely ordinary" wagon that keeps attracting bandits for reasons no one can explain.</p><hr><p><em>Source: Community submission — Kyron786 (Crawler #11890). From <a href="https://pointmongo.com/browse/npcs/felix-cartwright">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 257
+    category: npcs
+    slug: felix-cartwright
+    url: https://pointmongo.com/browse/npcs/felix-cartwright
+    source: 'Community submission — Kyron786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-02T04:50:41.4136251Z'
+    needsRestat: false
+    missingFields: []

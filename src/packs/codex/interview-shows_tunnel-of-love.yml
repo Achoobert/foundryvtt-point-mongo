@@ -1,0 +1,23 @@
+_id: otzw5SVWxPXquGB6
+_key: '!journal!otzw5SVWxPXquGB6'
+name: Tunnel of Love
+folder: 60wNl7vBu4R8G6qF
+pages:
+  - _id: bP5fJO3Er3sdyYlY
+    _key: '!journal.pages!otzw5SVWxPXquGB6.bP5fJO3Er3sdyYlY'
+    name: Tunnel of Love
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A dating game show run by a three-headed Nodling who mocks the crawlers and fawns over the paying contestants.</em></p><p>Host: Nodling with 3 heads; Rod, Mung, Taing.</p><p>This is “Tunnel of Love” Where you get to play an earth style dating game show. The host goes through with mocking the crawler/s while playing up the paying contestants.</p><p>three types of games can be played;</p><p>Hidden match maker- without seeing the contestants you ask questions and match with a paying contestant.</p><p>Couple game- play against up to 3 other couple contestants or even crawlers to see if you both know each other better than the other contestants</p><p>The Button- 5 crawlers and 5 paying contestants sit at a table 1v1 and see if they can make a connection or if they want to pass to the next person.</p><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/interview-shows/tunnel-of-love">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 807
+    category: interview-shows
+    slug: tunnel-of-love
+    url: https://pointmongo.com/browse/interview-shows/tunnel-of-love
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-09-24T03:11:39.2222911Z'
+    needsRestat: false
+    missingFields: []

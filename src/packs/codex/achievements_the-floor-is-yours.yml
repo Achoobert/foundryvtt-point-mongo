@@ -1,0 +1,24 @@
+_id: 6bJ79O2QDIe3SZea
+_key: '!journal!6bJ79O2QDIe3SZea'
+name: The Floor Is Yours
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 55SM1eQRlhWDNCKW
+    _key: '!journal.pages!6bJ79O2QDIe3SZea.55SM1eQRlhWDNCKW'
+    name: The Floor Is Yours
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you land the decisive blow on the Second Floor''s Floor Boss.</em></p><p>The tutorial floors just lost their biggest, meanest resident, and you''re the reason why. That''s not a Neighborhood Boss. That''s not a Borough Boss. That''s the whole floor''s problem, solved. Don''t get used to feeling this powerful. The Third Floor doesn''t care.</p><p>Reward: Platinum Floor Boss Slayer</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/the-floor-is-yours">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 718
+    category: achievements
+    slug: the-floor-is-yours
+    url: https://pointmongo.com/browse/achievements/the-floor-is-yours
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0502273Z'
+    needsRestat: false
+    missingFields: []

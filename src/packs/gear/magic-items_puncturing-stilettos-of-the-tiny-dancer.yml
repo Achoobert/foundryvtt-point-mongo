@@ -1,0 +1,19 @@
+_id: rV9U7NmvsBEulKpm
+_key: '!items!rV9U7NmvsBEulKpm'
+name: Puncturing Stilettos of the Tiny Dancer
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Ten-inch purple stilettos that sharpen your kicks and leave a Blood Trail on an Amazing Success.</em></p><p>A pair of 10 inch long purple Stilettos</p><table><tbody><tr><th>Slot</th><td>Feet</td></tr><tr><th>Type</th><td>Footwear</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Foot Soldier skill</li><li>On an Amazing Success with Foot Soldier while wearing these Stilettos, target takes one stack of Blood Trail (2 on a crit)</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/magic-items/puncturing-stilettos-of-the-tiny-dancer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1167
+    category: magic-items
+    slug: puncturing-stilettos-of-the-tiny-dancer
+    url: https://pointmongo.com/browse/magic-items/puncturing-stilettos-of-the-tiny-dancer
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.227854Z'
+    needsRestat: false
+    missingFields: []

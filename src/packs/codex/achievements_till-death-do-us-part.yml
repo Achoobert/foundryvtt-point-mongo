@@ -1,0 +1,24 @@
+_id: rvqcFkTF3CzAvPxw
+_key: '!journal!rvqcFkTF3CzAvPxw'
+name: Till Death Do Us Part
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: Y8IBmY7SYIMLK3LG
+    _key: '!journal.pages!rvqcFkTF3CzAvPxw.Y8IBmY7SYIMLK3LG'
+    name: Till Death Do Us Part
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you enter the World Dungeon with your married partner.</em></p><p>You have entered the World Dungeon with your married partner. Well aren''t you just so darn lucky there! Most of these bozos had their loved ones taken from them during the Collapse, never to see their loving partners or family again, and here you are, just rubbing your relationship in their faces. Well to hell with them I say! If they had partners that choose to be as irresponsible as the two of you, maybe they''d be down here with them. May you two be forever inseparable, until death do you part, as they say. So you know, in like maybe 20 minutes or so.</p><p>Reward: Gold Matrimony Box</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/till-death-do-us-part">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 574
+    category: achievements
+    slug: till-death-do-us-part
+    url: https://pointmongo.com/browse/achievements/till-death-do-us-part
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9331618Z'
+    needsRestat: false
+    missingFields: []

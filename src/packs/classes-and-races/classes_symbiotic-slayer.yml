@@ -1,0 +1,23 @@
+_id: sojiL1KQsQlgayue
+_key: '!items!sojiL1KQsQlgayue'
+name: Symbiotic Slayer
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter/Druid class whose mind slowly melds with its pet''s, until the two move and hunt as one.</em></p><p>Your mind and the mind of your pet are slowly melding. You move as one, stalk as one, live as one</p><table><tbody><tr><th>Prerequisites</th><td>Must already have a Bonded Pet to choose this class</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 Cha</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Animal Handling</li><li>+5 Mascot Skill (passive): +1 CON to allies for 2 rds if Pet damages an enemy (5rds if the Pet killed the target). Rank 5: also adds +1 DEX</li><li>+3 Flesh Sync (passive): Adds rank die bonus of Crawler''s Weapon Skill to pet damage for the duration. Adds +3 DR for pet and Crawler for the duration. Lasts for 30 seconds (3 rounds). While Flesh Sync is active, any damage and conditions inflicted on either Pet or Crawler is shared. 5 hour cooldown</li></ul><p><strong>Benefits</strong></p><ul><li>Pact Instinct Overdrive - If pet is reduced to 0, you gain Rage <em>(moderate)</em></li><li>Scent of the Same Blood - When you or your Pet use the Intervene action to help each other, roll a D8 instead of a D6 <em>(major)</em></li><li>Pet can use Terror Howl as a Charisma based Natural attack (as the Fear Spell (10 hours cooldown). <em>(major)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/symbiotic-slayer">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter/Druid
+  prerequisites: Must already have a Bonded Pet to choose this class
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 527
+    category: classes
+    slug: symbiotic-slayer
+    url: https://pointmongo.com/browse/classes/symbiotic-slayer
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6145763Z'
+    needsRestat: false
+    missingFields: []

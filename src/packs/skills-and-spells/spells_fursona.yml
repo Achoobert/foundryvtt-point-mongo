@@ -1,0 +1,43 @@
+_id: kLVIS1tDFFowPFQU
+_key: '!items!kLVIS1tDFFowPFQU'
+name: Fursona
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> range</p><p><em>Shapeshift into a beast, either a tough Protector Fur or a clawing Rending Fur, that grows with the floor and later learns to swim and fly.</em></p><p>Your body shifts, your gear is absorbed and you turn into one of 2 options: Protector Fur or Rending Fur</p><p>Protector Fur: you gain DR = Floor, you may use the Catcher skill at Rank = Floor and gain a natural Strength attack at [Rank = Floor Number] that deals 1d6 + STR Mod damage. Add another d6 at Rank 5, 10, and 15.</p><p>Rending Fur: You may use the Double Tap skill at Rank = Floor and gain a natural Strength or Dexterity attack at [Rank = Floor Number] that deals 1d8 + Floor + STR or DEX Mod damage. Add another d8 at Rank 5, 10, and 15.</p><table><tbody><tr><th>Limitations</th><td>While under the effects of this spell, you are considered a Quadruped. You still have access to your inventory and Hotbar, but any items you were wearing or holding when this is cast is melded with your new Fursona. You may not cast spells while in your Fursona.</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/spells/fursona">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 21
+  range: ''
+  duration: 1min
+  cooldown: 15min
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: FdPBTb7VhTRBG4m3
+      rankThreshold: 5
+      description: <p>You may use Fursona Rank instead of Floor for the Catcher and Double tap skills granted and to the Ranks of any natural attacks while in the shifted form. Duration increased to 5 min</p>
+    - id: byvqEqvmoS3zKQn5
+      rankThreshold: 10
+      description: <p>You may take the Fursona of an aquatic creature. Aquatic creatures can breath underwater and usually don't need to make Swimming skill checks. Duration increased to 10 min.</p>
+    - id: iuhx82OuWpKJjY1y
+      rankThreshold: 15
+      description: <p>You may take the Fursona of a Flying creature. Duration increased to 30 min. You may end this spell whenever you want.</p>
+flags:
+  point-mongo:
+    id: 1113
+    category: spells
+    slug: fursona
+    url: https://pointmongo.com/browse/spells/fursona
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-10T06:59:48.665468Z'
+    needsRestat: false
+    missingFields:
+      - range

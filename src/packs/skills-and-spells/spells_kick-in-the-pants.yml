@@ -1,0 +1,39 @@
+_id: MuBlehgvBEYIOzCi
+_key: '!items!MuBlehgvBEYIOzCi'
+name: Kick in the Pants
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A flexible Enchantment spell usable as a damage buff for allies or a direct debuffing strike, scaling to hit more targets at once.</em></p><p><strong>School:</strong> Enchantment · <strong>AoE:</strong> 10'' radius · <strong>Duration:</strong> until next strike · <strong>Cost:</strong> 1 MP/level</p><p>Lv1 (ally buff): grants the Energized buff (+1d4 damage + skill level on next strike). Lv1 (attack): deals 1d4 damage plus the Ouch debuff (raises damage on the target''s next hit taken, by skill level). Lv5: affects up to 3 allies or attacks. Lv10: can mix allies and attacks (limit 3). Lv15: affects up to 5 allies or mobs.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/spells/kick-in-the-pants">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 404
+    category: spells
+    slug: kick-in-the-pants
+    url: https://pointmongo.com/browse/spells/kick-in-the-pants
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - spells
+      - enchantment
+    updatedAt: '2026-09-02T04:50:41.8752368Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

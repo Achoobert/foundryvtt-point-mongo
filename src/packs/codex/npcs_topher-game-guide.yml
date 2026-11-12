@@ -1,0 +1,26 @@
+_id: XqPl5RZdgPMPRHkF
+_key: '!journal!XqPl5RZdgPMPRHkF'
+name: Topher (Game Guide)
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: Y5VAM93t1D2rnibZ
+    _key: '!journal.pages!XqPl5RZdgPMPRHkF.Y5VAM93t1D2rnibZ'
+    name: Topher (Game Guide)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A non-combatant level-50 Null Game Guide/Artificer whose blitz-stick addiction makes his crafting advice unreliable.</em></p><p><strong>Type:</strong> Game Guide (Artificer), Non-Combatant · <strong>Level:</strong> 50 · <strong>Race:</strong> Null</p><p>Topher was a 10er in an early crawl who took a deal landing him as a guide for an inordinate number of seasons. Spends most of his days whacked out on blitz sticks avoiding PTSD nightmares from his time in the Dungeon — never intentionally misleads crawlers, but his addiction and trauma make him unreliable. Sober, he''s a genuinely decent artificer with useful crafting knowledge.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/npcs/topher-game-guide">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 236
+    category: npcs
+    slug: topher-game-guide
+    url: https://pointmongo.com/browse/npcs/topher-game-guide
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - game-guide
+    updatedAt: '2026-09-02T04:50:41.4015097Z'
+    needsRestat: false
+    missingFields: []

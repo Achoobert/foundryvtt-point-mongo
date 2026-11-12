@@ -1,0 +1,41 @@
+_id: n5cknQZvm6uAMgE2
+_key: '!items!n5cknQZvm6uAMgE2'
+name: Skateboarding
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>For racing, chasing, showing off and popping tricks. Strolling needs no check.</em></p><p>You don’t need to use this Skill if you’re strolling at a stable path, but if you’re racing, chasing, showing off, or trying to pop some tricks, this is the Skill you want.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/skills/skateboarding">Point Mongo</a>.</em></p>'
+  governingStat: dex
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: You suffer Disadvantage on Attack Skill Checks made while Skateboarding.
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: BrMNkyVfS3RYx4jT
+      rankThreshold: 5
+      description: <p>You no longer suffer Disadvantage when attacking while Skateboarding. You also gain a +1 to Evade buff while Skateboarding</p>
+    - id: ftO81adY0D0sn7j5
+      rankThreshold: 10
+      description: <p>You may use this skill instead of Jumping when trying to cover terrain.</p>
+    - id: dxsf2s8twQfAiJdB
+      rankThreshold: 15
+      description: <p>Your Skateboard has +5ft Move. When performing crazy stunts (like riding up a canyon wall), roll with Advantage</p>
+flags:
+  point-mongo:
+    id: 819
+    category: skills
+    slug: skateboarding
+    url: https://pointmongo.com/browse/skills/skateboarding
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-28T03:33:05.8609914Z'
+    needsRestat: false
+    missingFields: []

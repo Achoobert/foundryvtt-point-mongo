@@ -1,0 +1,45 @@
+_id: DlSwgPu3b8fMAXw3
+_key: '!items!DlSwgPu3b8fMAXw3'
+name: Monsterpedia
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>A passive Divination skill that unlocks growing intel on mob types the first time each is killed.</em></p><p>Passive Skill</p><p><strong>Limitations:</strong> This can only be leveled by adding new creatures to your Monsterpedia. After 5 new entries, this gains 1 Level.</p><p><strong>Level 1:</strong> You learn information about a certain Mob after killing it for the first time. You level this skill up by adding new Mobs to your Monsterpedia.</p><p><strong>Level 5:</strong> The first time you kill a Mob, you discover its Weakness to be used against similar Mobs.</p><p><strong>Level 10:</strong> The first time you kill a Mob, you learn about the different Mob types in its family.</p><p><strong>Level 15:</strong> The first time you kill a Mob, you will be able to identify similar Mob''s stats from first glance.</p><p><strong>Level 20:</strong> The first time you kill a Mob, you will be able to identify all the potential Spells and Skills similar Mobs can use.</p><table><tbody><tr><th>Limitations</th><td>This can only be leveled by adding new creatures to your Monsterpedia. After 5 new entries, this gains 1 Level.</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/monsterpedia">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 5
+  range: 30 feet
+  duration: Instant
+  cooldown: ''
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: xpVcZVmwJX3QBoa5
+      rankThreshold: 5
+      description: '<p>Level 5: The first time you kill a Mob, you discover its Weakness to be used against similar Mobs.</p>'
+    - id: jONDE7wMo5z69n50
+      rankThreshold: 10
+      description: '<p>Level 10: The first time you kill a Mob, you learn about the different Mob types in its family.</p>'
+    - id: 4rMfOlV8QPCAf6CX
+      rankThreshold: 15
+      description: '<p>Level 15: The first time you kill a Mob, you will be able to identify similar Mob''s stats from first glance.</p>'
+flags:
+  point-mongo:
+    id: 407
+    category: spells
+    slug: monsterpedia
+    url: https://pointmongo.com/browse/spells/monsterpedia
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+      - divination
+    updatedAt: '2026-11-10T06:59:48.6665859Z'
+    needsRestat: true
+    missingFields: []

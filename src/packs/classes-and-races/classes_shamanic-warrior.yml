@@ -1,0 +1,23 @@
+_id: SRkTRuTZ3pve9f3E
+_key: '!items!SRkTRuTZ3pve9f3E'
+name: Shamanic Warrior
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter/Druid class: the same dumb guy hitting people in the face, now with nature spirits behind him and a cushion of air armor.</em></p><p>The stereotypical warrior is seen as a dumb guy hitting people in the face with a blunt or sharp object. The Shamanic Warrior is a dumb guy hitting people in the face with a blunt or sharp object with the aid of natural spirits. Quite an Improvement.</p><p>this class is based on the Warrior in Earthdawn</p><p>This is a Fighter/Druid subclass</p><p><strong>Stat bonuses</strong></p><ul><li>+3 Strength</li><li>+3 Constitution</li><li>+2 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 to a Attack Skill of your choice</li><li>+2 Shield Block</li><li>+1 Survival</li><li>+ 2 to Bang Bro spell</li><li>+2 Oakhide Spell</li></ul><p><strong>Benefits</strong></p><ul><li>Air Armor: adds 1d4 to Evade checks <em>(major)</em></li><li>Double the mana regeneration on natural environments <em>(minor)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/shamanic-warrior">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter/Druid
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 942
+    category: classes
+    slug: shamanic-warrior
+    url: https://pointmongo.com/browse/classes/shamanic-warrior
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-10-20T15:14:57.4183027Z'
+    needsRestat: false
+    missingFields: []

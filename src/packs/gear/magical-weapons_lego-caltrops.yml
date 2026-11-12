@@ -1,0 +1,20 @@
+_id: hji0vJsShb7BM7Rw
+_key: '!items!hji0vJsShb7BM7Rw'
+name: LEGO Caltrops
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> slot</p><p><em>A LEGO model that shatters on impact into a carpet of bricks, turning the ground into Difficult Terrain nobody wants to cross barefoot.</em></p><p>The user can throw a LEGO model, which breaks into several scattered bricks upon impact, creating Difficult Terrain in a 15x15ft area centered on the impact.</p><table><tbody><tr><th>Type</th><td>Throwable</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Weapon skill</th><td>Throw</td></tr><tr><th>Charges</th><td>once per LEGO model</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>The user can throw a LEGO model, which breaks into several scattered bricks upon impact, creating Difficult Terrain in a 15x15ft area centered on the impact.</li></ul><hr><p><em>Source: Community submission — SuperBob. From <a href="https://pointmongo.com/browse/magical-weapons/lego-caltrops">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1119
+    category: magical-weapons
+    slug: lego-caltrops
+    url: https://pointmongo.com/browse/magical-weapons/lego-caltrops
+    source: Community submission — SuperBob
+    tags: []
+    updatedAt: '2026-11-10T06:59:48.6932464Z'
+    needsRestat: false
+    missingFields:
+      - slot

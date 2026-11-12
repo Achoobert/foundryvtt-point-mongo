@@ -1,0 +1,23 @@
+_id: tcKQnaJAOktvVbfj
+_key: '!items!tcKQnaJAOktvVbfj'
+name: Falsetto Codpiece
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A magical cup that supports the wearer and grants a beautiful falsetto singing voice.</em></p><p><strong>Type:</strong> Accessory</p><p>Protects and supports the male wearer while imbuing even the manliest men with a beautiful falsetto voice — +5 Charisma and bardic performances.</p><table><tbody><tr><th>Type</th><td>Accessory</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/falsetto-codpiece">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 175
+    category: magic-items
+    slug: falsetto-codpiece
+    url: https://pointmongo.com/browse/magic-items/falsetto-codpiece
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-03T16:29:38.8618583Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

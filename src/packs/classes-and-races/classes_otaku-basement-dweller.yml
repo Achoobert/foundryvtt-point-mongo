@@ -1,0 +1,23 @@
+_id: 4YGkX4ztLHAskgOR
+_key: '!items!4YGkX4ztLHAskgOR'
+name: Otaku Basement Dweller
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Mage class for the lifelong anime fan who brings their favorite characters to life and lets them do the fighting.</em></p><p>This class allows those who''ve spent their lives watching the world of their cute anime girls and screaming over muscled steroid bros, to live out their life long dream of getting to meet their heroes ... or waifus. This class allows them to bring their characters to life and fight for them as they watch the action from the 3rd person.</p><table><tbody><tr><th>Bonus box</th><td>Bronze Statue Box</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>-2 Constitution</li><li>-2 Strength</li><li>+9 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Twinkle Toes</li><li>+2 Vine Porn</li><li>+1 Web</li><li>+4 Clockwork Triplicate</li></ul><p><strong>Benefits</strong></p><ul><li>Membership in the Dungeon Book of the Floor Club <em>(moderate)</em></li><li>+1 Cockroach <em>(extreme)</em></li><li>Vine Porn can be raised to Rank 20 <em>(minor)</em></li><li>Clockwork Triplicate can be raised to Rank 20 <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Vulnerable to Holy Damage <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/classes/otaku-basement-dweller">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Mage/Arcanist
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1152
+    category: classes
+    slug: otaku-basement-dweller
+    url: https://pointmongo.com/browse/classes/otaku-basement-dweller
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.178202Z'
+    needsRestat: false
+    missingFields: []

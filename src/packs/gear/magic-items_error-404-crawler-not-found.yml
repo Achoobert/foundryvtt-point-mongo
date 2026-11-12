@@ -1,0 +1,19 @@
+_id: uOkVsgiwairIBcq9
+_key: '!items!uOkVsgiwairIBcq9'
+name: 'Error 404: Crawler Not Found'
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A patch that makes you the one thing nobody can find: far stealthier, deadlier while hidden, and able to vanish from one target''s senses once a day.</em></p><p>Upgrade Patch. Small</p><p>The most frustrating of all online experiences, error 404.  You know you''ve reached the right place, but the internet gods have deemed you unworthy of success.  What''s worse is your nephew say it, "works just fine when I try it", and, "Are you sure you typed it right?".  YES, I''M SURE!</p><p>Needless to say, having your enemies experience the feeling of being the only one that can''t succeed can be a crippling ability.  Error 404: Crawler Not Found does just that.</p><p>If this upgrade patch is affixed to an eligible garment, it will imbue the following effects:</p><p>1. +50% to your Stealth ability</p><p>2. +5 to all attacks and attack damage while "hidden"</p><p>3. -5 to Persuasion</p><p>4. Once per day you may cast a level 10 ''Error 404'' spell.  Any target you choose will be unable to see, hear, or smell you.  You will still appear on their mini-map, but the location will be wrong by at least 10m (no more than 50m).  While this spell is in effect, you are considered "hidden" from the target.  The effects of this spell last for 4 hours, or until you make physical contact with the target.</p><p>Warning: Using the Error 404 spell will make you effectively invisible to a single target.  All other enemies will gain +1 to all attacks made against you as they try to convince their allies that you really are RIGHT THERE!</p><p>Warning: Upgrade patches are fleeting items. You may remove them, but they will be destroyed in the process</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>0</td></tr><tr><th>Limitations</th><td>-5 to Persuasion, spell is once per day, while the spell is active all other enemies will gain +1 to all attacks made against you</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>1. +50% to your Stealth ability</li><li>2. +5 to all attacks and attack damage while "hidden"</li><li>3. -5 to Persuasion</li><li>4. Once per day you may cast a level 10 ''Error 404'' spell.  Any target you choose will be unable to see, hear, or smell you.  You will still appear on their mini-map, but the location will be wrong by at least 10m (no more than 50m).  While this spell is in effect, you are considered "hidden" from the target.  The effects of this spell last for 4 hours, or until you make physical contact with the target.</li><li>Warning: Using the Error 404 spell will make you effectively invisible to a single target.  All other enemies will gain +1 to all attacks made against you as they try to convince their allies that you really are RIGHT THERE!</li></ul><hr><p><em>Source: Community submission — Heath V. From <a href="https://pointmongo.com/browse/magic-items/error-404-crawler-not-found">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1076
+    category: magic-items
+    slug: error-404-crawler-not-found
+    url: https://pointmongo.com/browse/magic-items/error-404-crawler-not-found
+    source: Community submission — Heath V
+    tags: []
+    updatedAt: '2026-11-07T06:46:04.6962048Z'
+    needsRestat: false
+    missingFields: []

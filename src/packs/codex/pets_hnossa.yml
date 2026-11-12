@@ -1,0 +1,26 @@
+_id: mvBiqNOT1SabDFZt
+_key: '!journal!mvBiqNOT1SabDFZt'
+name: Hnossa
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: 1UkvxjKuqiOAPl0o
+    _key: '!journal.pages!mvBiqNOT1SabDFZt.1UkvxjKuqiOAPl0o'
+    name: Hnossa
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A shorthaired tortoiseshell cat raised in a litter, mischievous and playful.</em></p><dl class="stat-block"><dt>Species</dt><dd>Feline</dd><dt>Stats</dt><dd>Level 1</dd><dt>Class</dt><dd>See Description</dd></dl><p>Shorthaired Tortoiseshell Cat. Youth: Litter Raised. Training: Mischievous. Adult: Scrapper. Quirk: Playful.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890), Crawler #11892. From <a href="https://pointmongo.com/browse/pets/hnossa">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 33
+    category: pets
+    slug: hnossa
+    url: https://pointmongo.com/browse/pets/hnossa
+    source: 'Community submission — Kyton786 (Crawler #11890), Crawler #11892'
+    tags:
+      - animal-companion
+      - pet
+      - cat
+    updatedAt: '2026-08-31T17:12:29.7258171Z'
+    needsRestat: false
+    missingFields: []

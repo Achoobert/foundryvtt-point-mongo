@@ -1,0 +1,26 @@
+_id: UjJrVzLjB9FCBe7j
+_key: '!journal!UjJrVzLjB9FCBe7j'
+name: Squeaker
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: btbe4x7KbOeaPcaz
+    _key: '!journal.pages!UjJrVzLjB9FCBe7j.btbe4x7KbOeaPcaz'
+    name: Squeaker
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A literal, Harvard-adjacent Earth rat who became sentient in the dungeon and now practices law as a rat-class crawler.</em></p><p><strong>Type:</strong> Lawyer · <strong>Race:</strong> Rat</p><p>A literal earth rat that got into the dungeon after living near Harvard, and is now a sentient, lawyer-class crawler.</p><hr><p><em>Source: Community submission — Grim (Crawler #7177). From <a href="https://pointmongo.com/browse/npcs/squeaker">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 251
+    category: npcs
+    slug: squeaker
+    url: https://pointmongo.com/browse/npcs/squeaker
+    source: 'Community submission — Grim (Crawler #7177)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - lawyer
+    updatedAt: '2026-09-02T04:50:41.4100017Z'
+    needsRestat: false
+    missingFields: []

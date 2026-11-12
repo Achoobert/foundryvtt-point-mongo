@@ -1,0 +1,25 @@
+_id: WTvpUYq18NVpYAHU
+_key: '!journal!WTvpUYq18NVpYAHU'
+name: The Big Rock Candy Mountain Retreat
+folder: cWQgUi6OmzYETooo
+pages:
+  - _id: 2tg2Cnr4m1jlGFC9
+    _key: '!journal.pages!WTvpUYq18NVpYAHU.2tg2Cnr4m1jlGFC9'
+    name: The Big Rock Candy Mountain Retreat
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A town where everything — buildings, trees, even the inhabitants — is made of sweets and candy, guarded by rubber-toothed bulldogs and besieged by sugar-crazed giant wasps.</em></p><p><strong>Population:</strong> Candy based</p><p>EVERYTHING is made of sweets, cake and candy! EVERYTHING! The inhabitants too seem oddly edible....</p><p>Willow-like trees of reams of chewy foams, Jamaican Ginger Cake built houses, flying saucer and sugared almond flowers, candy cane and lollipop bushes, soda water fountains, lemonade springs, cigarette trees, everything you dreamed of as a kid listening to the song!</p><p><strong>The problem:</strong> It''s a bit sticky...plus the town is beset every day by attacks from sugar-incensed giant wasps, who attempt to eat the infrastructure and the natives! Also no one can actually work as it''s illegal and a hanging offence. The local guards are Bulldogs but have rubber teeth and are about as effective as you might think.</p><p><strong>Rewards:</strong> If you free the town (with the help of the toothpaste witch Oralle Higeen and her small, but effective, toothbrush army) and slay the plaque monsters which guard the Decay demon who holds sway over the town, you WILL be vastly unpopular, but also have a supply of both toothpaste and sweets for the rest of the dungeon. You may also become mayor and receive sponsorship from The Intergalactic Candy Co (scoff responsibly kids).</p><hr><p><em>Source: Community submission — K8. From <a href="https://pointmongo.com/browse/neighborhoods/the-big-rock-candy-mountain-retreat">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 447
+    category: neighborhoods
+    slug: the-big-rock-candy-mountain-retreat
+    url: https://pointmongo.com/browse/neighborhoods/the-big-rock-candy-mountain-retreat
+    source: Community submission — K8
+    tags:
+      - dcc-ccs
+      - neighborhoods
+    updatedAt: '2026-08-31T17:12:37.1323085Z'
+    needsRestat: false
+    missingFields: []

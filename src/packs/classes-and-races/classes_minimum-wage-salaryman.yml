@@ -1,0 +1,23 @@
+_id: KAR5Ve8KYD36dRQi
+_key: '!items!KAR5Ve8KYD36dRQi'
+name: Minimum Wage Salaryman
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Cleric class bound to a corporate deity: cheap spells and pocket change from nine to five, double Mana once the overtime starts.</em></p><p>You''ve traded your soul to a deity for minimum wage, questionable benefits, and an unpaid Intern who somehow does less work than you. Your divine corporate overlord rewards productivity with discounted daytime spellcasting and pocket change from dead enemies, but once the clock strikes five, you''re officially working overtime at double the Mana cost.</p><table><tbody><tr><th>Build points</th><td>35</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Intelligence</li><li>+3 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Endurance</li><li>+2 Heal Others</li><li>+1 Rise Dead Minion</li><li>+1 Find Crawler</li><li>+1 Escape Plan</li></ul><p><strong>Benefits</strong></p><ul><li>Mobs drop 1 × Floor Number gold when you kill them while "9 to 5" is active. <em>(moderate)</em></li><li>Gain a friendly Pet (Imp Intern) <em>(major)</em></li><li>Manager Benefit <em>(major)</em></li><li>9 to 5: Halves the Mana cost of spells during the Day <em>(epic)</em></li><li>Access to Club Vanquisher <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Overtime: When Night falls spells cost twice as much Mana. <em>(3 pt)</em></li><li>Must Worship Deity <em>(1 pt)</em></li><li>Vulnerable to Psychic Damage <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/classes/minimum-wage-salaryman">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Cleric
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1153
+    category: classes
+    slug: minimum-wage-salaryman
+    url: https://pointmongo.com/browse/classes/minimum-wage-salaryman
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1791818Z'
+    needsRestat: false
+    missingFields: []

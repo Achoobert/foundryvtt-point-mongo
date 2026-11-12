@@ -1,0 +1,41 @@
+_id: ySAukXCYsu5ppEHn
+_key: '!items!ySAukXCYsu5ppEHn'
+name: Telekinesis
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>Lift and move things from 30 feet away, using Intelligence instead of Strength.</em></p><p>You may use Intelligence instead of Strength to move and lift objects at a 30ft range.</p><table><tbody><tr><th>Category</th><td>Passive</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/skills/telekinesis">Point Mongo</a>.</em></p>'
+  governingStat: int
+  category: passive
+  attackType: ''
+  isPassive: true
+  range: 30ft
+  cooldown: ''
+  limitations: This Limited Skill can only be learned via a Race, Class, or item. Mark the skill for advancement until you reach Rank 5. After that,  Ranks in this Skill only increase by magical means and training.  Any checks that require fine manipulation are made with disadvantage. Objects lifted t
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: OkLLhVW0F6mVFVY9
+      rankThreshold: 5
+      description: <p>Int may be used as a base at a distance for Unarmed Combat</p>
+    - id: g8j9z6O5QaWj1JfU
+      rankThreshold: 10
+      description: <p>Doubles your Intelligence for lifting purposes.</p>
+    - id: 1TKCV0w4uxnXY0nr
+      rankThreshold: 15
+      description: <p>Range increases to 60ft.</p>
+flags:
+  point-mongo:
+    id: 853
+    category: skills
+    slug: telekinesis
+    url: https://pointmongo.com/browse/skills/telekinesis
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.171404Z'
+    needsRestat: false
+    missingFields: []

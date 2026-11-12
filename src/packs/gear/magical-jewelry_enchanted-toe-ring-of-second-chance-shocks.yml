@@ -1,0 +1,19 @@
+_id: 7PIjNPCnjoYtOJ2V
+_key: '!items!7PIjNPCnjoYtOJ2V'
+name: Enchanted Toe Ring of Second Chance Shocks
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A lightning-etched toe ring that casts Shock Treatment and Second Chance for free, much to the AI''s delight.</em></p><p>This silver toe ring is etched with a lightning bolt pattern.  It bestows the ability to cast the following spells:  Shock Treatment at Rank 3, with a 6 hour cooldown, and Second Chance at Rank 1 on a 2 hour cooldown.  You hear the AI softly groan in delight when you equip this magical item.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Shock Treatment Spell at Rank 3, no Mana cost, 6 hour cooldown</li><li>Second Chance Spell at Rank 1, no Mana cost, 2 hour cooldown</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-second-chance-shocks">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1135
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-second-chance-shocks
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-second-chance-shocks
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1166401Z'
+    needsRestat: false
+    missingFields: []

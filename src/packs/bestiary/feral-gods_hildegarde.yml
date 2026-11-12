@@ -1,0 +1,53 @@
+_id: ftkvwc5wLyOD5ehK
+_key: '!actors!ftkvwc5wLyOD5ehK'
+name: Hildegarde
+type: mob
+img: icons/svg/mystery-man.svg
+folder: DNiM1ASMkD2zTphd
+system:
+  biography: '<p><strong>Missing:</strong> Level, Size, stat scores, Move, Floor (sets DR), attacks</p><p><em>A titanic, formerly peaceful Giant Sloth banished to the Nothing, now hungry enough to threaten entire cities on release.</em></p><p>The Feral Giant Sloth Hildegarde was once a peaceful Giant Sloth, who lived her life doing what sloths do best: eating and sleeping. Unfortunately for those where she lived, calling her ''Giant'' is a bit of a misnomer. Hildegarde here is actually titanous, as tall as a score of buildings with an appetite to match. Fun fact!: Did you know that a Sloth only needs to defecate once a week and when they...ahem...go, they lose a third of their body weight? Anyhow, for reasons completely and entirely unrelated, Hildegarde was banished to the Nothing. Upon release from the Nothing, Hildegarde will be hungry...</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/feral-gods/hildegarde">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: ''
+  creatureType: ''
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Hildegarde
+  actorLink: false
+flags:
+  point-mongo:
+    id: 118
+    category: feral-gods
+    slug: hildegarde
+    url: https://pointmongo.com/browse/feral-gods/hildegarde
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - the-nothing
+      - feral-gods
+    updatedAt: '2026-09-22T05:37:53.3830782Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - Size
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

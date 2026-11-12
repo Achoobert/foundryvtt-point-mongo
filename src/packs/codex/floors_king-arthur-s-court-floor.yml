@@ -1,0 +1,25 @@
+_id: 7cyFIlF74fSyKZH2
+_key: '!journal!7cyFIlF74fSyKZH2'
+name: King Arthur's Court Floor
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: z5coraXvOwSvrfGQ
+    _key: '!journal.pages!7cyFIlF74fSyKZH2.z5coraXvOwSvrfGQ'
+    name: King Arthur's Court Floor
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Quests galore with Merlin as the real threat, an arrogant twelve-year-old King Arthur, and a Round Table full of Knights with addiction issues.</em></p><p>Behold quests galore, Merlin is the big boss here. King Arthur is an arrogant, incompetent 12-year-old. The Knights of the Round Table all have addiction issues.</p><hr><p><em>Source: Community submission — Jay, Crawler #221. From <a href="https://pointmongo.com/browse/floors/king-arthur-s-court-floor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 460
+    category: floors
+    slug: king-arthur-s-court-floor
+    url: https://pointmongo.com/browse/floors/king-arthur-s-court-floor
+    source: 'Community submission — Jay, Crawler #221'
+    tags:
+      - dcc-ccs
+      - floors
+    updatedAt: '2026-08-31T17:12:39.4389761Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,19 @@
+_id: 6qhaaQc99dseoOYC
+_key: '!items!6qhaaQc99dseoOYC'
+name: Brass Knuckles
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>Four fused brass rings that push the impact into the bones of the hand instead of the fingers, and upgrade every punch you throw.</em></p><p>A standard set of brass knuckles that features a straightforward, ergonomic configuration built to concentrate force and protect the wielder''s hand.  It consists of four fused brass rings connected to a palm grip which shifts the force of the impact away from the delicate finger bones and directly into the sturdy bones of the hand and wrist.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Weapon</td></tr><tr><th>Tier</th><td>Bronze</td></tr><tr><th>Weapon skill</th><td>Pugilism</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Upgrades the wielder''s base Pugilism damage to 1d4+STR, and is compatible with Iron Punch and Powerful Strike.</li><li>Upgrades the wielders base Unarmed Strike damage to 1d6+STR dmg.</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/loot/brass-knuckles">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 900
+    category: loot
+    slug: brass-knuckles
+    url: https://pointmongo.com/browse/loot/brass-knuckles
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-17T18:03:42.0262171Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,24 @@
+_id: 9Uhz2W3PBFdi5VUo
+_key: '!journal!9Uhz2W3PBFdi5VUo'
+name: You’re Not My Boss
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: aPzN3ijwM30EaO1l
+    _key: '!journal.pages!9Uhz2W3PBFdi5VUo.aPzN3ijwM30EaO1l'
+    name: You’re Not My Boss
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you refuse an NPC''s demand or order and successfully deal with the consequences.</em></p><p>You refused an NPC''s orders and survived the consequences. Congratulations! You have demonstrated the dangerous combination of independence and poor judgment.</p><p>Reward: Silver Asshole''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/you-re-not-my-boss">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 628
+    category: achievements
+    slug: you-re-not-my-boss
+    url: https://pointmongo.com/browse/achievements/you-re-not-my-boss
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9765225Z'
+    needsRestat: false
+    missingFields: []

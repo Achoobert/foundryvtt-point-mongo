@@ -1,0 +1,26 @@
+_id: rvJ9SlMO4rx3NaHF
+_key: '!items!rvJ9SlMO4rx3NaHF'
+name: Ordinance Battery Chassis
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>If you choose this mechanical chassis class for your Chip Race, you''ll be Armed and Dangerous, ready to dispense justice at a moment''s notice.</em></p><p><strong>Class Type:</strong> Fighter (Ranged). Prerequisite: Only available to Chip-Race Crawlers. Description: Somewhere on Earth, a toy company sold your silhouette to children for $19.99 and called it a "battle buddy." The dungeon has other ideas about what you''re for. Your arm doesn''t hold a gun. It stopped needing to a long time ago. +5 Dexterity, +2 Intelligence, +3 Arm Cannon (Handgun) Skill, +2 Targeting Array (Aiming) Skill, Arm Cannon (Handgun) Skill can be raised to Rank 20, +1 DR Buff, Situational bonus of up to x2 damage for one round, Add 1d4 to your Evade or Dexterity Checks, Resistance to Force damage, Roll with Advantage when making Skill Advancement Checks for the Arm Cannon (Handgun) Skill.</p><table><tbody><tr><th>DR</th><td>1</td></tr><tr><th>Prerequisites</th><td>Only available to Chip-race crawlers.</td></tr><tr><th>Rank 20</th><td>Arm Cannon (Handgun) can be raised to Rank 20.</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Dexterity</li><li>+2 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Arm Cannon (Handgun)</li><li>+2 Targeting Array (Aiming)</li></ul><p><strong>Benefits</strong></p><ul><li>A situational bonus of up to x2 damage for one round.</li><li>Add 1d4 to your Evade or Dexterity Checks.</li><li>Resistance to Force damage.</li><li>Roll with Advantage on Skill Advancement Checks for Arm Cannon (Handgun).</li></ul><hr><p><em>Source: Crawler Raph. From <a href="https://pointmongo.com/browse/classes/ordinance-battery-chassis">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter (Ranged)
+  prerequisites: Only available to Chip-race crawlers.
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 484
+    category: classes
+    slug: ordinance-battery-chassis
+    url: https://pointmongo.com/browse/classes/ordinance-battery-chassis
+    source: Crawler Raph
+    tags:
+      - class
+      - classes
+    updatedAt: '2026-09-02T00:47:04.9248959Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

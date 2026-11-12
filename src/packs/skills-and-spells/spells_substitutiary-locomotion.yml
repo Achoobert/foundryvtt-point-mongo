@@ -1,0 +1,44 @@
+_id: lqtIhWZj8cvR2qDd
+_key: '!items!lqtIhWZj8cvR2qDd'
+name: Substitutiary Locomotion
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> type (Attack or Passive)</p><p><em>An INT spell that animates every unworn garment and piece of armor nearby to do the caster''s bidding.</em></p><p>Treguna Mekoides Trecorum Satis Dee</p><p>The spell affects any garment or piece of armor not currently in use within a 100 ft sphere originating from the caster. Affected garments will act as if they are being worn and will obey any commands given to them by the caster. Garments and even pieces of the garments may still be torn or destroyed, but if there is any piece still intact, it will continue on with whatever task it has been assigned for the duration of the spell. The spell will last for up to 5 minutes unless the caster’s concentration is disrupted or they are mortally wounded.</p><p>Note: If this spell is cast using the The Great Star of Astoroth, it is cast at Level 15, there is no Mana Cost, and Concentration is not required - the spell will last for the duration or until the Star is removed from the Caster’s person.</p><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/spells/substitutiary-locomotion">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 30
+  range: 100' ft
+  duration: 5 minutes, concentration
+  cooldown: 30 hours
+  isPassive: false
+  castingKeywords: []
+  favoredClasses:
+    - Witches
+    - Mages
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: q64WfZ9IkYsxgxa8
+      rankThreshold: 5
+      description: <p>Range increases to 200’ ft, and duration to 10 minutes. Cooldown is reduced to 20 hours.</p>
+    - id: 6vQIjGZQfoCLHFBu
+      rankThreshold: 10
+      description: <p>Range increases to 300’ ft, and duration to 15 minutes. Cooldown is reduced to 10 hours.</p>
+    - id: XM5o64UbQVgxgpgk
+      rankThreshold: 15
+      description: <p>Range increases to 500’ ft, and duration to 20 minutes. Cooldown is reduced to 2 hours.</p>
+flags:
+  point-mongo:
+    id: 964
+    category: spells
+    slug: substitutiary-locomotion
+    url: https://pointmongo.com/browse/spells/substitutiary-locomotion
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-10-23T19:20:32.2028596Z'
+    needsRestat: false
+    missingFields:
+      - type (Attack or Passive)

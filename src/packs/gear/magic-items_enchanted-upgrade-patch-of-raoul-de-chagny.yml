@@ -1,0 +1,19 @@
+_id: 5uSEzDc6TE5qqOdJ
+_key: '!items!5uSEzDc6TE5qqOdJ'
+name: Enchanted Upgrade Patch of Raoul de Chagny
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A fleeting patch of a white half mask and a red rose that shrugs off half of any Acid damage and lends its wearer a romantic lead''s charm.</em></p><p>This is a fleeting item.  This embroidered patch depicts a white half face mask above a long stemmed red rose on a black background.  When this upgrade patch is properly sewn onto an eligible garment it bestows Resistance to Acid Damage, and a +5 Charisma bonus.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Resistance to Acid damage</li><li>+5 Charisma</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-upgrade-patch-of-raoul-de-chagny">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1030
+    category: magic-items
+    slug: enchanted-upgrade-patch-of-raoul-de-chagny
+    url: https://pointmongo.com/browse/magic-items/enchanted-upgrade-patch-of-raoul-de-chagny
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-01T19:31:04.6322332Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,19 @@
+_id: H8gmqmmkhYvPjQUg
+_key: '!items!H8gmqmmkhYvPjQUg'
+name: Jabbadayah's Ankle Bracelet
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A Gold ankle bracelet granting +1 Charisma and one casting of Rootfoot per combat.</em></p><p>This is an ankle bracelet. You may wear one ankle bracelet per leg. After the Crawler Jabbadayah met his grisly demise during his season of Dungeon Crawler Worlds, only his ankle bracelet was left behind, enchanted by the very roots that became his end. You should be fine!</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Ankle Bracelet</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>0</td></tr><tr><th>Duration</th><td>n/a</td></tr><tr><th>Cooldown</th><td>n/a</td></tr><tr><th>Charges</th><td>n/a</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Charisma</li><li>You may cast the spell Rootfoot at Rank 5 once per combat.</li></ul><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/magical-jewelry/jabbadayah-s-ankle-bracelet">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 749
+    category: magical-jewelry
+    slug: jabbadayah-s-ankle-bracelet
+    url: https://pointmongo.com/browse/magical-jewelry/jabbadayah-s-ankle-bracelet
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6012814Z'
+    needsRestat: false
+    missingFields: []

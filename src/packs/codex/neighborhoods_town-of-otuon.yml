@@ -1,0 +1,25 @@
+_id: 9eNhTeLdY3uqXhfQ
+_key: '!journal!9eNhTeLdY3uqXhfQ'
+name: Town of Otuon
+folder: cWQgUi6OmzYETooo
+pages:
+  - _id: op8XTXUqrUefWR2m
+    _key: '!journal.pages!9eNhTeLdY3uqXhfQ.op8XTXUqrUefWR2m'
+    name: Town of Otuon
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A town of Crocodilian and Reptile-kin who sunbathe camouflaged on buildings by day and throw full-blown parties by night.</em></p><p><strong>Population:</strong> Crocodilian &amp; Reptile-kin</p><p>A town where they all stick on the buildings during the way camouflaged and getting a tan. Siesta town. At nights, they become full party towns.</p><hr><p><em>Source: Community submission — Otuon. From <a href="https://pointmongo.com/browse/neighborhoods/town-of-otuon">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 437
+    category: neighborhoods
+    slug: town-of-otuon
+    url: https://pointmongo.com/browse/neighborhoods/town-of-otuon
+    source: Community submission — Otuon
+    tags:
+      - dcc-ccs
+      - neighborhoods
+    updatedAt: '2026-11-11T20:08:41.6811386Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,26 @@
+_id: K267hFqHx4CJQauH
+_key: '!journal!K267hFqHx4CJQauH'
+name: Corroxis (Green Element Slimordian)
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: FOa0DkFxm6oVQlkn
+    _key: '!journal.pages!K267hFqHx4CJQauH.FOa0DkFxm6oVQlkn'
+    name: Corroxis (Green Element Slimordian)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>An acid-type Element Slimordian slime that dissolves nearly anything it touches and spits corrosive projectiles.</em></p><p><strong>Species:</strong> Element Slimordian (Green, Acid)</p><p>A toxic neon-green slime that constantly bubbles, releasing acidic fumes that hiss on contact with stone or metal. Leaves smoking trails and can spit concentrated acid projectiles strong enough to melt armor. Abilities: acid spray, corrosion, poison clouds, dissolving touch. Weaknesses: ice, alkaline substances. Personality: sadistic, cunning, territorial.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/pets/corroxis-green-element-slimordian">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 313
+    category: pets
+    slug: corroxis-green-element-slimordian
+    url: https://pointmongo.com/browse/pets/corroxis-green-element-slimordian
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - pets
+      - slime
+    updatedAt: '2026-09-02T04:50:41.7476758Z'
+    needsRestat: false
+    missingFields: []

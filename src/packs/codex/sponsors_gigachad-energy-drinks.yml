@@ -1,0 +1,25 @@
+_id: oGb8zIXTGtO0DjkB
+_key: '!journal!oGb8zIXTGtO0DjkB'
+name: GigaChad Energy Drinks
+folder: hvyWwMcQCbDfRsP5
+pages:
+  - _id: hswStRmXbGAOeC7G
+    _key: '!journal.pages!oGb8zIXTGtO0DjkB.hswStRmXbGAOeC7G'
+    name: GigaChad Energy Drinks
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A hyper-masculine energy drink corporation that rarely sponsors female or non-binary crawlers.</em></p><p><strong>GigaChad Energy Drinks:</strong> A corporate Rockstar in the world of refreshment technology GigaChad markets its caffeine and sucrose infused syrup beverages to the "real" men of the known universe. Image is everything to GigaChad. They are unlikely to sponsor female, or non-binary Crawlers, for reasons. Unless you live under a rock, you have likely heard their marketing tagline: "Brah!"</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/sponsors/gigachad-energy-drinks">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 353
+    category: sponsors
+    slug: gigachad-energy-drinks
+    url: https://pointmongo.com/browse/sponsors/gigachad-energy-drinks
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - sponsors
+    updatedAt: '2026-09-22T05:38:22.5874024Z'
+    needsRestat: false
+    missingFields: []

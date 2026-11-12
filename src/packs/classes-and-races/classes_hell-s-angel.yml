@@ -1,0 +1,25 @@
+_id: xMBwSI9sPd2XUsoy
+_key: '!items!xMBwSI9sPd2XUsoy'
+name: Hell's Angel
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter/Ranger/Rogue class for leather-clad bikers bringing Hell on Wheels to the dungeon, at the cost of a Club Vanquisher membership.</em></p><p>For as long as motorcycles have had wheels like-minded revolutionaries, skinheads, toughs, and divorced dads have banded together over their love of the open road and leather. Motorcycle gangs have filled many essential roles: drug trafficking, harassment, extortion, getting blitzed and wrecking dive bars. The most notorious of these gangs was The Hell''s Angels.</p><p>Now you too can join this fraternal order of bearded miscreants and bring your own brand of Hell on Wheels to the dungeon.</p><table><tbody><tr><th>Prerequisites</th><td>Own a Motorcycle or similar 2-wheeled vehicle</td></tr><tr><th>Bonus box</th><td>Earth hobby box</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Strength</li><li>+3 constitution</li><li>-2 charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 intimidate</li><li>+3 motorcycle (or Chopper/comparable skill)</li><li>+2 gun</li><li>+2 iron punch or chain whip</li><li>+2 gear head</li></ul><p><strong>Benefits</strong></p><ul><li>drug/addiction resistance <em>(moderate)</em></li><li>Desperado Pass <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>exclusion from club vanquisher <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/classes/hell-s-angel">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter
+    - Ranger
+    - rogue
+  prerequisites: Own a Motorcycle or similar 2-wheeled vehicle
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1112
+    category: classes
+    slug: hell-s-angel
+    url: https://pointmongo.com/browse/classes/hell-s-angel
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-10T06:59:48.5753566Z'
+    needsRestat: false
+    missingFields: []

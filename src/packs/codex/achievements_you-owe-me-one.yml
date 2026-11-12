@@ -1,0 +1,24 @@
+_id: V3mzVcauygONJ6JQ
+_key: '!journal!V3mzVcauygONJ6JQ'
+name: You Owe Me One
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 2JEUUOl2sxjXR9s3
+    _key: '!journal.pages!V3mzVcauygONJ6JQ.2JEUUOl2sxjXR9s3'
+    name: You Owe Me One
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you save another crawler from serious danger, then immediately demand repayment.</em></p><p>You saved another crawler''s life and immediately converted the heroic moment into a debt.</p><p>The System AI approves of this entrepreneurial spirit.</p><p>Reward: Silver Friendship Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/you-owe-me-one">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 673
+    category: achievements
+    slug: you-owe-me-one
+    url: https://pointmongo.com/browse/achievements/you-owe-me-one
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0139503Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,25 @@
+_id: JbnoWFKP7ESAF31N
+_key: '!journal!JbnoWFKP7ESAF31N'
+name: Catted!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: eLKn1fbzqSXBf0jZ
+    _key: '!journal.pages!JbnoWFKP7ESAF31N.eLKn1fbzqSXBf0jZ'
+    name: Catted!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a cat falls asleep on a crawler, pinning them in place under threat of claws.</em></p><p><strong>Scenario:</strong> A cat climbs onto a crawler while sleeping.</p><p>You have been CATTED. A cat has found its way onto your person while you were lying down. The cat is now comfy and not at all inclined to move off of you. You are now stuck and cannot move, or else you''ll disturb the hairy baby. You poor thing. I am so, SO very sorry. NOT! DEBUFF: CATTED You are unable to move comfortably from your position for the next 2d20 minutes. Any attempts to move from your position will risk a 30% chance of invoking the cat’s wrath, and more importantly, its claws! Take 4d4 slashing damage on a successful hit from the cat.</p><p><strong>Suggested Rewards:</strong></p><p><strong>DEBUFF:</strong> CATTED You are unable to move comfortably from your position for the next 2d20 minutes. Any attempts to move from your position will risk a 30% chance of invoking the cat’s wrath, and more importantly, its claws! Take 4d4 slashing damage on a successful hit from the cat.</p><hr><p><em>Source: Community submission — Myles L (Crawler #26933). From <a href="https://pointmongo.com/browse/achievements/catted">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 273
+    category: achievements
+    slug: catted
+    url: https://pointmongo.com/browse/achievements/catted
+    source: 'Community submission — Myles L (Crawler #26933)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:27:11.5143573Z'
+    needsRestat: false
+    missingFields: []

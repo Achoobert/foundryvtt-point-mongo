@@ -1,0 +1,19 @@
+_id: V7aCrvRYXLFcWyHB
+_key: '!items!V7aCrvRYXLFcWyHB'
+name: Enchanted Rod of the Ever Flame
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>An ebony rod that lends its wielder some muscle and lights a free Torch every few hours.</em></p><p>This ebony rod bestows +3 strength to the wielder, and grants the ability to cast the Torch spell at Rank 3, at no mana cost, every 3 hours.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Rod</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 Strength</li><li>Torch Spell at Rank 3, no Mana cost, 3 hour cooldown</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/enchanted-rod-of-the-ever-flame">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 988
+    category: magical-weapons
+    slug: enchanted-rod-of-the-ever-flame
+    url: https://pointmongo.com/browse/magical-weapons/enchanted-rod-of-the-ever-flame
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-28T16:58:32.4901325Z'
+    needsRestat: false
+    missingFields: []

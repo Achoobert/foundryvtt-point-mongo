@@ -1,0 +1,23 @@
+_id: M5QfKLG3BBIi0JTw
+_key: '!items!M5QfKLG3BBIi0JTw'
+name: Shifter Druid
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Druid class for crawlers who always wondered what it would be like to be an animal, built around the Fursona shapeshift and life in the wild.</em></p><p>So, you are one of those that kept questioning how fun it would be to actually be an animal. To run free, to be one with nature, to shit in the woods. Well, seems like the Dungeon can be a place to make it all come true. That is if you do not die screeching as you are hunted down as... well, an animal.</p><p>+3 Int</p><p>+3 Con</p><p><strong>Stat bonuses</strong></p><ul><li>+3 Intelligence</li><li>+3 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Fursona Spell</li><li>+2 Fire Fingers Spell</li><li>+1 Nature''s Breath Spell</li></ul><p><strong>Benefits</strong></p><ul><li>Double your mana regeneration from resting and mending in natural environments. <em>(minor)</em></li><li>Add 1d4 to your evade checks when shapeshifted (As per the Changeling ability or the Fursona Spell, for example). <em>(major)</em></li><li>+1 Ambush, Animal Handling, Endurance, Survival and Tracking <em>(extreme)</em></li><li>+1 to Light on Your Feet <em>(extreme)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/shifter-druid">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Druid
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1109
+    category: classes
+    slug: shifter-druid
+    url: https://pointmongo.com/browse/classes/shifter-druid
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.613496Z'
+    needsRestat: false
+    missingFields: []

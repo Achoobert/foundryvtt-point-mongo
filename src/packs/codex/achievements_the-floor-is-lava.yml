@@ -1,0 +1,24 @@
+_id: 6dvOHj9kyrgP4VNq
+_key: '!journal!6dvOHj9kyrgP4VNq'
+name: The Floor Is Lava
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: KoOUVUgqXzL1fbHK
+    _key: '!journal.pages!6dvOHj9kyrgP4VNq.KoOUVUgqXzL1fbHK'
+    name: The Floor Is Lava
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you defeat an enemy while standing somewhere absurdly dangerous or unconventional.</em></p><p>You defeated an enemy while standing somewhere you absolutely should not have been standing. The System AI isn''t asking how you got there. It doesn''t want to know.</p><p>Reward: Silver Lucky Bastard Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/the-floor-is-lava">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 679
+    category: achievements
+    slug: the-floor-is-lava
+    url: https://pointmongo.com/browse/achievements/the-floor-is-lava
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0187672Z'
+    needsRestat: false
+    missingFields: []

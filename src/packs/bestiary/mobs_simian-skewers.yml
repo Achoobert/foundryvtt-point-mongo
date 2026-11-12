@@ -1,0 +1,56 @@
+_id: KD7VxEzfhDhYXQHf
+_key: '!actors!KD7VxEzfhDhYXQHf'
+name: Simian Skewers
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>Loud, territorial little monkeys with sharpened spears that travel in troops, and sometimes come out of a barrel.</em></p><p>small and fast old-world monkeys wielding tiny spears</p><p>Small, territorial primates armed with sharpened wooden spears, Simian Skewers usually travel in troops of 1d4+2. They’re quite loud, screeching at everything, and are likely to draw the attention of nearby mobs as well.</p><p>Barrel of Monkeys - common traps on the first floor, these barrels are filled with 1d4+1 Simian Skewers just waiting for a hapless crawler to get too close</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — SuperBob. From <a href="https://pointmongo.com/browse/mobs/simian-skewers">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 2
+  size: Small (2)
+  creatureType: Primate
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 2
+    max: 2
+  dr: 1
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 6
+    con:
+      value: 1
+    int:
+      value: 2
+    cha:
+      value: 1
+  attacks:
+    - name: Poke
+      toHit: ''
+      damage: 1d6
+      damageType: piercing
+      range: '5'
+      effect: ''
+    - name: Throw
+      toHit: ''
+      damage: 1d6
+      damageType: piercing
+      range: '20'
+      effect: ''
+prototypeToken:
+  name: Simian Skewers
+  actorLink: false
+flags:
+  point-mongo:
+    id: 1116
+    category: mobs
+    slug: simian-skewers
+    url: https://pointmongo.com/browse/mobs/simian-skewers
+    source: Community submission — SuperBob
+    tags: []
+    updatedAt: '2026-11-10T06:59:48.6776954Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,19 @@
+_id: iYIZuSm5B7Jjr1vD
+_key: '!items!iYIZuSm5B7Jjr1vD'
+name: Sleeveless Tank Top of the Tough Guy
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>It makes you look like a badass and, unusually for a tank top, it can sometimes back that up.</em></p><p>This sleeveless tank top (aren''t all tank tops sleeveless?) really makes you look like a badass out in the dungeon. Lucky for you, this tank top can sometimes back that up.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Undershirt</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>0</td></tr><tr><th>Duration</th><td>n/a</td></tr><tr><th>Cooldown</th><td>n/a</td></tr><tr><th>Charges</th><td>n/a</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 Constitution</li><li>Add 10 to your 100% Health Bar slot</li></ul><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/magic-items/sleeveless-tank-top-of-the-tough-guy">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 734
+    category: magic-items
+    slug: sleeveless-tank-top-of-the-tough-guy
+    url: https://pointmongo.com/browse/magic-items/sleeveless-tank-top-of-the-tough-guy
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-24T18:09:52.9533371Z'
+    needsRestat: false
+    missingFields: []

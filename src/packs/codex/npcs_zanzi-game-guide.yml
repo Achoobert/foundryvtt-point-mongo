@@ -1,0 +1,26 @@
+_id: R9zeqSpBsCCAzk4X
+_key: '!journal!R9zeqSpBsCCAzk4X'
+name: Zanzi (Game Guide)
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: ivOl64e9l4PChnz2
+    _key: '!journal.pages!R9zeqSpBsCCAzk4X.ivOl64e9l4PChnz2'
+    name: Zanzi (Game Guide)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A level-65 Lajabless Game Guide with two unaware personalities — cheerful and human, or cold, competent, and skull-formed.</em></p><p><strong>Type:</strong> Game Guide (Evoker) · <strong>Level:</strong> 65 · <strong>Race:</strong> Lajabless</p><p>Once an Arcane Arbalester spell sniper, Zanzi earned the rare opportunity to change race between crawls after successfully guiding a pair of crawlers to floor 12 — with unforeseen consequences. In human form she''s cheerful, helpful, and a bit forgetful; in skull form she''s the most competent guide in the business, but cold and favor-demanding. Neither form is aware of the other, and both love spicy food.</p><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/npcs/zanzi-game-guide">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 238
+    category: npcs
+    slug: zanzi-game-guide
+    url: https://pointmongo.com/browse/npcs/zanzi-game-guide
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - game-guide
+    updatedAt: '2026-09-02T04:50:41.4026299Z'
+    needsRestat: false
+    missingFields: []

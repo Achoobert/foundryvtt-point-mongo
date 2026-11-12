@@ -1,0 +1,23 @@
+_id: FXgZ0NKi1VQw9ebS
+_key: '!items!FXgZ0NKi1VQw9ebS'
+name: Curupira
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A backwards-footed forest spirit with burning hair, near impossible to track through the woods.</em></p><p>South american legends tell of the Curupira, a trickster spirit, defender of natural spaces. Famous for their fiery hair, with feet turned backwards, they trick and hunt those who destroy the woods, messing up with hunters traps, wood cutters equipment and confusing their minds, getting them lost in the woods.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Dexterity</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Ambush</li><li>+1 Stealth</li><li>+1 Survival</li><li>+1 Animal Handling</li><li>+1 Find Crawler</li><li>+1 Grand Illusion</li><li>+1 Tripper</li></ul><p><strong>Benefits</strong></p><ul><li>If they so desire, their hair shed light like a torch and can set flammable material in flames <em>(moderate)</em></li><li>Any attempts to track the Curupira are made at Disadvantage <em>(major)</em></li><li>Can traverse natural terrain without skill checks <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Banned from using Metalworker weapons <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/curupira">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 830
+    category: races
+    slug: curupira
+    url: https://pointmongo.com/browse/races/curupira
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-28T03:33:05.9258598Z'
+    needsRestat: false
+    missingFields: []

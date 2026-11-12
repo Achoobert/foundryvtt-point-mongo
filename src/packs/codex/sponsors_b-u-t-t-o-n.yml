@@ -1,0 +1,25 @@
+_id: E2rtm3AGF0k5UZ1i
+_key: '!journal!E2rtm3AGF0k5UZ1i'
+name: B.U.T.T.O.N
+folder: hvyWwMcQCbDfRsP5
+pages:
+  - _id: bQwjwCkxt2EIppdj
+    _key: '!journal.pages!E2rtm3AGF0k5UZ1i.bQwjwCkxt2EIppdj'
+    name: B.U.T.T.O.N
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Ballistic Utility &amp; Tactical Triggered Ordnance Network — sponsors items with a powerful, uncontrollable random effect on activation.</em></p><p>Ballistic Utility &amp; Tactical Triggered Ordnance Network or B.U.T.T.O.N. Motto: “Press it. You know you want to.” Description: Grants a powerful random effect when activated. Could save your life or immediately make everything worse. No control, no refunds</p><p><strong>Notes:</strong></p><p>Often bestows items that grant a powerful random effect when activated. Could save your life or immediately make everything worse. No control, no refunds</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/sponsors/b-u-t-t-o-n">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 346
+    category: sponsors
+    slug: b-u-t-t-o-n
+    url: https://pointmongo.com/browse/sponsors/b-u-t-t-o-n
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - sponsors
+    updatedAt: '2026-10-02T23:02:05.1659375Z'
+    needsRestat: false
+    missingFields: []

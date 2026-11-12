@@ -1,0 +1,23 @@
+_id: GZwl1JPdVKxrBJ2a
+_key: '!items!GZwl1JPdVKxrBJ2a'
+name: Grandfaether
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Part fairy, part grumpy old man, part psychedelic mushroom: small, clever fae advisers who would rather be left alone in the woods.</em></p><p>One day a mushroom woke up and decided it''s had enough of everyone''s shit. One part fairy, one part grumpy old man, and one part psychedelic mushroom, the Grandfaether often fill advisory roles in the courts of the fae. That or they sit in the woods, and avoid everyone around them.</p><table><tbody><tr><th>Size</th><td>Small (2)</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 dexterity</li><li>+4 intelligence</li><li>+2 charisma</li><li>-4 strength</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 hide in plain sight</li><li>+2 Sprout Forest</li><li>+2 Animal Handling</li><li>+3 Fairy Circle (roots target in place and increases susceptibility to enchantment effects)</li></ul><p><strong>Benefits</strong></p><ul><li>enchantment spells grow faster <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>vulnerability to fire damage <em>(2 pt)</em></li><li>vulnerability to cold damage <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/races/grandfaether">Point Mongo</a>.</em></p>'
+  size: Small (2)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1150
+    category: races
+    slug: grandfaether
+    url: https://pointmongo.com/browse/races/grandfaether
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.154371Z'
+    needsRestat: false
+    missingFields: []

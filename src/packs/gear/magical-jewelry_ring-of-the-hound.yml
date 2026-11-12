@@ -1,0 +1,23 @@
+_id: raKmzdqU7xGNJtxf
+_key: '!items!raKmzdqU7xGNJtxf'
+name: Ring of the Hound
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A ring granting a bloodhound''s sense of smell — and the habit of snuffling the ground.</em></p><p><strong>Type:</strong> Ring</p><p>Grants the wearer a bloodhound''s sense of smell. The wearer also tends to snuffle at the ground.</p><table><tbody><tr><th>Type</th><td>Ring</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magical-jewelry/ring-of-the-hound">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 207
+    category: magical-jewelry
+    slug: ring-of-the-hound
+    url: https://pointmongo.com/browse/magical-jewelry/ring-of-the-hound
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magical-jewelry
+    updatedAt: '2026-09-03T16:29:38.8957963Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

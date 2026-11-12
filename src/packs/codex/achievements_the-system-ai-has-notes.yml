@@ -1,0 +1,24 @@
+_id: dWSLd2UP9gT4qeKk
+_key: '!journal!dWSLd2UP9gT4qeKk'
+name: The System AI Has Notes
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 5ENGrcHSd3Yk79rF
+    _key: '!journal.pages!dWSLd2UP9gT4qeKk.5ENGrcHSd3Yk79rF'
+    name: The System AI Has Notes
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you do something so unprecedented that the System AI has to invent a brand-new achievement on the spot, live, specifically for you.</em></p><p>There was no achievement for what you just did. We checked. We had to write one in real time. That doesn''t happen. There are millions of achievements. We thought we''d covered everything. Congratulations, you broke the categorization system. Someone in the back office is furious about the paperwork.</p><p>Reward: Legendary Off-The-Books Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/the-system-ai-has-notes">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 725
+    category: achievements
+    slug: the-system-ai-has-notes
+    url: https://pointmongo.com/browse/achievements/the-system-ai-has-notes
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0557733Z'
+    needsRestat: false
+    missingFields: []

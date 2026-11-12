@@ -1,0 +1,24 @@
+_id: Q38OfqDLNFlByqki
+_key: '!journal!Q38OfqDLNFlByqki'
+name: Giant Slayer, Junior Varsity
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 5ivR4XeYmLJ9oLrR
+    _key: '!journal.pages!Q38OfqDLNFlByqki.5ivR4XeYmLJ9oLrR'
+    name: Giant Slayer, Junior Varsity
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you land the killing blow on a Neighborhood Boss.</em></p><p>You put down a Neighborhood Boss, map and all, on a floor most crawlers spend just learning which end of a sword is which. That''s a real kill against a real threat. The Third Floor is going to be so disappointed when it finds out you peaked early.</p><p>Reward: Gold Neighborhood Menace Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/giant-slayer-junior-varsity">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 709
+    category: achievements
+    slug: giant-slayer-junior-varsity
+    url: https://pointmongo.com/browse/achievements/giant-slayer-junior-varsity
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0427587Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,45 @@
+_id: W4E49ft0pIJRs4F2
+_key: '!items!W4E49ft0pIJRs4F2'
+name: Cut the Payroll
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>An Evocation strike that stuns and eventually turns a boss''s own minions against it.</em></p><p><strong>Level 1:</strong> A powerful strike that, if used against a Crawler or Mob with minions, stuns all of their Minions for 1 Round in awe.</p><p><strong>Level 5:</strong> Gain 25 gold X your Charisma for each minion the target has if they''re hit by this spell.</p><p><strong>Level 10:</strong> De-summon up to half (rounded down) of the target''s minions that are currently active if they''re hit by this spell.</p><p><strong>Level 15:</strong> Turn any remaining active minions of the target against them if they''re hit by this spell. This duration lasts 2 Round.</p><p><strong>Level 20:</strong> If you kill the target with this Spell, any they had minions remaining, you permanently gain control of all of their minions.</p><table><tbody><tr><th>Base damage</th><td>n/a</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>This applies to your next Weapon or Unarmed Attack.</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/cut-the-payroll">Point Mongo</a>.</em></p>'
+  governingStat: cha
+  manaCost: 5
+  range: Self
+  duration: Instant
+  cooldown: 3 Rounds
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: c9uMcnmQOApWOrpM
+      rankThreshold: 5
+      description: <p>Gain 25 Gold X your CHA for each minion the target of your next attack has.</p>
+    - id: doPCJpmbkgpX9mKs
+      rankThreshold: 10
+      description: <p>De-summon up to half (rounded down) of the minions the target of your next attack has.</p>
+    - id: GLxBA8ObBhYdESDt
+      rankThreshold: 15
+      description: <p>Turn any remaining active minions the target of your next attack has against them. These minions will fight for you for 3 Rounds.</p>
+flags:
+  point-mongo:
+    id: 391
+    category: spells
+    slug: cut-the-payroll
+    url: https://pointmongo.com/browse/spells/cut-the-payroll
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+      - evocation
+    updatedAt: '2026-09-22T05:46:52.7297622Z'
+    needsRestat: true
+    missingFields: []

@@ -1,0 +1,42 @@
+_id: z7SoFKSXER4wxjzT
+_key: '!items!z7SoFKSXER4wxjzT'
+name: The Scorched Earth Buffet
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Summons a fire sprite that trails you for three rounds, then charges forward and detonates.</em></p><p>Summon a tiny fire sprite token adjacent to you; it remains for the spell''s duration and has no independent statistics or Actions. The sprite remains adjacent to the caster for 3 rounds, moving automatically to keep up. At the end of its duration, it runs 20ft forward and detonates automatically.</p><p>- You may use an Action to detonate the sprite early.</p><p>- Detonation creates a 10ft-radius Blast centered on the sprite.</p><p>- The caster makes an Attack Spell Check against each creature''s Evade. Success deals full damage; Fail deals no damage.</p><p>- As an Action, a creature adjacent to the sprite may feed it one nonmagical carried item, portion of food, or corpse/remains; the offering is consumed and adds 1 Fuel.</p><p>- Each Fuel held adds +1d4 Fire to the explosion damage.</p><table><tbody><tr><th>Base damage</th><td>1d6 + INT</td></tr><tr><th>Limitations</th><td>Valid fuel must be a nonmagical carried item, food portion, or corpse/remains adjacent to the sprite.</td></tr></tbody></table><hr><p><em>Source: Community submission — Kron. From <a href="https://pointmongo.com/browse/spells/the-scorched-earth-buffet">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 20
+  range: Self
+  duration: 3 rounds
+  cooldown: Once per Scene
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses: []
+  baseDamage:
+    dice: 1d6
+    stat: int
+    damageType: fire
+  upgrades:
+    - id: 7TwCyfBQFA7bbxA1
+      rankThreshold: 5
+      description: <p>Blast Radius increased to 15ft. +1d6 base damage. A creature that loses 1 or more Health Bar slots from the explosion gains the Burned Debuff.</p>
+    - id: 0pMBGrCVA2gNvLQs
+      rankThreshold: 10
+      description: <p>Blast increased to 20ft. +1d6 base damage. +1 fuel per feeding.</p>
+    - id: pxF6Ddfp7KgQ3thM
+      rankThreshold: 15
+      description: <p>Blast increased to 30ft. +1d6 base damage. You may command the sprite to move to a specific point within 20ft on your turn. You may detonate the sprite as an Interrupt as an enemy enters the blast radius.</p>
+flags:
+  point-mongo:
+    id: 555
+    category: spells
+    slug: the-scorched-earth-buffet
+    url: https://pointmongo.com/browse/spells/the-scorched-earth-buffet
+    source: Community submission — Kron
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6598473Z'
+    needsRestat: false
+    missingFields: []

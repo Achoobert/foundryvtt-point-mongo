@@ -1,0 +1,42 @@
+_id: agLUXYBwDckMECum
+_key: '!items!agLUXYBwDckMECum'
+name: Deep Shield
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>A Passive water shield of 2 Health Bar slots that soaks Common damage, immune to Fire but doubly vulnerable to Lightning and Ice.</em></p><p>"DROWN IN THE DEEP"</p><p>Interrupt, Passive</p><p>The target is surrounded by a shield made from a loud, fast moving vortex of water that moves with them and reduces all Common Damage they take. The Shield has 2 Health Bar slots, each with the target’s CHA MOD. When the target takes damage, reduce these Health Bar slots first. The Spell ends early if the shield loses all its Health Bar slots. Shields can’t be healed.</p><p>While the Shield is active, Uncommon Damage Types Lightning and Ice bypass the Shield and do x2 damage directly to the target. The Shield is immune to the Common Damage Type Fire.</p><table><tbody><tr><th>Limitations</th><td>This Limited Spell can’t be learned or improved, and is only found on items with "The Deep" theme.</td></tr></tbody></table><hr><p><em>Source: Community submission — Mr King. From <a href="https://pointmongo.com/browse/spells/deep-shield">Point Mongo</a>.</em></p>'
+  governingStat: cha
+  manaCost: 0
+  range: 50 ft (includes Self)
+  duration: 5 minutes
+  cooldown: 2 Hours / Rank
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: FR4QjBVYh3I4nEgm
+      rankThreshold: 5
+      description: <p>The Shield has 5 Health Bar slots, and the Cooldown is increased to 10 hours.</p>
+    - id: cY5NsMef8HwgoQou
+      rankThreshold: 10
+      description: <p>The Shield has 10 Health Bar slots, and the Cooldown is increased to 20 hours.</p>
+    - id: L2LGXWpz8zctsSNB
+      rankThreshold: 15
+      description: <p>The Shield has 15 Health Bar slots, and the Cooldown is increased to 30 hours.</p>
+flags:
+  point-mongo:
+    id: 783
+    category: spells
+    slug: deep-shield
+    url: https://pointmongo.com/browse/spells/deep-shield
+    source: Community submission — Mr King
+    tags: []
+    updatedAt: '2026-09-20T19:30:22.5143181Z'
+    needsRestat: false
+    missingFields: []

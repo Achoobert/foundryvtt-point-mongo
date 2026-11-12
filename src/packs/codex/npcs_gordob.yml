@@ -1,0 +1,26 @@
+_id: nb6Kl4S3oHTRmlTF
+_key: '!journal!nb6Kl4S3oHTRmlTF'
+name: Gordob
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: uzXgFuB38aROo2R1
+    _key: '!journal.pages!nb6Kl4S3oHTRmlTF.uzXgFuB38aROo2R1'
+    name: Gordob
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A fresh-out-of-school, well-meaning Saccathian lawyer who hasn''t yet learned he''ll need to bend the rules to actually win.</em></p><p>Gordob graduated Summa Cum Laude at his school of law, just last week. Still a little wet behind the ears (Do Saccathian’s have ears? It’s hard to get past all the face tentacles…) Gordob has the best of intentions. He’s out to make his oviparous brood mother proud, despite having never known her. He’s got a keen mind for the law, but has never considered that he may have to work the system in order to actually win a case at some point in the future. Bright eyed, and full of optimism, Gordob means well, but he has a lot to learn.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/npcs/gordob">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 246
+    category: npcs
+    slug: gordob
+    url: https://pointmongo.com/browse/npcs/gordob
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - lawyer
+    updatedAt: '2026-11-11T20:08:41.6857957Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,19 @@
+_id: tIqJ4BcPBWzuKi8h
+_key: '!items!tIqJ4BcPBWzuKi8h'
+name: Enchanted Patch of the Webelos
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A navy diamond patch from a four-piece set, bearing a horrific scout-screeching predator, that boosts Strength, Dexterity and Stealth and casts a free Heal Other.</em></p><p>This is a fleeting item.</p><p>This item is part of a set. (1 of 4)</p><p>This is a 2", navy blue, diamond shaped patch with a gold border and the horrific face of a webelos prominently stitched upon it.</p><p>The webelos is an apex predator that can be usually only be found on human seeded worlds, and even then only in the darkest, wildest corners.</p><p>If you take the branch of evolution where old &amp; new world monkeys split but throw in a "return to megafauna crab" vibe, you get a webelos. Huge, hairy, lethal. Protrusible jaw for some reason?!</p><p>They prolong their prey''s ordeal of being eaten alive via enzymes in their saliva that heal the area, prevent shock &amp; sepsis, and amplifies the pain.</p><p>Their name comes from their harmonic, ghostly, raspy cry that sounds like a bunch of ten year olds hopped up on Mt. Dew and candy during a pinewood derby event in a church basement on a Wednesday evening screeching "WE BE LOYAL SCOUTS!"</p><p>If all four patches are properly stitched into a diamond pattern onto an eligible piece of equipment, their enhancements double.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Legendary</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5% Strength</li><li>+5% Dexterity</li><li>+5 Stealth Skill</li><li>+5 Heal Other Spell (0 mana, 10 hour cooldown)</li></ul><hr><p><em>Source: Community submission — Mr King. From <a href="https://pointmongo.com/browse/magic-items/enchanted-patch-of-the-webelos">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1070
+    category: magic-items
+    slug: enchanted-patch-of-the-webelos
+    url: https://pointmongo.com/browse/magic-items/enchanted-patch-of-the-webelos
+    source: Community submission — Mr King
+    tags: []
+    updatedAt: '2026-11-06T19:05:36.787184Z'
+    needsRestat: false
+    missingFields: []

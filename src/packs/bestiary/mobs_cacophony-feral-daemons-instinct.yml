@@ -1,0 +1,62 @@
+_id: pZW672JBEDvdGnyo
+_key: '!actors!pZW672JBEDvdGnyo'
+name: 'Cacophony Feral Daemons: Instinct'
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>Insect-like Discordants of Instinct: the violent kind, from a demonic cosmology built on music.</em></p><p>Legends of Avantris came up with a cosmology based in Music. Demons there are called Discordants, and are divided in 4 kinds: Instinct (Insect like and violent), Thrill (Demonic Clowns with extreme emotional states), Progress (Cyborg-like and cold, devoid of emotions) and Entropy (Undeath and decay).</p><p>I am using those concepts in Feral creatures, insane demons thrown into the Nothing and devolving even more down these paths. This is the entrance for an Instinct Lesser Daemon.</p><table><tbody><tr><th>Floor</th><td>8</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/mobs/cacophony-feral-daemons-instinct">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 75
+  size: Large (5)
+  creatureType: Demon, Feral
+  move: '30'
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 8
+  stats:
+    str:
+      value: 100
+    dex:
+      value: 50
+    con:
+      value: 50
+    int:
+      value: 15
+    cha:
+      value: 15
+  attacks:
+    - name: Bite
+      toHit: ''
+      damage: 6d8+7
+      damageType: piercing
+      range: 10ft
+      effect: On a Major Evade fail, target is Burned(Acid)
+    - name: Tail
+      toHit: ''
+      damage: 7d8+7
+      damageType: slashing
+      range: 10ft
+      effect: On a Major Evade fail, target receives Blood Trail
+    - name: Spit Bile
+      toHit: ''
+      damage: 5d6
+      damageType: acid
+      range: 20ft Cone
+      effect: On a Major Evade fail, Target is Burning(Acid)
+prototypeToken:
+  name: 'Cacophony Feral Daemons: Instinct'
+  actorLink: false
+flags:
+  point-mongo:
+    id: 533
+    category: mobs
+    slug: cacophony-feral-daemons-instinct
+    url: https://pointmongo.com/browse/mobs/cacophony-feral-daemons-instinct
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6677132Z'
+    needsRestat: false
+    missingFields: []

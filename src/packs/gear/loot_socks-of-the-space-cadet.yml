@@ -1,0 +1,24 @@
+_id: G63A5Sj429imOfwC
+_key: '!items!G63A5Sj429imOfwC'
+name: Socks of the Space Cadet
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: "<p><strong>Missing:</strong> slot, effects</p><p><em>Mismatched cursed socks that inflict a permanent -3 to Intelligence checks, curable only by a high-level cleric.</em></p><p>Socks, cursed</p><p><strong>Debuff:</strong> Spacey</p><p>These cursed mis-matched cotton socks inflict the Spacey debuff on their wearer.</p><p><strong>Debuff:</strong></p><p><strong>Spacey:</strong> All Int checks suffer a -3 penalty as the wearer is often apt to forget what they were doing before the check was made.</p><p>These items cannot be removed without a Remove Curse Spell cast by a high level cleric.\"\tSubmitted by: DeaDPaN79: Crawler #1945</p><p>T'Ghee Deckmaster's Wrist Cuff of the Blatant Cheater</p><p>Wrist Cuff, Cursed</p><p>Int +10% Chr -2/day\"</p><p>This wrist cuff provides a 10% bonus to intelligence. It also reduces the draw cool down by half. This is a sapient item. Inhabited by Gideon, an avid card game enthusiast who knows exactly what card to play at any given time and will tell you. He knows the strengths and weaknesses of every card, he knows which mythic cards to best buff your totems. Gideon can also, and will also tell you where and how to find all the rarest totems. All of them. He will also guide you on how to rook the noobs out of all their best cards with bargain trades. Oh, and as all of this is going on, your base charisma is being lowered at the rate of two points per day, without your knowledge, you actually think it's going up, because while you find all this shit fascinating and you talk about it incessantly, nobody cares!</p><table><tbody><tr><th>Type</th><td>Socks</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href=\"https://pointmongo.com/browse/loot/socks-of-the-space-cadet\">Point Mongo</a>.</em></p>"
+flags:
+  point-mongo:
+    id: 160
+    category: loot
+    slug: socks-of-the-space-cadet
+    url: https://pointmongo.com/browse/loot/socks-of-the-space-cadet
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - loot
+      - cursed
+    updatedAt: '2026-09-22T05:27:11.4377143Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

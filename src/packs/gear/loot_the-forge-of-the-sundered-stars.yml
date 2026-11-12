@@ -1,0 +1,23 @@
+_id: v2hzTJA4ww9g66bn
+_key: '!items!v2hzTJA4ww9g66bn'
+name: The Forge of the Sundered Stars
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A unique, divine crafting anvil pulled from a neutron star, letting its owner craft Celestial-tier items — at the Forge God''s displeasure.</em></p><p><strong>Notes:</strong> See Description</p><p>This is a Unique item! This is a Divine item! This legendary forge is responsible for many of the most powerful artifacts in existence. This forge was originally discovered inside the heart of a Neutron Star, where the pressure was required to craft items of impossible power. A true Forge of the Gods, this extravagant Blacksmiths anvil can be placed within a Crafting Room as a level 20 Workbench. When using this anvil the user gains the following benefits: * The ability to craft Celestial-tier items. (See the new menu in your crafting screen!)</p><p>WARNING! The God of the Forge WILL NOT BE HAPPY that you stole this item. If you do not worship the God of the Forge, you will receive a Smite every time you attempt to use this workbench. If you do worship the God of the Forge, you best be prepared for the ridiculous amount of back-orders they will send your way.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Crafting Accessory</td></tr></tbody></table><hr><p><em>Source: Community submission — Riley R (Crawler #10268). From <a href="https://pointmongo.com/browse/loot/the-forge-of-the-sundered-stars">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 144
+    category: loot
+    slug: the-forge-of-the-sundered-stars
+    url: https://pointmongo.com/browse/loot/the-forge-of-the-sundered-stars
+    source: 'Community submission — Riley R (Crawler #10268)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-09-30T20:04:01.8832486Z'
+    needsRestat: false
+    missingFields:
+      - effects

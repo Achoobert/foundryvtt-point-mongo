@@ -1,0 +1,24 @@
+_id: RRcuxN3gqobpy8Sk
+_key: '!journal!RRcuxN3gqobpy8Sk'
+name: Carry the Team
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: BfFrfhr1KbhE4Lr9
+    _key: '!journal.pages!RRcuxN3gqobpy8Sk.BfFrfhr1KbhE4Lr9'
+    name: Carry the Team
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you solo an encounter intended for a full party, and survive it.</em></p><p>Your whole party went down, ran off, or otherwise stopped being useful, and you finished the job anyway. That''s not a compliment to them. That''s entirely a compliment to you. Somebody get this crawler a solo spin-off.</p><p>Reward: Gold One-Man-Army Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/carry-the-team">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 710
+    category: achievements
+    slug: carry-the-team
+    url: https://pointmongo.com/browse/achievements/carry-the-team
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0436084Z'
+    needsRestat: false
+    missingFields: []

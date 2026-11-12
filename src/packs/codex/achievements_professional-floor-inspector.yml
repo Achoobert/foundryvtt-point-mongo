@@ -1,0 +1,24 @@
+_id: T3qBG1JJecWb7HTh
+_key: '!journal!T3qBG1JJecWb7HTh'
+name: Professional Floor Inspector
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: FvcjCkDBbooyUdQY
+    _key: '!journal.pages!T3qBG1JJecWb7HTh.FvcjCkDBbooyUdQY'
+    name: Professional Floor Inspector
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you have spent an impressive amount of time on the ground.</em></p><p>You have spent an impressive amount of time on the ground. Your dedication to examining dungeon floors is truly inspiring. Perhaps next time try using your feet.</p><p>Reward: Bronze Survivor''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/professional-floor-inspector">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 587
+    category: achievements
+    slug: professional-floor-inspector
+    url: https://pointmongo.com/browse/achievements/professional-floor-inspector
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9436669Z'
+    needsRestat: false
+    missingFields: []

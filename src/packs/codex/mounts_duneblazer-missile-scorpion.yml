@@ -1,0 +1,25 @@
+_id: rFN3X9F2WCqvUnam
+_key: '!journal!rFN3X9F2WCqvUnam'
+name: Duneblazer Missile Scorpion
+folder: rEMOgPJ7utWySMpl
+pages:
+  - _id: a4XMpZOjjxE1WzO7
+    _key: '!journal.pages!rFN3X9F2WCqvUnam.a4XMpZOjjxE1WzO7'
+    name: Duneblazer Missile Scorpion
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A Huge, tameable armored scorpion that fires magic missiles or self-crafted real missiles from its tail.</em></p><p>An armor-plated scorpion the size of a tank. Its tail that curls up and over it has not a stinger, but a missilepod. It is capable of using mana to fire Magic Missiles, or actual Missiles. Its body can naturally build regular Missiles by consuming lots of scrap metals. Instead of poison, the Duneblazer Missile Scorpion instead processes fuel through its body, which allows it to fuel its bodily-crafted missiles. Don''t let this creature''s long-range ability fool you, it is just as dangerous up close as well, with its armor-plated carapace and pincers that can easily cleave a school bus in half. Though temperamental, these creatures can be tamed and used as mounts. They were once the chosen mounts of the nomadic Duneblazer Clan of Sandswept Goblins.</p><p><strong>Mount Features:</strong></p><p>Can fire Magic Missiles out of its tail using mana</p><p>Can fire ACTUAL missiles out of its tail, providing its consumed enough scrap metal to produce them.</p><p>Heavily armor-plated carapace.</p><p>Massive pincers that are incredibly sharp</p><p>Can easily traverse over most terrain (it cannot swim, and it''s so heavy it''ll likely break fragile flooring)</p><p>It can mostly bury itself into the ground, leaving its missile pod tail exposed.</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/mounts/duneblazer-missile-scorpion">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 264
+    category: mounts
+    slug: duneblazer-missile-scorpion
+    url: https://pointmongo.com/browse/mounts/duneblazer-missile-scorpion
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - mounts
+    updatedAt: '2026-11-11T20:08:41.673828Z'
+    needsRestat: false
+    missingFields: []

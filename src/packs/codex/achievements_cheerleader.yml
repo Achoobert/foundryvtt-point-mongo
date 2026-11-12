@@ -1,0 +1,23 @@
+_id: wyXLjqz5PIfe2uRc
+_key: '!journal!wyXLjqz5PIfe2uRc'
+name: Cheerleader
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: RnAbFmZkSErq8QFX
+    _key: '!journal.pages!wyXLjqz5PIfe2uRc.RnAbFmZkSErq8QFX'
+    name: Cheerleader
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when your party wins a fight you contributed nothing to.</em></p><p>NEW ACHIEVEMENT: Cheerleader</p><p>You sat back and cheered on your team to victory as they fought the good fight. You did nothing to contribute to any attacks, not even make a swing on them. You coward.</p><p>Reward: Cowards don''t get rewards.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/cheerleader">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 541
+    category: achievements
+    slug: cheerleader
+    url: https://pointmongo.com/browse/achievements/cheerleader
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.4968754Z'
+    needsRestat: false
+    missingFields: []

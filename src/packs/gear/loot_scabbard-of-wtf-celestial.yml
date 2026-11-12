@@ -1,0 +1,24 @@
+_id: PxrTEI9z0rU1LTjt
+_key: '!items!PxrTEI9z0rU1LTjt'
+name: Scabbard of WTF (Celestial)
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A celestial scabbard that empowers any sword drawn from it and forces the wielder to shout a random catchphrase, Austrian-accented, after each kill.</em></p><p><strong>Type:</strong> Celestial Accessory</p><p>Keeps a sword clean and dry while granting +50% regeneration skill, +15% Strength, and immunity to fear. Any medium-to-large sword drawn from it gains +1 attack and damage per wielder level, and compels the wielder to shout a random catchphrase (in an Austrian accent) after their next kill — shouting "voi supa" in response grants nearby allies +20 to their next attack. The sword can''t be resheathed until the catchphrase is spoken.</p><table><tbody><tr><th>Type</th><td>Accessory</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/loot/scabbard-of-wtf-celestial">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 137
+    category: loot
+    slug: scabbard-of-wtf-celestial
+    url: https://pointmongo.com/browse/loot/scabbard-of-wtf-celestial
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-09-03T16:29:38.8242289Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

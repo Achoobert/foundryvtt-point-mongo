@@ -1,0 +1,24 @@
+_id: rfC5SxaJlgBTRM2B
+_key: '!journal!rfC5SxaJlgBTRM2B'
+name: Bad Sleep Habits
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: qiqOcjL4Bce2Nm5w
+    _key: '!journal.pages!rfC5SxaJlgBTRM2B.qiqOcjL4Bce2Nm5w'
+    name: Bad Sleep Habits
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you enter the World Dungeon with the Fatigued debuff.</em></p><p>You''ve entered the World Dungeon while already having the Fatigued debuff. What, did you work an overnight shift or something? Had to make good on a promise to bang some 12 year old''s mom when he was shit talking you on Call of Duty? Decided to see what sort of hallucinations you''ll get from being sleep deprived? Whatever the reason, you''re tired as shit. Exhausted even. Being Fatigued in the World Dungeon will, and I can guarantee this, get you killed. We''ll help you this time, we want you more awake for whatever is going to kill you in the first 10 minutes, but from now on, it''s on you bud.</p><p>Reward: You have been cured of Fatigued. Don''t expect any more charity, bitch.</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/bad-sleep-habits">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 567
+    category: achievements
+    slug: bad-sleep-habits
+    url: https://pointmongo.com/browse/achievements/bad-sleep-habits
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9275109Z'
+    needsRestat: false
+    missingFields: []

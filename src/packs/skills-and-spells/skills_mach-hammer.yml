@@ -1,0 +1,41 @@
+_id: Cjt2MzFkH10rXMag
+_key: '!items!Cjt2MzFkH10rXMag'
+name: Mach Hammer
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A Strength-based ranged attack skill that launches a one-handed hammer and brings it back to your hand.</em></p><p>You accelerate a hammer to a velocity that makes physics file a formal complaint. Make a Mach Hammer Attack Skill Check against the target''s Evade.</p><p>On Success, you hit the target.</p><p>After the Attack resolves, whether it hits or misses, the hammer reverses course and returns to your hand. If you cannot receive the hammer in a free hand, it lands at your feet.</p><table><tbody><tr><th>Category</th><td>Ranged Attack</td></tr><tr><th>Base damage</th><td>1d8 + Str</td></tr></tbody></table><hr><p><em>Source: Community submission — TheSharp. From <a href="https://pointmongo.com/browse/skills/mach-hammer">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: attack
+  attackType: ranged
+  isPassive: false
+  range: Str ×10 feet
+  cooldown: ''
+  limitations: Requires a one-handed hammer.
+  aiFavor: 0
+  baseDamage:
+    dice: 1d8
+    stat: str
+    damageType: bludgeoning
+  upgrades:
+    - id: K1TqDRqhuyQR9wVI
+      rankThreshold: 5
+      description: <p>+1d8 base damage.</p>
+    - id: Iu7Qg6EYkw6V0seH
+      rankThreshold: 10
+      description: <p>+1d8 base damage. On a successful Attack, a target of your Size or smaller is pushed 10 feet.</p>
+    - id: 90fgU7iNy7qbW06j
+      rankThreshold: 15
+      description: <p>+1d8 base damage. Range increases to Str ×20 feet. After successfully hitting a target, you may make a second Mach Hammer Attack against a different target within 10 feet of the original target as the hammer returns to you. On Success, the second target takes half damage.</p>
+flags:
+  point-mongo:
+    id: 730
+    category: skills
+    slug: mach-hammer
+    url: https://pointmongo.com/browse/skills/mach-hammer
+    source: Community submission — TheSharp
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6443872Z'
+    needsRestat: false
+    missingFields: []

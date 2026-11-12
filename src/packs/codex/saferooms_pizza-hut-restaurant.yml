@@ -1,0 +1,23 @@
+_id: F0ZwSNvevAjujj4o
+_key: '!journal!F0ZwSNvevAjujj4o'
+name: Pizza Hut Restaurant
+folder: adVwT3zSO8jf77K5
+pages:
+  - _id: 8l29O0locdvNEOSO
+    _key: '!journal.pages!F0ZwSNvevAjujj4o.8l29O0locdvNEOSO'
+    name: Pizza Hut Restaurant
+    type: text
+    text:
+      format: 1
+      content: '<p><em>An 80s Pizza Hut with an arcade, checkered tablecloths and a Bopca chef named Kaipen who will cook almost anything.</em></p><p>This is an older-model Pizza hut, with a large open floor plan and red vinyl booths. As you walk in, the interior has the air of the 80s and 90s about it. To the left of the main entrance is a long dining room, filled with square wooden tables covered in red-and-white checkered fabric tablecloths. To the right of the entrance is a much smaller room - an arcade filled with game cabinets, pinball machines, claw machines, and even a DDR machine.</p><p>Just past this main entryway, there’s a short hallway to the bathrooms and Personal Spaces, as well as a doorway to the next section.</p><p>In the next section, on the right, is a long counter in front of the kitchen. Two areas are there: a “Pick-Up Orders” section, and a “Place Orders Here” section, both with two cash registers each. There are also two vinyl booths facing the counter as a waiting area. To the left, about 20 feet past the doorway from the front entryway, is a sign stating “Please Wait To Be Seated”.  Beyond this area is a much larger dining room. There are wooden tables and booths of various sizes and seating capacities. All the open tables are covered in the checkered tablecloths, while the booths have stained glass lamps hanging over them that also have a red-and-white checkered theme, and say “Pizza Hut” on them. The booths are wood and dark red vinyl. Just past the “Please Wait To Be Seated” sign are 2 buffet tables that sit empty.</p><p>The main counter is staffed by a Bopca named Kaipen, who is also the chef. He keeps a stack of the original menus, but is willing to make almost anything you can imagine. To the left of the “Pick-Up Orders” counter is a modern soda machine (the multiple flavorings kind) and a beer fountain with 3 different types of beer on draft.</p><p>Menu: Pizza, pasta, breadsticks, soft drinks, beer</p><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26933. From <a href="https://pointmongo.com/browse/saferooms/pizza-hut-restaurant">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 858
+    category: saferooms
+    slug: pizza-hut-restaurant
+    url: https://pointmongo.com/browse/saferooms/pizza-hut-restaurant
+    source: 'Community submission — BlessedPsycho, Crawler #26933'
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.18052Z'
+    needsRestat: false
+    missingFields: []

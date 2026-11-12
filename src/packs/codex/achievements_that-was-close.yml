@@ -1,0 +1,24 @@
+_id: I7iIzpcXJgqfIJM4
+_key: '!journal!I7iIzpcXJgqfIJM4'
+name: That Was Close
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 4rrIWzXrK2Y7TKMc
+    _key: '!journal.pages!I7iIzpcXJgqfIJM4.4rrIWzXrK2Y7TKMc'
+    name: That Was Close
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you avoid death or catastrophic failure by the narrowest possible margin.</em></p><p>You narrowly avoided death.</p><p>Congratulations!</p><p>Please remember that the System AI does not provide refunds for underpants destroyed during moments like this.</p><p>Reward: Gold Survivor''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/that-was-close">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 645
+    category: achievements
+    slug: that-was-close
+    url: https://pointmongo.com/browse/achievements/that-was-close
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9905835Z'
+    needsRestat: false
+    missingFields: []

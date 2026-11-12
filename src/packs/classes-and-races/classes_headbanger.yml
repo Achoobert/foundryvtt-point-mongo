@@ -1,0 +1,23 @@
+_id: OCdmWDNYoCgBsv3l
+_key: '!items!OCdmWDNYoCgBsv3l'
+name: Headbanger
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter class from the mosh pit, all headbutts, Rage and shielding the crowd from anyone spoiling the fun.</em></p><p>You live for the thrill of the mosh pit. You know sometimes, you have to deal with malicious elements trying to hurt people that are just trying to have a good time. Sometimes you have to shield them. It may hurt a bit, but it is all worth it, to keep that mosh life</p><p><strong>Stat bonuses</strong></p><ul><li>+3 Strength</li><li>+3 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 to Noggin Nocker</li><li>+2 to Skullcracker</li><li>+2 to Catcher</li></ul><p><strong>Benefits</strong></p><ul><li>+1 to Taunt, Intimidate, Endurance, Dodge and Escape Artist <em>(extreme)</em></li><li>You add 1d4 to Evade if you have at least 2 foes within 5ft of you <em>(moderate)</em></li><li>Rage Benefit <em>(major)</em></li><li>Immunity to the Woozy debuff <em>(major)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/headbanger">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1163
+    category: classes
+    slug: headbanger
+    url: https://pointmongo.com/browse/classes/headbanger
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1921237Z'
+    needsRestat: false
+    missingFields: []

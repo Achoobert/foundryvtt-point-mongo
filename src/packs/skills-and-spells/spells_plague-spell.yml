@@ -1,0 +1,39 @@
+_id: rMQ6F1B0PwBsb2vX
+_key: '!items!rMQ6F1B0PwBsb2vX'
+name: Plague Spell
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>An axe-only Evocation strike that steals gold, then escalates into bleed and equipment theft.</em></p><p><strong>School:</strong> Evocation · <strong>AoE:</strong> 1 crawler or mob · <strong>Duration:</strong> Instant · <strong>Cost:</strong> 0 MP · <strong>Limitation:</strong> requires an equipped axe</p><p>Lv1: rends the target, stealing 5 gold × Strength. Lv5: applies Rend (bleed damage/round). Lv10: Rend is replaced by Deep Wounds (severe bleed until healed to full). Lv15: deals double damage if the target holds more gold than their highest stat. Lv20: steals a random equipped armor piece (non-magical first).</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/plague-spell">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 414
+    category: spells
+    slug: plague-spell
+    url: https://pointmongo.com/browse/spells/plague-spell
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+      - evocation
+    updatedAt: '2026-09-02T04:50:41.8815543Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

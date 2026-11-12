@@ -1,0 +1,25 @@
+_id: uuQzxikJneIBgdLa
+_key: '!journal!uuQzxikJneIBgdLa'
+name: EnnerGeX
+folder: hvyWwMcQCbDfRsP5
+pages:
+  - _id: oH7ZrEEub1SrXgOe
+    _key: '!journal.pages!uuQzxikJneIBgdLa.oH7ZrEEub1SrXgOe'
+    name: EnnerGeX
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A deep-pocketed inner-system energy corporation harvesting Red Dwarf star power, willing to sponsor multiple crawlers per season.</em></p><p>A corporate entity from the inner system, up and coming in Non-Renewable Energy Resources, harvesting red dwarf star energy to sell to other systems at a healthy profit margin. Deep pockets and no hesitation to sponsor multiple crawlers in a single season to spread its marketing materials.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/sponsors/ennergex">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 352
+    category: sponsors
+    slug: ennergex
+    url: https://pointmongo.com/browse/sponsors/ennergex
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - sponsors
+    updatedAt: '2026-09-02T04:50:41.8043457Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,56 @@
+_id: 7zuKjgbSGKXBexjU
+_key: '!actors!7zuKjgbSGKXBexjU'
+name: Furbe
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>Not a Furby. A carnivorous, multi-legged, acid-spitting pack predator that only looks like one.</em></p><p>If you grew up at any point in the mid 90’s or early 00’s, then you might know what this adorable little creature is called. If you guessed Furby…you’re Wrong! Your planet actually made a toy similar to this creature and branded it with a name so full of consumerism that you still reference it in pop culture today! This is a Furbe. Yes, they’re different. Furbe’s are carnivorous, multi-legged, Acid spitting, pack predators found primarily around the Mantid Star System. Isn’t it fun to learn?</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — Crawler Shap. From <a href="https://pointmongo.com/browse/mobs/furbe">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 3
+  size: Medium (4)
+  creatureType: Critter
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 3
+    max: 3
+  dr: 1
+  stats:
+    str:
+      value: 3
+    dex:
+      value: 4
+    con:
+      value: 5
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks:
+    - name: Acid Spit
+      toHit: ''
+      damage: 1D6+STR
+      damageType: acid
+      range: 30 feet
+      effect: on an Evade Major Fail or worse, the target gains the Blood Trail Debuff.
+    - name: Bite
+      toHit: ''
+      damage: 1D4+STR
+      damageType: piercing
+      range: Melee
+      effect: on an Evade Major Fail or worse, the target takes an additional 1D4 Acid Damage
+prototypeToken:
+  name: Furbe
+  actorLink: false
+flags:
+  point-mongo:
+    id: 872
+    category: mobs
+    slug: furbe
+    url: https://pointmongo.com/browse/mobs/furbe
+    source: Community submission — Crawler Shap
+    tags: []
+    updatedAt: '2026-10-09T01:13:55.2040318Z'
+    needsRestat: false
+    missingFields: []

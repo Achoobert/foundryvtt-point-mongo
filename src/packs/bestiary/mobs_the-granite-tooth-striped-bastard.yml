@@ -1,0 +1,53 @@
+_id: lGcN0w7FHHgQ3JyT
+_key: '!actors!lGcN0w7FHHgQ3JyT'
+name: The Granite-Tooth Striped Bastard
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><strong>Missing:</strong> Move</p><p><em>Level-12 chipmunk-like mobs whose magically enhanced teeth chew through granite and steal loot straight from your inventory.</em></p><p>Don’t let the twitchy nose and the Disney-esque scampering fool you. In the world of the Dungeon, these fuzzy little land-pirates are a literal plague upon anything made of stone, mortar, or hope. While a lone chipmunk is just a snack for a stray cat, a Scurry of them is a demolition crew with high-speed cameras and a bad attitude.</p><p>Abilities:</p><p>Foundation Fracture: These aren''t normal teeth. These rodents have been magically enhanced to chew through granite like it’s over-ripened brie. If they find a seam in your fortress wall, they’ll burrow in, expand their pouches with debris, and leave your "unbreakable" tower looking like a game of Jenga played by a drunk giant.</p><p>The "Cheeky" Hoard: Think your healing potions are safe in that chest? Think again. These bastards can unhinge their jaws like a python and stuff an entire mana crystal into their face before you can say "get back here."</p><p>Hyper-Scamper: Good luck hitting them. They move with a frame-rate-breaking jitter that makes them nearly immune to area-of-effect spells. You’ll waste half your stamina swinging at a patch of dirt while they’re already behind you, mocking your parentage.</p><p>Tactics: The "Wall-Collapse" Maneuver They don''t fight you directly—that would be too honest. Instead, the Scurry works in a coordinated rhythm. While the "Distraction Squad" chirps and dances just out of reach, the "Demolition Squad" burrows into the primary load-bearing walls of your base. Warning: If you hear a high-pitched chitter-chitter-chip coming from inside your floorboards, it’s already too late. You aren''t defending a fortress anymore; you’re standing in a very expensive pile of gravel.</p><table><tbody><tr><th>Floor</th><td>3</td></tr></tbody></table><hr><p><em>Source: Community submission — David Brookhart (Crawler #26531). From <a href="https://pointmongo.com/browse/mobs/the-granite-tooth-striped-bastard">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 12
+  size: Small (2)
+  creatureType: Beast/Siege Specialist
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 3
+  stats:
+    str:
+      value: 2
+    dex:
+      value: 20
+    con:
+      value: 3
+    int:
+      value: 5
+    cha:
+      value: 11
+  attacks:
+    - name: Bite
+      toHit: ''
+      damage: 1d4+1
+      damageType: ''
+      range: ''
+      effect: ''
+prototypeToken:
+  name: The Granite-Tooth Striped Bastard
+  actorLink: false
+flags:
+  point-mongo:
+    id: 115
+    category: mobs
+    slug: the-granite-tooth-striped-bastard
+    url: https://pointmongo.com/browse/mobs/the-granite-tooth-striped-bastard
+    source: 'Community submission — David Brookhart (Crawler #26531)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-22T04:40:29.5963216Z'
+    needsRestat: false
+    missingFields:
+      - Move

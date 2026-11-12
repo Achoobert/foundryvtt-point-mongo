@@ -1,0 +1,39 @@
+_id: iodlTOIvfYUyjDRx
+_key: '!items!iodlTOIvfYUyjDRx'
+name: Aura of Calm
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>Buff/debuff aura that steadies allies'' focus and can shut down enemy aggression at higher levels.</em></p><dl class="stat-block"><dt>Type</dt><dd>Buff / Debuff</dd><dt>Area of Effect</dt><dd>15''</dd><dt>Duration</dt><dd>Constant, or until de-activated</dd><dt>Cost</dt><dd>20 mana</dd></dl><p>Allies within the area of effect receive a calming buff, increasing focus and reducing the effects of fear, terror, and similar emotional debuffs. Players receive a +3 to "Emotional Damage" checks.</p><ul><li>Level 5: Area of effect is doubled (30'')</li><li>Level 10: Players receive a +6 to their check. Enemy mobs within the aura receive the "fuck it" debuff and stop attacking (a DC 13 Constitution Save will negate)</li><li>Level 15: Area of effect is doubled again (60'') and enemies receive a -6 to their "Emotional Damage" check</li></ul><hr><p><em>Source: Community submission — Orion Kannan (Crawler #7729). From <a href="https://pointmongo.com/browse/spells/aura-of-calm">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 20
+    category: spells
+    slug: aura-of-calm
+    url: https://pointmongo.com/browse/spells/aura-of-calm
+    source: 'Community submission — Orion Kannan (Crawler #7729)'
+    tags:
+      - ability
+      - buff
+      - debuff
+    updatedAt: '2026-08-31T17:12:29.7058704Z'
+    needsRestat: false
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

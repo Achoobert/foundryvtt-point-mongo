@@ -1,0 +1,54 @@
+_id: oR4fUG831xEBaeGI
+_key: '!actors!oR4fUG831xEBaeGI'
+name: Josh, God of Ice and Games
+type: mob
+img: icons/svg/mystery-man.svg
+folder: DNiM1ASMkD2zTphd
+system:
+  biography: '<p><strong>Missing:</strong> Level, Size, stat scores, Move, Floor (sets DR), attacks</p><p><em>A former Earth IT worker, unlawfully converted by Borant into a level-375 Feral God, who now spends eternity playing games and eating ice cream.</em></p><p><strong>Type:</strong> Feral God (Level 375)</p><p>Josh Williams, a Los Angeles IT worker presumed dead in a tornado, was secretly collected by Borant and converted into a Feral God NPC — an experiment an internal memo calls "monumentally insane" and outlawed by the Syndicate''s Dungeon World Charter. Now the God of Ice, he appears human with neon-blue skin and glowing white eyes/hair, dressed for a Met Gala. Worshippers gain a snowflake tattoo granting immunity to ice/cold and freezing, plus advantage on luck-based games, in exchange for a 5% gold tithe and 30 minutes of daily gameplay with him. Grants spells: Make Ice Cream (at will), Ice Bolt (1d6+DEX piercing per bolt, more bolts at higher levels), Arctic Spear (+3, 2d8+STR piercing), Frost Blade (+5, 3d6+STR slashing), and Winter Wonderland (localized snowstorm).</p><hr><p><em>Source: Community submission — Myles L (Crawler #26933). From <a href="https://pointmongo.com/browse/feral-gods/josh-god-of-ice-and-games">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: ''
+  creatureType: ''
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Josh, God of Ice and Games
+  actorLink: false
+flags:
+  point-mongo:
+    id: 121
+    category: feral-gods
+    slug: josh-god-of-ice-and-games
+    url: https://pointmongo.com/browse/feral-gods/josh-god-of-ice-and-games
+    source: 'Community submission — Myles L (Crawler #26933)'
+    tags:
+      - dcc-ccs
+      - the-nothing
+      - feral-god
+      - feral-gods
+    updatedAt: '2026-09-02T04:50:41.482741Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - Size
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

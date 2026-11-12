@@ -1,0 +1,44 @@
+_id: bsnAppEL0P0ghAYy
+_key: '!items!bsnAppEL0P0ghAYy'
+name: Counterstroke
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>An attack skill that punishes a missed melee attack with a guaranteed counter-slash, later usable against ranged and reflected spells.</em></p><p><strong>Level 1:</strong> When an enemy misses you within melee range, you can reposition to the target''s side or back and slash at them for a guaranteed hit.</p><p><strong>Level 5:</strong> If you still get hit after Evading, you can reposition and slash at them.</p><p><strong>Level 10:</strong> You can now reflect ranged attacks back at the shooter.</p><p><strong>Level 15:</strong> You can now reflect Spells back at the caster.</p><p><strong>Level 20:</strong> You can use Counterstroke against every opponent who targets you this Round.</p><p>Crown of Holly</p><p><strong>Level 1:</strong> Turn on the Crown of Holly Aura, a holly crown brandishing on your head. When an enemy attacks you with this Aura on, they take 1d4 Nature damage.</p><p><strong>Level 5:</strong> Every time your Aura deals damage, you deal 1d4.</p><p><strong>Level 10:</strong> Your allies in the aura''s range benefit from the effects of this aura.</p><p><strong>Level 15:</strong> Double the damage and the healing effects from this aura.</p><p><strong>Level 20:</strong> When you are damaged with this aura active, roots erupt from the ground and restrain the attacker. If you are healed after taking damage while this aura is active, Poison the attacker.</p><table><tbody><tr><th>Base damage</th><td>Based off your currently equipped weapon</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>You must successfully use Evade before you can use this Skill as an Interrupt.</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/counterstroke">Point Mongo</a>.</em></p>'
+  governingStat: dex
+  manaCost: 5
+  range: 5 Feet
+  duration: Instant
+  cooldown: 1 Rounds
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: F2IAtTYKabToLdtp
+      rankThreshold: 5
+      description: <p>Counterstroke works, even if Evade is unsuccessful.</p>
+    - id: 2PLM3TK8NAPxmi0g
+      rankThreshold: 10
+      description: <p>You can now reflect ranged attacks back at the shooter. You do not reposition if this is the case.</p>
+    - id: 54zN9fAlGEsCVnBJ
+      rankThreshold: 15
+      description: <p>You can now reflect Spells back at the caster. You cannot reflect Area of Effect spells. You do not reposition if this is the case.</p>
+flags:
+  point-mongo:
+    id: 389
+    category: spells
+    slug: counterstroke
+    url: https://pointmongo.com/browse/spells/counterstroke
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+    updatedAt: '2026-09-22T05:46:52.7291702Z'
+    needsRestat: true
+    missingFields: []

@@ -1,0 +1,41 @@
+_id: tlRdsfFrjd52tCSE
+_key: '!items!tlRdsfFrjd52tCSE'
+name: Swag Scavenging
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>The instincts of an acquisitive raccoon, applied to markets, stalls and piles of promotional junk.</em></p><p>SWAG SCAVENGING</p><p>Intelligence</p><p>You have spent enough time wandering exhibition halls to develop the instincts of a particularly acquisitive raccoon.</p><p>You know which stands have the good stuff, which piles of apparently worthless rubbish are worth digging through, and when the person packing up a booth has accidentally thrown something expensive into the wrong box.</p><p>When searching a market, exhibition, merchant area, abandoned shop, storeroom, trade hall, pile of commercial junk or similar location, make a Conference Swag Scavenging Check.</p><p>On Success, the GM identifies one overlooked item that is unusually useful, valuable, rare or interesting for the area.</p><p>On an Amazing Success, the GM identifies something particularly unusual or desirable.</p><p>If the item belongs to somebody, finding it does not make it yours. You may still need to buy it, negotiate for it, steal it, distract the owner, or wait until everybody goes home and pretend you thought it was being thrown away.</p><p>This Skill does not replace Investigation for general searching or Determine Value for appraising arbitrary items. It applies specifically when rummaging through markets, vendors, commercial displays, promotional material and the sort of accumulated crap found around conferences and exhibitions.</p><p>RANK 5</p><p>You have mastered the art of the conference tote bag.</p><p>You may designate one ordinary tote bag or similar small container as your Swag Bag.</p><p>The Swag Bag and up to your Rank in small mundane items stored inside it may collectively occupy a single Hotlist slot.</p><p>All items must physically fit inside the bag. This is organisation, not extradimensional storage.</p><p>When using the Hotlist, you may retrieve any one item contained in the Swag Bag as though that item occupied the Hotlist slot.</p><p>RANK 10</p><p>Once per Floor, when you need a small mundane object, you may search your accumulated conference swag and make a Conference Swag Scavenging Check.</p><p>On Success, the GM provides one cheap, mundane Earth item that could plausibly have been given away at a conference, convention or trade exhibition and that is genuinely useful to the current situation.</p><p>The item must fit inside a normal conference tote bag.</p><p>Typical examples include:</p><p>• USB cables</p><p>• Cheap power banks</p><p>• Pens and markers</p><p>• Notebooks</p><p>• Small torches</p><p>• Reusable bottles</p><p>• Travel mugs</p><p>• Phone stands</p><p>• Tape measures</p><p>• Cheap multitools</p><p>• USB drives</p><p>• Ponchos</p><p>• Charging adapters</p><p>• Tiny screwdrivers</p><p>• Branded socks</p><p>• Other similarly useful promotional tat</p><p>The item should generally be cheap, branded and of exactly the quality you would expect from something somebody handed you for free.</p><p>On an Amazing Success, you may suggest the general sort of item you were hoping to find.</p><p>The item is real and remains in your possession.</p><p>You didn''t create it.</p><p>You apparently picked it up six months ago and forgot about it.</p><p>RANK 15</p><p>Once per Floor, when using the Rank 10 ability, you may instead search the VIP Gift Bag.</p><p>The item no longer has any limit on monetary value.</p><p>It must:</p><p>• Be a mundane Earth item.</p><p>• Fit completely inside a normal conference tote bag.</p><p>• Be something that could plausibly have been given away, raffled, awarded or included in a VIP gift bag at an Earth conference, convention, exhibition or corporate event.</p><p>Possible items include:</p><p>• Premium headphones</p><p>• A high-end tablet</p><p>• A smartphone</p><p>• A smartwatch</p><p>• A compact games console</p><p>• An expensive LEGO set</p><p>• A professional power tool</p><p>• A high-quality toolkit</p><p>• A premium Bluetooth speaker</p><p>• A bottle of expensive whisky</p><p>• A luxury food or drink hamper</p><p>• A compact drone</p><p>• High-end electronic accessories</p><p>• Designer or premium branded goods</p><p>There is no maximum value.</p><p>On a Standard Success, the GM determines exactly what you find.</p><p>On an Amazing Success, you may name the general category of item you want, and the GM chooses an appropriate conference gift from that category.</p><p>It still isn''t magical.</p><p>It might be worth a fortune.</p><p>It might also be completely fucking useless right now.</p><p>But it was free.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — TheSharp. From <a href="https://pointmongo.com/browse/skills/swag-scavenging">Point Mongo</a>.</em></p>'
+  governingStat: int
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: NTqDG3mzTqh3Ga10
+      rankThreshold: 5
+      description: <p>You have mastered the art of the conference tote bag.</p>
+    - id: xHXruUS8kq66vpIV
+      rankThreshold: 10
+      description: <p>Once per Floor, when you need a small mundane object, you may search your accumulated conference swag and make a Conference Swag Scavenging Check.</p>
+    - id: CqbjnSATqu2Us0qD
+      rankThreshold: 15
+      description: <p>Once per Floor, when using the Rank 10 ability, you may instead search the VIP Gift Bag.</p>
+flags:
+  point-mongo:
+    id: 817
+    category: skills
+    slug: swag-scavenging
+    url: https://pointmongo.com/browse/skills/swag-scavenging
+    source: Community submission — TheSharp
+    tags: []
+    updatedAt: '2026-09-28T03:36:57.6549098Z'
+    needsRestat: false
+    missingFields: []

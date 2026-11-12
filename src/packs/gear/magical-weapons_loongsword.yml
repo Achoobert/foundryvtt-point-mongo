@@ -1,0 +1,19 @@
+_id: C4IcsQPUdo8lQq2N
+_key: '!items!C4IcsQPUdo8lQq2N'
+name: Loongsword
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>Not a typo: a longsword long enough to hit from fifteen feet away, which shoves its target back on an Amazing Success.</em></p><p>Not a typo, this extended longsword lets its wielder reach out and touch somebody. It has 15'' melee range, but does not count as a Reach weapon. As a high-tier weapon it also adds a Skill Rank Damage Die. It will push the target directly back 10 feet on an Amazing Success.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Sword</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>Weapon skill</th><td>Longsword</td></tr><tr><th>Damage type</th><td>Slashing</td></tr><tr><th>Limitations</th><td>Not a Reach weapon (No Zone of Control)</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+SR Damage Dice</li><li>15'' melee range</li><li>Amazing Success: Push 10''</li></ul><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/magical-weapons/loongsword">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 882
+    category: magical-weapons
+    slug: loongsword
+    url: https://pointmongo.com/browse/magical-weapons/loongsword
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-10-10T23:59:57.7045313Z'
+    needsRestat: false
+    missingFields: []

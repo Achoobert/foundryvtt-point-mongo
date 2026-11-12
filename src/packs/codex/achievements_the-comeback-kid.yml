@@ -1,0 +1,24 @@
+_id: m7s9ZJhnB9OJkSx3
+_key: '!journal!m7s9ZJhnB9OJkSx3'
+name: The Comeback Kid
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: VxMvefcuE8pfpzh7
+    _key: '!journal.pages!m7s9ZJhnB9OJkSx3.VxMvefcuE8pfpzh7'
+    name: The Comeback Kid
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you claw back from the edge of the Dying Debuff and go on to win the fight outright.</em></p><p>You were seconds from a very undignified death, and instead you turned the whole fight around. That''s not a comeback. That''s a resurrection with extra steps. The Mob that almost got you is, presumably, still processing what just happened.</p><p>Reward: Platinum Flatline Reversal Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/the-comeback-kid">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 721
+    category: achievements
+    slug: the-comeback-kid
+    url: https://pointmongo.com/browse/achievements/the-comeback-kid
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0525914Z'
+    needsRestat: false
+    missingFields: []

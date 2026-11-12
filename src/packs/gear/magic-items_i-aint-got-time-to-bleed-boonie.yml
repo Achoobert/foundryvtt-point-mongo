@@ -1,0 +1,19 @@
+_id: KfryAyj9tO5crDpW
+_key: '!items!KfryAyj9tO5crDpW'
+name: I Aint got Time to Bleed Boonie.
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A 70s tactical hat that flatly refuses to let you bleed out. One charge at a time, and you earn the next by killing a boss.</em></p><p>I Aint got Time to Bleed Boonie.  70s-80s practical tactical hat.</p><table><tbody><tr><th>Slot</th><td>Head</td></tr><tr><th>Type</th><td>Hat</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Provides level 5 cockroach skill and immune to bleed debuffs.  Holds only one cockroach charge at a time.  Recharges one charge for every boss kill wearer is given main credit.</li></ul><hr><p><em>Source: the Point Mongo community. From <a href="https://pointmongo.com/browse/magic-items/i-aint-got-time-to-bleed-boonie">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 731
+    category: magic-items
+    slug: i-aint-got-time-to-bleed-boonie
+    url: https://pointmongo.com/browse/magic-items/i-aint-got-time-to-bleed-boonie
+    source: ''
+    tags: []
+    updatedAt: '2026-09-24T18:09:52.950405Z'
+    needsRestat: false
+    missingFields: []

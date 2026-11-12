@@ -1,0 +1,22 @@
+_id: imrReUoZjnxBF4TJ
+_key: '!items!imrReUoZjnxBF4TJ'
+name: Goblin Scrap Flamethrower
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>A flamethrower built from scrap: a giant syringe duct-taped to a spear, a lighter, and whatever flammable liquid you can find.</em></p><p>Take some flammable liquid and put the tip of this device shaped oddly like a giant syringe ducktaped to a spear, Pull back the plunger, now you have a syringe full of flammable liquid attached to a spear, reattach the scrap lighter holder and push the plunger and Viola, you have an item... made of Scrap... that shoots flames... Don''t really know what else to say here...</p><p>Fuck you.</p><hr><p><em>Source: Community submission — Anonymous. From <a href="https://pointmongo.com/browse/loot/goblin-scrap-flamethrower">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 880
+    category: loot
+    slug: goblin-scrap-flamethrower
+    url: https://pointmongo.com/browse/loot/goblin-scrap-flamethrower
+    source: Community submission — Anonymous
+    tags: []
+    updatedAt: '2026-10-09T01:13:55.2604104Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

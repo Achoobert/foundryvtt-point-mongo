@@ -1,0 +1,29 @@
+_id: 3iwLeic1hIutYeuG
+_key: '!items!3iwLeic1hIutYeuG'
+name: Shrödinger's Hat
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>A pointy wizard hat that fires a random combat spell each use, potentially at you instead of the enemy.</em></p><dl class="stat-block"><dt>Type</dt><dd>Headwear</dd><dt>AC Bonus</dt><dd>1</dd></dl><p>Damage depends on the spell summoned to cast. No one will doubt that you are an honest-to-goodness wizard wearing this hat! This pointy hat responds to the wearer''s mood, both in color and which spells fire off. Flip a coin (1d2) to determine if the hat causes damage to you or the enemy, then roll a d10 to determine which combat spell is cast:</p><ul><li>1. Enthusiastic Double Gonorrhea — targets'' genitals catch aflame until they neuter themselves, pass it along, or die trying</li><li>2. Psychic Bolt — one target immediately goes away to rethink their life</li><li>3. Charging Rhinos — 1d4 rhinos are summoned and stampede the area, knocking targets prone</li><li>4. Plant Growth — local flora entangles targets within 10ft of the hat</li><li>5. Magic Missile — crawler level d4 damage to one target, or 1d4 to crawler level across multiple targets</li><li>6. Itchy Feet — crazy itchy for an hour; all actions are hindered</li><li>7. Chain Lightning — 6d6 lightning damage in a cone from the caster''s hand</li><li>8. Freeze — 10ft cone (10d4 ice and cold damage)</li><li>9. Confusion — 3d6 creatures confused for 90 seconds</li><li>10. Fireball — 8d10 fire damage cone</li></ul><hr><p><em>Source: Community submission — K8 (Crawler #71). From <a href="https://pointmongo.com/browse/loot/shr-dinger-s-hat">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 49
+    category: loot
+    slug: shr-dinger-s-hat
+    url: https://pointmongo.com/browse/loot/shr-dinger-s-hat
+    source: 'Community submission — K8 (Crawler #71)'
+    tags:
+      - armor
+      - headwear
+      - magical-armor
+      - random
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-08-31T17:12:29.7460529Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

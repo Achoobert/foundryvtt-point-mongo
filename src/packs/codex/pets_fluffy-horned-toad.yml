@@ -1,0 +1,25 @@
+_id: lHrS96E1tOvsEtu8
+_key: '!journal!lHrS96E1tOvsEtu8'
+name: Fluffy (Horned Toad)
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: WV7Js0Z1Y02w5L4U
+    _key: '!journal.pages!lHrS96E1tOvsEtu8.WV7Js0Z1Y02w5L4U'
+    name: Fluffy (Horned Toad)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A horned toad pet mage that shoots acid from its eyes and fires horns like a shotgun shell, with a Texas-sized ego.</em></p><p><strong>Species:</strong> Horny Toad · <strong>Stats:</strong> STR 14, CON 20, DEX 8, INT 5</p><p>A mage pet (and, like its owner, a bad speller) that shoots acid instead of blood and fires its horns with the power of a .959 JDJ round. Enjoys bragging that everything''s bigger in Texas, and has been banned from every club for uncomfortably repeating "Rub-it" instead of "Ribbit."</p><hr><p><em>Source: Community submission — Eva Propes (Crawler #628). From <a href="https://pointmongo.com/browse/pets/fluffy-horned-toad">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 301
+    category: pets
+    slug: fluffy-horned-toad
+    url: https://pointmongo.com/browse/pets/fluffy-horned-toad
+    source: 'Community submission — Eva Propes (Crawler #628)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.7379662Z'
+    needsRestat: false
+    missingFields: []

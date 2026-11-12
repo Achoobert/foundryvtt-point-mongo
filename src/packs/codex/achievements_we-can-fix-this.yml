@@ -1,0 +1,24 @@
+_id: XiG1KAVu2Up14FXH
+_key: '!journal!XiG1KAVu2Up14FXH'
+name: We Can Fix This
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: xPzGeP51T2PAXvWh
+    _key: '!journal.pages!XiG1KAVu2Up14FXH.xPzGeP51T2PAXvWh'
+    name: We Can Fix This
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you repair a damaged object or piece of equipment rather than abandoning it.</em></p><p>You repaired something that was broken.</p><p>Congratulations! You have demonstrated the ancient and highly advanced technique known as "not throwing everything away."</p><p>Reward: Silver Crafter''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/we-can-fix-this">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 656
+    category: achievements
+    slug: we-can-fix-this
+    url: https://pointmongo.com/browse/achievements/we-can-fix-this
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9995169Z'
+    needsRestat: false
+    missingFields: []

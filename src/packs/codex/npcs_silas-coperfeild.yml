@@ -1,0 +1,26 @@
+_id: GEJGLA9UPxmzc0o1
+_key: '!journal!GEJGLA9UPxmzc0o1'
+name: Silas Coperfeild
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: DkexmK8XNwLPXUiA
+    _key: '!journal.pages!GEJGLA9UPxmzc0o1.DkexmK8XNwLPXUiA'
+    name: Silas Coperfeild
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A quiet, rumor-collecting human lawyer whose case-winning trick is finding leverage on the opponent even after losing.</em></p><p><strong>Type:</strong> Lawyer · <strong>Race:</strong> Human (unconfirmed)</p><p>Doesn''t talk much, but when he does it matters — he mostly lingers in the background, soaking up rumors and names. Not necessarily the best lawyer, but works hard on any case he believes in. Even in a loss, Silas always finds information on the opponent to blackmail or countersue with, so his clients never truly walk away empty-handed.</p><hr><p><em>Source: Community submission — Dferd310 (Crawler #18886). From <a href="https://pointmongo.com/browse/npcs/silas-coperfeild">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 250
+    category: npcs
+    slug: silas-coperfeild
+    url: https://pointmongo.com/browse/npcs/silas-coperfeild
+    source: 'Community submission — Dferd310 (Crawler #18886)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - lawyer
+    updatedAt: '2026-09-02T04:50:41.4093709Z'
+    needsRestat: false
+    missingFields: []

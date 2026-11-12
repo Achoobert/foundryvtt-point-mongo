@@ -1,0 +1,23 @@
+_id: WoSZFQFAx6xkMf6m
+_key: '!journal!WoSZFQFAx6xkMf6m'
+name: Swallowed (Debuff)
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: v1HNGjYhjIH6WZHI
+    _key: '!journal.pages!WoSZFQFAx6xkMf6m.v1HNGjYhjIH6WZHI'
+    name: Swallowed (Debuff)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Swallowed whole: you can''t move, you''re easier to hit, and you take acid damage every round until you fight your way out.</em></p><p>While Swallowed, you cannot use your Movement Actions but may attempt an Evade check. Attacks made against a Swallowed crawler are made with Advantage.</p><p>At the start of each round, Swallowed crawlers make a STR-Opposed Escape Artist Skill Check. On a Fail, take 1d6+F Acid damage. On a success, the debuff ends and you’re able to fight your way out.</p><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/buffs-debuffs/swallowed-debuff">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1004
+    category: buffs-debuffs
+    slug: swallowed-debuff
+    url: https://pointmongo.com/browse/buffs-debuffs/swallowed-debuff
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-10-31T00:34:46.8995223Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,25 @@
+_id: TGviKLDyyblDbPTt
+_key: '!journal!TGviKLDyyblDbPTt'
+name: Court
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: tPjSNSUYIvKtrlYL
+    _key: '!journal.pages!TGviKLDyyblDbPTt.tPjSNSUYIvKtrlYL'
+    name: Court
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A non-combatant level-50 Bopka Innkeeper who sells personal spaces on floor 6, planning to retire after a career in the mines.</em></p><p><strong>Type:</strong> Protector, Non-Combatant · <strong>Level:</strong> 50 · <strong>Race:</strong> Bopka</p><p>An Innkeeper who sells personal spaces on the 6th floor. Previously worked in the mines and now owns the inn he''s planning to retire from.</p><hr><p><em>Source: Community submission — evilranma42 (Crawler #457). From <a href="https://pointmongo.com/browse/npcs/court">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 255
+    category: npcs
+    slug: court
+    url: https://pointmongo.com/browse/npcs/court
+    source: 'Community submission — evilranma42 (Crawler #457)'
+    tags:
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-02T04:50:41.4124854Z'
+    needsRestat: false
+    missingFields: []

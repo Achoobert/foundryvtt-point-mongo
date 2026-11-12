@@ -1,0 +1,39 @@
+_id: f7YuhCFnNcm6BG1v
+_key: '!items!f7YuhCFnNcm6BG1v'
+name: Thunder Punch
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>Imbues a melee attack with chaining lightning damage that hits more targets as it levels up.</em></p><dl class="stat-block"><dt>Type</dt><dd>Melee</dd><dt>Area of Effect</dt><dd>1 target</dd><dt>Duration</dt><dd>Instantaneous</dd><dt>Cost</dt><dd>3 mana / level</dd></dl><p>Adds 1d4 electricity damage to a melee attack per level. Imbues the caster''s melee attack with lightning damage.</p><ul><li>Level 5: Attack can chain lightning damage to 1 additional nearby creature</li><li>Level 10: Chains to 3 additional nearby creatures</li><li>Level 15: Chains to 5 additional nearby creatures, and generates 1d4 instances of ball lightning that track nearby targets for an additional d6 electrical damage</li></ul><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/spells/thunder-punch">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 27
+    category: spells
+    slug: thunder-punch
+    url: https://pointmongo.com/browse/spells/thunder-punch
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - ability
+      - melee
+      - damage
+    updatedAt: '2026-08-31T17:12:29.7113755Z'
+    needsRestat: false
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

@@ -1,0 +1,23 @@
+_id: Dpje1TVKONMtsObW
+_key: '!items!Dpje1TVKONMtsObW'
+name: Rapier of Repositioning
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A basket-hilted rapier granting a once-per-combat line-of-sight teleport, ideal for rogues chasing backstabs.</em></p><p><strong>Type:</strong> Piercing · <strong>Damage:</strong> 1d8+2</p><p>Bestows the ability to teleport to any location within line of sight once per combat — especially well suited to Rogues chasing backstabs or sneak attacks. Grants +2 to both attack and damage rolls.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Rapier</td></tr><tr><th>Weapon skill</th><td>Longsword</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/magical-weapons/rapier-of-repositioning">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 218
+    category: magical-weapons
+    slug: rapier-of-repositioning
+    url: https://pointmongo.com/browse/magical-weapons/rapier-of-repositioning
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - magical-weapons
+      - sword
+    updatedAt: '2026-09-03T05:54:47.8472624Z'
+    needsRestat: false
+    missingFields:
+      - effects

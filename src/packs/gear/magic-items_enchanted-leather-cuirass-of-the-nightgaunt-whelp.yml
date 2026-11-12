@@ -1,0 +1,19 @@
+_id: inH9tsw9aMuSaS7q
+_key: '!items!inH9tsw9aMuSaS7q'
+name: Enchanted Leather Cuirass of the Nightgaunt Whelp
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A hardened leather breastplate that turns aside piercing attacks, stitched from Nightgaunt babies, which their parents will not appreciate.</em></p><p>This hardened dark leather breast plate is deceiving in its suppleness.   It is crafted from the hides of multiple Nightgaunt whelps.</p><p>Warning: If a Nightgaunt spies you wearing this, they probably won’t be too happy with you.  You are wearing the tanned skins of their babies.</p><p>Mature Nightgaunt are also immune to Poison and Ice Damage, but this article does not bestow those immunities.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Cuirass</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+4 Constitution</li><li>Wearer gains Resistance to Piercing Attacks (50% Damage Reduction).</li><li>Adds Anti-Piercing resistance to all worn armor</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-leather-cuirass-of-the-nightgaunt-whelp">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1169
+    category: magic-items
+    slug: enchanted-leather-cuirass-of-the-nightgaunt-whelp
+    url: https://pointmongo.com/browse/magic-items/enchanted-leather-cuirass-of-the-nightgaunt-whelp
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-11T20:08:36.8498225Z'
+    needsRestat: false
+    missingFields: []

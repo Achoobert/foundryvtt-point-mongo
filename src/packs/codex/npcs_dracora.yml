@@ -1,0 +1,26 @@
+_id: cTvOwv12x6MRUatL
+_key: '!journal!cTvOwv12x6MRUatL'
+name: Dracora
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: TQg64qBx9wzD4hKJ
+    _key: '!journal.pages!cTvOwv12x6MRUatL.TQg64qBx9wzD4hKJ'
+    name: Dracora
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A jade-scaled Bune lawyer, raised in wealth but drawn to pro-bono work for the poor and overlooked among crawlers.</em></p><p>Dracora (Dray-Cor-Ah - NOT Drak-ola - who do you think she is, some sort of bootleg earth vampire?) is one of the lucky ones.</p><p>She grew up in the inner system, the only daughter of two wealthy lawyers who made their credits representing many a megacorporation and trading empire. She was good at fading into the background at home - many an hour was spent beneath the dining room table in her footie PJs, playing with her stuffed animals and reading stories while her parents debated case law and ground through mountains of paperwork. When they remembered she was there, her parents were loving and supportive - they''d buy her all the books she wanted, supply her with tutors and fencing lessons, tell her she was a good girl and never any trouble. They were certain she''d make a great lawyer one day. She went to successful schools and expensive camps, but she struggled to bond with the other students. They seemed so... shallow. They didn''t want to talk about the big things - the merits of legal arguments, the status of sentient beings, the moral values of the inner system. No, they were more interested in who had the newest tablet or the most fashionable shoes, who was going to Fantasy Crawler Camp, who they saw at the latest benefit their parents threw.</p><p>Lonely and seldom missed at home, Dracora would sneak out to tour the city by herself. She wanted to know about the world beyond the series of shiny walls she shuttled between day-today. From her walks through the land-rich, gilded mansions of her home neighbourhood to the tightly packed skeletons of skyscrapers in the run down worker districts that exist even in the Inner System, she realised she lived in a world of extremes. Extreme wealth and extreme poverty. Extreme freedom and extreme oppression. Extreme privilege and extreme pain. She wasn''t a crusader. She didn''t know how to inspire others to a cause. But she knew how to read, how to study, and how to apply herself to her work with furor.</p><p>After graduating from a fine old institution, like her parents and grandparents before her, she took on the boring corporate work - as was expected. But she would never be as wealthy or successful as the rest of her family, because she worked enough to get by in a small apartment. The rest of her time was spent on pro-bono work, assisting those too poor to get a fair hearing, or too broken by labour to keep going. She kept her head down, never taking on the biggest cases, just diligently helping who she could.</p><p>Now a recognisable sight in the courtroom, with her well-cut suits, neatly tucked wings and square glasses perched upon a narrow snout of jade scales, she thinks it''s time for a bigger change. To wrap her wings around the many who never had the advantages she''s know. Where better to find such people than among the crawlers?</p><hr><p><em>Source: Community submission — Paws (Crawler #38009). From <a href="https://pointmongo.com/browse/npcs/dracora">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 243
+    category: npcs
+    slug: dracora
+    url: https://pointmongo.com/browse/npcs/dracora
+    source: 'Community submission — Paws (Crawler #38009)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - lawyer
+    updatedAt: '2026-09-22T05:27:11.5282337Z'
+    needsRestat: false
+    missingFields: []

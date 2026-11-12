@@ -1,0 +1,45 @@
+_id: df8wTiL3xnrcsZLb
+_key: '!items!df8wTiL3xnrcsZLb'
+name: Again!
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive)</p><p><em>An Enchantment spell that forces a mob or crawler to repeat their last action, scaling into extra repeated turns.</em></p><p><strong>School:</strong> Enchantment · <strong>AoE:</strong> 1 target within earshot · <strong>Duration:</strong> 1 round · <strong>Cost:</strong> 10 MP</p><p>Lv1: target repeats their last action next turn, +1 bonus per spell level. Lv5: repeats over the next two turns. Lv10: adds a bonus action to repeat (-5 to succeed). Lv15: bonus-action repeat with no penalty.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/spells/again">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 10
+  range: Earshot
+  duration: 1 Round
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: pqZuogIfRh79qCOa
+      rankThreshold: 5
+      description: '<p>Lv5: repeats over the next two turns.</p>'
+    - id: tk6GOvQQzaGNCxk0
+      rankThreshold: 10
+      description: '<p>Lv10: adds a bonus action to repeat (-5 to succeed).</p>'
+    - id: 5hjVweQNiwpcIJOU
+      rankThreshold: 15
+      description: '<p>Lv15: bonus-action repeat with no penalty.</p>'
+flags:
+  point-mongo:
+    id: 378
+    category: spells
+    slug: again
+    url: https://pointmongo.com/browse/spells/again
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - spells
+      - enchantment
+    updatedAt: '2026-09-08T02:59:11.8306673Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)

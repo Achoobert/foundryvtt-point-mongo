@@ -1,0 +1,24 @@
+_id: IHa66xU2rbIvsUf4
+_key: '!journal!IHa66xU2rbIvsUf4'
+name: The Stairs!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: O2n3iY3p9pE3IBYC
+    _key: '!journal.pages!IHa66xU2rbIvsUf4.O2n3iY3p9pE3IBYC'
+    name: The Stairs!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you discover the route to the next floor.</em></p><p>You discovered the way forward. Unfortunately, that means there is another floor waiting for you. Don''t celebrate too early.</p><p>Reward: Gold Explorer''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/the-stairs">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 608
+    category: achievements
+    slug: the-stairs
+    url: https://pointmongo.com/browse/achievements/the-stairs
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9603841Z'
+    needsRestat: false
+    missingFields: []

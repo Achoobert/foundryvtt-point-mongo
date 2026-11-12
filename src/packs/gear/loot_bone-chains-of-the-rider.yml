@@ -1,0 +1,24 @@
+_id: KrbvAILTBxtkUyNv
+_key: '!items!KrbvAILTBxtkUyNv'
+name: Bone Chains of the Rider
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A cursed item granting any mount infused with hellfire — while pact-binding the wearer to a demon of Sheol.</em></p><p>Item, cursed</p><p><strong>Bone Chains of the Rider:</strong> This Unique cursed item allows the user one mount per floor that is imbued with the hellfire aspect. The rider in question can have any mount, regardless of stats and pre reqs, but cannot be separated from the mount once summoned. The curse is that the user is pact bound to one major demon from Sheol. The Sheol demon will act in the same manor as a god to the crawler, asking them for souls and the like. Obviously, if a rider refuses, they are subject to the same consequences as a god worshipper. It is one demon to one rider, and if more than one Rider is present in the dungeon by the 9th floor, they are required to race to the death.</p><table><tbody><tr><th>Type</th><td>Item</td></tr></tbody></table><hr><p><em>Source: Community submission — MaxAvalon (Crawler #2825). From <a href="https://pointmongo.com/browse/loot/bone-chains-of-the-rider">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 154
+    category: loot
+    slug: bone-chains-of-the-rider
+    url: https://pointmongo.com/browse/loot/bone-chains-of-the-rider
+    source: 'Community submission — MaxAvalon (Crawler #2825)'
+    tags:
+      - dcc-ccs
+      - loot
+      - cursed
+    updatedAt: '2026-09-22T05:37:48.9553909Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

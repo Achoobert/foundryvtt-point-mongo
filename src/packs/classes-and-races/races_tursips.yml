@@ -1,0 +1,23 @@
+_id: jKWMGHyYIzNBem8a
+_key: '!items!jKWMGHyYIzNBem8a'
+name: Tursips
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Anthropomorphic dolphins who are not fish, thank you, at home in the water and good for hours on one breath.</em></p><p>"I am not a fish!" You better commit these words to memory, since you will be repeating them a lot. Tursips are anthropomorphic dolphins. As such, they are more comfortable in water, but as most mammals, are perfectly capable of surviving outside it... with some caveats.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 Constitution</li><li>+1 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Swimming</li><li>+ 2 Nogging Nocker</li><li>+1 Skullcracker</li></ul><p><strong>Benefits</strong></p><ul><li>You can use Echolocation to "see" <em>(minor)</em></li><li>You can hold your breath up to Con Mod hours. While holding your breath, you are immune to inhaled toxins <em>(major)</em></li><li>You have advantage on all Dex and Str checks while under water. <em>(epic)</em></li><li>Move at +5ft while under water <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Moderate: Gain a stack of fatigued debuff for every 30 hours you spend without moisturizing your skin</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/tursips">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1075
+    category: races
+    slug: tursips
+    url: https://pointmongo.com/browse/races/tursips
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.700087Z'
+    needsRestat: false
+    missingFields: []

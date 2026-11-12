@@ -1,0 +1,25 @@
+_id: xjcBJwIWk4yhryOr
+_key: '!journal!xjcBJwIWk4yhryOr'
+name: Slimetown
+folder: cWQgUi6OmzYETooo
+pages:
+  - _id: F39xtK1buFec3F1e
+    _key: '!journal.pages!xjcBJwIWk4yhryOr.F39xtK1buFec3F1e'
+    name: Slimetown
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A town of sentient slimes shapeshifting into everyday objects — everything here is moist, and the Dungeon AI never lets anyone forget it.</em></p><p><strong>Population:</strong> Slimes</p><p>A town populated by lots of sentient slimes pretending to shape and mold themselves into other things. Everything is moist, something the Dungeon AI would comment on frequently, much to everyone''s discomfort.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/neighborhoods/slimetown">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 440
+    category: neighborhoods
+    slug: slimetown
+    url: https://pointmongo.com/browse/neighborhoods/slimetown
+    source: Community submission — JackWreckem
+    tags:
+      - dcc-ccs
+      - neighborhoods
+    updatedAt: '2026-08-31T17:12:37.1273642Z'
+    needsRestat: false
+    missingFields: []

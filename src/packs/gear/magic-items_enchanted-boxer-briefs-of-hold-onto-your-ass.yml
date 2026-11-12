@@ -1,0 +1,23 @@
+_id: sFQSi8i4mJnJ9fxi
+_key: '!items!sFQSi8i4mJnJ9fxi'
+name: Enchanted Boxer Briefs of Hold Onto Your Ass!
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>Bright red undergarments granting a 150% speed buff when fleeing, with an unmistakable side sensation — pants required.</em></p><p>These bright red enchanted undergarments provide a 150% movement speed buff whenever you are trying to out run something, whether it''s a mob, a giant Raiders of the Lost Arc style boulder, or the system clock. While the speed buff is active, the wearer experiences the sensation of two hands firmly squeezing their derriere. A little extra motivation goes a long way. This buff only applies while you are also wearing pants.</p><table><tbody><tr><th>Type</th><td>Undergarment</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/magic-items/enchanted-boxer-briefs-of-hold-onto-your-ass">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 174
+    category: magic-items
+    slug: enchanted-boxer-briefs-of-hold-onto-your-ass
+    url: https://pointmongo.com/browse/magic-items/enchanted-boxer-briefs-of-hold-onto-your-ass
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-11-11T20:08:41.6603583Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

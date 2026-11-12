@@ -1,0 +1,23 @@
+_id: uFTVTAspSyt3xLz5
+_key: '!items!uFTVTAspSyt3xLz5'
+name: Undead Beacon Sword
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A +1 longsword that becomes a +5, crit-fishing weapon on command — while attracting every nearby undead and transdimensional being.</em></p><p><strong>Type:</strong> Longsword · <strong>Damage:</strong> 1d8+1</p><p>Has a +1 melee bonus and glows on command. When lit, it becomes a +5 weapon that crits on 18-20, but also attracts nearby undead and transdimensional beings.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Longsword</td></tr><tr><th>Weapon skill</th><td>Longsword</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magical-weapons/undead-beacon-sword">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 223
+    category: magical-weapons
+    slug: undead-beacon-sword
+    url: https://pointmongo.com/browse/magical-weapons/undead-beacon-sword
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magical-weapons
+      - sword
+    updatedAt: '2026-09-03T05:54:47.8494989Z'
+    needsRestat: false
+    missingFields:
+      - effects

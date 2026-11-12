@@ -1,0 +1,23 @@
+_id: RpOhvHTjE8ZT3KHN
+_key: '!items!RpOhvHTjE8ZT3KHN'
+name: Toxic Lobby Tactician
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>An Earth-based class built on online-lobby rage: Tactics, Perception, and a damage bonus for every Health Bar slot you''ve lost.</em></p><p>When we came to earth, we were disgusted by the pollution we saw. Not the landfills or the smog but your first-person shooter lobbies. The no-nonsense nonsense arguments, the rage, throwing slurs at strangers because they wouldn''t listen to you deep throat a microphone. We HAD to preserve that.</p><p>Introducing the Toxic Lobby Tactician, Co-operation is now lifesaving edition. When you don''t know what to do when that big bad is roaring in your face you can call on this guy to state the obvious, then call you a B***h. You are welcome.</p><table><tbody><tr><th>Prerequisites</th><td>rank 5+ in tactics</td></tr><tr><th>Rank 20</th><td>Tactics</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Intelligence</li><li>+3 Dexterity</li><li>-2 Charisma</li><li>-2 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+5 Tactics</li><li>+3 Perception</li></ul><p><strong>Benefits</strong></p><ul><li>Once per day may use the tactics skill a second time in a fight <em>(major)</em></li><li>Rage Your damage increases by +1 per HB you are missing <em>(major)</em></li><li>Manager Benefit <em>(major)</em></li></ul><hr><p><em>Source: Community submission — Deltadoginf. From <a href="https://pointmongo.com/browse/classes/toxic-lobby-tactician">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter/Mage
+  prerequisites: rank 5+ in tactics
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 961
+    category: classes
+    slug: toxic-lobby-tactician
+    url: https://pointmongo.com/browse/classes/toxic-lobby-tactician
+    source: Community submission — Deltadoginf
+    tags: []
+    updatedAt: '2026-10-24T18:50:13.4186504Z'
+    needsRestat: false
+    missingFields: []

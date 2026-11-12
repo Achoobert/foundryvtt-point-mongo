@@ -1,0 +1,19 @@
+_id: b7Elpc9sjr2r6PpF
+_key: '!items!b7Elpc9sjr2r6PpF'
+name: Hatchet
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>A basic camping hatchet, equally effective on logs and skulls.</em></p><p>A basic camping tool, this hatchet features a ergonomic sturdy wooden handle and a curved wedge shaped cutting edge.</p><p>Effective for splitting logs and skulls!</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Axe</td></tr><tr><th>Tier</th><td>Bronze</td></tr><tr><th>Weapon skill</th><td>Axe</td></tr><tr><th>Damage type</th><td>Slashing</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/loot/hatchet">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 911
+    category: loot
+    slug: hatchet
+    url: https://pointmongo.com/browse/loot/hatchet
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-17T18:03:42.0358814Z'
+    needsRestat: false
+    missingFields: []

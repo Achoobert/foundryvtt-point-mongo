@@ -1,0 +1,25 @@
+_id: 1IJSDREqYfo2wQtH
+_key: '!items!1IJSDREqYfo2wQtH'
+name: Self Repair All Purpose Towel
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>A famously versatile towel: warmth, mask, carrying pouch, rolled-up weapon, and light armor all in one.</em></p><dl class="stat-block"><dt>AC Bonus</dt><dd>-1 AC when wrapped around the body</dd></dl><p>Most useful item in the universe! You can use it to wrap around yourself for warmth, wrap around your face as a mask, carry items in it, or roll it up into a weapon.</p><hr><p><em>Source: Community submission — evilranma42 (Crawler #457). From <a href="https://pointmongo.com/browse/loot/self-repair-all-purpose-towel">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 48
+    category: loot
+    slug: self-repair-all-purpose-towel
+    url: https://pointmongo.com/browse/loot/self-repair-all-purpose-towel
+    source: 'Community submission — evilranma42 (Crawler #457)'
+    tags:
+      - armor
+      - utility
+      - magical-armor
+    updatedAt: '2026-08-31T17:12:29.7453092Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

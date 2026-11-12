@@ -1,0 +1,24 @@
+_id: QQSIIm8JNfWyd9Ry
+_key: '!journal!QQSIIm8JNfWyd9Ry'
+name: Internet Famous
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: f1uDAFZvT3qsFTYz
+    _key: '!journal.pages!QQSIIm8JNfWyd9Ry.f1uDAFZvT3qsFTYz'
+    name: Internet Famous
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you do something entertaining enough that your Popularity rating visibly jumps.</em></p><p>Popularity tracking just switched on for you, and you immediately gave the viewers something worth clipping. Somewhere out there, a highlight reel of that moment already has a title card. Ride this wave. It doesn''t always come back.</p><p>Reward: Silver Fifteen Minutes Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/internet-famous">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 704
+    category: achievements
+    slug: internet-famous
+    url: https://pointmongo.com/browse/achievements/internet-famous
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0388169Z'
+    needsRestat: false
+    missingFields: []

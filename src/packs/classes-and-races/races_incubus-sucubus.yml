@@ -1,0 +1,23 @@
+_id: hxHjsAcwYqgfsxuK
+_key: '!items!hxHjsAcwYqgfsxuK'
+name: Incubus/Sucubus
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Demonic seducers with towering Charisma and a full social skill suite, undone by a low tolerance for drink.</em></p><p>Demonic seducers with low tolerance to alcohol.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+6 Charisma</li><li>+2 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3  Panty Dropper Spell (6pts)</li><li>+2 Persuasion</li><li>+2 Diplomacy</li><li>+2 Deception</li><li>+1 Intimidate</li></ul><p><strong>Benefits</strong></p><ul><li>Advantage on Cha checks against targets that are attracted to your gender <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Disadvantage on all rolls to resist Alcohol or the Shit Faced Debuff <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/incubus-sucubus">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 780
+    category: races
+    slug: incubus-sucubus
+    url: https://pointmongo.com/browse/races/incubus-sucubus
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6953192Z'
+    needsRestat: false
+    missingFields: []

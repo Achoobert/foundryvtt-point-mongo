@@ -1,0 +1,24 @@
+_id: pMmiWPkkDZz0oSxp
+_key: '!journal!pMmiWPkkDZz0oSxp'
+name: Who Needs a Map
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: ExbuPOmg3y9QbrG7
+    _key: '!journal.pages!pMmiWPkkDZz0oSxp.ExbuPOmg3y9QbrG7'
+    name: Who Needs a Map
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you get lost in a Neighborhood you have already fully explored.</em></p><p>You''ve been down this hallway four times now. It has not gotten less confusing. A directional sense was apparently not part of your pre-Crawl skill set. Fortunately, neither was quitting.</p><p>Reward: Bronze Scenic Route Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/who-needs-a-map">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 682
+    category: achievements
+    slug: who-needs-a-map
+    url: https://pointmongo.com/browse/achievements/who-needs-a-map
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0211201Z'
+    needsRestat: false
+    missingFields: []

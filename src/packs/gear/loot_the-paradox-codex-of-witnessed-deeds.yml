@@ -1,0 +1,24 @@
+_id: KL7awATyiYxZbMqg
+_key: '!items!KL7awATyiYxZbMqg'
+name: The Paradox Codex of Witnessed Deeds
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A sentient, hovering tome that perfectly records everything its owner does and can replay past actions for combat bonuses — but also judges them.</em></p><p><strong>Notes:</strong> See Description</p><p>A thick, leather-bound tome that hovers just over your shoulder, always slightly behind your line of sight—like it’s trying not to be caught watching you. Its pages turn on their own, scratching endlessly with an invisible quill. The cover bears no title, only a shifting constellation pattern that never looks the same twice. When anyone other than the owner peers inside, the pages are filled with writhing, nonsensical symbols—loops, jagged lines, and impossible geometries that seem to move when not directly observed. Prolonged exposure causes headaches, disorientation, and occasionally… misplaced memories.</p><p>Core Ability – Perfect Record The Codex records everything you do: actions, choices, kills, mistakes, near-deaths—nothing is omitted. Gain stacking bonuses based on “documented excellence” (precision kills, successful dodges, creative problem solving). The Codex can replay a recorded action as a temporary echo (e.g., repeat your last dodge, strike, or ability at reduced power). Critical moments are marked, allowing you to “re-read” them for short bursts of heightened reaction speed or foresight.</p><p>Active Ability – Reveal the Truth Speak the Codex’s key word (chosen upon attunement), and the pages become legible—but only to you. Instantly analyze your recent combat performance, highlighting weaknesses and optimal next moves. Reveals hidden mechanics, traps, or deception effects within a limited radius. Can “quote” past encounters, giving you insight into enemy patterns or repeated behaviors. Cooldown increases with frequency of use—the Codex does not like being rushed.</p><p>Passive Effect – Unreadable by Design Any non-owner attempting to read the Codex suffers confusion, reduced accuracy, and scrambled UI feedback. High-level enemies may become hostile or cautious after exposure, as if they know they’re being studied.</p><p>Drawback – The Weight of Being Known The Codex doesn’t just record—it judges. Repeated failures or cowardly actions are noted, applying stacking debuffs to confidence-based stats. If ignored for too long (no meaningful actions), it begins highlighting your inaction, subtly increasing enemy awareness of you. In rare cases, it may replay your worst moment at the worst possible time.</p><p><strong>Flavor Text:</strong> “It remembers what you’d rather forget. It writes what you’d rather hide. And it never, ever stops watching.”</p><table><tbody><tr><th>Type</th><td>Book</td></tr></tbody></table><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/loot/the-paradox-codex-of-witnessed-deeds">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 148
+    category: loot
+    slug: the-paradox-codex-of-witnessed-deeds
+    url: https://pointmongo.com/browse/loot/the-paradox-codex-of-witnessed-deeds
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-09-22T05:27:11.4388708Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

@@ -1,0 +1,26 @@
+_id: ZVreLRsYKAiXBKUd
+_key: '!journal!ZVreLRsYKAiXBKUd'
+name: Stagehand/Roadie
+folder: b2e2eQJtaoISobbY
+pages:
+  - _id: vTkS88zBmo0lzE7r
+    _key: '!journal.pages!ZVreLRsYKAiXBKUd.vTkS88zBmo0lzE7r'
+    name: Stagehand/Roadie
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Some of us got to rock out as Stagehands and Roadies for our Career Skills, and we picked up a few useful talents along the way.</em></p><p>This is a background for Career Skills. Its choices are: Driving (DEX) (Due to acclimation to production vehicles ranging from cargo vans to box trucks, forklifts, scissor lifts, and other telehandlers), Fabricate (INT) (due to the creation of props, set pieces, and miscellaneous theatrical trappings), and Ropework (DEX) (due to familiarity with rigging, as well as securing props/set pieces for transport in large trucks).</p><hr><p><em>Source: SilfurtheElf. From <a href="https://pointmongo.com/browse/skills/stagehand-roadie">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 517
+    category: skills
+    slug: stagehand-roadie
+    url: https://pointmongo.com/browse/skills/stagehand-roadie
+    source: SilfurtheElf
+    tags:
+      - background
+      - careerskill
+      - skills
+    updatedAt: '2026-09-02T00:47:05.0264022Z'
+    needsRestat: false
+    missingFields: []

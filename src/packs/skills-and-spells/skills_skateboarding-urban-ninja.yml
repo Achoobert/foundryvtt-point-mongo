@@ -1,0 +1,41 @@
+_id: dvTZnqSAUOYcQXt2
+_key: '!items!dvTZnqSAUOYcQXt2'
+name: Skateboarding (Urban Ninja)
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>The Urban Ninja''s take on skateboarding: stay on the board through the trick, and eventually attack from it too.</em></p><p>Whenever you need to pull off a sick 360 or show the local scrub what a real Impossible looks like, make an Un-opposed Skill Check. Depending on how extreme you make your trick, or how gnarly the pipe looks, the GM may apply Advantage or Disadvantage to the Check.</p><p>On Success, you stay on your board while performing your epic stunts.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr><tr><th>Base damage</th><td>n/a</td></tr></tbody></table><hr><p><em>Source: Community submission — Crawler Shap. From <a href="https://pointmongo.com/browse/skills/skateboarding-urban-ninja">Point Mongo</a>.</em></p>'
+  governingStat: dex
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: n/a
+  cooldown: n/a
+  limitations: 'Limitation: You suffer disadvantage on Attack Skills while piloting a Skateboard, Hoverboard, or similar vehicle.'
+  aiFavor: 1
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: Dks4zvoBqqZhu028
+      rankThreshold: 5
+      description: <p>Your board has +5ft Move</p>
+    - id: h1Q8foLjfpL6Qb6s
+      rankThreshold: 10
+      description: <p>Attacking while riding your board no longer suffers Disadvantage</p>
+    - id: 7LZjV7GMTVuPFn1O
+      rankThreshold: 15
+      description: <p>Your board has an additional +10 Move. When performing crazy stuns (like grinding up the shaft of Meatus to deliver a kickflip to his tip), roll with Advantage.</p>
+flags:
+  point-mongo:
+    id: 879
+    category: skills
+    slug: skateboarding-urban-ninja
+    url: https://pointmongo.com/browse/skills/skateboarding-urban-ninja
+    source: Community submission — Crawler Shap
+    tags: []
+    updatedAt: '2026-10-09T01:13:55.2576413Z'
+    needsRestat: false
+    missingFields: []

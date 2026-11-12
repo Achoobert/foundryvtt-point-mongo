@@ -1,0 +1,24 @@
+_id: mFKAyw4QIhJS4HCw
+_key: '!items!mFKAyw4QIhJS4HCw'
+name: The Bong Wizard
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>An Earth-based Arcanist/Druid class of hazy vapors, illusions and alchemy, immune to poison but barred from Club Vanquisher.</em></p><p>Designed for crawlers who view the apocalypse less as a tragedy and more as an aggressive foraging opportunity. Having spent years mastering the volatile, mind-altering properties of exotic flora, you have converted a history of questionable lifestyle choices into a highly specialized engine of botanical warfare and chemical chaos.</p><p>You excel at manipulating the battlefield through thick, disorienting vapors and illusions, turning pristine dungeon floors into hazy, hallucination-filled nightmares. While you lack the physical muscle to swing a broadsword or the social graces to charm a sponsor, your leather-like lungs grant you total immunity to environmental toxins, and your mind is sharp enough to brew complex, logic-defying concoctions on the fly. Why not bake some weed brownies, infuse them, and serve them at that next bake-sale you were invited to by the neighbor down the apartment hall, you know the one, they have all those cats and they watch their soap operas at maximum volume.</p><table><tbody><tr><th>Crafting table</th><td>Tier 1 Alchemy table</td></tr><tr><th>Bonus box</th><td>Silver Earth Box, with guaranteed Earth Hobby Potion</td></tr><tr><th>Build points</th><td>35</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 Constitution</li><li>+2 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Alchemy, Cooking, First Aid, Infusion and Survival Skills</li><li>+2 Confusing Fog, Grand Illusion and Nature’s Breath Spells</li></ul><p><strong>Benefits</strong></p><ul><li>Your Mana recovers at twice the normal rate in a natural environment <em>(minor)</em></li><li>Membership in Club Desperado <em>(minor)</em></li><li>Membership in the Dungeon Book of the Floor Club <em>(moderate)</em></li><li>Immune to Poison <em>(extreme)</em></li></ul><p><strong>Detriments</strong></p><ul><li>-2 Strength &amp; Charisma <em>(2 pt)</em></li><li>Cannot gain membership to Club Vanquisher <em>(1 pt)</em></li><li>Limited choice of weapons available to choose from: Club, improvised weapons, Daggers, unarmed combat, &amp; quarterstaff. <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Paul Robinson. From <a href="https://pointmongo.com/browse/classes/the-bong-wizard">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Arcanist
+    - Druid
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 981
+    category: classes
+    slug: the-bong-wizard
+    url: https://pointmongo.com/browse/classes/the-bong-wizard
+    source: Community submission — Paul Robinson
+    tags: []
+    updatedAt: '2026-10-27T16:16:13.6769523Z'
+    needsRestat: false
+    missingFields: []

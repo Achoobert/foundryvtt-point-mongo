@@ -1,0 +1,23 @@
+_id: oxdOfSULZIKj9tqp
+_key: '!items!oxdOfSULZIKj9tqp'
+name: Pouch of Foraging
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A pouch that holds and slowly duplicates foraged items.</em></p><p><strong>Type:</strong> Accessory</p><p>Holds up to 10 foraged items; each item duplicates within the pouch once per day.</p><table><tbody><tr><th>Type</th><td>Accessory</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/pouch-of-foraging">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 187
+    category: magic-items
+    slug: pouch-of-foraging
+    url: https://pointmongo.com/browse/magic-items/pouch-of-foraging
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-03T16:29:38.8666802Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

@@ -1,0 +1,24 @@
+_id: 7phxHZCEr97AB6gu
+_key: '!journal!7phxHZCEr97AB6gu'
+name: Calm Down
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: sVtJuSVQlPMRRnGL
+    _key: '!journal.pages!7phxHZCEr97AB6gu.sVtJuSVQlPMRRnGL'
+    name: Calm Down
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you prevent a chaotic situation from escalating further.</em></p><p>You successfully prevented a bad situation from becoming an even worse situation.</p><p>The System AI is genuinely impressed.</p><p>Please understand that this is not a precedent.</p><p>Reward: Silver Diplomat''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/calm-down">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 663
+    category: achievements
+    slug: calm-down
+    url: https://pointmongo.com/browse/achievements/calm-down
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0050657Z'
+    needsRestat: false
+    missingFields: []

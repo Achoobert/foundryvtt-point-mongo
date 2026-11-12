@@ -1,0 +1,23 @@
+_id: L0NbZ5woik4uvCAY
+_key: '!items!L0NbZ5woik4uvCAY'
+name: Warrior Princess / Prince
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter/Bard class straight out of Krull and Xena: a chakram, a silver tongue, and armor that always shows some skin.</em></p><p>This class is heavily based in Krull and Xena</p><p>OK, right. We know what you was watching when you were in your formative. years. We also know why you were watching it. Together, those two might be responsible for half the sexual confusion of your whole planet.</p><table><tbody><tr><th>DR</th><td>2</td></tr><tr><th>Prerequisites</th><td>Charisma 6+, Persuasion 2+</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Dexterity</li><li>+4 Constitution</li><li>+4 Charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Chakram Skill</li><li>+2 Panty Dropper Spell</li></ul><p><strong>Benefits</strong></p><ul><li>+1 Good First Impression, Persuasion, Diplomacy and Deception <em>(extreme)</em></li><li>+1 Good First Impression, Persuasion, Diplomacy and Deception <em>(extreme)</em></li><li>Upon reaching lvl 50,  when you attack with your Chakram, you may make an extra free Attack with Disadvantage against another foe within reach of the weapon <em>(major)</em></li><li>Bisexual Panic - You have advantage on all social interactions with anyone who is NOT attracted to your presenting gender. <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Moderate: Showing some Skin - every armor/outfit you put on at the dungeon will adapt itself, showing some skin: abs, arms, legs may be showing. You have -1 DR against attacks you had a Major or Critical Failure on your Evade checks.</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/warrior-princess-prince">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter/Bard
+  prerequisites: Charisma 6+, Persuasion 2+
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 891
+    category: classes
+    slug: warrior-princess-prince
+    url: https://pointmongo.com/browse/classes/warrior-princess-prince
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6157153Z'
+    needsRestat: false
+    missingFields: []

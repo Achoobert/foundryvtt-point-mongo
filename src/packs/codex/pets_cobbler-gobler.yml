@@ -1,0 +1,25 @@
+_id: PkPUCVDDclrc8Tz9
+_key: '!journal!PkPUCVDDclrc8Tz9'
+name: Cobbler-Gobler
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: 4renQdBAdZ0LIbXH
+    _key: '!journal.pages!PkPUCVDDclrc8Tz9.4renQdBAdZ0LIbXH'
+    name: Cobbler-Gobler
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A turkey-like pet with rows of shark-like teeth, carnivorous and dangerous to unwary fingers.</em></p><p><strong>Species:</strong> Cobbler-Gobler</p><p>Looks like a turkey but with several rows of shark-like teeth, nothing like the friendly holiday depiction — closer to the mean ones actually seen roaming the streets. Carnivorous, so watch your fingers and toes.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/pets/cobbler-gobler">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 309
+    category: pets
+    slug: cobbler-gobler
+    url: https://pointmongo.com/browse/pets/cobbler-gobler
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.7453021Z'
+    needsRestat: false
+    missingFields: []

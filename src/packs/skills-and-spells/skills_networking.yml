@@ -1,0 +1,41 @@
+_id: Z0rsIDrBTIzSU4nQ
+_key: '!items!Z0rsIDrBTIzSU4nQ'
+name: Networking
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>You know people. More usefully, you know people who know people.</em></p><p>NETWORKING</p><p>You know people.</p><p>More importantly, you know people who know people.</p><p>Some crawlers survive through strength. Others survive through magic, stealth, or having the good sense not to lick obviously cursed objects. You survive because six months ago you spent fifteen uncomfortable minutes talking to somebody called Darren beside a bowl of stale pastries and, somehow, Darren knows exactly the person you need right now.</p><p>Networking is the fine art of collecting acquaintances, remembering who works where, knowing which introductions are worth making, and maintaining just enough professional goodwill that somebody might still answer when you message them three Floors later.</p><p>Your Contacts are not necessarily friends. Some of them may actively dislike you. That’s fine.</p><p>You don’t need them to like you.</p><p>You just need to know who they know.</p><p>When you spend at least 1 minute interacting with a willing crawler or suitable NPC, you may make a Networking Check.</p><p>On Success, they become a Contact.</p><p>A Contact is someone whose identity, affiliations and available communication details you retain. If both parties can use HUD messaging and establish a normal Comms link, that link becomes part of your network.</p><p>PROFESSIONAL NETWORK</p><p>When you establish a Contact, you may examine their professional network.</p><p>On a Standard Success, the GM reveals one relevant person, organisation or affiliation connected to them.</p><p>On an Amazing Success, the GM reveals up to three.</p><p>You may ask about a broad category of connection, such as a healer, merchant, guild member, particular profession, faction, Skill specialist or someone with access to a particular organisation.</p><p>Networking never reveals secret relationships, hidden allegiances or information your Contact would not reasonably know.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — TheSharp. From <a href="https://pointmongo.com/browse/skills/networking">Point Mongo</a>.</em></p>'
+  governingStat: cha
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: 5 feet
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: ZfyIU6WVne8aXJ2Y
+      rankThreshold: 5
+      description: <p>RANK 5 — MUTUAL CONNECTIONS  When you encounter someone, you automatically know whether you share any Contacts with them and, if so, who those mutual Contacts are</p>
+    - id: btWTGVRgDnxaJlJF
+      rankThreshold: 10
+      description: <p>RANK 10 — OPEN TO OPPORTUNITIES  Once per Floor, you may search your Professional Network for a particular type of person, organisation, service or expertise.  Describe what you are looking for.  If one of your Contacts, or one of the connections previously revealed through Professional Network, plausibly matches the request, the GM identifies the most relevant available connection.  This does not</p>
+    - id: rQf8H4PCIGaE1D79
+      rankThreshold: 15
+      description: <p>RANK 15 — I KNOW A GUY  Once per Floor, describe a particular type of person or organisation you need to reach.  If a plausible route exists through your Professional Network, the GM reveals the shortest chain of Contacts connecting you to them.  Knowing the route does not make anyone along that chain Friendly, guarantee an introduction or oblige anybody to help you.</p>
+flags:
+  point-mongo:
+    id: 816
+    category: skills
+    slug: networking
+    url: https://pointmongo.com/browse/skills/networking
+    source: Community submission — TheSharp
+    tags: []
+    updatedAt: '2026-09-28T03:33:05.856897Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,25 @@
+_id: npEFjJLEvLrfZAYu
+_key: '!journal!npEFjJLEvLrfZAYu'
+name: Ranma's Room of Anything Goes Safe Arts
+folder: adVwT3zSO8jf77K5
+pages:
+  - _id: PNOqdJg0bDI39FKg
+    _key: '!journal.pages!npEFjJLEvLrfZAYu.PNOqdJg0bDI39FKg'
+    name: Ranma's Room of Anything Goes Safe Arts
+    type: text
+    text:
+      format: 1
+      content: '<p><em>An old-style Japanese house with an attached training dojo, koi pond, and stone hot tub.</em></p><p>Old style Japanese house with attached training dojo. There is a pond with koi in the backyard. The bathroom has a stone hot tub. There is an upstairs sleeping area with tatami mats as beds. Stone walls surround the area with a large wooden door entrance.</p><hr><p><em>Source: Community submission — evilranma42. From <a href="https://pointmongo.com/browse/saferooms/ranma-s-room-of-anything-goes-safe-arts">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 435
+    category: saferooms
+    slug: ranma-s-room-of-anything-goes-safe-arts
+    url: https://pointmongo.com/browse/saferooms/ranma-s-room-of-anything-goes-safe-arts
+    source: Community submission — evilranma42
+    tags:
+      - dcc-ccs
+      - saferooms
+    updatedAt: '2026-09-05T05:20:41.796159Z'
+    needsRestat: false
+    missingFields: []

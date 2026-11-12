@@ -1,0 +1,27 @@
+_id: nLgt1hKWPpsYuVL8
+_key: '!items!nLgt1hKWPpsYuVL8'
+name: Bike Messenger
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: "<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>Agility-based Rogue class built around dodging, evading, and moving fast on wheels.</em></p><p>Rogue\t- Agility based rogue class.</p><p>Dex +2  Con +1 Chr -2</p><p>Gain +2 to all Dodge / Evade skill checks.</p><p>+30'/round movement bonus while mounted on a vehicle featuring fewer than 4 wheels (Yes that includes unicycles).</p><p>With a heavy focus on avoidance, their lack of social skills makes them hell on wheels.</p><p><strong>Submitted DeaDPaN79:</strong> Crawler #1945</p><p>Capoeira Practitioner</p><p>Martial Arts Based</p><p>Dex +2 Con +2 Str +2\tCha -1 Int -1</p><p>Gain +2 to dance fighting attack roles.</p><p><strong>Active:</strong> Queixada This kick is fast and can even hit people in the head. This special attack increases damage based on both dex and str. Plus, it can give the dazed status for 1 round if it hits an opponent's head.</p><p><strong>Dazed:</strong> loss of int and wis by 1</p><p><strong>Passive:</strong> ginga You are always moving, side to side, which gives you an increase to dodge by 5%,</p><p>*Capoeira is a martial art form originally from Brazil; the active and passive are actual moves based on the martial art.\"</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href=\"https://pointmongo.com/browse/classes/bike-messenger\">Point Mongo</a>.</em></p>"
+  classTypes: []
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 2
+    category: classes
+    slug: bike-messenger
+    url: https://pointmongo.com/browse/classes/bike-messenger
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - floor-class
+      - rogue
+    updatedAt: '2026-09-22T05:37:46.6366885Z'
+    needsRestat: false
+    missingFields:
+      - stat bonuses
+      - benefits
+      - Build Point costs

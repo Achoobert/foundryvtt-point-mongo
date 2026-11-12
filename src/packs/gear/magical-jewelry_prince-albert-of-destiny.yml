@@ -1,0 +1,23 @@
+_id: dgf8fsgPKkDNKNSX
+_key: '!items!dgf8fsgPKkDNKNSX'
+name: Prince Albert of Destiny
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A piercing that tells the wearer whether their luck is high, neutral, or low based on the strength of their erection.</em></p><p><strong>Type:</strong> Piercing (Stud)</p><p>Passive — Lucky Duck: the wearer instinctively knows whether their current luck is high, neutral, or low, based on the strength of their erection. Warning: contact your cleric if a lucky streak lasts longer than 4 hours.</p><table><tbody><tr><th>Type</th><td>Piercing</td></tr></tbody></table><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/magical-jewelry/prince-albert-of-destiny">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 204
+    category: magical-jewelry
+    slug: prince-albert-of-destiny
+    url: https://pointmongo.com/browse/magical-jewelry/prince-albert-of-destiny
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - dcc-ccs
+      - magical-jewelry
+    updatedAt: '2026-09-03T16:30:37.2164166Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

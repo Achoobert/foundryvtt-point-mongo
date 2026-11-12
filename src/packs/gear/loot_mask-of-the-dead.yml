@@ -1,0 +1,25 @@
+_id: jdfTAd7EOgEVczgm
+_key: '!items!jdfTAd7EOgEVczgm'
+name: Mask of the Dead
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A fleeting, celestial skull mask offering a 60-second bond window to gain a scaling resurrection spell — with steep upkeep costs.</em></p><p><strong>Type:</strong> Celestial, Divine, Fleeting Mask</p><p>A creepy skull mask (Máscara del Día de Muertos) that bonds permanently to a single crawler within 60 seconds of being found, or is lost forever. Once bonded, the wearer may cast a level-10 resurrection spell once per floor on any off-worlder or crawler, gaining a level each use (to racial max). The resurrected return at 1 HP with full memories, healable normally, but permanent injuries won''t regenerate (until level 15). They must stay within 1/2 km of the mask or begin decomposing (-1 to all physical stats per hour away), and rejoin the party or decompose faster. Each resurrection also grants the wearer a new item-based healing spell.</p><table><tbody><tr><th>Type</th><td>Mask</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/loot/mask-of-the-dead">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 133
+    category: loot
+    slug: mask-of-the-dead
+    url: https://pointmongo.com/browse/loot/mask-of-the-dead
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+      - headwear
+    updatedAt: '2026-09-03T16:29:38.8224363Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

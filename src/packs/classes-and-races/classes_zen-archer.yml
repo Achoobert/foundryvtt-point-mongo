@@ -1,0 +1,24 @@
+_id: pDzS95hrqGh2a5iW
+_key: '!items!pDzS95hrqGh2a5iW'
+name: Zen Archer
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Monk/Fighter archer who aims with Intelligence instead of years of practice, and ignores light and cover.</em></p><p>Aiming can be instinctual if you train for years on end. Or if you take this class.</p><p><strong>Stat bonuses</strong></p><ul><li>+5 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Bows</li><li>+2 Aim</li><li>+1 Dodge</li></ul><p><strong>Benefits</strong></p><ul><li>Use Int for Bow Attacks <em>(moderate)</em></li><li>May raise Bow to lvl 20 <em>(minor)</em></li><li>Add Intelligence Mod to Bow damage <em>(moderate)</em></li><li>Double the reach of Bow weapons <em>(moderate)</em></li><li>You take no penalties for Light or cover on making Bow attacks. <em>(major)</em></li><li>Advantage on rolls to resist Charm and Mind Control Effects. <em>(major)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/zen-archer">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Monk
+    - Fighter
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 844
+    category: classes
+    slug: zen-archer
+    url: https://pointmongo.com/browse/classes/zen-archer
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.1400097Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,28 @@
+_id: MiJUMbCt7Zg3TpBm
+_key: '!items!MiJUMbCt7Zg3TpBm'
+name: Dreamwalker Assassin
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: "<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>High mana/dexterity Rogue-Support hybrid that traps enemies in nightmares before striking.</em></p><p>Rogue - Support</p><p>Dex +2\tStr -2 Chr -1</p><p>This class requires high mana and dexterity. Part support class and part rogue. The Dreamwalker assassin casts a spell that causes classes (especially those with lower defenses to psychic attacks or otherwise low intelligence) to become trapped in a living nightmare or dream. Can also be used kindly to help your fellow insomniac or person suffering from trauma! But the assassin follows up in this attack with a poisoned or well placed blade.</p><p><strong>Class features:</strong></p><p>+2 mana / level</p><p>+1 to critical strike on physical damage</p><p>Skills and Spells Imbue poison--poison skills to quickly add to any weapon Light weapons only Living nightmare--traps target in a nightmare. At higher levels may catch multiple targets Sweet dreams-same but with pleasant dreams</p><p>Psychic scream--makes the target hear tomorrow screams in their head. Very disturbing and confusing.</p><p><strong>Mind heal:</strong> this increases the targets resistance to psychic attacks. This is an advanced skill and must first get to level 10 with sweet dreams.</p><p><strong>Mind Decay:</strong> this is an advanced skill and must first get nightmare to level 10 to unlock. This weakens the target and they are now more willing to follow ANYONE'S command\"\tSubmitted by: Jessica Fates: Crawler #2067</p><p>Gladiator</p><p>Strength based Fighter</p><p>Str +2  Chr +1 Dex +1</p><p>The Gladiator is an arena combatant built for spectacle, survival, and making violence look worth the price of admission. No strangers to fighting impossible odds, Gladiators will use every tool in their kit to ensure they get to live and breathe another day. One mustn't underestimate a Gladiator's toolkit, lest they be slain for before their adoring fans.</p><p><strong>Class Benefits:</strong> +2 to all Intimidation checks</p><p>Gains a Trident melee weapon.</p><p>Gains the Gladiator's Net spell. (Conjures a magical net that can pin a target to the floor or wall. This net can be destroyed).</p><p>Gains the Thumbs Down spell. (Can execute a target at or below 5% health. Doing so guarantees additional loot as long as the body remains. This cannot be used on Borough Bosses or above.)</p><p>Gains the Arena Shout spell. (Taunts a number of enemies x your Charisma).</p><p>Gains the Betting Against the Odds skill. (Passive. Gain 10 gold x your Charisma for each enemy defeated if you begin combat while outnumbered.)</p><p>Gains the Blood for the Crowd skill. (Passive. While outnumbered, your Melee Weapon Skills deal extra damage.)</p><hr><p><em>Source: Community submission — Jessica Fates (Crawler #2067). From <a href=\"https://pointmongo.com/browse/classes/dreamwalker-assassin\">Point Mongo</a>.</em></p>"
+  classTypes: []
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 5
+    category: classes
+    slug: dreamwalker-assassin
+    url: https://pointmongo.com/browse/classes/dreamwalker-assassin
+    source: 'Community submission — Jessica Fates (Crawler #2067)'
+    tags:
+      - floor-class
+      - rogue
+      - support
+    updatedAt: '2026-11-11T20:08:41.6087685Z'
+    needsRestat: false
+    missingFields:
+      - stat bonuses
+      - benefits
+      - Build Point costs

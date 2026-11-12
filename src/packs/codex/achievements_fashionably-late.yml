@@ -1,0 +1,24 @@
+_id: 9HxjZG35qLD8Zds1
+_key: '!journal!9HxjZG35qLD8Zds1'
+name: Fashionably Late
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: JXQjor9CCZFsnC01
+    _key: '!journal.pages!9HxjZG35qLD8Zds1.JXQjor9CCZFsnC01'
+    name: Fashionably Late
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you arrive to save a party member in combat at the very last possible second.</em></p><p>You showed up right as your friend was about to eat dirt, and somehow made it look intentional. The timing was cinematic. The friend was not amused. Great TV, though. Genuinely great TV.</p><p>Reward: Silver Cutting It Close Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/fashionably-late">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 697
+    category: achievements
+    slug: fashionably-late
+    url: https://pointmongo.com/browse/achievements/fashionably-late
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0331618Z'
+    needsRestat: false
+    missingFields: []

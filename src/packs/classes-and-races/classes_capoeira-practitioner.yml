@@ -1,0 +1,27 @@
+_id: tJk3AOtPX8AFm11a
+_key: '!items!tJk3AOtPX8AFm11a'
+name: Capoeira Practitioner
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>Martial-arts based class using dance-fighting attacks inspired by real Capoeira moves.</em></p><dl class="stat-block"><dt>Type</dt><dd>Martial Arts Based</dd><dt>Stat Bonus</dt><dd>Dex +2, Con +2, Str +2</dd><dt>Stat Penalty</dt><dd>Cha -1, Int -1</dd></dl><p>Gain +2 to dance fighting attack rolls.</p><p><strong>Active: Queixada</strong> — This kick is fast and can even hit people in the head. This special attack increases damage based on both dex and str. Plus, it can give the dazed status for 1 round if it hits an opponent''s head. Dazed: loss of int and wis by 1.</p><p><strong>Passive: Ginga</strong> — You are always moving, side to side, which gives you an increase to dodge by 5%.</p><p><em>Capoeira is a martial art form originally from Brazil; the active and passive are actual moves based on the martial art.</em></p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/classes/capoeira-practitioner">Point Mongo</a>.</em></p>'
+  classTypes: []
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 3
+    category: classes
+    slug: capoeira-practitioner
+    url: https://pointmongo.com/browse/classes/capoeira-practitioner
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - floor-class
+      - martial-arts
+    updatedAt: '2026-08-31T17:12:29.6058705Z'
+    needsRestat: false
+    missingFields:
+      - stat bonuses
+      - benefits
+      - Build Point costs

@@ -1,0 +1,24 @@
+_id: tOWIysO2TCAHTAKT
+_key: '!journal!tOWIysO2TCAHTAKT'
+name: Unpaid Intern
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: O2Xho3a1uaaeNrjP
+    _key: '!journal.pages!tOWIysO2TCAHTAKT.O2Xho3a1uaaeNrjP'
+    name: Unpaid Intern
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you complete a task or clear a threat that should have warranted Boss-tier recognition, but technically didn''t count.</em></p><p>You did the work of a much bigger achievement and got filed under "miscellaneous." Bureaucracy is alive and well, even in a magical alien death dungeon. Consider this your consolation prize. And your official notice that we noticed.</p><p>Reward: Gold Exposure Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/unpaid-intern">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 716
+    category: achievements
+    slug: unpaid-intern
+    url: https://pointmongo.com/browse/achievements/unpaid-intern
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0486153Z'
+    needsRestat: false
+    missingFields: []

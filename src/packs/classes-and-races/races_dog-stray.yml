@@ -1,0 +1,23 @@
+_id: zuIAq26JSuvgHwDQ
+_key: '!items!zuIAq26JSuvgHwDQ'
+name: 'Dog: Stray'
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A Dog-only race for the resourceful stray, built on Constitution, survival instincts and dumpster diving.</em></p><p>Stray dogs are above all, resilient and resourceful. Probably the only wandering animal that could actually survive ''til the 2nd floor.</p><table><tbody><tr><th>Size</th><td>2-4</td></tr><tr><th>Prerequisites</th><td>This limited Race is only available to crawlers who are already a Dog</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Constitution</li><li>+2 Intelligence</li><li>+2 Dexterity</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Bite Attack (4 pts)</li><li>+2 Endurance</li><li>+2 Survival</li><li>+1 Running</li><li>+1 Acute Ears</li><li>+1 Dumpster Diving</li></ul><p><strong>Benefits</strong></p><ul><li>Advantage on Scent based rolls <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Minor: -2 Charisma</li><li>Minor: Disadvantage on resisting fear effects</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/dog-stray">Point Mongo</a>.</em></p>'
+  size: 2-4
+  prerequisites: This limited Race is only available to crawlers who are already a Dog
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1103
+    category: races
+    slug: dog-stray
+    url: https://pointmongo.com/browse/races/dog-stray
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-09T03:03:17.4360415Z'
+    needsRestat: false
+    missingFields: []

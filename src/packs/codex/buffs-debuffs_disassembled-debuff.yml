@@ -1,0 +1,23 @@
+_id: AO2oHdoOpUVRoLG0
+_key: '!journal!AO2oHdoOpUVRoLG0'
+name: Disassembled (Debuff)
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: c4l6pVRtRCEuM9CG
+    _key: '!journal.pages!AO2oHdoOpUVRoLG0.c4l6pVRtRCEuM9CG'
+    name: Disassembled (Debuff)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A debuff for mechanical and automaton mobs: damage at the end of every round until someone puts them back together.</em></p><p>For use against mechanical and automaton mobs.</p><p>Effect: You take 1d6+F damage at the end of each round.</p><p>Duration: Until you are reassembled.</p><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26933. From <a href="https://pointmongo.com/browse/buffs-debuffs/disassembled-debuff">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 868
+    category: buffs-debuffs
+    slug: disassembled-debuff
+    url: https://pointmongo.com/browse/buffs-debuffs/disassembled-debuff
+    source: 'Community submission — BlessedPsycho, Crawler #26933'
+    tags: []
+    updatedAt: '2026-10-09T01:13:55.0765998Z'
+    needsRestat: false
+    missingFields: []

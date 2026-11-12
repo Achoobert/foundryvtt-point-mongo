@@ -1,0 +1,52 @@
+_id: rs76NPWZNsofHXYp
+_key: '!actors!rs76NPWZNsofHXYp'
+name: Marmic
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>A Marmite-shaped mimic that will bite your finger off — love it or hate it, it''s a staple of dungeon life.</em></p><p>Love or hate them, mimic’s are a staple of dungeon life. But watch out for the Marmic, shaped like a literal tub of marmite, they’ll bite your finger right off, best use a knife to be safe but they’re hard to come by down here.</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/mobs/marmic">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: Tiny (1)
+  creatureType: Creature
+  move: '10'
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 1
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 4
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks:
+    - name: Bite
+      toHit: ''
+      damage: 1d4+1
+      damageType: ''
+      range: ''
+      effect: ''
+prototypeToken:
+  name: Marmic
+  actorLink: false
+flags:
+  point-mongo:
+    id: 108
+    category: mobs
+    slug: marmic
+    url: https://pointmongo.com/browse/mobs/marmic
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-22T01:07:36.1107058Z'
+    needsRestat: false
+    missingFields: []

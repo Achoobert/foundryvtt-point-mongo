@@ -1,0 +1,20 @@
+_id: TkZ0gGWwCnaxcq6B
+_key: '!items!TkZ0gGWwCnaxcq6B'
+name: Toe Ring of Intangible Favours
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>Do whatever humiliating thing the System AI asks once a day and earn AI Favour and a little DR for your trouble.</em></p><p>Once per day, the wearer may accept and complete a selfish, arbitrary, or potentially humiliating request issued directly by the System AI.</p><p>Upon successfully satisfying the AI''s demands, the wearer gains +3 AI Favour and +1 DR until the next day, when you have the option to reset the Buff.</p><p>The AI determines what constitutes successful completion. Requests may range from mildly inconvenient to deeply questionable, depending on its current mood.</p><p>“Oh, you dirty little suck-up. You want special treatment? Well, I want something too".</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>DR</th><td>1</td></tr><tr><th>Cooldown</th><td>1 Day</td></tr><tr><th>Limitations</th><td>The wearer may refuse any request without penalty. However, the AI is under no obligation to offer another request that day.</td></tr></tbody></table><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/magical-jewelry/toe-ring-of-intangible-favours">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1134
+    category: magical-jewelry
+    slug: toe-ring-of-intangible-favours
+    url: https://pointmongo.com/browse/magical-jewelry/toe-ring-of-intangible-favours
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1156528Z'
+    needsRestat: false
+    missingFields:
+      - effects

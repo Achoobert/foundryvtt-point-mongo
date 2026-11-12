@@ -1,0 +1,45 @@
+_id: E3BD6nbBqnPqFDXb
+_key: '!items!E3BD6nbBqnPqFDXb'
+name: Bubble Head
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> base damage</p><p><em>Encases a target''s head in water, drowning them if they cannot hold their breath long enough.</em></p><p>You encapsulate your target''s head into a water bubble. It might drown if he cannot hold its breath for the duration of the spell.</p><p>Note: This is another one of my Affliction spells. If you are interested in the other, please check Fire Cloud, Paper Cuts, Flabbergasting Ray and Fang Bang</p><table><tbody><tr><th>Limitations</th><td>Creatures that can Breath Underwater are immune to this spell.</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/spells/bubble-head">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 10
+  range: 30ft
+  duration: 1min
+  cooldown: ''
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses:
+    - Mage
+    - Druid
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: GCL2auGNZJAFKEmG
+      rankThreshold: 5
+      description: <p>Duration increases to 5min</p>
+    - id: gXxVOLZuXlPBWB6L
+      rankThreshold: 10
+      description: <p>CON mod is halved for the purposes of Holding your Breath</p>
+    - id: JIG2guH4lkA998cM
+      rankThreshold: 15
+      description: <p>Target is also Muted for the duration of Bubble Head</p>
+flags:
+  point-mongo:
+    id: 554
+    category: spells
+    slug: bubble-head
+    url: https://pointmongo.com/browse/spells/bubble-head
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6552963Z'
+    needsRestat: false
+    missingFields:
+      - base damage

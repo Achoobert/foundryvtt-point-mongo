@@ -1,0 +1,25 @@
+_id: ODjXUnvTNHgp5GxF
+_key: '!journal!ODjXUnvTNHgp5GxF'
+name: SPACE Floor
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: j3GbF5NJExcRQrNj
+    _key: '!journal.pages!ODjXUnvTNHgp5GxF.j3GbF5NJExcRQrNj'
+    name: SPACE Floor
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A zero-physics floor where Crawlers suit up and navigate spaceships and spacewalks — pop your suit and you''d better have repair options ready.</em></p><p>Completely breaking the law of physics, Crawlers are issued a space suit and forced to navigate the space-themed level via spaceships and spacewalks. Better fly carefully though, because if that suit pops, you only have so many repair options.</p><hr><p><em>Source: Community submission — Jessica Fates. From <a href="https://pointmongo.com/browse/floors/space-floor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 455
+    category: floors
+    slug: space-floor
+    url: https://pointmongo.com/browse/floors/space-floor
+    source: Community submission — Jessica Fates
+    tags:
+      - dcc-ccs
+      - floors
+    updatedAt: '2026-08-31T17:12:39.4366419Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,22 @@
+_id: VSoCpk3YoxlNdHAy
+_key: '!items!VSoCpk3YoxlNdHAy'
+name: Potion of Spike Growth
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A potion that sprouts dozens of thorny spikes from the drinker''s body, granting armor and punishing anyone who grabs them bare-handed.</em></p><p><strong>Type:</strong> Buff (Protection/Damage)</p><p>Causes the drinker to sprout d100 6"-10" thorny spikes all over their body, granting +4 armor and dealing 1d4×d20 piercing damage to any creature that strikes them with bare skin — handy against grapples from oversized creatures.</p><table><tbody><tr><th>Type</th><td>Buff</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/potions/potion-of-spike-growth">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 338
+    category: potions
+    slug: potion-of-spike-growth
+    url: https://pointmongo.com/browse/potions/potion-of-spike-growth
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-03T16:29:38.9509942Z'
+    needsRestat: false
+    missingFields:
+      - effects

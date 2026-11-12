@@ -1,0 +1,25 @@
+_id: b9SOvwG6mfp9UQFb
+_key: '!journal!b9SOvwG6mfp9UQFb'
+name: 'Town of Ian O''H #4207'
+folder: cWQgUi6OmzYETooo
+pages:
+  - _id: hbgOJouc2FXAcAtJ
+    _key: '!journal.pages!b9SOvwG6mfp9UQFb.hbgOJouc2FXAcAtJ'
+    name: 'Town of Ian O''H #4207'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A Fallout-themed floor populated by Vault Dwellers.</em></p><p><strong>Population:</strong> Vault Dwellers</p><p>Fallout floor.</p><hr><p><em>Source: Community submission — Ian O''H #4207. From <a href="https://pointmongo.com/browse/neighborhoods/town-of-ian-o-h-4207">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 442
+    category: neighborhoods
+    slug: town-of-ian-o-h-4207
+    url: https://pointmongo.com/browse/neighborhoods/town-of-ian-o-h-4207
+    source: 'Community submission — Ian O''H #4207'
+    tags:
+      - dcc-ccs
+      - neighborhoods
+    updatedAt: '2026-08-31T17:12:37.1297494Z'
+    needsRestat: false
+    missingFields: []

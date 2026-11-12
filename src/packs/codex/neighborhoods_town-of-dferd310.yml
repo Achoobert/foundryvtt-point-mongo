@@ -1,0 +1,25 @@
+_id: Wl8NvWZxZuaIPHGH
+_key: '!journal!Wl8NvWZxZuaIPHGH'
+name: Town of Dferd310
+folder: cWQgUi6OmzYETooo
+pages:
+  - _id: VGxsAoXbtYQt2SaQ
+    _key: '!journal.pages!Wl8NvWZxZuaIPHGH.VGxsAoXbtYQt2SaQ'
+    name: Town of Dferd310
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A jungle neighborhood teeming with dog-like creatures.</em></p><p><strong>Population:</strong> Dog-like creatures</p><p>I would be a jungle with a bunch of dog-like creatures living inside it.</p><hr><p><em>Source: Community submission — Dferd310. From <a href="https://pointmongo.com/browse/neighborhoods/town-of-dferd310">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 446
+    category: neighborhoods
+    slug: town-of-dferd310
+    url: https://pointmongo.com/browse/neighborhoods/town-of-dferd310
+    source: Community submission — Dferd310
+    tags:
+      - dcc-ccs
+      - neighborhoods
+    updatedAt: '2026-08-31T17:12:37.1316596Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,62 @@
+_id: eeZ5mfBHOC3FhR3d
+_key: '!actors!eeZ5mfBHOC3FhR3d'
+name: Scorpikin
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><em>A huge pumpkin scorpion that stings with its stem, pinches, and spits seeds, which catch fire once it does.</em></p><p>large pumpkin scorpion that uses it stem as its tail</p><table><tbody><tr><th>Floor</th><td>1</td></tr><tr><th>Elite</th><td>Yes (acts once per crawler)</td></tr></tbody></table><hr><p><em>Source: Community submission — Anonymous. From <a href="https://pointmongo.com/browse/bosses/scorpikin">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 7
+  size: Huge (6)
+  creatureType: Plant
+  move: '25'
+  hbSlotsOverride: null
+  hb:
+    value: 11
+    max: 11
+  dr: 1
+  stats:
+    str:
+      value: 16
+    dex:
+      value: 11
+    con:
+      value: 10
+    int:
+      value: 13
+    cha:
+      value: 3
+  attacks:
+    - name: stem sting
+      toHit: ''
+      damage: 2d8+4
+      damageType: piercing
+      range: 20ft
+      effect: On a standard fail or less gain the taint debuff On a major fail or more gain the taint and sepsis debuff
+    - name: claw
+      toHit: ''
+      damage: 1d10+4
+      damageType: bludgeoning
+      range: 10ft
+      effect: On a standard fail or less the target gains the held debuff
+    - name: Seed bullet
+      toHit: ''
+      damage: 2d4+3
+      damageType: piercing
+      range: 20ft line
+      effect: If scorpikin has taken fire damage this round then this attack deals fire damage
+prototypeToken:
+  name: Scorpikin
+  actorLink: false
+flags:
+  point-mongo:
+    id: 1015
+    category: bosses
+    slug: scorpikin
+    url: https://pointmongo.com/browse/bosses/scorpikin
+    source: Community submission — Anonymous
+    tags: []
+    updatedAt: '2026-10-31T00:34:46.8916597Z'
+    needsRestat: false
+    missingFields: []

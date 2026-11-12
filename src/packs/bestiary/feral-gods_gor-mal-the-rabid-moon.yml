@@ -1,0 +1,53 @@
+_id: i8l4d5ifgczLNfC9
+_key: '!actors!i8l4d5ifgczLNfC9'
+name: Gor'Mal, the Rabid Moon
+type: mob
+img: icons/svg/mystery-man.svg
+folder: DNiM1ASMkD2zTphd
+system:
+  biography: '<p><strong>Missing:</strong> Level, stat scores, Move, Floor (sets DR), attacks</p><p><em>A Huge feral wolf-god of hunger and instinct wrapped in self-repairing chains, whose presence pushes crawlers toward reckless aggression.</em></p><p>Gor’Mal is an ancient feral deity of hunger, instinct, and survival stripped of restraint. He manifests as a massive wolf-like beast wrapped in broken, self-repairing chains that constantly snap and reform as if they cannot contain him. His body is scarred and uneven, his fur patchy like it has been torn away and regrown too many times, and his glowing white eyes signal his presence long before he is seen. He does not communicate through speech, but through intrusive instinct—thoughts that feel like growls and distant laughter pressing directly into the mind. Crawlers exposed to him often find their decision-making shifting away from planning and toward reaction, as if something older and more primal is taking over. His presence rewards desperation and aggression while punishing hesitation and restraint.</p><p><strong>Presence Effects:</strong> Under Gor’Mal’s influence, crawlers gain increased movement speed, faster reaction time, and reduced pain response, allowing them to fight more effectively while injured. Tracking wounded or bleeding targets becomes easier, and combat instinctively favors aggression and pursuit. However, coordination and judgment degrade. Complex planning becomes harder, fear responses become unreliable, and social skills such as deception or persuasion weaken. Extended exposure pushes behavior toward impulsive, direct action over strategy.</p><p>Blessing — Blessing of the Rabid Moon: Power increases as health drops. Fear effects are reduced, minor healing occurs when consuming food during combat, and tracking injured targets becomes significantly enhanced.</p><p>Ability — MOONFRENZY: A temporary state of pure predation. Speed, damage, and mobility increase dramatically, pain and minor injuries are ignored, and combat becomes highly aggressive and uncontrolled. Friend-or-foe recognition becomes unreliable. Afterward, the crawler suffers exhaustion and temporary penalties to physical control and decision-making.</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/feral-gods/gor-mal-the-rabid-moon">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: Huge (6)
+  creatureType: Feral God
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Gor'Mal, the Rabid Moon
+  actorLink: false
+flags:
+  point-mongo:
+    id: 117
+    category: feral-gods
+    slug: gor-mal-the-rabid-moon
+    url: https://pointmongo.com/browse/feral-gods/gor-mal-the-rabid-moon
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - the-nothing
+      - feral-god
+      - feral-gods
+    updatedAt: '2026-09-22T05:37:53.3809123Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

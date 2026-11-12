@@ -1,0 +1,56 @@
+_id: 9xV4XUi1CD8j4TYf
+_key: '!actors!9xV4XUi1CD8j4TYf'
+name: Lightning Elemental
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>Living lightning given form, harnessed by Borant to power the Iron Tangle''s trains and left to rampage unchecked on deeper floors.</em></p><p>These solitary creatures are literally living lighting given form.  Often found on the fourth floor or deeper in the Dungeon, this season Borant has harnessed these elementals to power many of the modern electric and mag-lev trains of the Iron Tangle.   On deeper floors they rampage unchecked.</p><table><tbody><tr><th>Floor</th><td>4</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/mobs/lightning-elemental">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 15
+  size: Large (5)
+  creatureType: Elemental
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 4
+  stats:
+    str:
+      value: 11
+    dex:
+      value: 6
+    con:
+      value: 26
+    int:
+      value: 6
+    cha:
+      value: 6
+  attacks:
+    - name: Shock Bolt
+      toHit: ''
+      damage: 3d10+4
+      damageType: electric
+      range: 15'
+      effect: On an Evade Major Fail or worse, the target gains the Shocked Debuff.
+    - name: Electric Slide
+      toHit: ''
+      damage: 2d10+4
+      damageType: electric
+      range: 30' line
+      effect: The Elemental dashes forward in a charge attack, bestowing the Shocked Debuff to all targets that fail to evade.
+prototypeToken:
+  name: Lightning Elemental
+  actorLink: false
+flags:
+  point-mongo:
+    id: 1101
+    category: mobs
+    slug: lightning-elemental
+    url: https://pointmongo.com/browse/mobs/lightning-elemental
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-09T03:03:17.406049Z'
+    needsRestat: false
+    missingFields: []

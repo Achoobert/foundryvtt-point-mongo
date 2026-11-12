@@ -1,0 +1,25 @@
+_id: duYiFV2MU7WRsjXL
+_key: '!journal!duYiFV2MU7WRsjXL'
+name: Roads? Where We're Going, We Don't Need Roads!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: wo8Gdz3jcPD1P9Uk
+    _key: '!journal.pages!duYiFV2MU7WRsjXL.wo8Gdz3jcPD1P9Uk'
+    name: Roads? Where We're Going, We Don't Need Roads!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler crafts a working flying vehicle from scavenged parts.</em></p><p><strong>Trigger:</strong> A crawler creates a flying machine.</p><p><strong>Reward:</strong> Piloting skill unlocked, upgraded to level 5.</p><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/achievements/roads-where-we-re-going-we-don-t-need-roads">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 290
+    category: achievements
+    slug: roads-where-we-re-going-we-don-t-need-roads
+    url: https://pointmongo.com/browse/achievements/roads-where-we-re-going-we-don-t-need-roads
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-02T04:50:41.6996067Z'
+    needsRestat: false
+    missingFields: []

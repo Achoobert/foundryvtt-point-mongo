@@ -1,0 +1,25 @@
+_id: 5CySwZ7jITLLH72T
+_key: '!journal!5CySwZ7jITLLH72T'
+name: Skittermaw Centipede
+folder: rEMOgPJ7utWySMpl
+pages:
+  - _id: M8rsK720UcAPcgqL
+    _key: '!journal.pages!5CySwZ7jITLLH72T.M8rsK720UcAPcgqL'
+    name: Skittermaw Centipede
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A Large armored wall-climbing centipede mount that carries riders or cargo and defends itself with venom and acid.</em></p><p>Acid Spray (Recharge 5–6) 15-foot cone 3d6 acid damage DEX save for half damage.</p><p>A massive armored centipede commonly found in the lower dungeon levels. Its dozens of hooked legs allow it to climb walls and ceilings with terrifying speed. Most crawlers hate them on sight. Experienced crawlers love them for exactly the same reason. The Skittermaw clicks, hisses, and sprays acid when annoyed, hungry, frightened, excited, or mildly inconvenienced.</p><p><strong>Mount Features:</strong></p><p>Climbs walls and ceilings without checks</p><p>Carries 2 riders or massive amounts of loot</p><p>Ignores difficult terrain</p><p>Frightens weak enemies on sight Attacks Venom Bite +5 attack 2d6+4 piercing damage Target must pass a CON save or become poisoned for 1d4 rounds. Acid Spray (Recharge 5–6) 15-foot cone 3d6 acid damage DEX save for half damage.</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/mounts/skittermaw-centipede">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 271
+    category: mounts
+    slug: skittermaw-centipede
+    url: https://pointmongo.com/browse/mounts/skittermaw-centipede
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - mounts
+    updatedAt: '2026-09-22T05:38:09.0795865Z'
+    needsRestat: false
+    missingFields: []

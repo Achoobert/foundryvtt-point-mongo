@@ -1,0 +1,23 @@
+_id: bhe6IpmGmlvzLXnT
+_key: '!journal!bhe6IpmGmlvzLXnT'
+name: The Everblades
+folder: Cy6TldesS1UFNAWU
+pages:
+  - _id: nyirqeGoY9QqxNM6
+    _key: '!journal.pages!bhe6IpmGmlvzLXnT.nyirqeGoY9QqxNM6'
+    name: The Everblades
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A hot, humid First Floor borough of razor-bladed marsh plants and leaking waste barrels, run by MC Constrictor and his Nope Ropes.</em></p><p>Floor-1</p><p>A borough found under the southeastern united states on the first floor of the dungeon. This area got its name due to the razor like plants that grow from the marshy areas through out this region of the first floor. The climate a typical tropical environment, humid, hot, and rainy. You can often find barrels of toxic or radioactive waste littering the streets and water ways here.</p><p>The Everblades head honcho boss is MC Constrictor, a mutated boa constrictor, and who runs the biggest nightclub in the surrounding area. MC Constrictor is also the head of the local Nope Ropes, smaller less notable mutated snakes. The snake work together and head an ecstasy ring dealing to the denizens of the surrounding neighborhoods.</p><p>Neighborhoods:</p><p>Gator Creek Estates</p><p>Turnpike Hike</p><p>Walt Terror world</p><p>Bloom''n Gloom</p><hr><p><em>Source: Community submission — VertaHex. From <a href="https://pointmongo.com/browse/boroughs/the-everblades">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 960
+    category: boroughs
+    slug: the-everblades
+    url: https://pointmongo.com/browse/boroughs/the-everblades
+    source: Community submission — VertaHex
+    tags: []
+    updatedAt: '2026-10-23T19:20:32.1954616Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,26 @@
+_id: Fe5U8xq2rdqblW0a
+_key: '!journal!Fe5U8xq2rdqblW0a'
+name: Freya
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: cNHfpl0DjSKee2Uc
+    _key: '!journal.pages!Fe5U8xq2rdqblW0a.cNHfpl0DjSKee2Uc'
+    name: Freya
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A longhaired tortoiseshell cat raised free-range, with a curious quirk.</em></p><dl class="stat-block"><dt>Species</dt><dd>Feline</dd><dt>Stats</dt><dd>Level 1</dd><dt>Class</dt><dd>See Description</dd></dl><p>Longhaired Tortoiseshell Cat. Youth: Abandoned. Training: Free Range. Adult: Pile of Floof. Quirk: Curious.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890), Crawler #11891. From <a href="https://pointmongo.com/browse/pets/freya">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 32
+    category: pets
+    slug: freya
+    url: https://pointmongo.com/browse/pets/freya
+    source: 'Community submission — Kyton786 (Crawler #11890), Crawler #11891'
+    tags:
+      - animal-companion
+      - pet
+      - cat
+    updatedAt: '2026-08-31T17:12:29.7251511Z'
+    needsRestat: false
+    missingFields: []

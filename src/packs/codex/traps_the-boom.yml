@@ -1,0 +1,25 @@
+_id: FH96QZkjeMPzIfSu
+_key: '!journal!FH96QZkjeMPzIfSu'
+name: The...BOOM!
+folder: i4V5JDum8ZGrgq0L
+pages:
+  - _id: SxURPbXhcXhHhZcy
+    _key: '!journal.pages!FH96QZkjeMPzIfSu.SxURPbXhcXhHhZcy'
+    name: The...BOOM!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A level-1 alarm trap that immobilizes the victim in smoke before a delayed, disorienting boom — scarier than it is deadly.</em></p><p>Starts smoking on trigger, immobilizing the victim for 15 seconds; after 10 seconds it goes silent, then 2 seconds later releases a loud boom, inflicting dizziness and heart palpitations. Not especially deadly, but it takes years off your life. An Alarm-type trap — each additional level increases immobilization time, hissing/smoke duration, and boom volume.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/traps/the-boom">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 367
+    category: traps
+    slug: the-boom
+    url: https://pointmongo.com/browse/traps/the-boom
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - traps
+    updatedAt: '2026-09-02T04:50:41.8306286Z'
+    needsRestat: false
+    missingFields: []

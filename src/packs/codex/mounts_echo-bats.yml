@@ -1,0 +1,25 @@
+_id: F5axZmxCkuigo4UY
+_key: '!journal!F5axZmxCkuigo4UY'
+name: Echo Bats
+folder: rEMOgPJ7utWySMpl
+pages:
+  - _id: ZHUOFTscnuYMRCYN
+    _key: '!journal.pages!F5axZmxCkuigo4UY.ZHUOFTscnuYMRCYN'
+    name: Echo Bats
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Massive, nearly blind cave predators that navigate by devastating echolocation shrieks capable of shattering crystal or causing cave-ins.</em></p><p>Sonic Shriek 4d10 Thunder DC 16 Con Save or Target is Deafened for 3 rounds.</p><p>Echo Bats are massive cave-dwelling predators that navigate entirely through powerful echolocation pulses capable of mapping entire cavern systems in seconds. Their piercing shrieks can shatter crystal, disorient prey, and even trigger cave-ins in unstable tunnels. Though nearly blind in sunlight, underground they become terrifyingly precise hunters that can detect movement, fear, and even heartbeats through stone.</p><p><strong>Blindsight:</strong> 120 ft</p><p>Immune to normal blindness penalties</p><p><strong>Resistances:</strong> Thunder damage</p><p><strong>Abilities:</strong> Echolocation Pulse The bat emits a sonic pulse in a 30ft revealing all Invisible creatures, Hidden doors, and Illusions Heartbeat Listener Can detect lies, fear, or hidden creatures by listening to heartbeats and breathing patterns.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/mounts/echo-bats">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 265
+    category: mounts
+    slug: echo-bats
+    url: https://pointmongo.com/browse/mounts/echo-bats
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - mounts
+    updatedAt: '2026-09-22T05:38:09.0800982Z'
+    needsRestat: false
+    missingFields: []

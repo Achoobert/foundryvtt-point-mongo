@@ -1,0 +1,25 @@
+_id: lDBAHxmv4zM8cTVW
+_key: '!items!lDBAHxmv4zM8cTVW'
+name: Tortoise Shell Armor
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>Race-specific fur-bound armor that makes skin impenetrable at the cost of dexterity.</em></p><dl class="stat-block"><dt>Type</dt><dd>Breastplate</dd><dt>AC Bonus</dt><dd>AC 7, see description</dd></dl><p>This is a race-specific armour, wearable only by creatures covered in fur. Makes your skin impenetrable but reduces your dexterity by 10. You can still suffer both blunt and magic damage. It also looks super cool.</p><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/loot/tortoise-shell-armor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 55
+    category: loot
+    slug: tortoise-shell-armor
+    url: https://pointmongo.com/browse/loot/tortoise-shell-armor
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - armor
+      - breastplate
+      - magical-armor
+    updatedAt: '2026-08-31T17:12:29.7499237Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

@@ -1,0 +1,24 @@
+_id: pJMHpJAs7cjHQ3Ni
+_key: '!journal!pJMHpJAs7cjHQ3Ni'
+name: Follow the Money
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: e9WK5csHde45LP2V
+    _key: '!journal.pages!pJMHpJAs7cjHQ3Ni.e9WK5csHde45LP2V'
+    name: Follow the Money
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you accumulate a substantial pile of gold from Mob loot within a single Crawl day.</em></p><p>You went through pockets like a Second Floor tax auditor, and it paid off. The Mobs didn''t need it anymore. You clearly did. Capitalism thrives, even inside a horrifying alien game show.</p><p>Reward: Silver Grave Robber Deluxe Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/follow-the-money">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 701
+    category: achievements
+    slug: follow-the-money
+    url: https://pointmongo.com/browse/achievements/follow-the-money
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0364469Z'
+    needsRestat: false
+    missingFields: []

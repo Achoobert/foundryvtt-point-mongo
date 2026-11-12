@@ -1,0 +1,21 @@
+_id: dTiSmWSZX7lubOMx
+_key: '!items!dTiSmWSZX7lubOMx'
+name: Eris' Snake Egg
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>Behold a gift from the Goddess of Chaos. This jeweled egg is certainly helpful, but whether that means to you or your enemy remains to be seen.</em></p><p>This is a hand sized jeweled faberge egg that contains a Trickster Spirit inside it. When activated, roll 1d12. 1) Creature gets +1 Evade for 1 Minute 2) Skin toughens (+3 DR for 1 Minute) 3) +5 feet to Move and Step for 10 Minute 4) DR +5 against Magic for 10 Minutes 5) Become translucent for 10 minute (+5 Stealth) 6) Doubles Lift for an Hour 7) Randomly turns into a random Animal for 1 hour 8) Shrink 3 sizes (minimum 0) for 1 Hour 9) Flight for 10 minutes 10) Grows 2 sizes for 1 hour 11) Get an extra action for turn for 10 minutes 12) Hyper regeneration (becomes immortal for 1 minute). After the roll, choose any number of creatures within 20 feet to receive the effects of the roll (30 hour cooldown). Note: Whenever the Egg is used, there''s a 50% chance that the trickster spirit will also repeat the use, rolling another d12 and having a 50% of applying that result to any creatures in the 20ft radius.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Magic Item</td></tr></tbody></table><hr><p><em>Source: Gabe M.. From <a href="https://pointmongo.com/browse/loot/eris-snake-egg">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 497
+    category: loot
+    slug: eris-snake-egg
+    url: https://pointmongo.com/browse/loot/eris-snake-egg
+    source: Gabe M.
+    tags:
+      - loot
+    updatedAt: '2026-11-11T20:08:41.6349209Z'
+    needsRestat: false
+    missingFields:
+      - effects

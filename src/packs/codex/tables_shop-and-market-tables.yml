@@ -1,0 +1,73 @@
+_id: LevynyA11SBc1G1K
+_key: '!journal!LevynyA11SBc1G1K'
+name: Shop and Market Tables
+folder: HfTgkepiD2jwGj3r
+pages:
+  - _id: zF5Z2ezk6gTG7vol
+    _key: '!journal.pages!LevynyA11SBc1G1K.zF5Z2ezk6gTG7vol'
+    name: Shop and Market Tables
+    type: text
+    text:
+      format: 1
+      content: |-
+        <p><em>GM-facing homebrew prices for buying and selling, spell scroll costs by Rank, and what merchants stock floor by floor.</em></p><p>These are GM-facing homebrew prices built around the book's gold drops and loot rarity. Gold is the dungeon currency; Misc. Junk has a book-established 1g sell / sometimes 2g buy anchor. Everything else in this section is intentionally campaign-tunable.</p>
+        <table>
+        <thead><tr><th>Category</th><th>Buy</th><th>Typical Sell</th></tr></thead>
+        <tbody>
+        <tr><td>Misc. Junk</td><td>2g</td><td>1g</td></tr>
+        <tr><td>Basic mundane</td><td>2-10g</td><td>1-5g</td></tr>
+        <tr><td>Useful mundane</td><td>10-50g</td><td>5-25g</td></tr>
+        <tr><td>Bronze magic/consumable</td><td>50-150g</td><td>25-75g</td></tr>
+        <tr><td>Silver</td><td>250-750g</td><td>100-300g</td></tr>
+        <tr><td>Gold</td><td>1,500-4,000g</td><td>500-1,500g</td></tr>
+        <tr><td>Platinum</td><td>6,000-15,000g</td><td>2,000-5,000g</td></tr>
+        <tr><td>Legendary</td><td>30,000g+</td><td>GM only</td></tr>
+        </tbody>
+        </table>
+        <h3>Spell Scroll suggested price by Rank</h3>
+        <table>
+        <thead><tr><th>Rank</th><th>Price</th></tr></thead>
+        <tbody>
+        <tr><td>1</td><td>50g</td></tr>
+        <tr><td>2</td><td>75g</td></tr>
+        <tr><td>3</td><td>125g</td></tr>
+        <tr><td>4</td><td>200g</td></tr>
+        <tr><td>5</td><td>350g</td></tr>
+        <tr><td>6</td><td>500g</td></tr>
+        <tr><td>7</td><td>700g</td></tr>
+        <tr><td>8</td><td>950g</td></tr>
+        <tr><td>9</td><td>1,250g</td></tr>
+        <tr><td>10</td><td>1,600g</td></tr>
+        <tr><td>11-14</td><td>+500g per Rank</td></tr>
+        <tr><td>15</td><td>5,000g+</td></tr>
+        </tbody>
+        </table>
+        <p><strong>Premium:</strong> x1.5 for unusually powerful healing/teleport/resurrection/campaign-changing effects. <strong>Situational:</strong> x0.75.</p>
+        <h3>Floor-based merchant stock</h3>
+        <table>
+        <thead><tr><th>Floor</th><th>Common Stock</th><th>Rare Shelf</th><th>Typical Cash on Hand</th></tr></thead>
+        <tbody>
+        <tr><td>1</td><td>Mundane, Bronze consumables, Rank 1-2 scrolls</td><td>1-2 Silver items</td><td>100-300g</td></tr>
+        <tr><td>2</td><td>Bronze/Silver, Rank 1-4 scrolls</td><td>1 Gold consumable</td><td>500-1,500g</td></tr>
+        <tr><td>3</td><td>Silver/Gold, Rank 1-6 scrolls</td><td>1-2 Platinum curios</td><td>3,000-8,000g</td></tr>
+        <tr><td>4</td><td>Gold, Rank 3-9 scrolls</td><td>Platinum stock</td><td>8,000-20,000g</td></tr>
+        <tr><td>5</td><td>Gold/Platinum, Rank 5-12 scrolls</td><td>Legendary item by story/auction only</td><td>20,000-60,000g</td></tr>
+        </tbody>
+        </table><hr><p><em>Source: Community submission — Crawler zachary #33353. From <a href="https://pointmongo.com/browse/tables/shop-and-market-tables">Point Mongo</a>.</em></p>
+flags:
+  point-mongo:
+    id: 532
+    category: tables
+    slug: shop-and-market-tables
+    url: https://pointmongo.com/browse/tables/shop-and-market-tables
+    source: 'Community submission — Crawler zachary #33353'
+    tags:
+      - rules
+      - tables
+      - gold
+      - shops
+      - merchants
+      - loot
+    updatedAt: '2026-09-06T18:33:29.0044819Z'
+    needsRestat: false
+    missingFields: []

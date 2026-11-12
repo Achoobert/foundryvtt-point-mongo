@@ -1,0 +1,24 @@
+_id: tkPX32gzg8imcvfg
+_key: '!journal!tkPX32gzg8imcvfg'
+name: Good as New
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: mkVWjVRGNsnwrA9r
+    _key: '!journal.pages!tkPX32gzg8imcvfg.mkVWjVRGNsnwrA9r'
+    name: Good as New
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you restore a damaged item to full usefulness through crafting or repair.</em></p><p>You restored a damaged item to working condition.</p><p>The System AI would like to congratulate you on your refusal to accept planned obsolescence.</p><p>Reward: Gold Crafter''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/good-as-new">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 657
+    category: achievements
+    slug: good-as-new
+    url: https://pointmongo.com/browse/achievements/good-as-new
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0002967Z'
+    needsRestat: false
+    missingFields: []

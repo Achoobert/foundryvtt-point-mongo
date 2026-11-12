@@ -1,0 +1,25 @@
+_id: sOwvh9dztE5aWpR7
+_key: '!items!sOwvh9dztE5aWpR7'
+name: Distracting Mood Calf Socks
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>Mood- and sanity-colored socks that draw enemy attention away from more vulnerable body parts.</em></p><dl class="stat-block"><dt>Type</dt><dd>Footwear</dd></dl><p>This pair of socks is always shifting color — the right sock''s color reflects the wearer''s mood, the left their sanity. These socks draw enemies'' eyes away from your more dangerous parts; doesn''t work if they''re covered by pants or armor. -1 Cha, +1 Int. Also bestows the ability to draw people''s attention. If worn with sandals, flip-flops, or crocs, gains a set bonus of an additional +2 Int and +2 Dex, and counts as cloth greaves or sabatons armor.</p><hr><p><em>Source: Community submission — Socks (Crawler #4381). From <a href="https://pointmongo.com/browse/loot/distracting-mood-calf-socks">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 43
+    category: loot
+    slug: distracting-mood-calf-socks
+    url: https://pointmongo.com/browse/loot/distracting-mood-calf-socks
+    source: 'Community submission — Socks (Crawler #4381)'
+    tags:
+      - armor
+      - footwear
+      - magical-armor
+    updatedAt: '2026-08-31T17:12:29.7420105Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

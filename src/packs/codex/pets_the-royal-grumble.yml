@@ -1,0 +1,26 @@
+_id: pPx9mPzKo3SlKhwm
+_key: '!journal!pPx9mPzKo3SlKhwm'
+name: The Royal Grumble
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: KhkRk8a25xrQzKau
+    _key: '!journal.pages!pPx9mPzKo3SlKhwm.KhkRk8a25xrQzKau'
+    name: The Royal Grumble
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A grumble of pet pugs who could each grow into support-oriented PugBears if left as pets.</em></p><dl class="stat-block"><dt>Species</dt><dd>Pug (Canine)</dd><dt>Stats</dt><dd>Level 1</dd></dl><p>A Grumble of Pugs. They aren''t expected to change a great deal — they''ll certainly be more of a hindrance than help, but you''d never leave your fur babies behind. With some magical potions, though, they could become Rupert the Bard, Evelyn the Rogue, and Annabelle, still the queen but also a mage — all avoiding physical conflict.</p><p><strong>Changes after entering the Dungeon:</strong> If they remained as pets, they would grow into little PugBears (like an owlbear, but much, much lazier) — more support creatures, but able to provide some great buffs.</p><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/pets/the-royal-grumble">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 38
+    category: pets
+    slug: the-royal-grumble
+    url: https://pointmongo.com/browse/pets/the-royal-grumble
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - animal-companion
+      - pet
+      - dog
+    updatedAt: '2026-08-31T17:12:29.7293563Z'
+    needsRestat: false
+    missingFields: []

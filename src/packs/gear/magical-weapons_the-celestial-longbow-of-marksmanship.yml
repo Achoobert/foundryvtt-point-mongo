@@ -1,0 +1,19 @@
+_id: JVTo4du9np9ClgIe
+_key: '!items!JVTo4du9np9ClgIe'
+name: The Celestial Longbow of Marksmanship
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A glowing, vine-carved yew longbow that makes its archer a far better shot and a great deal tougher.</em></p><p>This beautifully crafted, magically enhanced, yew longbow is carved with a swirling verdant vine pattern that glows softly when equipped.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Longbow</td></tr><tr><th>Tier</th><td>Celestial</td></tr><tr><th>Weapon skill</th><td>Bow</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Aiming Skill at Rank 3</li><li>+20% Constitution</li><li>+6 Catcher Skill</li><li>+20% Strength</li><li>+6 Bow Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/the-celestial-longbow-of-marksmanship">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 972
+    category: magical-weapons
+    slug: the-celestial-longbow-of-marksmanship
+    url: https://pointmongo.com/browse/magical-weapons/the-celestial-longbow-of-marksmanship
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-27T16:16:13.5733204Z'
+    needsRestat: false
+    missingFields: []

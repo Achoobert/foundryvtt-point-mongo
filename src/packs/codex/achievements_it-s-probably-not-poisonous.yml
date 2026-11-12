@@ -1,0 +1,24 @@
+_id: oTFfZDtjGblHkhUG
+_key: '!journal!oTFfZDtjGblHkhUG'
+name: It's Probably Not Poisonous
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: TN2xGt1d8utRJHgS
+    _key: '!journal.pages!oTFfZDtjGblHkhUG.TN2xGt1d8utRJHgS'
+    name: It's Probably Not Poisonous
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you consume an unidentified food or drink found in the dungeon.</em></p><p>You consumed an unidentified substance found inside a death dungeon.</p><p>The System AI admires your confidence.</p><p>The System AI does not necessarily admire your survival instincts.</p><p>Reward: Bronze Survivor''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/it-s-probably-not-poisonous">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 651
+    category: achievements
+    slug: it-s-probably-not-poisonous
+    url: https://pointmongo.com/browse/achievements/it-s-probably-not-poisonous
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9955331Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: w8UOSoaxX6z2a7s2
+_key: '!journal!w8UOSoaxX6z2a7s2'
+name: Stone Hawk
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: TztrnU7p3S06egMh
+    _key: '!journal.pages!w8UOSoaxX6z2a7s2.TztrnU7p3S06egMh'
+    name: Stone Hawk
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A grey hawk whose daily strike paralyses, or on a Critical Success turns the target permanently to stone.</em></p><p>Small hawks, with dull gray feathers and a small but very hard curved beak. When Fully grown, they are Size 2 (Small)</p><p>Bonding: Hawks need to be comfortable with their tutors. They will accept food, but will only bond if fed and then spending a short rest (2hours) with their potential tutor doing nothing.</p><p>Level 15 Benefit</p><p>Once per day a Stone Hawk may make an Opposed Con+F check (Bosses are immune). On a hit, target is Paralyzed for 20 seconds. On an Amazing Success, target is Paralyzed for 1 min. On a Critical Success, target is permanently turned into stone.</p><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/pets/stone-hawk">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 777
+    category: pets
+    slug: stone-hawk
+    url: https://pointmongo.com/browse/pets/stone-hawk
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-20T19:30:22.4984276Z'
+    needsRestat: false
+    missingFields: []

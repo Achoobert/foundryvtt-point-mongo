@@ -1,0 +1,25 @@
+_id: iVWZDzBrMDSN2kC7
+_key: '!journal!iVWZDzBrMDSN2kC7'
+name: Ryan Goosifer Gosling
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: Fix9dMhZfKaBFhbC
+    _key: '!journal.pages!iVWZDzBrMDSN2kC7.Fix9dMhZfKaBFhbC'
+    name: Ryan Goosifer Gosling
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A legendary-variant Avian Terror Daemon (Canadian Goose) pet with a passive-aggressive doorway-blocking ability and a sonic ultimate.</em></p><p><strong>Species:</strong> Avian Terror Daemon (Canadian Goose) · <strong>Rarity:</strong> Legendary (Variant) · <strong>Stats:</strong> Hate 99 (uncapped), Agility 85, Charisma -50 · <strong>Armor:</strong> 12 (immune to cold)</p><p>Abilities: Cobra Hiss (Primal Dread aura, 10m, disarms and routs fleeing humanoids), Wing-Beat Bludgeon (45 blunt damage, 35% chance to break bones), The Canadian Stand-Off (4x defense while blocking a doorway, repeating "thank you"/"sorry" until the enemy leaves or explodes from rage), Bio-Hazard Carpet Bomb (5m acid-slick AoE), and The Incredible Honk (150 sonic damage ultimate that shatters glass, disrupts spellcasting, and enrages Princess Donut on sight).</p><hr><p><em>Source: Community submission — Prince$$DonutCrlr (Crawler #—). From <a href="https://pointmongo.com/browse/pets/ryan-goosifer-gosling">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 305
+    category: pets
+    slug: ryan-goosifer-gosling
+    url: https://pointmongo.com/browse/pets/ryan-goosifer-gosling
+    source: 'Community submission — Prince$$DonutCrlr (Crawler #—)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.7414398Z'
+    needsRestat: false
+    missingFields: []

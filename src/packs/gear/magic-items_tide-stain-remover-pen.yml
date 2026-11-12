@@ -1,0 +1,19 @@
+_id: DW75fBXZbxQlaNkn
+_key: '!items!DW75fBXZbxQlaNkn'
+name: Tide Stain Remover pen
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Say “Presto,” dab your clothes, and look sharp enough for extra Charisma and a better first impression for a whole day.</em></p><p>Activated with the word “Presto” and touch it to your clothing, bestows +2 Charisma and +1 Good First Impression, lasts 30 hours.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Consumable</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Duration</th><td>30 hours</td></tr><tr><th>Limitations</th><td>Does not stack with additional uses during the duration.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Charisma</li><li>+1 Good First Impression skill</li></ul><hr><p><em>Source: Community submission — SuperBob. From <a href="https://pointmongo.com/browse/magic-items/tide-stain-remover-pen">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1121
+    category: magic-items
+    slug: tide-stain-remover-pen
+    url: https://pointmongo.com/browse/magic-items/tide-stain-remover-pen
+    source: Community submission — SuperBob
+    tags: []
+    updatedAt: '2026-11-10T06:59:48.6965728Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,19 @@
+_id: LCY7jbXTTIPypOLI
+_key: '!items!LCY7jbXTTIPypOLI'
+name: Enchanted Toe Ring of the Mage Tank
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A golden toe ring with brains and durability in one, for early casters who''d like to survive the first few floors.</em></p><p>This golden toe ring can be huge asset to a low level Crawler.  When equipped it bestows the following benefits: +5 Constitution, +4 Intelligence.  The perfect combination of brains and durability for a early career crawler looking to focus on a magic heavy build, while still being robust enough to maybe survive the first few levels of the World Dungeon.  You''ve got the System AI''s attention, try not to waste it.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5 Constitution</li><li>+4 Intelligence</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-mage-tank">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1145
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-the-mage-tank
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-mage-tank
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1260769Z'
+    needsRestat: false
+    missingFields: []

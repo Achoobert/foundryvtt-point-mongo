@@ -1,0 +1,51 @@
+_id: Z2XWM4iVZCzQNAmh
+_key: '!actors!Z2XWM4iVZCzQNAmh'
+name: Orcestra
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><strong>Missing:</strong> Level, stat scores, Move, Floor (sets DR), attacks</p><p><em>Heavily armored orc musicians who wage war through weaponized symphonies from trombone cannons and bagpipe flamethrowers.</em></p><p>The Orcestra are heavily armored orc musicians who wage war through weaponized symphonies. Each member carries an instrument modified into a brutal battlefield tool — trombone cannons, bagpipe flamethrowers, violin bows strung with razor wire, and drum kits that create shockwaves powerful enough to crack castle walls. They travel from kingdom to kingdom in a massive black war wagon called The Tour Bus of Doom, demanding tribute before performing their “final concert.” Their attacks grow stronger the longer they stay in rhythm, forcing adventurers to interrupt songs before the Orcestra reaches its devastating finishing move: The Fortissmash. Bards consider them a disgrace to music. Orcs consider them legends. Everyone else just hopes they don’t ask for an encore.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/mobs/orcestra">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: Medium (4)
+  creatureType: Orc variant
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Orcestra
+  actorLink: false
+flags:
+  point-mongo:
+    id: 113
+    category: mobs
+    slug: orcestra
+    url: https://pointmongo.com/browse/mobs/orcestra
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-22T05:38:06.8496342Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

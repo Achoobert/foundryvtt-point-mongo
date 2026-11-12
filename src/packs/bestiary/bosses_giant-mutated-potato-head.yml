@@ -1,0 +1,51 @@
+_id: 7O3luy5YGbdqCssM
+_key: '!actors!7O3luy5YGbdqCssM'
+name: Giant Mutated Potato Head
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> Level, stat scores, Floor (sets DR), attacks</p><p><em>A Large Neighborhood Boss that keeps fighting after losing limbs, absorbing crawler body parts and throwing them back.</em></p><p><strong>Type:</strong> Monstrosity (Neighborhood Boss) · <strong>Size:</strong> Large · <strong>HD:</strong> 2/level · <strong>AC:</strong> 4 · <strong>Move:</strong> 10''/round</p><p>Attacks: Charge 1d12, Smash 1d20-x (x = body parts lost since the fight began). Consume (after killing a crawler, absorbs a random body part, gaining new — familiar-looking — limbs). Throw (once below 25% HP, and every 5% after, launches an absorbed body part at the nearest crawler for damage equal to that part''s original owner''s highest stat). A double-decker-bus-sized mutated potato head that keeps coming no matter how many pieces are cut or blown off.</p><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/bosses/giant-mutated-potato-head">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 1
+  size: Large (5)
+  creatureType: Monstrosity
+  move: '10'
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Giant Mutated Potato Head
+  actorLink: false
+flags:
+  point-mongo:
+    id: 92
+    category: bosses
+    slug: giant-mutated-potato-head
+    url: https://pointmongo.com/browse/bosses/giant-mutated-potato-head
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - neighborhood-boss
+      - bosses
+    updatedAt: '2026-09-03T16:29:38.7255624Z'
+    needsRestat: true
+    missingFields:
+      - Level
+      - stat scores
+      - Floor (sets DR)
+      - attacks

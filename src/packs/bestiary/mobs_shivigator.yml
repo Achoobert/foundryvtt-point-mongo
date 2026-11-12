@@ -1,0 +1,56 @@
+_id: Jgtl8j3KlCYbeFll
+_key: '!actors!Jgtl8j3KlCYbeFll'
+name: Shivigator
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>A radioactive gator from Gator Creek Estates with knives for arms and teeth, scales tough enough for DR 2, and a bad habit fed by the Nope Ropes.</em></p><p>Mutated by the radioactive waste around Gator Creek Estates, this vicious reptilian murder machine has built-in knives for arms and teeth. The Shivigators want to become the leaders of the borough, but they''re hooked on the ecstasy made by the Nope Ropes, mutated boa constrictors, and their leader, MC Constrictor. The borough is known as the Everblades because of the razor wire-like plants that grow in this marshy area of the first floor. Their tough scales give them DR 2.</p><p>(P.S. Don''t attempt to pet the Shivigator. It has no sense of friendship or personal space, nor does it know the difference between a handshake and an amputation.)</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — VertaHex. From <a href="https://pointmongo.com/browse/mobs/shivigator">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 2
+  size: Medium (4)
+  creatureType: Mutated, Gator
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 2
+    max: 2
+  dr: 2
+  stats:
+    str:
+      value: 3
+    dex:
+      value: 3
+    con:
+      value: 3
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks:
+    - name: Cleave
+      toHit: ''
+      damage: 1d8
+      damageType: slashing
+      range: 5ft
+      effect: ''
+    - name: Bleeding Slash
+      toHit: ''
+      damage: 1d6
+      damageType: slashing
+      range: 5ft
+      effect: Blood Trail
+prototypeToken:
+  name: Shivigator
+  actorLink: false
+flags:
+  point-mongo:
+    id: 953
+    category: mobs
+    slug: shivigator
+    url: https://pointmongo.com/browse/mobs/shivigator
+    source: Community submission — VertaHex
+    tags: []
+    updatedAt: '2026-10-23T01:03:05.1675768Z'
+    needsRestat: false
+    missingFields: []

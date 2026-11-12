@@ -1,0 +1,24 @@
+_id: D9VMZ0rOydFqioCO
+_key: '!journal!D9VMZ0rOydFqioCO'
+name: Ghost of Bosses Past
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: RRrvxIX5sV19oN4h
+    _key: '!journal.pages!D9VMZ0rOydFqioCO.RRrvxIX5sV19oN4h'
+    name: Ghost of Bosses Past
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you survive an encounter with a Neighborhood Boss without ever directly engaging it in combat.</em></p><p>You watched a Neighborhood Boss do its terrible work, kept your head down, and slipped away unnoticed. Discretion is, in fact, the better part of valor. Also cowardice. It''s mostly cowardice. Great instincts, though.</p><p>Reward: Silver Discretion Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/ghost-of-bosses-past">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 696
+    category: achievements
+    slug: ghost-of-bosses-past
+    url: https://pointmongo.com/browse/achievements/ghost-of-bosses-past
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0322838Z'
+    needsRestat: false
+    missingFields: []

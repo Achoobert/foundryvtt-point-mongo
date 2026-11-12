@@ -1,0 +1,25 @@
+_id: gQNp78ELuWlfgj6Z
+_key: '!items!gQNp78ELuWlfgj6Z'
+name: Arms Manufacturer
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>You''re so much more than just a weapon smith, you''re the kind of class that will gather their expertise and create regime-changing weapons to gear small armies. If your enemies aren''t afraid of you yet, they will be when they see what kind of creations you''ll unleash.</em></p><p><strong>Requirements:</strong> 25 Intelligence, Rank 5 Explosives Handling Skill, and Rank 5 Fabricate Skill. You gain +5 Intelligence, +1 Weapon Manufacturing Skill (weapons you make deal increased damage and have better attributes depending on what is made), +1 Explosives Manufacturing Skill (Same as above but with explosives), +2 Engineering Skill, +2 Explosives Handling Skill, +2 Fabricate Skill, +3 Dangerous Explosives Handling Skill, -50% damage with weapons you did not personally create, +3 DR when damaged by weapons you created. You gain a +1 bonus to skill advancement with Weapons Manufacturing, Explosives Manufacturing, Engineering, Explosives Handling, Fabricate, and Dangerous Explosives Handling Skill. Unique items you make cannot be made by other crawlers and can instead be bought directly from your inventory for 50% of their value. Once the Dungeon Crawl ends, you get 5 gold coins for each kill made with your unique items.</p><p>,</p><table><tbody><tr><th>Prerequisites</th><td>25 Intelligence, Rank 5 Explosives Handling, and Rank 5 Fabricate.</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Weapon Manufacturing</li><li>+1 Explosives Manufacturing</li><li>+2 Engineering</li><li>+2 Explosives Handling</li><li>+2 Fabricate</li><li>+3 Dangerous Explosives Handling</li></ul><p><strong>Benefits</strong></p><ul><li>+3 DR when damaged by weapons you created.</li><li>+1 bonus to Skill Advancement for Weapon Manufacturing, Explosives Manufacturing, Engineering, Explosives Handling, Fabricate and Dangerous Explosives Handling.</li><li>Unique items you make cannot be made by other crawlers, and can be bought directly from your inventory for 50% of their value.</li><li>Once the crawl ends, you get 5 gold coins for each kill made with your unique items.</li></ul><p><strong>Detriments</strong></p><ul><li>-50% damage with weapons you did not personally create.</li></ul><hr><p><em>Source: Lazarhunter. From <a href="https://pointmongo.com/browse/classes/arms-manufacturer">Point Mongo</a>.</em></p>'
+  classTypes: []
+  prerequisites: 25 Intelligence, Rank 5 Explosives Handling, and Rank 5 Fabricate.
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 481
+    category: classes
+    slug: arms-manufacturer
+    url: https://pointmongo.com/browse/classes/arms-manufacturer
+    source: Lazarhunter
+    tags:
+      - class
+      - classes
+    updatedAt: '2026-09-02T00:47:04.9208657Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

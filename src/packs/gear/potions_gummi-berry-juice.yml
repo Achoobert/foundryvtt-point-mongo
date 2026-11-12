@@ -1,0 +1,22 @@
+_id: GIHTD9yhjdACxCHX
+_key: '!items!GIHTD9yhjdACxCHX'
+name: Gummi Berry Juice
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> effects</p><p><em>This delicious fruity juice is absolutely brimming with Vitamin C and the power to bounce like a ball off objects. Oh, and this yummy drink may have additional effects for Bears of various variety. Yum!</em></p><p>A potion bottle filled with a cold, red liquid that glows with a powerful energy. Gain the following for the next 3d20+DEX+Floor seconds: 1) You gain the Gummi Bounce Ability. Allows you to bounce up 2x your Movement as a Movement Action. 2) You gain +10 to STR and DEX. If your race is Ursine, the stat bonus is for your CON and DEX instead of STR and DEX. Greater Gummi Berry Juice (Potion): Like a standard Gummy Berry Juice, except this potion lasts for 1d20+DEX Minutes, and you gain the Level 15 Gummi Bounce Ability, and gain a +20 to stats. Gummi Bounce: Level 1 ability: choose a direction and destination. Roll for success of how close you land to your destination. You roll with Disadvantage.</p><p>- Level 5: You gain a +3 to your Landing roll. Level 10: You gain a +5 to your landing roll. Level 15: You roll with Advantage. Level 20: You land exactly where you aimed. Potion Recipe: Six handfuls of red berries, then four orange berries, three purple berries, four blue berries, three green berries and one yellow berry. The recipe ends with the three-step-stir: first stir slowly to the right, then stir slowly to the left, then bang the pot to banish the bubbles. This apparently also stabilizes the magic concoction. Another critical ingredient is pure springwater. If the juice is produced inaccurately from the recipe the results have adverse outcomes, though nothing fatal.</p><table><tbody><tr><th>Type</th><td>Potion</td></tr></tbody></table><hr><p><em>Source: Myles L. (Crawler #26933). From <a href="https://pointmongo.com/browse/potions/gummi-berry-juice">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 508
+    category: potions
+    slug: gummi-berry-juice
+    url: https://pointmongo.com/browse/potions/gummi-berry-juice
+    source: 'Myles L. (Crawler #26933)'
+    tags:
+      - potion
+      - potions
+    updatedAt: '2026-09-02T00:47:05.0183953Z'
+    needsRestat: true
+    missingFields:
+      - effects

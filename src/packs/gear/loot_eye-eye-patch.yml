@@ -1,0 +1,19 @@
+_id: CK72pDcf7il8EOrl
+_key: '!items!CK72pDcf7il8EOrl'
+name: eye eye patch
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>Twice as good as an eye patch because it covers both eyes, leaving you blind but sharpening every other sense.</em></p><p>This item is twice as good as a regular eye patch! As in it covers both eyes instead of just one! This might make it hard to see things but hopefully all your other senses will improve to compensate.</p><table><tbody><tr><th>Slot</th><td>Head</td></tr><tr><th>Type</th><td>goggles</td></tr><tr><th>Limitations</th><td>You have the blinded debuff when you have this item equipped</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>All skill checks that require senses other than sight are rolled with advantage.</li></ul><hr><p><em>Source: Community submission — Ben D. From <a href="https://pointmongo.com/browse/loot/eye-eye-patch">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1091
+    category: loot
+    slug: eye-eye-patch
+    url: https://pointmongo.com/browse/loot/eye-eye-patch
+    source: Community submission — Ben D
+    tags: []
+    updatedAt: '2026-11-08T10:01:17.9513803Z'
+    needsRestat: false
+    missingFields: []

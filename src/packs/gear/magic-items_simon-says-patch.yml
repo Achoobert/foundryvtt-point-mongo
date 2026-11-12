@@ -1,0 +1,19 @@
+_id: KNLQ90FqLuVLKH3S
+_key: '!items!KNLQ90FqLuVLKH3S'
+name: Simon Says Patch
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A fleeting patch shaped like the classic Simon game that sharpens DEX and INT, and rewards you for winning its daily memory test.</em></p><p>This is a Fleeting Item.</p><p>Upgrade Patch. Small.</p><p>This is a small, round, 3" patch. It resembles the "Simon Says" electronic game. The background is black stitching, and there are four arched colored quadrants: green, red, blue, and yellow, with the word "SIMON" stitched in bold capital letters in the center of them. Each quadrant glows in turn.</p><p>If this upgrade patch is affixed to an eligible garment, it will imbue the following upgrades:</p><p>• +5 DEX</p><p>• +5 INT</p><p>• Advantage on all combat rolls.</p><p>Additionally, once per day, the patch will shout "Simon Says!" at you, and you must press the correct sequence of colors on the patch. Doing so will activate the following effects for the next 30 hours:</p><p>• Advantage on all attack rolls in combat</p><p>• Compel an opponent to redirect their attack at one of their allies once per encounter.</p><p>• +5 to Damage rolls</p><p>Warning: Upgrade patches are Fleeting Items. You may remove them, but they will be destroyed in the process.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Upgrade Patch</td></tr><tr><th>Tier</th><td>Legendary</td></tr><tr><th>Limitations</th><td>Certain effects require daily activation.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5 DEX</li><li>+5 INT</li><li>Advantage on all combat rolls.</li><li>Advantage on all attack rolls in combat (requires activation)</li><li>Compel an opponent to redirect their attack at one of their allies once per encounter (requires activation).</li><li>+5 to Damage rolls (requires activation).</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/magic-items/simon-says-patch">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1048
+    category: magic-items
+    slug: simon-says-patch
+    url: https://pointmongo.com/browse/magic-items/simon-says-patch
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-11-04T17:26:13.5800458Z'
+    needsRestat: false
+    missingFields: []

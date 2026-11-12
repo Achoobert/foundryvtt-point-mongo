@@ -1,0 +1,25 @@
+_id: vpQUOMpbFkEILwMB
+_key: '!journal!vpQUOMpbFkEILwMB'
+name: Oh, You're a LARP'er?
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: z6xEuV8yeMS2Mbip
+    _key: '!journal.pages!vpQUOMpbFkEILwMB.z6xEuV8yeMS2Mbip'
+    name: Oh, You're a LARP'er?
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler enters the dungeon in full medieval LARP costume, primed by years of practice for the real deal.</em></p><p><strong>Scenario:</strong> Outside, LARPing at the time of collapse.</p><p>Oh, You''re a LARP''er? So you are a medieval recreator or LARPer who was out at your local park for an "event" when the dungeon opened. You enter the dungeon fully garbed up. Before the end, you were one of those people that went to renaissance festivals in full costume, you took pride in how you looked and fit in with the actors there. You probably even belonged to a LARP or recreationist or re-enactor group, going camping on the weekends and play fighting with your friends. You may have even learned how to properly wear armor and hold a sword and shield, or maybe you were a wizard with fireballs. Now you’re here and this is the real deal. This is what you’ve been training for all these years by buying a ridiculous number of swords and armor. Well, this or a zombie apocalypse (which could still happen). I bet you were even at one of your events in a park or somewhere when this all happened. Are you really ready for it, though? Now is the time to be vindicated for all the money you have spent. You got this, boo.</p><p><strong>Suggested Rewards:</strong></p><p>You look cool and like you belong here. Your charisma is 1 higher than it would be, naturally and if you had a weapon coming in, you get an additional 1 skill point in that weapon per level.</p><hr><p><em>Source: Community submission — John (Crawler #24597). From <a href="https://pointmongo.com/browse/achievements/oh-you-re-a-larp-er">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 294
+    category: achievements
+    slug: oh-you-re-a-larp-er
+    url: https://pointmongo.com/browse/achievements/oh-you-re-a-larp-er
+    source: 'Community submission — John (Crawler #24597)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:27:11.5169202Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: DPG5qy6WxAcsW2sT
+_key: '!items!DPG5qy6WxAcsW2sT'
+name: Sword of Reversed Rolls
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A +3 blade that flips your d20 rolls — 20s become 1s and vice versa — chaos for most, a gift for low-rollers.</em></p><p><strong>Type:</strong> Bladed (any sword type) · <strong>Damage:</strong> see description</p><p>A +3 magical sword that reverses d20 rolls: 20s become 1s, 1s become 20s, and everything in between follows suit. Causes chaos for most wielders — but for a crawler who tends to roll low, it''s glorious.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Sword</td></tr><tr><th>Weapon skill</th><td>Longsword</td></tr></tbody></table><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/magical-weapons/sword-of-reversed-rolls">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 221
+    category: magical-weapons
+    slug: sword-of-reversed-rolls
+    url: https://pointmongo.com/browse/magical-weapons/sword-of-reversed-rolls
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - magical-weapons
+      - sword
+    updatedAt: '2026-09-03T05:54:47.8486691Z'
+    needsRestat: false
+    missingFields:
+      - effects

@@ -1,0 +1,24 @@
+_id: Za4bsVP7JIH4Dl16
+_key: '!journal!Za4bsVP7JIH4Dl16'
+name: Two for One
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: rM4aXeRFbJXWVVH8
+    _key: '!journal.pages!Za4bsVP7JIH4Dl16.rM4aXeRFbJXWVVH8'
+    name: Two for One
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you kill two Mobs with one attack or effect.</em></p><p>You managed to kill two enemies with a single attack or effect. Congratulations! Why waste one attack when you can ruin two lives at once?</p><p>Reward: Silver Assassin''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/two-for-one">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 591
+    category: achievements
+    slug: two-for-one
+    url: https://pointmongo.com/browse/achievements/two-for-one
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9467849Z'
+    needsRestat: false
+    missingFields: []

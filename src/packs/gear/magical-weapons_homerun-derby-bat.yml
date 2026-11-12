@@ -1,0 +1,19 @@
+_id: 3UIFaIyljdLopnfn
+_key: '!items!3UIFaIyljdLopnfn'
+name: Homerun Derby Bat
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>Years in the batting cages, and the trick turns out not to be hitting heads with it. It is hitting everything else at them.</em></p><p>This uses the Club Skill when making an attack with it. Years in the batting cages have prepared you in how to use this skillful weapon, and while it might sound enticing to use this wooden baseball bat to bash heads, the true strength of this trusty sports weapon lies in its ability to smack things out of the park.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Weapon</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Weapon skill</th><td>Club</td></tr><tr><th>DR</th><td>0</td></tr><tr><th>Duration</th><td>n/a</td></tr><tr><th>Cooldown</th><td>n/a</td></tr><tr><th>Charges</th><td>n/a</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Hitting a non-living object with this bat uses the Throwing Skill automatically.</li><li>You can hit a target double the distance than what your current Rank in Throwing allows.</li><li>If you hit an object at a foe, make the Attack Skill Check with advantage.</li><li>If you hit a foe with an object struck by this weapon, add your Club Rank skill to the total damage.</li></ul><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/magical-weapons/homerun-derby-bat">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 753
+    category: magical-weapons
+    slug: homerun-derby-bat
+    url: https://pointmongo.com/browse/magical-weapons/homerun-derby-bat
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-24T18:09:50.6323214Z'
+    needsRestat: false
+    missingFields: []

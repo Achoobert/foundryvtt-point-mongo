@@ -1,0 +1,24 @@
+_id: 8NsjChMZXByTnCK8
+_key: '!items!8NsjChMZXByTnCK8'
+name: T'Ghee Deckmaster's Wrist Cuff of the Blatant Cheater
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A sentient wrist cuff hosting a card-game savant who boosts Intelligence and card draws while secretly draining Charisma daily.</em></p><p><strong>Type:</strong> Cursed, Sapient Wrist Cuff</p><p>Grants +10% Intelligence and halves draw cooldowns. Inhabited by Gideon, a card-game obsessive who always knows the right play and every card''s strengths/weaknesses, and freely shares trading and totem-farming advice. Meanwhile, the wearer''s base Charisma silently drops by 2 points per day — though the wearer perceives it as rising, since they''re too busy talking about cards for anyone to notice or care.</p><table><tbody><tr><th>Type</th><td>Wrist Cuff</td></tr></tbody></table><hr><p><em>Source: Community submission — Barry (Crawler #3779). From <a href="https://pointmongo.com/browse/loot/t-ghee-deckmaster-s-wrist-cuff-of-the-blatant-cheater">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 161
+    category: loot
+    slug: t-ghee-deckmaster-s-wrist-cuff-of-the-blatant-cheater
+    url: https://pointmongo.com/browse/loot/t-ghee-deckmaster-s-wrist-cuff-of-the-blatant-cheater
+    source: 'Community submission — Barry (Crawler #3779)'
+    tags:
+      - dcc-ccs
+      - loot
+      - cursed
+    updatedAt: '2026-09-03T16:30:37.1394976Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

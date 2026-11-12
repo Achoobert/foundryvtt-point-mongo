@@ -1,0 +1,44 @@
+_id: D8L1MVlveGWQfB2O
+_key: '!items!D8L1MVlveGWQfB2O'
+name: Intimidating Prowess
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A passive/opposed skill that lets critical successes intimidate witnesses, scaling into fear-induced paralysis.</em></p><p>(Passive/Opposed) This skill represents just how intimidating you look doing anything. Whenever you critically succeed on a check (natural 20) you can choose to intimidate another creature who witnessed your power. Roll an Opposed Skill Check (Charisma + Skill Rank) against that creature''s Charisma. On a success, their next check/attack has a -1d6.</p><ul><li>Level 5: This now also triggers whenever you roll a Spectacular Success (10+ above the Difficulty)</li><li>Level 10: Now targets any number of creatures who witnessed your power (roll one check, compare against each opposed creature''s stat)</li><li>Level 15: Instead of a -1d6 to their next check, you can choose to paralyze the target with fear — they are incapable of doing anything but run away from you on their next turn</li></ul><table><tbody><tr><th>Category</th><td>Passive</td></tr></tbody></table><hr><p><em>Source: Community submission — Riley R (Crawler #10268). From <a href="https://pointmongo.com/browse/skills/intimidating-prowess">Point Mongo</a>.</em></p>'
+  governingStat: cha
+  category: passive
+  attackType: ''
+  isPassive: true
+  range: 60ft
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: PzRJL8mUWRQPBb3U
+      rankThreshold: 5
+      description: <p>Triggers on Amazing Success or higher.</p>
+    - id: c3Kqy6xGsutxbGKX
+      rankThreshold: 10
+      description: <p>Targets any number of creatures within 60ft that can see you.</p>
+    - id: mIqDL3XjPCEu31Ex
+      rankThreshold: 15
+      description: <p>Can choose to apply Paralyzed Debuff instead of 1d6 penalty.</p>
+flags:
+  point-mongo:
+    id: 74
+    category: skills
+    slug: intimidating-prowess
+    url: https://pointmongo.com/browse/skills/intimidating-prowess
+    source: 'Community submission — Riley R (Crawler #10268)'
+    tags:
+      - skill
+      - combat
+      - social
+    updatedAt: '2026-11-01T19:31:04.7889035Z'
+    needsRestat: false
+    missingFields: []

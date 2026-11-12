@@ -1,0 +1,26 @@
+_id: r2MCvZ8dcArWQN7c
+_key: '!journal!r2MCvZ8dcArWQN7c'
+name: Abyssal Ooze (Blue Element Slimordian)
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: 85YYCViJnOqsSWY4
+    _key: '!journal.pages!r2MCvZ8dcArWQN7c.85YYCViJnOqsSWY4'
+    name: Abyssal Ooze (Blue Element Slimordian)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A water-type Element Slimordian slime with a fluid, shapeless body that hides by flattening into puddles.</em></p><p><strong>Species:</strong> Element Slimordian (Blue, Water)</p><p>A deep-blue aquatic slime with a fluid, wave-like body that never holds a fixed shape, containing drifting fish bones, pearls, and glowing algae. Moves silently like flowing water and can flatten into a puddle to hide or ambush prey. Abilities: water manipulation, healing regeneration, tidal waves, drowning grasp. Weaknesses: electricity, extreme dehydration. Personality: calm, observant, mysterious.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/pets/abyssal-ooze-blue-element-slimordian">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 314
+    category: pets
+    slug: abyssal-ooze-blue-element-slimordian
+    url: https://pointmongo.com/browse/pets/abyssal-ooze-blue-element-slimordian
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - pets
+      - slime
+    updatedAt: '2026-09-02T04:50:41.748422Z'
+    needsRestat: false
+    missingFields: []

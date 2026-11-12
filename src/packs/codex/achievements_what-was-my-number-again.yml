@@ -1,0 +1,24 @@
+_id: E67h7jWow25ySRqZ
+_key: '!journal!E67h7jWow25ySRqZ'
+name: What Was My Number Again
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: jC4x89LTh4Sk3zEq
+    _key: '!journal.pages!E67h7jWow25ySRqZ.jC4x89LTh4Sk3zEq'
+    name: What Was My Number Again
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you forget your own Crawler Number when asked to state it.</em></p><p>You had one job: remember the number that identifies you to the entire dungeon system. You blanked. On camera. In front of trillions of viewers. Don''t worry, we''ll just keep calling you by whatever nickname stuck instead.</p><p>Reward: Bronze Identity Crisis Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/what-was-my-number-again">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 687
+    category: achievements
+    slug: what-was-my-number-again
+    url: https://pointmongo.com/browse/achievements/what-was-my-number-again
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0250197Z'
+    needsRestat: false
+    missingFields: []

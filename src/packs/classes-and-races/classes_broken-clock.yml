@@ -1,0 +1,23 @@
+_id: k4iH1Xom3qq6h6gW
+_key: '!items!k4iH1Xom3qq6h6gW'
+name: Broken Clock
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Mage/Bard class for the accidental seer who is right just often enough to nudge an ally''s roll in the right direction.</em></p><p>Some people are attuned to the universe, some get to see the future in the stars, tea leaves, dreams. Let me tell you a little secret: None of it was true. Even a broken clock is right twice a day.</p><p>Well, looks like the dungeon can give you just that. Congratulations, you are a real seer... sometimes.</p><p><strong>Stat bonuses</strong></p><ul><li>+3 Int</li><li>+5 Cha</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Dodge</li><li>+2 Deception</li><li>+1 Nimbus Spell</li></ul><p><strong>Benefits</strong></p><ul><li>+1 Cat Like Reflexes <em>(extreme)</em></li><li>Dodge may be raised to lvl 20 <em>(minor)</em></li><li>Once per day you may increase the level of success of a check from an ally you can see <em>(major)</em></li><li>At level 50, you can do this twice a day <em>(moderate)</em></li><li>Broken Clocks use Cha instead of Int for Spells <em>(moderate)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/broken-clock">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Mage/Bard
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1160
+    category: classes
+    slug: broken-clock
+    url: https://pointmongo.com/browse/classes/broken-clock
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1893109Z'
+    needsRestat: false
+    missingFields: []

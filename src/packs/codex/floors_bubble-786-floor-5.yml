@@ -1,0 +1,26 @@
+_id: Nc7FgNQ0rWnA5Hcv
+_key: '!journal!Nc7FgNQ0rWnA5Hcv'
+name: 'Bubble #786 (Floor 5)'
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: XKI67TMfwLTdVlCX
+    _key: '!journal.pages!Nc7FgNQ0rWnA5Hcv.XKI67TMfwLTdVlCX'
+    name: 'Bubble #786 (Floor 5)'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A four-quadrant Floor 5 bubble built inside the World Tree Yggdrasil, spanning a storm-elemental sky realm, a living-bark kingdom, a sap ocean, and a fungal root-world.</em></p><p><strong>Type:</strong> Floor 5 Bubble</p><p>Air — the Crown Canopy: leaf-platform cities near the divine, home to pirate-like Hollow Choir air elementals, manta-ray Stormwings, and near-invisible Glassfeather Drakes; watch for gravity-flipping Drop Gaps. Land — the Bark Kingdom: bark-ridge and knot-cities home to moss-antlered Rootstags, feathered Naga-like Canopy Serpents, and branch-and-bone Hollowkin golems, shaped by seasonal sap flows. Water — the Sap Ocean: raft-cities atop glowing sap currents, home to reef-shelled Reef Titans, moon-bright jellyfish Abyss Lanterns, and ribbon-finned Stormfin Mariners; past timelines occasionally surface as echoes. Subterranean — the Hollow Root: forge-cities among Glowcap Shepherds, glass-shelled Obsidian Crawlers, and crystal-fused Buried Kings, reshaped nightly by Rootstorms.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/floors/bubble-786-floor-5">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 230
+    category: floors
+    slug: bubble-786-floor-5
+    url: https://pointmongo.com/browse/floors/bubble-786-floor-5
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - floors
+      - bubble
+    updatedAt: '2026-09-02T04:50:41.6573324Z'
+    needsRestat: false
+    missingFields: []

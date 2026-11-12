@@ -1,0 +1,24 @@
+_id: kPtTcBcoz55L4Sry
+_key: '!items!kPtTcBcoz55L4Sry'
+name: Snake Oil Peddler
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Rogue/Mage huckster who brews dubious tonics at the alchemy table and sells them with a silver tongue.</em></p><p>For as long as problems have existed there have been people looking to make a buck off solutions. Sometimes these solutions are amazing, like the wheel or the Slap-Chop. Other times, they''re real stinkers.</p><p>But what about when there''s not a problem for your solution? Enter the enterprising capitalist called the Snake Oil Peddler. Equal parts drug dealer, inventor, and small businessman they take on the world with nothing but manufactured problems, watered-down urine distillates and a fuckton of chutzpa.</p><p>Grab your barrel wagons and mules and your bottles of untested supplements and conquer the world!</p><table><tbody><tr><th>Prerequisites</th><td>Must have crafted a consumable item</td></tr><tr><th>Crafting table</th><td>Tier 1 Alchemy Table</td></tr><tr><th>Bonus box</th><td>Earth hobby box</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 dexterity</li><li>+4 intelligence</li><li>+7 charisma</li><li>-4 strength</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 alchemy</li><li>+2 determine value</li><li>+2 negotiation</li><li>+2 charm</li></ul><p><strong>Benefits</strong></p><ul><li>50% chance that mixing random components at an alchemy table generates an effect <em>(extreme)</em></li></ul><p><strong>Detriments</strong></p><ul><li>melee skills are 25% less powerful <em>(3 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/classes/snake-oil-peddler">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Rogue
+    - Mage
+  prerequisites: Must have crafted a consumable item
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1090
+    category: classes
+    slug: snake-oil-peddler
+    url: https://pointmongo.com/browse/classes/snake-oil-peddler
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-08T10:01:17.9461564Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: cmsg9wXeESMAzSwk
+_key: '!journal!cmsg9wXeESMAzSwk'
+name: Mesmerized (Debuff)
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: TER8ph0TqCYng2Vj
+    _key: '!journal.pages!cmsg9wXeESMAzSwk.TER8ph0TqCYng2Vj'
+    name: Mesmerized (Debuff)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Drawn helplessly toward the Mean Green Mother and unable to attack it, until taking damage snaps you out of it.</em></p><p>While Mesmerized, crawlers cannot attack the Mean Green Mother and must use all Movement action to move towards the Mean Green Mother. Each time a crawler takes any damage, they may make a DC 15+F+INT Check to end this Debuff.</p><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/buffs-debuffs/mesmerized-debuff">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1003
+    category: buffs-debuffs
+    slug: mesmerized-debuff
+    url: https://pointmongo.com/browse/buffs-debuffs/mesmerized-debuff
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-10-29T04:19:44.0581107Z'
+    needsRestat: false
+    missingFields: []

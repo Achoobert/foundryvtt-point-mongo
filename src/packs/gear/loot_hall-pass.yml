@@ -1,0 +1,23 @@
+_id: xdCwUHiS2LcGsKTP
+_key: '!items!xdCwUHiS2LcGsKTP'
+name: Hall Pass
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A celestial item granting VIP-level neutrality from mobs and access to restricted areas, short of unlocking doors.</em></p><p><strong>Type:</strong> Celestial Item</p><p>All mobs below Province Boss level treat the holder neutrally, and NPCs won''t bar them from restricted areas without probable cause — treated as a VIP member of both the Desperado Club and Club Vanquisher, though still subject to expulsion for actual rule-breaking (like a murder spree). Does not unlock locked doors or similar structures.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Item</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/loot/hall-pass">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 131
+    category: loot
+    slug: hall-pass
+    url: https://pointmongo.com/browse/loot/hall-pass
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-09-30T20:04:01.8821871Z'
+    needsRestat: false
+    missingFields:
+      - effects

@@ -1,0 +1,24 @@
+_id: QDDxaGBJgYOcFwfp
+_key: '!journal!QDDxaGBJgYOcFwfp'
+name: Natural Selection
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: d3rSRRiiltTEx2yg
+    _key: '!journal.pages!QDDxaGBJgYOcFwfp.d3rSRRiiltTEx2yg'
+    name: Natural Selection
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you attempt an extremely dangerous stunt with little apparent chance of success and survive.</em></p><p>You voluntarily attempted an extremely dangerous stunt and survived. Congratulations! Your continued existence has temporarily disproven several reasonable assumptions about your intelligence.</p><p>Reward: Gold Lucky Bastard Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/natural-selection">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 623
+    category: achievements
+    slug: natural-selection
+    url: https://pointmongo.com/browse/achievements/natural-selection
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9725145Z'
+    needsRestat: false
+    missingFields: []

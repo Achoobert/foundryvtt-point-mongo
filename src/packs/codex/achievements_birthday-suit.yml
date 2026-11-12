@@ -1,0 +1,25 @@
+_id: uS7szlnRhE0mtM2Y
+_key: '!journal!uS7szlnRhE0mtM2Y'
+name: Birthday Suit
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: IkyuJ7eSPNxO4mfc
+    _key: '!journal.pages!uS7szlnRhE0mtM2Y.IkyuJ7eSPNxO4mfc'
+    name: Birthday Suit
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a party of crawlers enters the World Dungeon completely naked.</em></p><p><strong>Scenario:</strong> Outside, skinny dipping at the time of collapse.</p><p>You, and your party of Crawlers entered the World Dungeon as a naked as the day you were born. Poor Little Stupid.</p><p><strong>Suggested Rewards:</strong></p><p>Here''s a towel. I''m told "It''s about the most massively useful thing an interstellar hitchhiker can have"...it''s a skirt, a toga, a shawl, a weapon, hell...just be thankful I''m feeling generous.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/achievements/birthday-suit">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 295
+    category: achievements
+    slug: birthday-suit
+    url: https://pointmongo.com/browse/achievements/birthday-suit
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:38:13.5982805Z'
+    needsRestat: false
+    missingFields: []

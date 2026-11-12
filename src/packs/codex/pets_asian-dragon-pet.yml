@@ -1,0 +1,25 @@
+_id: HpwvrWbQpX1PuKNm
+_key: '!journal!HpwvrWbQpX1PuKNm'
+name: Asian Dragon (Pet)
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: I2yU4TyvBMjjp8hZ
+    _key: '!journal.pages!HpwvrWbQpX1PuKNm.I2yU4TyvBMjjp8hZ'
+    name: Asian Dragon (Pet)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A long, thin, wingless-flight-capable dragon pet in many colors, best suited to perching, grabbing, and light combat.</em></p><p><strong>Species:</strong> Asian Dragon</p><p>Comes in many colors, long and thin, mostly airborne. Has small arms and legs with sharp claws, used mainly for perching and grabbing. Abilities: wingless flight, hovering, mountable, limited speech, bite attack, highly intelligent. Weaknesses: low durability, stubborn, difficult to train.</p><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/pets/asian-dragon-pet">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 308
+    category: pets
+    slug: asian-dragon-pet
+    url: https://pointmongo.com/browse/pets/asian-dragon-pet
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.7447532Z'
+    needsRestat: false
+    missingFields: []

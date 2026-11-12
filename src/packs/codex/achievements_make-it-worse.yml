@@ -1,0 +1,24 @@
+_id: n43zHp4tgeQu3GgX
+_key: '!journal!n43zHp4tgeQu3GgX'
+name: Make It Worse
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: rYGhT8xK1Ak8Vi1h
+    _key: '!journal.pages!n43zHp4tgeQu3GgX.rYGhT8xK1Ak8Vi1h'
+    name: Make It Worse
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you deliberately escalate an already dangerous situation and somehow benefit from it.</em></p><p>You looked at an already dangerous situation and decided it wasn''t dangerous enough.</p><p>Then you made it worse.</p><p>Somehow, this worked in your favor.</p><p>The System AI is deeply concerned.</p><p>Reward: Gold Chaos Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/make-it-worse">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 676
+    category: achievements
+    slug: make-it-worse
+    url: https://pointmongo.com/browse/achievements/make-it-worse
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.016385Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,25 @@
+_id: cN2aVcTzQo7G3X1W
+_key: '!journal!cN2aVcTzQo7G3X1W'
+name: Luck of the Jar Jar
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 8sLnmdVzsztDxmcU
+    _key: '!journal.pages!cN2aVcTzQo7G3X1W.8sLnmdVzsztDxmcU'
+    name: Luck of the Jar Jar
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler survives a sure-kill attack purely through clumsy dumb luck.</em></p><p><strong>Scenario:</strong> A crawler dodges a fatal attack through dumb luck.</p><p>Whoa! Did you see that surefire kill shot pass you by because you''re too much of a klutz to be standing upright in the path of it? Was that viscera you just slipped on or did you just trip over your own feet? Well you survived out of pure dumb luck, but I can''t wait for the fan theories that that was a force technique.</p><p><strong>Suggested Reward:</strong></p><p>You''re still alive ain''t ya? but out of pity take this Bronze Lucky Bastard box.</p><hr><p><em>Source: Community submission — Socks (Crawler #4381). From <a href="https://pointmongo.com/browse/achievements/luck-of-the-jar-jar">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 277
+    category: achievements
+    slug: luck-of-the-jar-jar
+    url: https://pointmongo.com/browse/achievements/luck-of-the-jar-jar
+    source: 'Community submission — Socks (Crawler #4381)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-11-11T20:08:41.5121434Z'
+    needsRestat: false
+    missingFields: []

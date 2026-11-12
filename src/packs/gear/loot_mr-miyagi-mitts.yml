@@ -1,0 +1,25 @@
+_id: KrIXhcKh02fJKe34
+_key: '!items!KrIXhcKh02fJKe34'
+name: Mr. Miyagi Mitts
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>Wrist wraps that boost dexterity and dodge, with a small chance to simply not be where an attack lands.</em></p><dl class="stat-block"><dt>Type</dt><dd>Gloves</dd></dl><p>"The Best Defence Is No Be There!" These wrist wraps are stylish, badass, and great for wiping sweat out of your eyes when training, fighting, or doing some lame mundane household chore your sensei needs done under the guise of "physical conditioning." +15% to dexterity, +25% to dodge skill, and a 1-in-8 chance of simply not being in the place where the attack lands.</p><hr><p><em>Source: Community submission — K8 (Crawler #71). From <a href="https://pointmongo.com/browse/loot/mr-miyagi-mitts">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 46
+    category: loot
+    slug: mr-miyagi-mitts
+    url: https://pointmongo.com/browse/loot/mr-miyagi-mitts
+    source: 'Community submission — K8 (Crawler #71)'
+    tags:
+      - armor
+      - gloves
+      - magical-armor
+    updatedAt: '2026-08-31T17:12:29.744075Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

@@ -1,0 +1,27 @@
+_id: LeMRKFO7NpbUZfMm
+_key: '!items!LeMRKFO7NpbUZfMm'
+name: Disgruntled Chef
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>Culinary-based Support/Combatant class that turns food into buffs, weapons, and explosives.</em></p><dl class="stat-block"><dt>Type</dt><dd>Support</dd><dt>Stat Bonus</dt><dd>Con +1, Int +2</dd><dt>Stat Penalty</dt><dd>Cha -1</dd></dl><p>Culinary-based Support / Combatant class. Gain +2 to Cooking, Alchemy, and Improvised Weapon checks involving food items. Able to create buffing meals, volatile snacks, and chemically unstable dishes using found ingredients. Food effects scale with ingredient quality and emotional state.</p><p><strong>Passive: Seasoned With Spite</strong> — Food created while irritated, angry, or sleep-deprived gains increased potency and unpredictable secondary effects.</p><p>Proficient with kitchen tools as weapons (knives, pans, rolling pins). +1 to attack rolls with thrown food items. Thrown consumables have a chance to apply additional status effects (burning, corrosion, confusion, or explosive impact). Can convert organic materials into usable ingredients — higher quality enemies yield stronger buffs or more dangerous consumables.</p><p><strong>Signature Ability: "86 That"</strong> — Instantly converts a prepared food item into a high-yield explosive or area-effect attack.</p><hr><p><em>Source: Community submission — ProxTologist. From <a href="https://pointmongo.com/browse/classes/disgruntled-chef">Point Mongo</a>.</em></p>'
+  classTypes: []
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 4
+    category: classes
+    slug: disgruntled-chef
+    url: https://pointmongo.com/browse/classes/disgruntled-chef
+    source: Community submission — ProxTologist
+    tags:
+      - floor-class
+      - support
+    updatedAt: '2026-08-31T17:12:29.6069193Z'
+    needsRestat: false
+    missingFields:
+      - stat bonuses
+      - benefits
+      - Build Point costs

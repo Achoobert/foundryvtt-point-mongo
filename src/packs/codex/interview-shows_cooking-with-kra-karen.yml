@@ -1,0 +1,25 @@
+_id: AgyhIVrVOEDmqUak
+_key: '!journal!AgyhIVrVOEDmqUak'
+name: Cooking with Kra-Karen
+folder: 60wNl7vBu4R8G6qF
+pages:
+  - _id: tKEC4OxNErvbut6G
+    _key: '!journal.pages!AgyhIVrVOEDmqUak.tKEC4OxNErvbut6G'
+    name: Cooking with Kra-Karen
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A cooking show hosted by a clone of Kra-Karen, meant to soften the Apothecary''s public image with a hip, fun vibe.</em></p><p><strong>Host:</strong> Kra-Karen (Clone)</p><p><strong>Sponsor:</strong> The Apothecary</p><p>This is a cooking show Sponsored by The Apothecary, where a crawler prepares their favourite pre-crawl dish Hosted by the original Kra-Karen herself, well, if we''re being honest, it is a 98th generation clone, but whose counting. It has a "hip" "fun" vibe and is a vehicle to attempt to reform the Apothecary''s public image by making Kra-Karen seem more approachable, and humane.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/interview-shows/cooking-with-kra-karen">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 370
+    category: interview-shows
+    slug: cooking-with-kra-karen
+    url: https://pointmongo.com/browse/interview-shows/cooking-with-kra-karen
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - tunnel-shows
+    updatedAt: '2026-09-22T05:38:27.059947Z'
+    needsRestat: false
+    missingFields: []

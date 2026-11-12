@@ -1,0 +1,23 @@
+_id: Gg6CCKAssxPoyxUU
+_key: '!items!Gg6CCKAssxPoyxUU'
+name: 'Type Casted: Villain'
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Bard/Rogue class for the scariest-looking person in the room, who is actually lovely, even if nobody trusts them at first.</em></p><p>Earth has a tradition: the meanest looking, biggest, scar bearing, scowl faced people are just the nicest and most helpful person you will ever meet. First Impressions do take a toll on those souls, though. Somehow, they always seem hard to trust.</p><table><tbody><tr><th>Prerequisites</th><td>must be from a Monstrous Race, have a Player Killer Skull or have Rank 5 Intimidate to choose this class</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Strength</li><li>+3 Charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 to either one Strength based melee attack skill or Daggers (4pts)</li><li>+2 to Terrify spell (Fear without the level limitation with Mana Cost of 8) (4pts)</li><li>+1 Intimate Touches (2pts)</li></ul><p><strong>Benefits</strong></p><ul><li>+1 to Catcher, Deception, Intimidate, Performance and Persuasion skills <em>(extreme)</em></li><li>another +1 to Catcher, Deception, Intimidate, Performance and Persuasion skills <em>(extreme)</em></li><li>Sapient Red tagged Mobs won''t attack you at first sight unless attacked first <em>(major)</em></li><li>Advantage on Good First Impression, Persuasion and Diplomacy against red tagged Mobs <em>(minor)</em></li><li>When calling a Play or Intervene, roll a D8 instead of a D6 <em>(major)</em></li><li>Membership to both Club Desperado and Vanquisher. <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Whenever you Call a Play, make an Opposed Performance or Persuasion check against that ally''s Int. On a failure, the target gains no benefit from your action. <em>(2 pt)</em></li><li>Disadvantage on Good First Impression and Leadership against Crawlers and white tagged Mobs. <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/type-casted-villain">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Bard/Rogue
+  prerequisites: must be from a Monstrous Race, have a Player Killer Skull or have Rank 5 Intimidate to choose this class
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1162
+    category: classes
+    slug: type-casted-villain
+    url: https://pointmongo.com/browse/classes/type-casted-villain
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1912277Z'
+    needsRestat: false
+    missingFields: []

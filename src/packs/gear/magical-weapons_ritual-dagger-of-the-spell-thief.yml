@@ -1,0 +1,19 @@
+_id: qgZkS95o728PKZBg
+_key: '!items!qgZkS95o728PKZBg'
+name: Ritual Dagger of the Spell Thief
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A Gold dagger that can intercept an incoming spell, store it in the hilt, and cast it back the same round.</em></p><p>This uses the Dagger skill when making an attack with it. This special dagger has a curved blade and a jeweled-capped hilt. The jewel on the hilt appears dull in color until it steals a Spell, in which case it brightens up until that spell is used.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Edged Weapon</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr><tr><th>DR</th><td>0</td></tr><tr><th>Duration</th><td>n/a</td></tr><tr><th>Cooldown</th><td>10 Hours</td></tr><tr><th>Charges</th><td>n/a</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>As an Interrupt, you may roll to attack an oncoming Spell with this weapon to cancel it, stealing its power and storing it within the dagger.</li><li>You may re-cast the stolen spell using your second Action of the Round the spell was stolen. If it is not used this Round of combat, the spell fizzles out, and you are unable to use it.</li><li>Whether the stolen spell was used or not, this ability goes on cooldown for 10 Hours.</li></ul><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/magical-weapons/ritual-dagger-of-the-spell-thief">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 752
+    category: magical-weapons
+    slug: ritual-dagger-of-the-spell-thief
+    url: https://pointmongo.com/browse/magical-weapons/ritual-dagger-of-the-spell-thief
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.614136Z'
+    needsRestat: false
+    missingFields: []

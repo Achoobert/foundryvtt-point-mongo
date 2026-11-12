@@ -1,0 +1,51 @@
+_id: jM7Ecnosu0zw8Rm6
+_key: '!actors!jM7Ecnosu0zw8Rm6'
+name: Monster Manuel
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> Level, stat scores, Floor (sets DR), attacks</p><p><em>A small, hidden Neighborhood Boss in a library that spawns a paper monster from itself every minute and flees when found.</em></p><p><strong>Boss room:</strong> A Library</p><p><strong>Description:</strong> Hidden somewhere in this maze is the Monster Manuel. Find him before his pages find you.</p><p><strong>Boss abilities:</strong> He is hidden in the maze. Every minute a paper monster spawns and begins to move through the maze. When found he is a book with a face on the spine and legs. As the players approach the book bursts open and a monster tears itself out of the book.</p><p>The book will spawn a monster every minute this is his one and only spell . As the players deal with the monster the book will run away and hide.</p><p>Abilities - Hide in plain sight, gives him a high chance of being overlooked while on a bookshelf. Evade, The monsters that come from him are the 2D monsters similar to the ink creatures that Signet had as tattoos. If the players manage to kill the Monster Manuel without completely destroying his pages they can use the rest of the pages(or a set amount - 2d8x3) as summons.</p><hr><p><em>Source: Community submission — Christopher Wingenbach (Crawler #10902). From <a href="https://pointmongo.com/browse/bosses/monster-manuel">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 1
+  size: Small (2)
+  creatureType: ''
+  move: '30'
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Monster Manuel
+  actorLink: false
+flags:
+  point-mongo:
+    id: 94
+    category: bosses
+    slug: monster-manuel
+    url: https://pointmongo.com/browse/bosses/monster-manuel
+    source: 'Community submission — Christopher Wingenbach (Crawler #10902)'
+    tags:
+      - dcc-ccs
+      - neighborhood-boss
+      - bosses
+    updatedAt: '2026-09-22T05:38:11.3495564Z'
+    needsRestat: true
+    missingFields:
+      - Level
+      - stat scores
+      - Floor (sets DR)
+      - attacks

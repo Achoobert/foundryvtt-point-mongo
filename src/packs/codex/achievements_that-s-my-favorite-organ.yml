@@ -1,0 +1,24 @@
+_id: zfbxddIvw2YX6UGy
+_key: '!journal!zfbxddIvw2YX6UGy'
+name: That’s My Favorite Organ
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: EazDdnzYmX5DZli5
+    _key: '!journal.pages!zfbxddIvw2YX6UGy.EazDdnzYmX5DZli5'
+    name: That’s My Favorite Organ
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you deliver a killing blow using an unconventional body part or bizarre attack method.</em></p><p>You delivered the killing blow using an unconventional part of your opponent''s anatomy. The System recommends that you stop looking at your enemies that way.</p><p>Reward: Bronze Looter Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/that-s-my-favorite-organ">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 598
+    category: achievements
+    slug: that-s-my-favorite-organ
+    url: https://pointmongo.com/browse/achievements/that-s-my-favorite-organ
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9523517Z'
+    needsRestat: false
+    missingFields: []

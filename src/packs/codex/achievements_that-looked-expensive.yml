@@ -1,0 +1,24 @@
+_id: xaYLxG5N3UwfOPeU
+_key: '!journal!xaYLxG5N3UwfOPeU'
+name: That Looked Expensive
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 44zuByG4v8HprYa7
+    _key: '!journal.pages!xaYLxG5N3UwfOPeU.44zuByG4v8HprYa7'
+    name: That Looked Expensive
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you destroy an object, fixture, or environmental feature that obviously has value.</em></p><p>You destroyed something that was clearly valuable, important, or extremely difficult to replace.</p><p>The System AI would like to remind you that "because it was there" is not generally considered an acceptable justification for property damage.</p><p>However, the System AI admits that watching it break was pretty satisfying.</p><p>Reward: Bronze Asshole''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/that-looked-expensive">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 631
+    category: achievements
+    slug: that-looked-expensive
+    url: https://pointmongo.com/browse/achievements/that-looked-expensive
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9788966Z'
+    needsRestat: false
+    missingFields: []

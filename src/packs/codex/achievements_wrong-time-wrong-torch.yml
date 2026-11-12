@@ -1,0 +1,24 @@
+_id: XfgUXgBO1GyYQUvE
+_key: '!journal!XfgUXgBO1GyYQUvE'
+name: Wrong Time, Wrong Torch
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: F5DHyfOR0pQOYGIG
+    _key: '!journal.pages!XfgUXgBO1GyYQUvE.F5DHyfOR0pQOYGIG'
+    name: Wrong Time, Wrong Torch
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you light a torch in a room that was already fully lit.</em></p><p>The room had lighting. Good lighting, even. You lit a torch anyway. Maybe you just wanted the ambiance. Maybe you just weren''t paying attention. Either way, that torch is half gone now.</p><p>Reward: Bronze Overachiever Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/wrong-time-wrong-torch">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 690
+    category: achievements
+    slug: wrong-time-wrong-torch
+    url: https://pointmongo.com/browse/achievements/wrong-time-wrong-torch
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0273777Z'
+    needsRestat: false
+    missingFields: []

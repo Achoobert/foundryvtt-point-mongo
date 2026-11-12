@@ -1,0 +1,24 @@
+_id: y05gDeda16gac5Os
+_key: '!journal!y05gDeda16gac5Os'
+name: Did We Win?
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: dwn7BUiY8XZG36W4
+    _key: '!journal.pages!y05gDeda16gac5Os.dwn7BUiY8XZG36W4'
+    name: Did We Win?
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you end a combat encounter without realizing the enemies are already defeated.</em></p><p>You have successfully completed a combat encounter and somehow failed to notice.</p><p>Don''t worry. This happens to the best crawlers.</p><p>Usually after they''ve been hit in the head.</p><p>Reward: Bronze Survivor''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/did-we-win">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 640
+    category: achievements
+    slug: did-we-win
+    url: https://pointmongo.com/browse/achievements/did-we-win
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9864831Z'
+    needsRestat: false
+    missingFields: []

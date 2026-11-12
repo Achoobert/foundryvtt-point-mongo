@@ -1,0 +1,23 @@
+_id: XVs3Mt8ulZzViAmX
+_key: '!items!XVs3Mt8ulZzViAmX'
+name: Celestial Panchangala
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A 5-ring-and-wristband set granting massive stat bonuses, a shield, teleport-style movement, and a knockback ability.</em></p><p><strong>Type:</strong> 5-Ring + Wristband Combo · <strong>Bonuses:</strong> STR/CON/DEX/INT +15 and 15%, CHA +30 and 30%</p><p>Platinum rings set with different colored gems, chained to a lens-like gemstone on the back of the hand and a wristband — takes all 5 ring slots on one hand plus the bracelet slot. Commonly granted to attendants of gods in the halls of ascendancy. Abilities: immunity to paralysis/stun, a level-10 Shield (1-hour cooldown), level-10 Puddle Jumper (5-hour cooldown), and "I Need My Personal Space" (a knockback blast, 1-hour cooldown). Spells: Magic Missile at player-level/10 (max 15), 1-minute cooldown, always cast at minimum mana cost. At will, the wearer''s eyes can flash with light to indicate divinity.</p><table><tbody><tr><th>Type</th><td>Ring</td></tr></tbody></table><hr><p><em>Source: Community submission — Socks (Crawler #4381). From <a href="https://pointmongo.com/browse/magical-jewelry/celestial-panchangala">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 199
+    category: magical-jewelry
+    slug: celestial-panchangala
+    url: https://pointmongo.com/browse/magical-jewelry/celestial-panchangala
+    source: 'Community submission — Socks (Crawler #4381)'
+    tags:
+      - dcc-ccs
+      - magical-jewelry
+    updatedAt: '2026-09-03T16:30:37.215988Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

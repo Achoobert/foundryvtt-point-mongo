@@ -1,0 +1,26 @@
+_id: C0EdKwWDGLAi0BLA
+_key: '!journal!C0EdKwWDGLAi0BLA'
+name: Voltex (Yellow Element Slimordian)
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: 9mcSKEYwD0mEX4uf
+    _key: '!journal.pages!C0EdKwWDGLAi0BLA.9mcSKEYwD0mEX4uf'
+    name: Voltex (Yellow Element Slimordian)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A lightning-type Element Slimordian slime that moves in electric-current bursts and can unleash chain lightning.</em></p><p><strong>Species:</strong> Element Slimordian (Yellow, Lightning)</p><p>A bright yellow slime crackling with unstable electricity, arcing across its gelatinous body and sparking nearby objects. Moves in sudden bursts, almost teleporting through electrical currents. Abilities: electric shocks, speed bursts, EMP pulse, chain lightning. Weaknesses: grounding materials, water overload. Personality: hyperactive, chaotic, unpredictable.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/pets/voltex-yellow-element-slimordian">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 312
+    category: pets
+    slug: voltex-yellow-element-slimordian
+    url: https://pointmongo.com/browse/pets/voltex-yellow-element-slimordian
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - pets
+      - slime
+    updatedAt: '2026-09-02T04:50:41.747124Z'
+    needsRestat: false
+    missingFields: []

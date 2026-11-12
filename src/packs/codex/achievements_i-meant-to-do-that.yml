@@ -1,0 +1,24 @@
+_id: IgvgBqKZ4FgQv9W4
+_key: '!journal!IgvgBqKZ4FgQv9W4'
+name: I Meant to Do That
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 1BvMKb466iczflqJ
+    _key: '!journal.pages!IgvgBqKZ4FgQv9W4.1BvMKb466iczflqJ'
+    name: I Meant to Do That
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you accidently trigger a trap, then use the resulting situation to your advantage.</em></p><p>You accidentally triggered a trap and somehow turned your mistake into an advantage. The System AI isn''t entirely convinced this was intentional. Frankly, neither are we.</p><p>Reward: Silver Lucky Bastard Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/i-meant-to-do-that">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 585
+    category: achievements
+    slug: i-meant-to-do-that
+    url: https://pointmongo.com/browse/achievements/i-meant-to-do-that
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9420871Z'
+    needsRestat: false
+    missingFields: []

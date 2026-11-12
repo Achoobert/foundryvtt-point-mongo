@@ -1,0 +1,24 @@
+_id: dDShsg4p1xEyfGmU
+_key: '!journal!dDShsg4p1xEyfGmU'
+name: That's Not How That Works
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: TYRZ928w3YnCPgue
+    _key: '!journal.pages!dDShsg4p1xEyfGmU.TYRZ928w3YnCPgue'
+    name: That's Not How That Works
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you attempt something that should not work according to common sense, but succeed through creativity or luck.</em></p><p>You attempted something that absolutely should not have worked.</p><p>Unfortunately for the System AI, it did.</p><p>The System AI has reviewed the circumstances and has decided that this was intentional.</p><p>Reward: Gold Lucky Bastard Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/that-s-not-how-that-works">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 637
+    category: achievements
+    slug: that-s-not-how-that-works
+    url: https://pointmongo.com/browse/achievements/that-s-not-how-that-works
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9838816Z'
+    needsRestat: false
+    missingFields: []

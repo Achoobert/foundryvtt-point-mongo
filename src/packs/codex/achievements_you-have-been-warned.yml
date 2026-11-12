@@ -1,0 +1,24 @@
+_id: k3YQuhEH8RhSxFMQ
+_key: '!journal!k3YQuhEH8RhSxFMQ'
+name: You Have Been Warned
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: TIPndMcfGA07KAIU
+    _key: '!journal.pages!k3YQuhEH8RhSxFMQ.TIPndMcfGA07KAIU'
+    name: You Have Been Warned
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you ignore a clear warning and then suffer the predicted consequence.</em></p><p>You were explicitly warned not to do something.</p><p>You did it anyway.</p><p>The predicted consequences occurred exactly as described.</p><p>The System AI appreciates your commitment to scientific validation.</p><p>Reward: Bronze Asshole''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/you-have-been-warned">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 669
+    category: achievements
+    slug: you-have-been-warned
+    url: https://pointmongo.com/browse/achievements/you-have-been-warned
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0105686Z'
+    needsRestat: false
+    missingFields: []

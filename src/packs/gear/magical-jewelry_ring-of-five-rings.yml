@@ -1,0 +1,23 @@
+_id: UhJbvpXjJEb5qCDF
+_key: '!items!UhJbvpXjJEb5qCDF'
+name: Ring of Five Rings
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A ring that summons up to five stationary magical discs, each able to bear weight, scaling with wielder level.</em></p><p>You must understand that there is more than one path to the top of the mountain. This ring allows for the creation of up to five magical discs. Each disc is placed in quick succession and does not move for duration of spell.</p><p>At level 1 range is up to 5'' per disc (first disc at 5'', second disc at 10'', etc), each disc is 12" in diameter, each can support 100 lbs, and duration is 10 seconds plus 5 seconds per level.</p><p>Range and capacity increase by 10% per level.</p><p>At level 10 discs can be moved and controlled by wearer.</p><p>Learn this well.</p><p>Discs can be stacked to increase wt capacity.</p><table><tbody><tr><th>Type</th><td>Ring</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magical-jewelry/ring-of-five-rings">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 206
+    category: magical-jewelry
+    slug: ring-of-five-rings
+    url: https://pointmongo.com/browse/magical-jewelry/ring-of-five-rings
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magical-jewelry
+    updatedAt: '2026-09-22T05:38:02.3728539Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

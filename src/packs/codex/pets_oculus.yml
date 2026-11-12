@@ -1,0 +1,25 @@
+_id: BJEGRyYjHoCFT2eU
+_key: '!journal!BJEGRyYjHoCFT2eU'
+name: Oculus
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: FdzETHLBZyTFFnva
+    _key: '!journal.pages!BJEGRyYjHoCFT2eU.FdzETHLBZyTFFnva'
+    name: Oculus
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A tiger-bodied Gazeclaw predator with a floating eyeball head that can overwhelm foes with visions of their own death.</em></p><p><strong>Species:</strong> Gazeclaw</p><p>A tiger-bodied predator with a giant floating eyeball for a head, black-striped fur mixed with armored chitin, and no visible mouth — its ribcage unfolds into a circular feeding maw instead. Moves almost silently, slightly out of sync with reality. Its massive eye can detect hidden creatures and briefly overwhelm enemies with terrifying visions of possible deaths, slowing reactions and causing fear. Tamed, it behaves like an oversized cosmic housecat — watching over sleeping allies, purring during combat, and bringing wounded enemies home as gifts, with a low purr that unsettles anyone nearby.</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/pets/oculus">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 302
+    category: pets
+    slug: oculus
+    url: https://pointmongo.com/browse/pets/oculus
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.7387151Z'
+    needsRestat: false
+    missingFields: []

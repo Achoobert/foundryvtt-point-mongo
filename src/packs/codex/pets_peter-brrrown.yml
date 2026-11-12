@@ -1,0 +1,25 @@
+_id: Y0VWdKZPKaOvFN5l
+_key: '!journal!Y0VWdKZPKaOvFN5l'
+name: Peter Brrrown
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: DiPlCeccDpuVBqjx
+    _key: '!journal.pages!Y0VWdKZPKaOvFN5l.DiPlCeccDpuVBqjx'
+    name: Peter Brrrown
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A rideable polar bear pet with a cold-damage snowstorm swipe and an ice-breath belly-exposing attack.</em></p><p><strong>Species:</strong> Polar Bear</p><p>A sweet, cuddly-looking ball of white fur that turns into teeth and claws around baby seals. Rideable once sufficiently bonded (requires fish or penguins). Snowstorm attack: each paw swipe creates a 1-meter sphere of snow/ice dealing extra cold damage and nullifying fire attacks inside it; prolonged exposure causes frostbite, then worse. Baited Breath: an ice-breath attack that can knock the target over, exposing their belly to a follow-up strike.</p><hr><p><em>Source: Community submission — Mark Harrison (Crawler #5937). From <a href="https://pointmongo.com/browse/pets/peter-brrrown">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 303
+    category: pets
+    slug: peter-brrrown
+    url: https://pointmongo.com/browse/pets/peter-brrrown
+    source: 'Community submission — Mark Harrison (Crawler #5937)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.7395472Z'
+    needsRestat: false
+    missingFields: []

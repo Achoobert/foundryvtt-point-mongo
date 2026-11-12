@@ -1,0 +1,52 @@
+_id: vK87u8SDx7fxOB1N
+_key: '!actors!vK87u8SDx7fxOB1N'
+name: Moblins
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> Level, Size, stat scores, Move, Floor (sets DR), attacks</p><p><em>Sharp-dressed and ready to run a protection ring, these little gangsters are not to be trifled with, lest you take a long walk off a short pier.</em></p><p>These goblin variants are surprisingly well dressed, and tend to be better organized than the usual ilk. Low-level Moblins are armed with broken bottles and slings, while higher-level Moblin Bosses may be armed with Tiny Tommy Guns.  They are often found in territorial wars with their arch enemies the Yakuza.</p><hr><p><em>Source: BanzaiZAP. From <a href="https://pointmongo.com/browse/mobs/moblins">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: ''
+  creatureType: Goblinoid
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Moblins
+  actorLink: false
+flags:
+  point-mongo:
+    id: 504
+    category: mobs
+    slug: moblins
+    url: https://pointmongo.com/browse/mobs/moblins
+    source: BanzaiZAP
+    tags:
+      - mobs
+      - goblin
+    updatedAt: '2026-11-11T20:08:41.6681067Z'
+    needsRestat: true
+    missingFields:
+      - Level
+      - Size
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

@@ -1,0 +1,22 @@
+_id: GeQBOFJ2UFV3wBNO
+_key: '!items!GeQBOFJ2UFV3wBNO'
+name: Book of Herbalgasm
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A semi-sentient waterproof herbalism guidebook that only shares its knowledge in exchange for herbal satisfaction.</em></p><p><strong>Type:</strong> Book</p><p>Knows a great deal about the magical qualities of plants, but requires "herbal satisfaction" (its mood-dependent price) before sharing what it knows.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Book</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/book-of-herbalgasm">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 169
+    category: magic-items
+    slug: book-of-herbalgasm
+    url: https://pointmongo.com/browse/magic-items/book-of-herbalgasm
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-30T20:04:01.962109Z'
+    needsRestat: false
+    missingFields:
+      - effects

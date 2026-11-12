@@ -1,0 +1,26 @@
+_id: O5g1BvgaFvi09887
+_key: '!items!O5g1BvgaFvi09887'
+name: Caretake Array Chassis
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>Choosing this mechanical chassis class will allow your Chip to become of the best healing machines this side of the Galaxy. Well, as long as you make it out of the World Dungeon, that is.</em></p><p><strong>Class Type:</strong> Bard (Support Caster). Prerequisite: Only available to Chip Race Crawlers. Description: Somewhere, a small floating orb once beeped reassuringly at children while their parents divorced offscreen. You are that orb''s more competent descendant. You hum. You hover. You will, against all evidence that anyone deserves it, keep your family party alive. +5 Intelligence, +2 Constitution, +3 Nanite Mend (Heal Others) Spell, Limited flight/hover, your healing Spells heal 1 additional Health Bar slot, +1 DR Buff, The ability to Buff the entire party once per day, Double Mana regeneration from mending and resting, without a limit, +2 Repair Skill, Nanite Mend (Heal Others) Spell can be raised to Rank 20.</p><table><tbody><tr><th>DR</th><td>1</td></tr><tr><th>Prerequisites</th><td>Only available to Chip-race crawlers.</td></tr><tr><th>Rank 20</th><td>Nanite Mend (Heal Others) can be raised to Rank 20.</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Intelligence</li><li>+2 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Nanite Mend (Heal Others) Spell</li><li>+2 Repair</li></ul><p><strong>Benefits</strong></p><ul><li>Limited flight and hovering.</li><li>Your healing Spells heal 1 additional Health Bar slot.</li><li>Buff the entire party once per day.</li><li>Double Mana regeneration from mending and resting, without a limit.</li></ul><hr><p><em>Source: Crawler Raph. From <a href="https://pointmongo.com/browse/classes/caretake-array-chassis">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Bard (Support Caster)
+  prerequisites: Only available to Chip-race crawlers.
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 485
+    category: classes
+    slug: caretake-array-chassis
+    url: https://pointmongo.com/browse/classes/caretake-array-chassis
+    source: Crawler Raph
+    tags:
+      - class
+      - classes
+    updatedAt: '2026-09-02T00:47:04.925405Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

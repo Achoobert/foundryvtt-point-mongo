@@ -1,0 +1,23 @@
+_id: 8hAp0JfSekQxa9cK
+_key: '!items!8hAp0JfSekQxa9cK'
+name: Mandragoras
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Plant folk wrapped in vines and venomous flowers: immune to poison and quick with a whip, but vulnerable to fire.</em></p><p>This plant like creatures have vines and sprout venomous flowers throughout their body</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr><tr><th>DR</th><td>2</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Constitution</li><li>+3 Dexterity</li><li>+2 Charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Whip Skill</li><li>+1 Vine Porn</li><li>+1 Hanzo Spell</li></ul><p><strong>Benefits</strong></p><ul><li>Once per combat, when you hit with an unarmed or whip attack, Poison the target <em>(major)</em></li><li>Immunity to Poison <em>(extreme)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Major: Vulnerable to Fire</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/mandragoras">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1105
+    category: races
+    slug: mandragoras
+    url: https://pointmongo.com/browse/races/mandragoras
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-09T03:03:17.4379488Z'
+    needsRestat: false
+    missingFields: []

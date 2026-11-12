@@ -1,0 +1,24 @@
+_id: etTWQhwlNzp2JuVH
+_key: '!journal!etTWQhwlNzp2JuVH'
+name: You Stepped on a Trap!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 5wOqLRGxM58AHzTJ
+    _key: '!journal.pages!etTWQhwlNzp2JuVH.5wOqLRGxM58AHzTJ'
+    name: You Stepped on a Trap!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you step on a trap for the first time.</em></p><p>Uh-oh! Look who''s stepped in it now! Oh boy, this is going to be great on the highlight reel...</p><p>Reward: This Achievement may have saved your life. Sucks that you can only earn it once.</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/you-stepped-on-a-trap">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 579
+    category: achievements
+    slug: you-stepped-on-a-trap
+    url: https://pointmongo.com/browse/achievements/you-stepped-on-a-trap
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9373027Z'
+    needsRestat: false
+    missingFields: []

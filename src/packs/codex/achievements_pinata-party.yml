@@ -1,0 +1,24 @@
+_id: mFgtd991iIa69tQd
+_key: '!journal!mFgtd991iIa69tQd'
+name: Pinata Party
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: POLWlsCOBeyrElqH
+    _key: '!journal.pages!mFgtd991iIa69tQd.POLWlsCOBeyrElqH'
+    name: Pinata Party
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you kill a Mob being held up by another Crawler with a Club-like weapon.</em></p><p>You have broke open a Mob-shaped Pinata held by another Crawler with a club-like weapon for all the fun goodies held inside. Wait until you see where we hid the actual candy.</p><p>Reward: Silver Slugger Box</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/pinata-party">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 562
+    category: achievements
+    slug: pinata-party
+    url: https://pointmongo.com/browse/achievements/pinata-party
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-11-11T20:08:41.5138473Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,53 @@
+_id: xGZBv8HJJfhnpMJL
+_key: '!actors!xGZBv8HJJfhnpMJL'
+name: Fetin the Frugal Feline
+type: mob
+img: icons/svg/mystery-man.svg
+folder: qiYCTsz5olch4hb3
+system:
+  biography: '<p><strong>Missing:</strong> Level, Size, stat scores, Move, Floor (sets DR), attacks</p><p><em>A self-important Tabaxi restaurateur who sends crawlers to gather ingredients from increasingly dangerous local fauna, ending in a cave ambush.</em></p><p><strong>Tunnel Show Title:</strong> n/a</p><p>He is a Tabaxi, on his mother’s side, who runs a local food establishment that serves famous dishes made entirely from local fauna. Fetin believes he is the most charismatic cat in town but in reality his customers just pander to him as his food is reasonably priced and exquisite. You meet Fetin bumbling around the local forest (local to a village/town of your choice, ideally one with a surrounding woodland) looking exhausted. His hands are full of an assortment of the local fauna and fungi. He offers you a free hearty meal and an old recipe book if you can help him collect the rest of the ingredients on his list. Assuming you oblige, I mean why wouldn’t you help this lovely gentlemen with such an easy task, you go on your way looking for the ingredients. His list is very helpful, with landmarks to look out for a sketches of the desired ingredients. The first item, Gecko Green Beans, are apparently nearby, but when you approach you see the area is heavily infested with 20ft long Acidic Geckos. After dealing with the geckos you hear some rustling in the bushes but whatever it is scampers away after you approach. The next couple of items on the list follow a similar pattern, with the more feral beasts: a pack of Quartz Trolls followed by an electric Owlbear. The final item of the list, Minotoads, can only be found in a nearby cave in the way back to town. As you enter the cave you can sense something is not right. Navigating several traps you come to a dead end and that is when the howling starts…. Objective: survive the ambush and investigate Fetin and what has been going on. Reward: Gold loot box (containing edibles), an edible loot box (containing gold) and a unique recipe book.</p><table><tbody><tr><th>Elite</th><td>Yes (acts once per crawler)</td></tr></tbody></table><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/npcs/fetin-the-frugal-feline">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: ''
+  creatureType: ''
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Fetin the Frugal Feline
+  actorLink: false
+flags:
+  point-mongo:
+    id: 468
+    category: npcs
+    slug: fetin-the-frugal-feline
+    url: https://pointmongo.com/browse/npcs/fetin-the-frugal-feline
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - elite
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-22T05:37:51.1372601Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - Size
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

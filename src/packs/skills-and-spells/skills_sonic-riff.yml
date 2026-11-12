@@ -1,0 +1,41 @@
+_id: 5x9eg8rF59tM9OAE
+_key: '!items!5x9eg8rF59tM9OAE'
+name: Sonic Riff
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A ranged sonic blast played through an instrument, scaling with Charisma and ranking up only by floor.</em></p><p>You let off a Sonic Energy attack from an Instrument based weapon.</p><table><tbody><tr><th>Category</th><td>Ranged Attack</td></tr><tr><th>Base damage</th><td>1d8 + CHA</td></tr></tbody></table><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/skills/sonic-riff">Point Mongo</a>.</em></p>'
+  governingStat: cha
+  category: attack
+  attackType: ranged
+  isPassive: false
+  range: 30 ft
+  cooldown: Round
+  limitations: Must have music instrument as a conduit, Only Rank Up by Floor
+  aiFavor: 0
+  baseDamage:
+    dice: 1d8
+    stat: cha
+    damageType: ''
+  upgrades:
+    - id: PQfSzmYJj1iZWo1w
+      rankThreshold: 5
+      description: <p>+1d8 base damage</p>
+    - id: tH8mLyCuuurEWcw2
+      rankThreshold: 10
+      description: <p>+1d8 base damage</p>
+    - id: Db6fmmIdjMdsrIM2
+      rankThreshold: 15
+      description: <p>+1d8 base damage</p>
+flags:
+  point-mongo:
+    id: 1132
+    category: skills
+    slug: sonic-riff
+    url: https://pointmongo.com/browse/skills/sonic-riff
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1049719Z'
+    needsRestat: false
+    missingFields: []

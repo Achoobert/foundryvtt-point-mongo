@@ -1,0 +1,24 @@
+_id: tCoGEtFj8tpQMt7M
+_key: '!items!tCoGEtFj8tpQMt7M'
+name: Mage Tank
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter/Mage class combining heavy Constitution, regeneration and magical shielding with a hammer thrown at absurd velocity.</em></p><p>Some Mages avoid getting hit. Some Fighters don''t have enough magic to do anything about it when they are. You looked at both approaches and decided they were unnecessarily restrictive.</p><p>A Mage Tank combines absurd physical resilience with defensive magic, rapid regeneration and a disturbing enthusiasm for throwing hammers at velocities normally associated with artillery.</p><p>The Mage Tank is built to stand in the middle of a fight and stay there. Heavy Constitution, regeneration, magical shielding and a physical shield make them extremely difficult to put down. Their signature Mach Hammer technique lets them launch a one-handed hammer at terrifying speed before magically returning it to their hand, allowing them to remain effective at range without giving up their shield.</p><p>More importantly, a Mage Tank makes everybody around them harder to kill. Once per day they can unleash Ethereal Hug, reinforcing the entire party with additional Damage Resistance, regeneration, accuracy and damage.</p><p>You don''t hide behind the tank.</p><p>You are the tank.</p><table><tbody><tr><th>DR</th><td>1</td></tr><tr><th>Prerequisites</th><td>None</td></tr><tr><th>Bonus box</th><td>Silver Earth Box</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Constitution</li><li>+2 Strength</li><li>+2 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Mach Hammer Skill</li><li>+2 Shield Block Skill</li><li>+2 Regeneration Skill</li><li>+1 Shield Spell</li></ul><p><strong>Benefits</strong></p><ul><li>+1 DR Buff — permanently increase Damage Resistance. <em>(moderate)</em></li><li>Ethereal Hug — once per day for one scene, grant the entire party +1 DR, Rank 4 Regeneration, +1 to hit with Weapon and Spell Skill Checks, and +1d4 bonus damage. <em>(extreme)</em></li></ul><hr><p><em>Source: Community submission — TheSharp. From <a href="https://pointmongo.com/browse/classes/mage-tank">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter
+    - Mage
+  prerequisites: None
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 739
+    category: classes
+    slug: mage-tank
+    url: https://pointmongo.com/browse/classes/mage-tank
+    source: Community submission — TheSharp
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.582566Z'
+    needsRestat: false
+    missingFields: []

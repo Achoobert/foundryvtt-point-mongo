@@ -1,0 +1,25 @@
+_id: 5azSyu7MxGxLtlCc
+_key: '!journal!5azSyu7MxGxLtlCc'
+name: Sluggalo
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: iMTOrf4TvFpRDF88
+    _key: '!journal.pages!5azSyu7MxGxLtlCc.iMTOrf4TvFpRDF88'
+    name: Sluggalo
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A fast, quippy slug pet with a mysteriously floating axe, that splits into two battling slugs on death and can eventually cleanse debuffs.</em></p><p><strong>Species:</strong> Sluggalo</p><p>Not clear how the floating axe next to its head works, or how it''s so fast, but it holds its own in banter. Reaches full size (and mount capability) at level 100. On death, splits into two Sluggalos that fight to the death — the survivor rejoins combat at half the dying level, gaining resistance to the attack type that killed it. Skips from level 68 straight to 70, refusing to ever land on 69. From level 150, once per day it can bathe a crawler in slime to remove all debuffs.</p><hr><p><em>Source: Community submission — Socks (Crawler #4381). From <a href="https://pointmongo.com/browse/pets/sluggalo">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 322
+    category: pets
+    slug: sluggalo
+    url: https://pointmongo.com/browse/pets/sluggalo
+    source: 'Community submission — Socks (Crawler #4381)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.7537025Z'
+    needsRestat: false
+    missingFields: []

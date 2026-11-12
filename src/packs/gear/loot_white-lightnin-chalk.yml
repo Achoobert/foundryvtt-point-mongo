@@ -1,0 +1,23 @@
+_id: q1TqnyuFJxz5hQ1k
+_key: '!items!q1TqnyuFJxz5hQ1k'
+name: White Lightnin' Chalk
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>Magical chalk that draws working portals onto compliant surfaces, with disfigurement risk for sloppy artists.</em></p><p><strong>Type:</strong> Item</p><p>Lets the user draw a portal circle onto a compliant surface; breaking or wiping the outline closes it. Poorly drawn circles disfigure whatever passes through, in proportion to the artist''s skill — disfigurement usually fades after 2 hours or on stepping back through. Portals don''t work beyond 100 meters of range, and drawing a 3rd portal collapses the 1st.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Item</td></tr></tbody></table><hr><p><em>Source: Community submission — Superior Booker (Crawler #30420). From <a href="https://pointmongo.com/browse/loot/white-lightnin-chalk">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 152
+    category: loot
+    slug: white-lightnin-chalk
+    url: https://pointmongo.com/browse/loot/white-lightnin-chalk
+    source: 'Community submission — Superior Booker (Crawler #30420)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-09-30T20:04:01.8859858Z'
+    needsRestat: false
+    missingFields:
+      - effects

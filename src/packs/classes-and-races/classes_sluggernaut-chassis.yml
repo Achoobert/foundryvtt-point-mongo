@@ -1,0 +1,26 @@
+_id: a8O1rdTCZQPZ6N98
+_key: '!items!a8O1rdTCZQPZ6N98'
+name: Sluggernaut Chassis
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>Rock ''em, sock ''em, and absolutely pulverize them with this mechanical chassis class able to go toe-to-toe with 30 of Earth''s best boxers.</em></p><p><strong>Class Type:</strong> Fighter (Melee). Prerequisite: Only available to Chip-Race Crawlers. Description: Fighters have been ‘built’ from flesh and blood for aeons; you are a marked improvement. A being built from surplus hydraulics and a chassis originally designed to punch other robots in a novelty toy line that got discontinued for "excessive realism." You do not flinch. You do not apologize. You have, at last count, exactly one setting. +4 Strength, +3 Constitution, +3 Servo Strike (Foot Soldier) Skill, +2 Overtorque (Smush) Skill, Servo Strike (Foot Soldier) Skill can be raised to Rank 20, +1 DR Buff, Rage: Your melee attacks deal +1 damage for each Health Bar slot you have lost, Add 1d4 to your Evade or Strength Checks, Additional functional arm.</p><table><tbody><tr><th>DR</th><td>1</td></tr><tr><th>Prerequisites</th><td>Only available to Chip-race crawlers.</td></tr><tr><th>Rank 20</th><td>Servo Strike (Foot Soldier) can be raised to Rank 20.</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Strength</li><li>+3 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Servo Strike (Foot Soldier)</li><li>+2 Overtorque (Smush)</li></ul><p><strong>Benefits</strong></p><ul><li>Rage: your melee attacks deal +1 damage for each Health Bar slot you have lost.</li><li>Add 1d4 to your Evade or Strength Checks.</li><li>An additional functional arm.</li></ul><hr><p><em>Source: Crawler Raph. From <a href="https://pointmongo.com/browse/classes/sluggernaut-chassis">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter (Melee)
+  prerequisites: Only available to Chip-race crawlers.
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 483
+    category: classes
+    slug: sluggernaut-chassis
+    url: https://pointmongo.com/browse/classes/sluggernaut-chassis
+    source: Crawler Raph
+    tags:
+      - class
+      - classes
+    updatedAt: '2026-09-02T00:47:04.9242536Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

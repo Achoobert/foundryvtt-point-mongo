@@ -1,0 +1,25 @@
+_id: NgTbnW2wy54VWLBa
+_key: '!journal!NgTbnW2wy54VWLBa'
+name: Scrub-ber-ber
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: Gt7BmwhwofJJfZpB
+    _key: '!journal.pages!NgTbnW2wy54VWLBa.Gt7BmwhwofJJfZpB'
+    name: Scrub-ber-ber
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A faceless, mop-headed sentient hair creature that can whip its strands to drain blood or liquids from prey.</em></p><p><strong>Species:</strong> Scrub-ber-ber</p><p>A mop-head-sized tuft of sentient hair with no face, arms, or legs — a distant cousin of the dog. Its hair can become whip-like, draining blood or other liquids from whatever it catches.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/pets/scrub-ber-ber">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 321
+    category: pets
+    slug: scrub-ber-ber
+    url: https://pointmongo.com/browse/pets/scrub-ber-ber
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.7531376Z'
+    needsRestat: false
+    missingFields: []

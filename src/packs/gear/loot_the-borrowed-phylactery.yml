@@ -1,0 +1,24 @@
+_id: CuFNX9UUfhDDbbrC
+_key: '!items!CuFNX9UUfhDDbbrC'
+name: The Borrowed Phylactery
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A cursed lich''s reliquary that revives its bearer after death at a steadily rising personal cost.</em></p><p>Reliquary, cursed</p><p>The Borrowed Phylactery. This black thumb-sized reliquary made of bone, glass, and tarnished gold pulses faintly when held, like there is a heart within it beating. The front is engraved with a smiling skull wearing a crown. When identified, the description reads: "A phylactery is traditionally used by liches, arch-necromancers, and beings so far beyond your own mortally capable understanding that you couldn''t begin to fathom what they''ve seen. THIS lesser model, however, allows a living Crawler to bind a portion of their soul to the reliquary. Upon death, said Crawler may be restored by the item instead of dying permanently. Amazing right? Of course it is. That''s why every civilization with mortal standards, competent priests, or basic pattern recognition eventually banned these." While holding this, the Crawler will get the Soul Anchor Passive Skill. Soul Anchor revives the Crawler 6 minutes after death at 30% of their max health. All debuffs are removed, and a System Wide announcement will ring out saying "A Soul has Returned From Beyond the Veil". While holding this, the Crawler will get the Unholy Sacrifice Passive Skill. Unholy Sacrifice levels up after each successful revival. Each revival causes you to sacrifice more of yourself to achieve the process. It may start out small, like losing a point of Constitution, or becoming more affected by Holy magic. Revive to many times, and it may not be your soul that returns. You have been warned.</p><table><tbody><tr><th>Type</th><td>Reliquary</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/loot/the-borrowed-phylactery">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 162
+    category: loot
+    slug: the-borrowed-phylactery
+    url: https://pointmongo.com/browse/loot/the-borrowed-phylactery
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - loot
+      - cursed
+    updatedAt: '2026-09-22T05:37:48.9539159Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

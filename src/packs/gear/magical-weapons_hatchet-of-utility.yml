@@ -1,0 +1,23 @@
+_id: yFSqJoFQG3swom8d
+_key: '!items!yFSqJoFQG3swom8d'
+name: Hatchet of Utility
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A hand axe that chops, bludgeons, throws, sparks on impact and helps you climb. Sooner or later you use it for all five.</em></p><p><strong>Type:</strong> Hand Axe · <strong>Damage:</strong> 1d6+2</p><p>A +2 magical weapon usable edged or bludgeoning. Sparks, igniting flammable material on contact. +2 to climbing. Throwable.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Hand Axe</td></tr><tr><th>Weapon skill</th><td>Axe</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magical-weapons/hatchet-of-utility">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 212
+    category: magical-weapons
+    slug: hatchet-of-utility
+    url: https://pointmongo.com/browse/magical-weapons/hatchet-of-utility
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magical-weapons
+      - axe
+    updatedAt: '2026-09-24T18:09:50.6318498Z'
+    needsRestat: false
+    missingFields:
+      - effects

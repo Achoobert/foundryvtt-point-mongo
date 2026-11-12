@@ -1,0 +1,23 @@
+_id: 2LZZM6aJutpcWJgK
+_key: '!items!2LZZM6aJutpcWJgK'
+name: Teddy of ManaSecurity
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A small plush toy that doubles mana regeneration when held.</em></p><p><strong>Type:</strong> Item</p><p>Grasping this small plush toy doubles the holder''s mana regeneration.</p><table><tbody><tr><th>Type</th><td>Item</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/teddy-of-manasecurity">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 194
+    category: magic-items
+    slug: teddy-of-manasecurity
+    url: https://pointmongo.com/browse/magic-items/teddy-of-manasecurity
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-03T16:29:38.8695908Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

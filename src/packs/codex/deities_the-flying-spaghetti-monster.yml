@@ -1,0 +1,23 @@
+_id: 0tjLc1GhtosRnXdB
+_key: '!journal!0tjLc1GhtosRnXdB'
+name: The Flying Spaghetti Monster
+folder: EC7wotocfEVDG1Mx
+pages:
+  - _id: wWO447X9VQqLcVcR
+    _key: '!journal.pages!0tjLc1GhtosRnXdB.wWO447X9VQqLcVcR'
+    name: The Flying Spaghetti Monster
+    type: text
+    text:
+      format: 1
+      content: '<p><em>The noodly god of Pastafarianism, who rewards worshippers with Intelligence and a colander helmet and sends them on piratical, irreverent quests.</em></p><p>The deity of Pastafarianism, The Flying Spaghetti Monster is a tangle of noodles around meatballs with eyes on noodle stalks. Crawlers can gain a colander helmet dedicated to this deity, and worshippers gain Intelligence. Pirates are considered the original Pastafarians, and worshippers are expected to be rebellious and satirical, so crawlers may be given quests based around piracy, as well as protest and mockery of other religions.</p><hr><p><em>Source: Community submission — SuperBob. From <a href="https://pointmongo.com/browse/deities/the-flying-spaghetti-monster">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1114
+    category: deities
+    slug: the-flying-spaghetti-monster
+    url: https://pointmongo.com/browse/deities/the-flying-spaghetti-monster
+    source: Community submission — SuperBob
+    tags: []
+    updatedAt: '2026-11-10T06:59:48.6730613Z'
+    needsRestat: false
+    missingFields: []

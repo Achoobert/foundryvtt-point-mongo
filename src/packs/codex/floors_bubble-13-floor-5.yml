@@ -1,0 +1,26 @@
+_id: xalSu9pkA9sxSG8a
+_key: '!journal!xalSu9pkA9sxSG8a'
+name: 'Bubble #13 (Floor 5)'
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: T0W3Z5lj2PjdO3a3
+    _key: '!journal.pages!xalSu9pkA9sxSG8a.T0W3Z5lj2PjdO3a3'
+    name: 'Bubble #13 (Floor 5)'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A four-quadrant Floor 5 bubble pairing Saccathian villagers menaced by Mantids with sleeping hoodoo monsters, child slave-miners, and a Mantid shipyard.</em></p><p><strong>Type:</strong> Floor 5 Bubble</p><p>Air: Saccathians, who worship crawlers resembling their historical art, are menaced by Mantid neighbors. Land: a rock-canyon desert maze of blind corners, infested with goblins — the hoodoos themselves are sleeping rock monsters. Subterranean: shockingly young slaves mine elements for the water quadrant''s war vessels, cute at first but vicious when threatened. Water: shipyards building great war vessels, coveted by jealous, tech-envious Mantids rumored to have a secret superweapon.</p><hr><p><em>Source: Community submission — Barry (Crawler #3779). From <a href="https://pointmongo.com/browse/floors/bubble-13-floor-5">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 226
+    category: floors
+    slug: bubble-13-floor-5
+    url: https://pointmongo.com/browse/floors/bubble-13-floor-5
+    source: 'Community submission — Barry (Crawler #3779)'
+    tags:
+      - dcc-ccs
+      - floors
+      - bubble
+    updatedAt: '2026-09-02T04:50:41.6549241Z'
+    needsRestat: false
+    missingFields: []

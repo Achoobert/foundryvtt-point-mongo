@@ -1,0 +1,25 @@
+_id: AhCC4BVs5NXxe7eV
+_key: '!journal!AhCC4BVs5NXxe7eV'
+name: Hasa Diga Eebowai
+folder: cWQgUi6OmzYETooo
+pages:
+  - _id: Qlw7oXsodRh5EyYh
+    _key: '!journal.pages!AhCC4BVs5NXxe7eV.Qlw7oXsodRh5EyYh'
+    name: Hasa Diga Eebowai
+    type: text
+    text:
+      format: 1
+      content: '<p><em>The village''s theme stays whatever it was — it just gets renamed to something the System AI and Borant won''t notice, but other Crawlers might.</em></p><p><strong>Population:</strong> Nothing changed, just a messed-up name</p><p>I think I''d leave the village''s theme whatever it was, and just name it something messed up that the System AI and Borant wouldn''t notice, but that other Crawlers might recognize, like "Hasa Diga Eebowai" (a song from "The Book of Mormon" - IYKYK).</p><hr><p><em>Source: Community submission — Myles L.. From <a href="https://pointmongo.com/browse/neighborhoods/hasa-diga-eebowai">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 445
+    category: neighborhoods
+    slug: hasa-diga-eebowai
+    url: https://pointmongo.com/browse/neighborhoods/hasa-diga-eebowai
+    source: Community submission — Myles L.
+    tags:
+      - dcc-ccs
+      - neighborhoods
+    updatedAt: '2026-08-31T17:12:37.1312211Z'
+    needsRestat: false
+    missingFields: []

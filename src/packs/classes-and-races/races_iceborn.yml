@@ -1,0 +1,23 @@
+_id: JyEo0eaA48O9VEiA
+_key: '!items!JyEo0eaA48O9VEiA'
+name: Iceborn
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Hardy humans of the frozen north who shrug off ice damage and are as keen for a scrap as for a good meal.</em></p><p>The hardiness of the Iceborn is the stuff of legend. Known for living in places too cold for any sane person, they have evolved outright ignorance of the cold. They are stalwart fighters and hardy adventurers, as keen for a scrap as they are for company around a good meal.</p><p>They appear humanoid and have a similar physical build to humans, though they tend towards having pale skin, blue or grey eyes, and silvery white hair.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>Constitution +3</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+4 Endurance</li><li>+4 Frostbite</li></ul><p><strong>Benefits</strong></p><ul><li>immunity to ice damage <em>(major)</em></li><li>advantage to skill rolls made in frozen environments <em>(moderate)</em></li><li>faster growth in ice-based skills and spells <em>(moderate)</em></li><li>Frostbite can be raised to Rank 20 <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>vulnerability to fire damage <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/races/iceborn">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1151
+    category: races
+    slug: iceborn
+    url: https://pointmongo.com/browse/races/iceborn
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.155348Z'
+    needsRestat: false
+    missingFields: []

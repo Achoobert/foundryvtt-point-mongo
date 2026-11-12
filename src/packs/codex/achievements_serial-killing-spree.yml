@@ -1,0 +1,24 @@
+_id: h1bwnJZXv7lnKSuN
+_key: '!journal!h1bwnJZXv7lnKSuN'
+name: Serial Killing Spree
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: z1GVEFcQF8xwKd40
+    _key: '!journal.pages!h1bwnJZXv7lnKSuN.z1GVEFcQF8xwKd40'
+    name: Serial Killing Spree
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you kill ten or more Mobs without anyone in your party dying before you even entered a tutorial guild.</em></p><p>Your party has killed ten or more Mobs without anyone dying BEFORE you even entered a tutorial guild. What the actual fuck, did you all come down here with a penchant for murder? You''re one bleach-filled punch bowl away from this being considered a cult massacre.</p><p>Reward: Gold Serial Killer''s Box</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/serial-killing-spree">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 564
+    category: achievements
+    slug: serial-killing-spree
+    url: https://pointmongo.com/browse/achievements/serial-killing-spree
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-11-11T20:08:41.5147007Z'
+    needsRestat: false
+    missingFields: []

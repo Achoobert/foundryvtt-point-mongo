@@ -1,0 +1,25 @@
+_id: EtVJUvTyvamDWnAL
+_key: '!items!EtVJUvTyvamDWnAL'
+name: Charming Colander of Protection
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>A former kitchen utensil turned psychic-defense helmet, immune to brain worm contamination.</em></p><dl class="stat-block"><dt>Type</dt><dd>Armor</dd><dt>AC Bonus</dt><dd>+2 AC, +6 to Saving Throws against psychic attacks, +3 to Charisma checks</dd></dl><p>This snazzy helmet provides immunity to unwanted brain worm contamination. This stunning stainless steel former kitchen utensil has been fitted with a leather chin strap and imbued with the power to protect your grey matter from all sorts of psychic nastiness — a true upgrade from the common "Tin Foil Hat" found on display in most inner-city neighbourhoods pre-crawl.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/loot/charming-colander-of-protection">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 41
+    category: loot
+    slug: charming-colander-of-protection
+    url: https://pointmongo.com/browse/loot/charming-colander-of-protection
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - armor
+      - headwear
+      - magical-armor
+    updatedAt: '2026-08-31T17:12:29.7406351Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

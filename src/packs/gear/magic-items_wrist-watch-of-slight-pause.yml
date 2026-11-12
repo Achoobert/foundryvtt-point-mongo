@@ -1,0 +1,23 @@
+_id: 0fZ2hReGlQUmWVPj
+_key: '!items!0fZ2hReGlQUmWVPj'
+name: Wrist Watch of Slight Pause
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A stylish watch that grants a limited number of brief time-pauses per day for a free extra action.</em></p><p><strong>Type:</strong> Accessory</p><p>A large, bulky, stylish watch usable 3x/day to trigger a short time pause, granting the wearer an extra action (like stepping aside to dodge an attack). Also keeps great time and never needs batteries. Can be made purely defensive by requiring a press-and-hold on a side button, with the duration limited to one second — upgradeable to be more useful later.</p><table><tbody><tr><th>Type</th><td>Accessory</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/wrist-watch-of-slight-pause">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 197
+    category: magic-items
+    slug: wrist-watch-of-slight-pause
+    url: https://pointmongo.com/browse/magic-items/wrist-watch-of-slight-pause
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-03T16:29:38.8708539Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

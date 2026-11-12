@@ -1,0 +1,20 @@
+_id: djAtoP42QzM5au18
+_key: '!items!djAtoP42QzM5au18'
+name: Grand Master Box (Incomplete)
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>This enchanted chess set might very well be the last game your opponents ever play. Summon an army and slay your foes in the Dungeon.</em></p><p>Contains half a set of chess pieces, mixed colors. Spend an action to activate one piece. After its effect, the piece is destroyed (unless otherwise stated)</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Magic Item</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>8 Pawns (lvl1) - Last for 1min</li><li>Surprise 11+F Evade 11+F, Move 10+S, DR 1+F</li><li>Str 3, Dex 2, Con 1, Int 1, Cha 1</li><li>Atk: 2+F 1d4+2</li><li>Note&gt; If a Pawn survives for at least 3 rounds and to the end of the battle and you have any missing pieces, you may upgrade it to one of your missing pieces</li><li>2 Bishops: Lasts 2 rounds. Appears adjacent and moves in a line that''s 5 feet wide and up to 30 feet long. Each friendly creature within the line Heals 2 hit Boxes.</li><li>2 Knights (lvl3), Lasts for 1min</li><li>Surprise 12+F  Evade 12+F, Move 20(see Notes), DR 2+F</li><li>Str 6, Dex 3, Con 6, Int 3, Cha 2</li><li>Atk 3+F(Advantage vs Size 4 or lower), 1d6+3</li><li>Notes&gt; The knight moves 15 feet in a straight line and then turns left or right (your choice) before moving another 5 feet. At the end of the movement, it attacks the target If you roll an 6 on any of the damage dice, the knight''s use isn''t expended.</li><li>2 Rooks: The rook moves in a line that''s 5 feet wide and up to 30 feet long, making an Attack 12+F for each hostile along its path, dealing 2d6 B dmg.</li><li>1 Queen: The queen moves up to 40 feet in a straight line. At the end of the movement, one atk (15+F) against each target within 5ft, dealing 2d6 B dmg. If any attacks hit with a Major Success, the Queen is not spent.</li><li>1 King: When you invoke the king adjacent to you, and creates a barrier that pushes out any Physical hostile Creatures 10ft away from him. If you haven''t expended the use of all your rooks, you can also expend one of their uses as part of the same action to teleport you and the king to an unoccupied space that you can see within 30 feet of you.</li></ul><hr><p><em>Source: Gabe M.. From <a href="https://pointmongo.com/browse/loot/grand-master-box-incomplete">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 496
+    category: loot
+    slug: grand-master-box-incomplete
+    url: https://pointmongo.com/browse/loot/grand-master-box-incomplete
+    source: Gabe M.
+    tags:
+      - loot
+    updatedAt: '2026-11-11T20:08:41.6353767Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: oY22VVkVmigtEnfy
+_key: '!journal!oY22VVkVmigtEnfy'
+name: Suddenly Seymour!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: WZVoIkVJ2ydR6QQ5
+    _key: '!journal.pages!oY22VVkVmigtEnfy.WZVoIkVJ2ydR6QQ5'
+    name: Suddenly Seymour!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you defeat the Mean Green Mother by feeding it something it didn''t order.</em></p><p>Look at you! A lot of folks out in the wider galaxy were actually betting on the plant, but you managed to prove to them that you actually had the balls to defeat this monstrosity! You just went ham on that meat-eating pod thing! Who would’ve thought that having a Black Thumb would actually come in hand? Not you! When the plant said “Feed me!,” you shoved a [weapon] into its gullet and told it to “EAT THIS!” You got down to the root of the problem and absolutely nipped it in the bud! Good job, kid!</p><p>REWARD!</p><p>You’ve received a Platinum Meek Shall Inherit Box!</p><p>- 2d6 × 1,000 Gold Coins</p><p>- Enchanted Machete of the Skid Row Florist</p><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/achievements/suddenly-seymour">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1006
+    category: achievements
+    slug: suddenly-seymour
+    url: https://pointmongo.com/browse/achievements/suddenly-seymour
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-10-29T04:19:44.0778791Z'
+    needsRestat: false
+    missingFields: []

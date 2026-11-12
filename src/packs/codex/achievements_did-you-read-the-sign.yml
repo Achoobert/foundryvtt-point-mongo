@@ -1,0 +1,24 @@
+_id: YVTI7RG5DuvJsbBO
+_key: '!journal!YVTI7RG5DuvJsbBO'
+name: Did You Read the Sign?
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: FyLAeq4eveVXkzCV
+    _key: '!journal.pages!YVTI7RG5DuvJsbBO.FyLAeq4eveVXkzCV'
+    name: Did You Read the Sign?
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you ignore an obvious warning and survive whatever follows.</em></p><p>You encountered an obvious warning, ignored it, and somehow survived. The System AI appreciates your commitment to learning lessons the hard way.</p><p>Reward: Bronze Asshole''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/did-you-read-the-sign">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 586
+    category: achievements
+    slug: did-you-read-the-sign
+    url: https://pointmongo.com/browse/achievements/did-you-read-the-sign
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.942873Z'
+    needsRestat: false
+    missingFields: []

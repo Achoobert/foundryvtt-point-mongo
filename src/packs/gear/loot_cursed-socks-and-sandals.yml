@@ -1,0 +1,24 @@
+_id: iAHXMmKeAbl96BgP
+_key: '!items!iAHXMmKeAbl96BgP'
+name: Cursed Socks and Sandals
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>Fashionable footwear that cuts max HP and mana by 10% each, but makes the wearer the mob''s last-priority target.</em></p><p><strong>Type:</strong> Cursed Footwear</p><p>The socks reduce max HP by 10%, the sandals reduce max mana by 10%, but worn together the wearer is always targeted last by mobs — no one rocking socks and sandals could possibly be a threat.</p><table><tbody><tr><th>Type</th><td>Footwear</td></tr></tbody></table><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/loot/cursed-socks-and-sandals">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 155
+    category: loot
+    slug: cursed-socks-and-sandals
+    url: https://pointmongo.com/browse/loot/cursed-socks-and-sandals
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - loot
+      - cursed
+    updatedAt: '2026-09-03T16:29:38.8197449Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

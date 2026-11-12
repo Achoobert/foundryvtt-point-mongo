@@ -1,0 +1,22 @@
+_id: erFd4nnqIRREKwX1
+_key: '!items!erFd4nnqIRREKwX1'
+name: Hot Lava Wand
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>Turns fifty feet of floor into something nobody wants to stand on. The furniture, inexplicably, is fine.</em></p><p><strong>Type:</strong> Wand</p><p>Casting makes the ground in a 50'' radius extremely hot. Furniture and other home decor items are unaffected.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Wand</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magical-weapons/hot-lava-wand">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 181
+    category: magical-weapons
+    slug: hot-lava-wand
+    url: https://pointmongo.com/browse/magical-weapons/hot-lava-wand
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - wand
+    updatedAt: '2026-09-24T18:09:50.6329011Z'
+    needsRestat: false
+    missingFields:
+      - effects

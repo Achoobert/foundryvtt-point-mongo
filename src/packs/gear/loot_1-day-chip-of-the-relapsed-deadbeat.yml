@@ -1,0 +1,19 @@
+_id: n0M6FXYmF7CoW8hz
+_key: '!items!n0M6FXYmF7CoW8hz'
+name: 1 Day Chip of the Relapsed Deadbeat
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>A sobriety chip that buys one trip into the Desperado Club. Spend it at the bar or the table, or walk out branded a wuss.</em></p><p>Congratulations on your Sobriety!!! ...Probably wont last, and boy oh boy do the Staff of the Desperado club know how to treat the newly sober...</p><p>This Token can be shown for a 1 time entrance to the Desperado Club without a membership upon entry it can also be exchanged for a single specialty cocktail or to play one hand of Fools Errand.</p><p>Upon exit of the club after using this token to gain entry, If the token was not exchanged the token will brand the user with a “Wuss” mark barring them from gambling or purchasing beverages at the club.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Token</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Charges</th><td>1</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>One-time entrance to the Desperado Club without a membership</li><li>On entry, may instead be exchanged for a single specialty cocktail or one hand of Fools Errand</li><li>If not exchanged before leaving, brands the bearer with a "Wuss" mark, barring them from gambling or buying drinks at the club</li></ul><hr><p><em>Source: Community submission — AI Bogboi. From <a href="https://pointmongo.com/browse/loot/1-day-chip-of-the-relapsed-deadbeat">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 839
+    category: loot
+    slug: 1-day-chip-of-the-relapsed-deadbeat
+    url: https://pointmongo.com/browse/loot/1-day-chip-of-the-relapsed-deadbeat
+    source: Community submission — AI Bogboi
+    tags: []
+    updatedAt: '2026-09-30T20:04:01.8774657Z'
+    needsRestat: false
+    missingFields: []

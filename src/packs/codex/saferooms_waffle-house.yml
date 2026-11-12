@@ -1,0 +1,25 @@
+_id: 95aQecaRPJ7K1Kxb
+_key: '!journal!95aQecaRPJ7K1Kxb'
+name: Waffle House
+folder: adVwT3zSO8jf77K5
+pages:
+  - _id: Qg5SNkycvnJeVu1r
+    _key: '!journal.pages!95aQecaRPJ7K1Kxb.Qg5SNkycvnJeVu1r'
+    name: Waffle House
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Ready for a 3am brawl, Crawler? This Saferoom isn''t, in the typical definition safe? Get ready to join the fray, just remember: Crawler on Crawler violence is still not tolerated here!</em></p><p>Every time you enter this safe room there is a 5% chance that the NPC''s are actively fighting. Normal restrictions against combat only apply to crawler vs. crawler during this time. Feel free to join in but try to avoid hitting other crawlers and getting penalized by the AI.</p><hr><p><em>Source: DungeonMan. From <a href="https://pointmongo.com/browse/saferooms/waffle-house">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 507
+    category: saferooms
+    slug: waffle-house
+    url: https://pointmongo.com/browse/saferooms/waffle-house
+    source: DungeonMan
+    tags:
+      - saferoom
+      - saferooms
+    updatedAt: '2026-09-02T00:47:05.0123366Z'
+    needsRestat: false
+    missingFields: []

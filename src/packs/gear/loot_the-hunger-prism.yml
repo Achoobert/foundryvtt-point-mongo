@@ -1,0 +1,24 @@
+_id: ZPyhH3xc1NB10Vmx
+_key: '!items!ZPyhH3xc1NB10Vmx'
+name: The Hunger Prism
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A cursed crystal vial that lets its bearer absorb nearby spells for spell slots, but demands regular arcane ''feeding'' or it hurts them.</em></p><p>Vial, cursed</p><p>A jagged crystal vial filled with shifting, colorless light. It pulses faintly whenever magic is used nearby, as if trying to inhale it.</p><p>INT+2  MANA -4</p><p><strong>Absorption Reflex:</strong> When a spell is cast within 30 ft of you, you may use your reaction to attempt to absorb part of it (spellcaster or effect makes a spellcasting ability check vs your spell save DC). On success, You regain a spell slot of one level lower than the spell absorbed (minimum 1st level), but you also takes psychic damage equal to the original slot level.</p><p>Curse - Arcane Pressure If you have not cast or absorbed a spell (using this items feature) within an hour of the last spell you cast, you absorbed or waking up from a long rest, you take psychic damage equal to X D6s, where X is the level of the highest spell you have.</p><table><tbody><tr><th>Type</th><td>Vial</td></tr></tbody></table><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/loot/the-hunger-prism">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 163
+    category: loot
+    slug: the-hunger-prism
+    url: https://pointmongo.com/browse/loot/the-hunger-prism
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - loot
+      - cursed
+    updatedAt: '2026-09-22T05:37:48.9549265Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

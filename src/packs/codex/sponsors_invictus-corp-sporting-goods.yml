@@ -1,0 +1,25 @@
+_id: N7hk30p0LrkxvYD1
+_key: '!journal!N7hk30p0LrkxvYD1'
+name: 'Invictus Corp: Sporting Goods'
+folder: hvyWwMcQCbDfRsP5
+pages:
+  - _id: yPpdDxRP1DRGXgPE
+    _key: '!journal.pages!N7hk30p0LrkxvYD1.yPpdDxRP1DRGXgPE'
+    name: 'Invictus Corp: Sporting Goods'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A performance-gear conglomerate sponsoring athletes and crawlers alike with nanite-powered outfits that demand constant food and water.</em></p><p>The universe''s premier in sportswear and sporting goods. There''s not a single species who wouldn''t be faster, stronger, more dextrous, or look healthier and sexier wearing Invictus Gear! From adaptive materials for any biome or climate, to multi limbed, multi headed, multi functional additions to any sport or sportsbeing! Now with new bomb resistant functionality! Special Edition Dungeon Crawler Worlds line available from all good stockists and tunnel partners: Invictus: "Just Kill It!" Invictus is loaded! Blending nanite and re-engineered Primal tech, their outfits have a heavy energy cost on the user as the power for all this adaptation needs to come from somewhere...In fact a line of slimsuits are available in order to loose those tedious kgs. Invictus corner the market in professional athletics, extreme sport, slimming options, some public services contracts, and with a range of more affordable wear for the average galactic citizen! Sponsorships for thrill seekers, athletes and even crawlers keep audiences entertained and buying their clobber. It''s also surprisingly reliable and has more record breakers in its ranks than any other brand. Its saved a few lives too along the way. As long as you can keep hydrated and consume enough calories...</p><p><strong>Notes:</strong></p><p><strong>Drawbacks:</strong> You need to keep eating and drinking: the more of the gear you use the more tired you get unless you''re chowing down every hour. The high from the extra performance is more than a little addictive, you might find yourself doing press ups and squats for funsies!</p><hr><p><em>Source: Community submission — K8 (Crawler #71). From <a href="https://pointmongo.com/browse/sponsors/invictus-corp-sporting-goods">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 354
+    category: sponsors
+    slug: invictus-corp-sporting-goods
+    url: https://pointmongo.com/browse/sponsors/invictus-corp-sporting-goods
+    source: 'Community submission — K8 (Crawler #71)'
+    tags:
+      - dcc-ccs
+      - sponsors
+    updatedAt: '2026-09-22T05:27:11.5309233Z'
+    needsRestat: false
+    missingFields: []

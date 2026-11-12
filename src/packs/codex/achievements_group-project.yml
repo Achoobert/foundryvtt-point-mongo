@@ -1,0 +1,24 @@
+_id: eRB4eSZhXBmn0JoC
+_key: '!journal!eRB4eSZhXBmn0JoC'
+name: Group Project
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: VHX1i5wPMhsCxWKF
+    _key: '!journal.pages!eRB4eSZhXBmn0JoC.VHX1i5wPMhsCxWKF'
+    name: Group Project
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you pull off a coordinated party tactic that actually works, on the first attempt.</em></p><p>Somehow, several different people executed a plan correctly, in order, without anyone freelancing. This never happens. We checked. Someone frame this moment, because it is not coming back.</p><p>Reward: Silver Teamwork Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/group-project">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 695
+    category: achievements
+    slug: group-project
+    url: https://pointmongo.com/browse/achievements/group-project
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.031502Z'
+    needsRestat: false
+    missingFields: []

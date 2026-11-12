@@ -1,0 +1,26 @@
+_id: j4S1y8ZxHIdca8Fe
+_key: '!journal!j4S1y8ZxHIdca8Fe'
+name: 'Bubble #2 (Floor 5)'
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: mXaonZek9IaqdiwG
+    _key: '!journal.pages!j4S1y8ZxHIdca8Fe.mXaonZek9IaqdiwG'
+    name: 'Bubble #2 (Floor 5)'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A four-quadrant Floor 5 bubble built around a volcano, with a cloud castle above, a dino jungle below, a pirate sea beyond, and a spell-dead prison dungeon underground.</em></p><p><strong>Type:</strong> Floor 5 Bubble</p><p>Air: a castle literally on the clouds, reachable only by climbing the volcano connecting it to the rest of the bubble. Land: a jungle around the volcano populated by dinosaurs bigger than Big Tina. Water: a sunny sea that turns stormy fast, with floating pirate villages, cannon-happy sailors, sea serpents, and a strange flying ship. Subterranean: a lava tunnel leads to a literal dungeon full of NPC-prisoner jail cells where magic doesn''t work (though items still do) and physical strength is halved — one prisoner holds the key to beating the Water Quadrant.</p><hr><p><em>Source: Community submission — Jessica Fates (Crawler #2067). From <a href="https://pointmongo.com/browse/floors/bubble-2-floor-5">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 227
+    category: floors
+    slug: bubble-2-floor-5
+    url: https://pointmongo.com/browse/floors/bubble-2-floor-5
+    source: 'Community submission — Jessica Fates (Crawler #2067)'
+    tags:
+      - dcc-ccs
+      - floors
+      - bubble
+    updatedAt: '2026-09-02T04:50:41.655642Z'
+    needsRestat: false
+    missingFields: []

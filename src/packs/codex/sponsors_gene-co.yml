@@ -1,0 +1,23 @@
+_id: B1BTSWEot5KptLZ1
+_key: '!journal!B1BTSWEot5KptLZ1'
+name: Gene Co
+folder: hvyWwMcQCbDfRsP5
+pages:
+  - _id: czUezAz9qlFB9pEN
+    _key: '!journal.pages!B1BTSWEot5KptLZ1.czUezAz9qlFB9pEN'
+    name: Gene Co
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A sponsor that finances organs, synthetic or organic, and sends the Repoman when the payments stop.</em></p><p>Health Subsidized company for ''legally'' lending out synthetic and organic organs to those who need or want. Finance the best organs today.</p><p>Notes: Generally their head of company will sponsor a god, usually one with renown for innovation and health practices, their sponsored gifts can upgrade or replace one of their current organs. Through their cycles of sponsorship they have a class that gets adapted, not always picked up. But through the god someone can reclaim their gifts if tithes are not paid. The Repoman.</p><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/sponsors/gene-co">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 864
+    category: sponsors
+    slug: gene-co
+    url: https://pointmongo.com/browse/sponsors/gene-co
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-10-06T05:29:17.0778264Z'
+    needsRestat: false
+    missingFields: []

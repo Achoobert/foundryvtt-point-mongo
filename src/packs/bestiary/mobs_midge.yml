@@ -1,0 +1,56 @@
+_id: AnsG9vdtb25qmLod
+_key: '!actors!AnsG9vdtb25qmLod'
+name: Midge
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>Pudgy red demon cherubs, the cannon fodder of Sheol: harmless alone, which is why they never arrive alone.</em></p><p>Short, portly, red skinned demons, sporting nubs of horns, Midges occupy the lowest rung of the hierarchy of Sheol.   Resembling demonic cherubs, they are the canon fodder of the Hells.  Midges are created by the spirits of the damned, specifically those consigned to eternal torture for incredibly minor spiritual transgressions.  The fate of these little bastards will make you reconsider not holding the elevator door, or not helping that old lady cross the street that one time.  Relatively harmless alone, they almost always travel in packs, and can often be found in swarms.</p><p>They are immune to all fire and fire based attacks, including Sheol Fire.</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/mobs/midge">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 3
+  size: Petite (3)
+  creatureType: Demon
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 3
+    max: 3
+  dr: 1
+  stats:
+    str:
+      value: 3
+    dex:
+      value: 2
+    con:
+      value: 4
+    int:
+      value: 1
+    cha:
+      value: 3
+  attacks:
+    - name: Claw
+      toHit: ''
+      damage: 1d2+2
+      damageType: ''
+      range: 5ft
+      effect: ''
+    - name: Swarm
+      toHit: ''
+      damage: 1d4+2
+      damageType: ''
+      range: 5ft
+      effect: If 3+ Midge attack the same crawler, they gain advantage on their attacks
+prototypeToken:
+  name: Midge
+  actorLink: false
+flags:
+  point-mongo:
+    id: 892
+    category: mobs
+    slug: midge
+    url: https://pointmongo.com/browse/mobs/midge
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-17T17:40:16.7905579Z'
+    needsRestat: false
+    missingFields: []

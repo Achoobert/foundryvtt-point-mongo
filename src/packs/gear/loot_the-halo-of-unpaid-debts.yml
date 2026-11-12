@@ -1,0 +1,25 @@
+_id: OG4dMeZBi8XJ1P0w
+_key: '!items!OG4dMeZBi8XJ1P0w'
+name: The Halo of Unpaid Debts
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A cracked golden halo that converts damage taken into ''debt stacks,'' unleashable as a burst — or it starts draining your own health.</em></p><p><strong>Type:</strong> Celestial Headwear</p><p>A cracked golden halo floating off-center above the wearer''s head, whispering in creditor-speak. Converts damage taken into debt stacks; at high stacks, unleash a devastating burst that "collects" on nearby enemies. Occasionally spawns spectral debt collectors who may help — or just watch. Drawback: go too long without "repayment" (dealing damage) and the halo starts draining the wearer''s own health instead.</p><table><tbody><tr><th>Type</th><td>Headwear</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/loot/the-halo-of-unpaid-debts">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 145
+    category: loot
+    slug: the-halo-of-unpaid-debts
+    url: https://pointmongo.com/browse/loot/the-halo-of-unpaid-debts
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+      - headwear
+    updatedAt: '2026-09-03T16:29:38.8287378Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

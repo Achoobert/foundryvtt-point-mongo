@@ -1,0 +1,23 @@
+_id: L1zrse609ap5a5ko
+_key: '!items!L1zrse609ap5a5ko'
+name: Gondii / Valtay Worm
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Parasitic aliens that revive the recently dead, preserving the body and digging through its memories for skills and secrets.</em></p><p>Gondii are parasitic aliens that inhabit recently deceased bodies, repairing and revitalizing the flesh before gradually exploring its memories. An occupied body can remain healthy and functional for centuries. Its previous owner is dead, but their knowledge and experience leave traces that the new occupant can uncover. Choosing a useful host and understanding its former life are therefore valuable investments.</p><p>The species is closely associated with the Valtay, whose charter requires willing donors, although being Gondii does not confer corporate membership or guarantee lawful behavior. Their preservation of familiar bodies sits uneasily beside the fear of replacement. Outlaw Gondii mercenaries demonstrate how dangerous their abilities can become: a compromised body can expose relationships, access codes and military plans as its occupant learns what to investigate.</p><table><tbody><tr><th>Size</th><td>Tiny (1) Unhosted/Variable (1-6) Hosted</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Intelligence</li><li>+1 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Deception</li><li>+1 Investigation</li></ul><p><strong>Benefits</strong></p><ul><li>A Body Required - Possess eligible corpses using the procedure below. Retain your own Stats, Class, Skills, Inventory, Mana, AI Favor and two Actions; adopt the body’s permitted physical anatomy. You do not inherit its Class, unrestricted powers or extra Actions. The body must have died with in the last 30 hours and have enough intact anatomy to function. Process takes 10 minutes of uninterrupted physical contact outside of combat. Adopt the body''s size, breathing medium, natural weapons, anatomical swimming/climbing/burrowing/flight. Leaving a body costs 1 Action during your turn. The host hitting 0HB causes you to begin Dying as well. <em>(epic)</em></li><li>Restorative Takeover - First occupation of a fresh body restores ten current and maximum HB slots, each worth your CON. <em>(moderate)</em></li><li>Borrowed Expertise - After one uninterrupted hour occupying a host, borrow one Attack, Utility or Spell Skill it knew. After an eight-hour Long Rest in it, borrow up to three instead. The rank of the borrowed skill is equal to the lowest of the following: current floor level, the host''s original rank in that skill, 15. At most one borrowed Skill may be a Spell, with normal costs and prerequisites. Choose or change the set only at these milestones. Borrowed Ranks disappear when you leave and cannot become permanent through training. <em>(epic)</em></li><li>Keeping the Best - Your occupied body becomes healthy-looking and is preserved against ordinary decomposition. After one hour occupying it, spend ten minutes and make an Unopposed Investigation Check against 10 + 2F to retrieve one specific memory. Success reveals information the host actually possessed, including useful codes, plans or secrets. Attempt at most once per hour per host; normal failure/retry restrictions apply. Learned facts remain known after transfer. <em>(extreme)</em></li><li>Your Public - Once per scene, gain +1 Popularity when a borrowed host Skill overcomes a genuine obstacle using a Rank higher than your own, or a recovered memory reveals actionable enemy plans. Staged obstacles do not qualify. <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>-2 Dexterity <em>(1 pt)</em></li><li>Exposed - Without a host, have one HB slot worth CON, breathe air and use 5-foot Move/Step. You can crawl, perceive, use HUD/chat, make nonphysical mental/social Checks and Evade, but cannot use equipment, weapon Attacks or Spells. <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Kron. From <a href="https://pointmongo.com/browse/races/gondii-valtay-worm">Point Mongo</a>.</em></p>'
+  size: Tiny (1) Unhosted/Variable (1-6) Hosted
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1054
+    category: races
+    slug: gondii-valtay-worm
+    url: https://pointmongo.com/browse/races/gondii-valtay-worm
+    source: Community submission — Kron
+    tags: []
+    updatedAt: '2026-11-04T17:26:13.5990428Z'
+    needsRestat: false
+    missingFields: []

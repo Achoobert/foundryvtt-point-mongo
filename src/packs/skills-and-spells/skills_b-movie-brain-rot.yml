@@ -1,0 +1,37 @@
+_id: Np2L07qgiRFXiMVv
+_key: '!items!Np2L07qgiRFXiMVv'
+name: B-Movie Brain Rot
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>Years of low-budget horror movies let you instantly identify undead by cinematic archetype.</em></p><p>Congratulations. You''ve spent so much time rotting your subconscious with low-budget cinematic trash that the System has decided to reward your lack of a social life.</p><p><strong>Skill Level 1 (Initiate) — Passive Effect:</strong> You can instantly categorize any shambling, necrotic monstrosity by its cinematic archetype.</p><p><strong>Active Effect:</strong> Once per floor, you can scream "That''s a Romero Shambler!" to gain a +5% Movement Speed buff, because you know exactly how slow those bastards are.</p><p><strong>The Lore (Or Lack Thereof):</strong> Do "zombies" exist? The Universe is a big, weird, incredibly violent place. Usually, when something starts eating your neighbors, it''s not a "solanum virus" or a "secret government chemical" — it''s usually some Bored Celestial reanimating a pile of organic waste to see if it could win a cage match against a bipedal goat. In the Dungeon, we don''t call them "zombies." That''s trademark infringement, and the Borant Corporation is very litigious. Here, we have: Exhumed Debtors (slow, smell like damp cardboard, technically still under contract), Necrotic Bio-Drones (the ones that run — they don''t want your brains, they want your carbon), and The Bloated Producers (if it''s fat, glowing green, and looks like it''s about to pop, don''t stand downwind).</p><p><strong>Current Status:</strong> Since the AI running this crawl is currently obsessed with "Classic Earth Horror Tropes," your skill is actually functional. However, if we hit a floor themed after 18th-century French ballrooms, your knowledge of Zombieland''s "Double Tap" rule is going to be about as useful as a chocolate teapot.</p><p><strong>NEW ACHIEVEMENT: The Couch Potato''s Revenge</strong> — Reward: Bronze Enthusiast Box. You''ve watched so many movies you actually think you''re prepared for an apocalypse. You aren''t. But hey, at least you''ll die knowing the difference between a "Runner" and a "Stalker."</p><hr><p><em>Source: Community submission — David Brookhart (Crawler #25631). From <a href="https://pointmongo.com/browse/skills/b-movie-brain-rot">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 58
+    category: skills
+    slug: b-movie-brain-rot
+    url: https://pointmongo.com/browse/skills/b-movie-brain-rot
+    source: 'Community submission — David Brookhart (Crawler #25631)'
+    tags:
+      - skill
+      - earth-skill
+    updatedAt: '2026-08-31T17:12:29.7679145Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

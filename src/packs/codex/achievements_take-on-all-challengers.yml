@@ -1,0 +1,24 @@
+_id: 3f2vb1fldQDylCZp
+_key: '!journal!3f2vb1fldQDylCZp'
+name: Take On All Challengers
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: J9nrzemxje3FTDaM
+    _key: '!journal.pages!3f2vb1fldQDylCZp.J9nrzemxje3FTDaM'
+    name: Take On All Challengers
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you fight a group twice your party size and win.</em></p><p>You and your party took on a group twice your size and came out victorious. I really want to say this was a great feat of strength, but we also reward this achievement for taking down a pack of defenseless puppies twice your group''s size. So...really it''s like being equal to a puppy kicker. Here''s your reward, puppy kicker.</p><p>Reward: You''ve received a Silver Adventurer''s Box.</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/take-on-all-challengers">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 565
+    category: achievements
+    slug: take-on-all-challengers
+    url: https://pointmongo.com/browse/achievements/take-on-all-challengers
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9258671Z'
+    needsRestat: false
+    missingFields: []

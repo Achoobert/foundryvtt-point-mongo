@@ -1,0 +1,50 @@
+_id: pGzE6IK6UmMiV6x2
+_key: '!actors!pGzE6IK6UmMiV6x2'
+name: Master Splinter, level 15 Sewer-Monk
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><em>A kung-fu rat master with one brutal staff attack and a fatal weakness for pizza, since he is lactose intolerant.</em></p><p>Master Splinter is a kung-fu master. He has raised 4 mutant turtles and taught them the way of street-fighting, but they suck (they are used as a fake neighborhood boss to lure the crawlers into a borough boss fight). Master splinter has only one, strong attack that he spreads across crawlers to cripple them.</p><p>Additional notes.</p><p>Sewer-Monk is a reflavoured Street Monk</p><p>Passive skill: Rules for thee but not for me. Master Splinter can use its quarterstaff and apply its unarmed strike benefits. Master Splinter uses DEX for its quarterstaff.</p><p>Skills: dirty fighting rank 5 (grants Woozy and Taint debuffs on hit)</p><p>Master Splinter is the pinnacle of training. But he has a secret vulnerability. In contrast to his turtle apprentices, he is lactose intolerant. It''s the crawlers job to cheese the encounter (pun-intended)</p><p>Clues: there are ton of pizza slices everywhere, posters of the Ninja eating them and a single poster with Master Splinter with a slice of pizza, looking ill (Perception check)</p><p>Special rules:</p><p>• Bamboozled debuff: All crawlers lose 1 action on the first round</p><p>• Taint debuff prevents healing. Pizza slices still heal 1HB</p><p>• Forcing Master Splinter to eat a slice of pizza causes 2HB damage. Takes 1 action</p><p>• 8 slices of pizza can be taken to form a full pizza (grabbing a pizza slice is free, only need to move on it). Forcing Master Splinter to eat a full pizza causes 10 HB damage</p><p>• Killing Master Splinter by force-feeding him pizza will make him explode</p><table><tbody><tr><th>Floor</th><td>1</td></tr><tr><th>Elite</th><td>Yes (acts once per crawler)</td></tr></tbody></table><hr><p><em>Source: the Point Mongo community. From <a href="https://pointmongo.com/browse/bosses/master-splinter-level-15-sewer-monk">Point Mongo</a>.</em></p>'
+  mobTier: borough
+  level: 15
+  size: Petite (3)
+  creatureType: Mutated Animal
+  move: '30'
+  hbSlotsOverride: null
+  hb:
+    value: 16
+    max: 16
+  dr: 1
+  stats:
+    str:
+      value: 13
+    dex:
+      value: 53
+    con:
+      value: 13
+    int:
+      value: 5
+    cha:
+      value: 4
+  attacks:
+    - name: Quarterstaff
+      toHit: ''
+      damage: 2d6+6
+      damageType: bludgeoning
+      range: 10ft
+      effect: On hit, Woozy and Taint debuffs
+prototypeToken:
+  name: Master Splinter, level 15 Sewer-Monk
+  actorLink: false
+flags:
+  point-mongo:
+    id: 875
+    category: bosses
+    slug: master-splinter-level-15-sewer-monk
+    url: https://pointmongo.com/browse/bosses/master-splinter-level-15-sewer-monk
+    source: ''
+    tags: []
+    updatedAt: '2026-10-09T01:13:55.2441971Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,27 @@
+_id: 2QwNW3SGFWBTrzKv
+_key: '!items!2QwNW3SGFWBTrzKv'
+name: Landsknecht
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>Charisma-based Fighter class built around battlefield presence and oversized two-handed weapons.</em></p><dl class="stat-block"><dt>Type</dt><dd>A Charisma-based Fighter class</dd><dt>Stat Bonus</dt><dd>Str +3, Chr +3</dd><dt>Stat Penalty</dt><dd>Dex -1, Con -2</dd></dl><p>The Landsknecht is a flamboyant mercenary class built around battlefield presence and martial skill. They specialize in wielding oversized, two-handed weapons, and are no strangers to contract work. A Landsknecht fights loudly, dresses louder, and turns every battlefield into an advertisement for their own services.</p><p><strong>Class Benefits:</strong></p><ul><li>Cut the Payroll spell — hitting a Crawler or Mob with minions stuns all their minions for 1 round</li><li>Blood Price spell — mark a target, heal if that target dies by you or an ally</li><li>Paid in Advance skill — gain temporary bonus stats while you have an active quest</li><li>Battlefield Presence skill — aura where allies deal bonus damage and you''re more likely to be targeted by enemies</li><li>+3 to all two-handed weapons skills</li></ul><table><tbody><tr><th>DR</th><td>0</td></tr><tr><th>Prerequisites</th><td>Must have 5 or more Popularity and at least one two-handed Weapon Skill at Rank 5 or higher.</td></tr><tr><th>Rank 20</th><td>None</td></tr><tr><th>Bonus box</th><td>Silver Earth Box</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Strength (3 Points)</li><li>+3 Charisma (3 Points)</li><li>+2 Dexterity (2 Points)</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Cut the Payroll, Blood Price, and Battlefield Presence Spells (6 Points)</li><li>+2 Paid in Advance Skill (2 Points)</li><li>+2 to all two-handed Weapon Skills (8 Points)</li></ul><p><strong>Benefits</strong></p><ul><li>Can access any Weapon Training Guild (2 Points)</li><li>Can raise two-handed Weapon Skills to Rank 20 (2 Points)</li><li>Earn 5% interest of your current gold at the start of each floor (1 Point)</li><li>Free room in saferooms (1 Point)</li></ul><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/classes/landsknecht">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter
+    - Bard
+  prerequisites: Must have 5 or more Popularity and at least one two-handed Weapon Skill at Rank 5 or higher.
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1170
+    category: classes
+    slug: landsknecht
+    url: https://pointmongo.com/browse/classes/landsknecht
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - floor-class
+      - fighter
+    updatedAt: '2026-11-11T23:33:57.0020018Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

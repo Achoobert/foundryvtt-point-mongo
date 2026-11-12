@@ -1,0 +1,20 @@
+_id: GbXydb6GxIrMQdMB
+_key: '!items!GbXydb6GxIrMQdMB'
+name: Junk Gun
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A scrap-fed shotgun that fires whatever junk is in your inventory, hitting harder the bigger the piece it spits out.</em></p><p>Range: 30 feet</p><p>Limitations: Each attack requires proper ammunition. Spend on Action to reload after a Major Fail or worse.</p><p>Shoot a random piece of Misc. Junk from your inventory at your foes. Roll a 1d4 to see the size of Junk ejected to determine the damage.</p><p>Base Damage: (1) 1d4 (2) 1d6 (3) 1d8 (4) 1d12</p><p>Level 5: +dX base damage</p><p>Level 10: +dX base damage, Can roll the 1d4 with advantage.</p><p>Level 15: +dX base damage, Can roll the 1d4 with advantage. Targets hit with projectiles of size (3) suffer the Take Down Debuff. Targets hit with projectiles of Size (4) suffer the Take Down and Staggered Debuff.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Shotgun</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Weapon skill</th><td>Shotgun</td></tr></tbody></table><hr><p><em>Source: Community submission — Anonymous. From <a href="https://pointmongo.com/browse/magic-items/junk-gun">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1056
+    category: magic-items
+    slug: junk-gun
+    url: https://pointmongo.com/browse/magic-items/junk-gun
+    source: Community submission — Anonymous
+    tags: []
+    updatedAt: '2026-11-06T06:15:09.2920142Z'
+    needsRestat: false
+    missingFields:
+      - effects

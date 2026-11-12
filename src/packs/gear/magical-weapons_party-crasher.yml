@@ -1,0 +1,21 @@
+_id: yNXPr0AqjVIlVyMA
+_key: '!items!yNXPr0AqjVIlVyMA'
+name: Party Crasher
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>This enchanted mace has been a party favorite by those who frequent Oktoberfest or who wish they could go to Oktoberfest, but realized that their local city''s warm beer party wasn''t as appealing in person as the idea was on Facebook.</em></p><p>It is a beer stein made of heavy metal that might be used as a Club.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Weapon</td></tr><tr><th>Weapon skill</th><td>Club</td></tr><tr><th>Cooldown</th><td>1 hour</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>It refills with beer once per hour.</li><li>When it is full, you may drink it as a healing potion (15 hour cooldown).</li><li>May also cast a line of highly pressurized jet of beer, emptying the container (Opposed INT or DEX check. 15ft line, 1d6 bludgeoning damage. Any target hit that is Size 4 or less gets pushed back by 10 feet.)</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/magical-weapons/party-crasher">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 475
+    category: magical-weapons
+    slug: party-crasher
+    url: https://pointmongo.com/browse/magical-weapons/party-crasher
+    source: Community submission — Gabe M
+    tags:
+      - magical-weapons
+      - mace
+    updatedAt: '2026-09-04T04:25:22.6788849Z'
+    needsRestat: false
+    missingFields: []

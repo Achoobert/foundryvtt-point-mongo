@@ -1,0 +1,24 @@
+_id: 53lAxzuCf22DHcaP
+_key: '!journal!53lAxzuCf22DHcaP'
+name: The Floor Remembers Your Name
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: xs0Kt0AVEpFPC3lk
+    _key: '!journal.pages!53lAxzuCf22DHcaP.xs0Kt0AVEpFPC3lk'
+    name: The Floor Remembers Your Name
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you fully clear every Neighborhood on the Second Floor before ever finding the stairwell down.</em></p><p>You didn''t rush the tutorial. You didn''t skip a single Neighborhood. You cleared the entire Second Floor, corner to corner, before moving on. Nobody does that. It''s inefficient, exhausting, and completely unnecessary. It''s also the kind of thing that gets a floor named after you eventually. We''re only half joking.</p><p>Reward: Legendary Completionist Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/the-floor-remembers-your-name">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 723
+    category: achievements
+    slug: the-floor-remembers-your-name
+    url: https://pointmongo.com/browse/achievements/the-floor-remembers-your-name
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0541938Z'
+    needsRestat: false
+    missingFields: []

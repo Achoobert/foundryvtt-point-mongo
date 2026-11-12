@@ -1,0 +1,19 @@
+_id: bKwYygJ1JDCzDnMK
+_key: '!items!bKwYygJ1JDCzDnMK'
+name: Enchanted Bardiche of Unnecessary Force
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A wicked ash-poled bardiche that makes its wielder immune to Force and dishes out free Unnecessary Force every couple of hours.</em></p><p>This wicked polearm features a 10'' long ash pole affixed to a curving axe-like blade.  It bestows immunity to Force damage to it''s wielder.  It also grants its user the ability to cast the Unnecessary Force Spell at Rank 1, at no mana cost, once every 2 hours.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Bardiche</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Weapon skill</th><td>Polearm</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Immunity to Force damage</li><li>Unnecessary Force Spell at Rank 1, no Mana cost, 2 hour cooldown</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/enchanted-bardiche-of-unnecessary-force">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1007
+    category: magical-weapons
+    slug: enchanted-bardiche-of-unnecessary-force
+    url: https://pointmongo.com/browse/magical-weapons/enchanted-bardiche-of-unnecessary-force
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-29T18:33:18.854115Z'
+    needsRestat: false
+    missingFields: []

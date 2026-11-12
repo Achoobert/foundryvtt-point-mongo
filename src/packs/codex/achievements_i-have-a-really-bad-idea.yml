@@ -1,0 +1,24 @@
+_id: H0LzSNQSLBGZcunF
+_key: '!journal!H0LzSNQSLBGZcunF'
+name: I Have a Really Bad Idea
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: XvhwaYZY2sgts8ao
+    _key: '!journal.pages!H0LzSNQSLBGZcunF.XvhwaYZY2sgts8ao'
+    name: I Have a Really Bad Idea
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you announce a plan that everyone else immediately recognizes as dangerous.</em></p><p>You have announced that you possess a plan.</p><p>Unfortunately, everyone else immediately recognized that the plan was terrible.</p><p>The System AI is eagerly awaiting the next part.</p><p>Reward: Bronze Lucky Bastard Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/i-have-a-really-bad-idea">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 658
+    category: achievements
+    slug: i-have-a-really-bad-idea
+    url: https://pointmongo.com/browse/achievements/i-have-a-really-bad-idea
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0010917Z'
+    needsRestat: false
+    missingFields: []

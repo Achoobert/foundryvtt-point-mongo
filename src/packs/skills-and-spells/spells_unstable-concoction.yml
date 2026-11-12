@@ -1,0 +1,45 @@
+_id: LGwZaYt6px2hmUjP
+_key: '!items!LGwZaYt6px2hmUjP'
+name: Unstable Concoction
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>A Conjuration thrown-explosive spell with a risky ''cooking'' mechanic and potion-fueled scaling damage.</em></p><p><strong>Level 1:</strong> Conjure an unstable vial and toss it at a target. It explodes, dealing damage to everything within a 10-foot radius.</p><p><strong>Level 5:</strong> This can now ignite gas-based attacks, dealing 2d6 bonus damage to anyone caught in it.</p><p><strong>Level 10:</strong> You can hold this spell for a round ''cooking'' it. If you cook this spell, it deals an additional 1d12 bonus damage.</p><p><strong>Level 15:</strong> The target struck by this spell is coated in a napalm like substance, hard to remove by normal means. This burns the target for 3 Rounds.</p><p><strong>Level 20:</strong> You can add potions from your inventory to a cooking Unstable Concoction. For each potion added, add an extra 1d6 damage to it. WARNING: If your Explosives Handling is not up to snuff, it can go off in your hand.</p><table><tbody><tr><th>Base damage</th><td>1d10 + INT</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>None</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/unstable-concoction">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 5
+  range: 30 Feet
+  duration: Instant
+  cooldown: 1 Round
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses: []
+  baseDamage:
+    dice: 1d10
+    stat: int
+    damageType: fire
+  upgrades:
+    - id: Zvt1yxNs408vSnLz
+      rankThreshold: 5
+      description: <p>This can now ignite gases, dealing 2d6 bonus Fire damage to anyone caught in it.</p>
+    - id: n3IrsE3UIANp3a8L
+      rankThreshold: 10
+      description: <p>You can hold this spell for a round 'cooking' it. If you cook this spell, it deals an additional 1d10 bonus Fire damage.</p>
+    - id: mOwtkdj8z6BiWeyK
+      rankThreshold: 15
+      description: <p>The target struck by this spell is coated in a napalm-like substance, difficult to remove by normal means. This substance burns the target for 3 Rounds for 1d6 Fire damage a round.</p>
+flags:
+  point-mongo:
+    id: 426
+    category: spells
+    slug: unstable-concoction
+    url: https://pointmongo.com/browse/spells/unstable-concoction
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+      - conjuration
+    updatedAt: '2026-09-22T05:46:52.7260908Z'
+    needsRestat: true
+    missingFields: []

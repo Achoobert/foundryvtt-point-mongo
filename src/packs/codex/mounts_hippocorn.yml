@@ -1,0 +1,25 @@
+_id: k7hmU595hl7YsfMZ
+_key: '!journal!k7hmU595hl7YsfMZ'
+name: Hippocorn
+folder: rEMOgPJ7utWySMpl
+pages:
+  - _id: DZjUgsm4ERAckEbl
+    _key: '!journal.pages!k7hmU595hl7YsfMZ.DZjUgsm4ERAckEbl'
+    name: Hippocorn
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A Large, opinionated pink hippo-unicorn hybrid mount that charges like a freight train and doesn''t appreciate being called fat.</em></p><p>Hungry, Hungry!: Bite attack 2d12 dmg</p><p><strong>Ventilate:</strong> Impales target on horn: 2d10 dmg. This attack can be used as a bonus action at the end of a Charge attack for an additional 8d10 dmg.</p><p>This mystical hybrid creature has Providence. (Divine Protective Care). Hippocorns are sentient, sapient and aren''t afraid to share their opinions: One was once heard to say "Call me a fat horse one more time, and I will fucking ventilate you." This species appears to be a large pink hippopotamus with a single white spiral horn in the center of it''s forehead. They are known to be loyal, and fierce mounts. In battle hippocorns resemble a pink freight train.</p><p>Bonus points if you knew that Alice the Hippocorn was pulled directly from Matt Dinniman''s Dominion of Blades Series. Go read it! (I know I always say, don''t lift on these DCC CCS posts - but you may have noticed on this one it says "...unless it was created by Matt Dinniman...." See what I did there? When you make the rules, you can create your very own loop holes. ;) Plus, Alice is a great character, and this is my way of sneaking her into the RPG.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/mounts/hippocorn">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 267
+    category: mounts
+    slug: hippocorn
+    url: https://pointmongo.com/browse/mounts/hippocorn
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - mounts
+    updatedAt: '2026-09-22T05:38:09.0790702Z'
+    needsRestat: false
+    missingFields: []

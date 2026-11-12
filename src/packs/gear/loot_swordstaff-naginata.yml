@@ -1,0 +1,19 @@
+_id: aaaZewDQJZfj8Tx2
+_key: '!items!aaaZewDQJZfj8Tx2'
+name: Swordstaff (Naginata)
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>A Japanese polearm with a katana-forged blade on a six-foot shaft, built for sweeping cuts, so it slashes where other polearms pierce.</em></p><p>A sword-staff or Naginata is a traditional Japanese polearm consisting of a curved, single-edged steel blade mounted on a 6'' long wooden shaft.  The blade is forged similarly to a traditional Japanese katana.  It is designed for fluid, sweeping, and slicing cuts rather than straight thrusts.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Polearm</td></tr><tr><th>Tier</th><td>Bronze</td></tr><tr><th>Weapon skill</th><td>Polearm</td></tr><tr><th>Damage type</th><td>Slashing</td></tr><tr><th>Limitations</th><td>Requires two hands to wield.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Modified Polearm Skill - Slashing dmg vs piercing CRB - Pg 183</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/loot/swordstaff-naginata">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 909
+    category: loot
+    slug: swordstaff-naginata
+    url: https://pointmongo.com/browse/loot/swordstaff-naginata
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-17T18:03:42.0341512Z'
+    needsRestat: false
+    missingFields: []

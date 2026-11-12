@@ -1,0 +1,25 @@
+_id: NETx6xNdW3rYdLEi
+_key: '!items!NETx6xNdW3rYdLEi'
+name: Steadfast Superhero Landing Sandals
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>Springy magenta-strapped sandals that reduce fall damage and grant the ''steady'' effect.</em></p><dl class="stat-block"><dt>Type</dt><dd>Footwear</dd></dl><p>These sandals have a springy sole and bright magenta straps. +1 Dex, +1 Con, -1 Cha. Gives "steady" and decreases fall damage, transferring the blocked damage to the ground.</p><hr><p><em>Source: Community submission — Socks (Crawler #4381). From <a href="https://pointmongo.com/browse/loot/steadfast-superhero-landing-sandals">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 52
+    category: loot
+    slug: steadfast-superhero-landing-sandals
+    url: https://pointmongo.com/browse/loot/steadfast-superhero-landing-sandals
+    source: 'Community submission — Socks (Crawler #4381)'
+    tags:
+      - armor
+      - footwear
+      - magical-armor
+    updatedAt: '2026-08-31T17:12:29.7479936Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

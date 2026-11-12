@@ -1,0 +1,22 @@
+_id: 93gkAw4SGjuSEY6k
+_key: '!items!93gkAw4SGjuSEY6k'
+name: Corvid Kazoo
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A kazoo that summons a themed flock of corvids the user can see through and telepathically direct.</em></p><p><strong>Type:</strong> Musical Instrument</p><p>Kazooing summons a group of corvids that remain until they perish; can''t be re-summoned until 2 days after the last one''s death. The kazooer can sense through the birds and telepathically communicate up to 4 km, and the birds mostly do as asked. Roll d4 for flock type: 1) Band of Jays, 2) Mob of Crows, 3) Murder of Ravens, 4) Mischief of Magpies — each with a distinct personality.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Musical Instrument</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/corvid-kazoo">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 172
+    category: magic-items
+    slug: corvid-kazoo
+    url: https://pointmongo.com/browse/magic-items/corvid-kazoo
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-30T20:04:01.9631506Z'
+    needsRestat: false
+    missingFields:
+      - effects

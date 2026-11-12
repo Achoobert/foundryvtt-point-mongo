@@ -1,0 +1,25 @@
+_id: tqHng1GZrRmEATkR
+_key: '!journal!tqHng1GZrRmEATkR'
+name: Fit Shaced
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: D6X1OgI6MzHkdwhB
+    _key: '!journal.pages!tqHng1GZrRmEATkR.D6X1OgI6MzHkdwhB'
+    name: Fit Shaced
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler enters the world dungeon visibly drunk.</em></p><p><strong>Scenario:</strong> Crawler enters the World Dungeon drunk</p><p>You entered the dungeon after consuming a beer with friends... Who are we kidding...you''ve drunk. One turned into 5 which turned into spirits and then wine and then back to beer. There was that moment you seem to recall kissing a lumberjack at the bar...wait maybe it was the taxidermied bear in the corner. Whatever it was you''re flying high at the moment...fuck you... you''re not my mother, and whatever happens is now tomorrow''s problem.</p><p><strong>Suggested Rewards:</strong></p><p>A life''s lesson of what happens when you mix drinks...or something...you''re sure to forget about this in the morning and we will need to go through this all again.</p><hr><p><em>Source: Community submission — The Wombat Mafia (Crawler #12208). From <a href="https://pointmongo.com/browse/achievements/fit-shaced">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 283
+    category: achievements
+    slug: fit-shaced
+    url: https://pointmongo.com/browse/achievements/fit-shaced
+    source: 'Community submission — The Wombat Mafia (Crawler #12208)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:27:11.5158329Z'
+    needsRestat: false
+    missingFields: []

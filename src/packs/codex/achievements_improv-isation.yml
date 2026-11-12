@@ -1,0 +1,24 @@
+_id: aTkzs2zTN6GeeAC4
+_key: '!journal!aTkzs2zTN6GeeAC4'
+name: Improv-isation
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: qqDlzn0WnkHlD91I
+    _key: '!journal.pages!aTkzs2zTN6GeeAC4.qqDlzn0WnkHlD91I'
+    name: Improv-isation
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you enter the World Dungeon with an improvised weapon.</em></p><p>You have entered the World Dungeon carrying objects that are...not exactly improvised, but not exactly normal either. You clearly have the ''I''ll do whatever it takes to survive'' mindset down pat, which is great because we''re gonna need to see some of that grit in the World Dungeon. Getting creative is what is needed when it comes to surviving the World Dungeon, so get in there champ and give it your all. Make daddy proud.</p><p>Reward: Bronze Adventurer Box</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/improv-isation">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 569
+    category: achievements
+    slug: improv-isation
+    url: https://pointmongo.com/browse/achievements/improv-isation
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-11-11T20:08:41.5116567Z'
+    needsRestat: false
+    missingFields: []

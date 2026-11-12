@@ -1,0 +1,55 @@
+_id: xKSyr64fgXr8LDHT
+_key: '!actors!xKSyr64fgXr8LDHT'
+name: Flesh-Eating Furby
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> Level, stat scores</p><p><em>Remember when these cute little things were on your television, and you ordered one for your kids, and then those little psychopaths would skin them to get at the mechanical parts underneath? Well, anyhow, Furby remembers.</em></p><p>Fairy, Small. A small adorable creature that hides a particularly ravenous hunger. These creatures attack in swarms, leaving almost nothing behind when it feasts. A favored species for specialty summoner classes and for janitor mobs in dungeons, particularly Overcity levels. HB: 2/Level, DR: 5, Move 18+S, Damage: Bite 1d4.</p><hr><p><em>Source: Moonshadow Dark. From <a href="https://pointmongo.com/browse/mobs/flesh-eating-furby">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: Small (2)
+  creatureType: Fairy
+  move: '18'
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 5
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks:
+    - name: Bite
+      toHit: ''
+      damage: 1d4
+      damageType: ''
+      range: ''
+      effect: ''
+prototypeToken:
+  name: Flesh-Eating Furby
+  actorLink: false
+flags:
+  point-mongo:
+    id: 503
+    category: mobs
+    slug: flesh-eating-furby
+    url: https://pointmongo.com/browse/mobs/flesh-eating-furby
+    source: Moonshadow Dark
+    tags:
+      - mob
+      - fairy
+      - mobs
+    updatedAt: '2026-09-02T00:47:05.0142279Z'
+    needsRestat: true
+    missingFields:
+      - Level
+      - stat scores

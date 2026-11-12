@@ -1,0 +1,24 @@
+_id: yl6VjsLIBkNmRtDt
+_key: '!journal!yl6VjsLIBkNmRtDt'
+name: Touch It
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: wr5btByL00Nyk2m6
+    _key: '!journal.pages!yl6VjsLIBkNmRtDt.wr5btByL00Nyk2m6'
+    name: Touch It
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you convince another crawler to interact with something dangerous.</em></p><p>You convinced another crawler to interact with something dangerous.</p><p>The System AI is not saying you are a bad person.</p><p>The System AI is saying you are entertaining.</p><p>Reward: Bronze Asshole''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/touch-it">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 654
+    category: achievements
+    slug: touch-it
+    url: https://pointmongo.com/browse/achievements/touch-it
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9979451Z'
+    needsRestat: false
+    missingFields: []

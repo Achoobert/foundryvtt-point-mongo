@@ -1,0 +1,25 @@
+_id: KjwZo87bObiWgLTJ
+_key: '!journal!KjwZo87bObiWgLTJ'
+name: 'Town of Brenden Harden - Crawler #12193'
+folder: cWQgUi6OmzYETooo
+pages:
+  - _id: N7NQCjuYSdvu0Wdq
+    _key: '!journal.pages!KjwZo87bObiWgLTJ.N7NQCjuYSdvu0Wdq'
+    name: 'Town of Brenden Harden - Crawler #12193'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A Witcher-themed floor crawling with leshies, ghouls, and drowners, centered on a heavily fortified keep.</em></p><p><strong>Population:</strong> Witcher Themed</p><p>Oh man, welcome to the world of the Witcher. More monsters than you know what to do with. Leshies, Ghouls, Fleshers, drowners, you name it we have it on this floor. I have a highly fortified keep, tall walls and defenses, top of the line (for the time period) equipment. This is one tough nut to crack. After all, with all the war going on around us, can''t be too safe.</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/neighborhoods/town-of-brenden-harden-crawler-12193">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 443
+    category: neighborhoods
+    slug: town-of-brenden-harden-crawler-12193
+    url: https://pointmongo.com/browse/neighborhoods/town-of-brenden-harden-crawler-12193
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - neighborhoods
+    updatedAt: '2026-10-02T23:02:05.1659375Z'
+    needsRestat: false
+    missingFields: []

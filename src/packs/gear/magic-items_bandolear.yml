@@ -1,0 +1,23 @@
+_id: ozEuqv7xFsINRU21
+_key: '!items!ozEuqv7xFsINRU21'
+name: BandolEAR
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A bandolier of detachable ears used for remote listening — swap in fresh ears before the source dies to keep it working.</em></p><p>Need to do some recon from a distance, or want to hear if someone is trying to sneak into your hiding place? Just peel off one of the ears and place it where needed. The ear will immediately begin transmitting any audio in the room as if you were right there. The audio will continue until the ear is retrieved, or the slot on the Bandolear is replaced with a new ear. New ears must be acquired and placed into the Bandolear before the target dies. Warning, activating more than three ears at once may result in permanently hearing voices or worse. The BandolEAR can hold up to 10 ears.</p><table><tbody><tr><th>Type</th><td>Accessory</td></tr></tbody></table><hr><p><em>Source: Community submission — Orion Kannan (Crawler #7729). From <a href="https://pointmongo.com/browse/magic-items/bandolear">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 168
+    category: magic-items
+    slug: bandolear
+    url: https://pointmongo.com/browse/magic-items/bandolear
+    source: 'Community submission — Orion Kannan (Crawler #7729)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-22T05:37:57.8746427Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

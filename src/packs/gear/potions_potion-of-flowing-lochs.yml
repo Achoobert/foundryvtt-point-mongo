@@ -1,0 +1,22 @@
+_id: rUjOSOAFTaZEvwai
+_key: '!items!rUjOSOAFTaZEvwai'
+name: Potion of Flowing Lochs
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A coin-flip potion that either shoots water from the drinker''s fingertips or triggers extreme, unstoppable hair growth.</em></p><p><strong>Type:</strong> Buff</p><p>On consumption, a 50% chance of a torrent of water flowing from the drinker''s fingertips for 60 seconds, or a 50% chance of unstoppable, extreme hair growth for the same duration.</p><table><tbody><tr><th>Type</th><td>Buff</td></tr></tbody></table><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/potions/potion-of-flowing-lochs">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 333
+    category: potions
+    slug: potion-of-flowing-lochs
+    url: https://pointmongo.com/browse/potions/potion-of-flowing-lochs
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-03T16:29:38.9484569Z'
+    needsRestat: false
+    missingFields:
+      - effects

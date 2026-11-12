@@ -1,0 +1,25 @@
+_id: pD4MOiDvS4wANCP2
+_key: '!journal!pD4MOiDvS4wANCP2'
+name: Sports Floor
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: YKZrB3nzhhYO8bfp
+    _key: '!journal.pages!pD4MOiDvS4wANCP2.YKZrB3nzhhYO8bfp'
+    name: Sports Floor
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Trapped in a Superdome, Crawlers draw a strong and a weak sport, then fight through seven boss matches to unlock the exit.</em></p><p>Upon entering the room, Hells Bells starts playing. Hockey Players enter, and you must pick a sport out of a hat. The first sport is what you''re strongest against, and then you must draw a second, which is the sport you''re weakened against. There will be a bout of 7 boss fights, and you must win at least 4 to advance. Bosses include Tennis the Menace, Scott the Scot, Bronx Bombers, Louisville Slugger. The Crawlers are trapped inside a Superdome, and there are different sections of sports. Defeating a sport unlocks that boss, and beating 4 bosses opens that floor''s exit. Bosses will get progressively harder.</p><hr><p><em>Source: Community submission — Justin. From <a href="https://pointmongo.com/browse/floors/sports-floor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 451
+    category: floors
+    slug: sports-floor
+    url: https://pointmongo.com/browse/floors/sports-floor
+    source: Community submission — Justin
+    tags:
+      - dcc-ccs
+      - floors
+    updatedAt: '2026-08-31T17:12:39.4330204Z'
+    needsRestat: false
+    missingFields: []

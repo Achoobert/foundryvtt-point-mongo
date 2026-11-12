@@ -1,0 +1,26 @@
+_id: MdfTleUU0D4BbZXd
+_key: '!journal!MdfTleUU0D4BbZXd'
+name: Bensom Pucka
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: HkvnafAmhYrgCiyA
+    _key: '!journal.pages!MdfTleUU0D4BbZXd.HkvnafAmhYrgCiyA'
+    name: Bensom Pucka
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A cynical, posh-accented Kolatan lawyer with 50 cycles of experience and a fearsome reputation in the Syndicate.</em></p><p><strong>Bensom Pucka:</strong> Attorney at Law.</p><p>The Kolatan resemble Earth’s Koala, except their fur is a dark purple or Blue. They stand 4 feet tall, and they’re mostly built like linebackers. Benson Pucka has been practicing law for the last 50 cycles. He’s a cynic by nature and talks with an accent resembling that of Earth’s posh British aristocracy. He smokes like a chimney and sleeps with anyone he can get to speak to him for more than 5 minutes. He’s no-nonsense and plays hardball for the Crawlers. He is one of the most feared lawyers in the Syndicate, and has represented no less than 30 Crawlers, many of whom have made it to at least level 12 with his help. He is NOT to be trifled with. If Bensom Pucka is involved, your case is as good as settled.</p><hr><p><em>Source: Community submission — Myles L (Crawler #26933). From <a href="https://pointmongo.com/browse/npcs/bensom-pucka">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 241
+    category: npcs
+    slug: bensom-pucka
+    url: https://pointmongo.com/browse/npcs/bensom-pucka
+    source: 'Community submission — Myles L (Crawler #26933)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - lawyer
+    updatedAt: '2026-09-22T05:37:55.6365981Z'
+    needsRestat: false
+    missingFields: []

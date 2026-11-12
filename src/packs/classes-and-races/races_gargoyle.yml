@@ -1,0 +1,26 @@
+_id: w9VWDB7G1d3GXNqT
+_key: '!items!w9VWDB7G1d3GXNqT'
+name: Gargoyle
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>No longer bound to watching over castles and cathedrals, as a Gargoyle you are free to set out and bring your stone cold bloodthirstiness across the World Dungeon.</em></p><p>You are a statue of the day and a nocturnal winged warrior by night. You protect your home and those within it. Just be careful of any eccentric billionaires. Stone Skin: DR 2, Stone Flight: Can fly up to 3 minutes per scene, Stone Sense Skill +2 Ranks to Stone Sense, Darkvision, Stone Organs: Immunity to Poison and all Diseases, Castle Guardian: Once per floor you can select your "castle". Your castle can be any building found on the floor, if the floor has no buildings, you can choose a 100ftx100ft area. While in your castle you have advantage on all skills, Enhanced Strength: +6 STR, Lower Intelligence: -2 INT, Light Aversion: Disadvantage on skills when in direct sunlight. Stone Sense: Charisma. You have a knack for understanding good stone and can speak with it, sorta. You can make an unopposed Skill Check when touching stone. On a success you know the basic information about the stone itself and anything that happened near it in the last 30hrs. Rank 5) If the stone is connected to other stone then the information you learn is from all the connected Stone, Rank 10) Any stone related item or person is marked on your map, Rank 15) You can mark the stone and can see from it. You may only mark up to 3 stone per floor.</p><table><tbody><tr><th>DR</th><td>2</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+6 Strength</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Stone Sense</li></ul><p><strong>Benefits</strong></p><ul><li>Stone Flight: you can fly up to 3 minutes per scene.</li><li>Darkvision.</li><li>Stone Organs: immunity to Poison and all diseases.</li><li>Castle Guardian: once per floor, choose a building (or a 100 ft by 100 ft area) as your castle. Inside it you have Advantage on all skills.</li></ul><p><strong>Detriments</strong></p><ul><li>-2 Intelligence.</li><li>Light Aversion: Disadvantage on skills in direct sunlight.</li></ul><hr><p><em>Source: Hedgemage. From <a href="https://pointmongo.com/browse/races/gargoyle">Point Mongo</a>.</em></p>'
+  size: ''
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 512
+    category: races
+    slug: gargoyle
+    url: https://pointmongo.com/browse/races/gargoyle
+    source: Hedgemage
+    tags:
+      - race
+      - races
+    updatedAt: '2026-11-11T20:08:41.6939796Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

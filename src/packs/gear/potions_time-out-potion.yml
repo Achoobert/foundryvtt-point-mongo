@@ -1,0 +1,22 @@
+_id: 88IC3HC53n61c2i5
+_key: '!items!88IC3HC53n61c2i5'
+name: Time Out Potion
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A potion that renders the target and their hotbar items noncorporeal for a set duration, with a small chance of summoning a hostile ghost.</em></p><p>If you can''t play nice with others, you can play with Jasper instead. Once used the potion immediately turns the target and items on their hotbar are noncorporeal. The target can still be seen and heard. The target can see and hear. The target cannot interact with their inventory. If this potion is consumed the effect lasts 2 minutes. If the effect is doused onto fur or skin it lasts 30 seconds. The target has a 15% chance of Jasper the deadly ghost spawning. Jasper will appear hostile, and will attempt to cast fear during the potions duration. Upon returning to the corporeal realm, a motherly "Hope you''ve learned you lesson." will spawn over the head of the target, and fade after a few seconds. The text will be narrated by Cascadia. Can be used offensively and defensively?</p><table><tbody><tr><th>Type</th><td>Buff</td></tr></tbody></table><hr><p><em>Source: Community submission — Superior Booker (Crawler #30420). From <a href="https://pointmongo.com/browse/potions/time-out-potion">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 345
+    category: potions
+    slug: time-out-potion
+    url: https://pointmongo.com/browse/potions/time-out-potion
+    source: 'Community submission — Superior Booker (Crawler #30420)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-22T05:38:20.3352774Z'
+    needsRestat: false
+    missingFields:
+      - effects

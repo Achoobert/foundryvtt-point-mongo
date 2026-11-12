@@ -1,0 +1,25 @@
+_id: 9GWLApJNb1zYT68X
+_key: '!journal!9GWLApJNb1zYT68X'
+name: Golden Derptriever
+folder: rEMOgPJ7utWySMpl
+pages:
+  - _id: gbvqCiiSS6QcuDl3
+    _key: '!journal.pages!9GWLApJNb1zYT68X.gbvqCiiSS6QcuDl3'
+    name: Golden Derptriever
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A rhino-sized, blindly loyal Golden Retriever mount with a friend-first temperament and a healing lick.</em></p><p>Pounce - requires 10 ft of movement before attack, 1d6+4 bludgeoning - STR or DEX save to resist being knocked prone</p><p>Golden Derptriever A rhino sized Golden Retriever. Stocky and strong, this blindly loyal creatures tongue lolls out the side of their mouth, and if you looked at it straight on, you''d swear it was cross eyed. They excel in water and on land, and have a "friend first, squish later" mentality when encountered in the wild. When fighting or playing a little too ruff, they have a strong bite and a powerful pounce.</p><p><strong>Too Hot To Trot :</strong> The Golden Derptriever has a little pep in its step, and receives no movement penalty when swimming through water, or moving through difficult terrain.</p><p><strong>Puppy Charm:</strong> When the Golden Derptriever is out of its crate and nearby, the owner/rider receives a 10% boost to Charisma.</p><p>New Friend! : The Derptriever clearly is missing a few brain cells, as such, it is incapable of being frightened.</p><p>Lights are on, but no one is home : This simple creature will never shine in a math class, or know the difference between cotton and polyester - but with a command, you can make its golden fur shine with a soft golden light, providing visibility in dark spaces up to 30ft.The Goodest Boy/Girl! - The Derptriever has a healing lick. Once per long rest, this good boy can heal light wounds with a lick 1d8+2 healing (this goes up by 1d8 at higher levels)</p><hr><p><em>Source: Community submission — GrumpyKobold (Crawler #25431). From <a href="https://pointmongo.com/browse/mounts/golden-derptriever">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 266
+    category: mounts
+    slug: golden-derptriever
+    url: https://pointmongo.com/browse/mounts/golden-derptriever
+    source: 'Community submission — GrumpyKobold (Crawler #25431)'
+    tags:
+      - dcc-ccs
+      - mounts
+    updatedAt: '2026-11-11T20:08:41.6744399Z'
+    needsRestat: false
+    missingFields: []

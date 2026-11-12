@@ -1,0 +1,25 @@
+_id: 7SkgEYS3zgIttvz0
+_key: '!journal!7SkgEYS3zgIttvz0'
+name: Town of Jessica Fates
+folder: cWQgUi6OmzYETooo
+pages:
+  - _id: rhY5F1Jvl4y1FmBK
+    _key: '!journal.pages!7SkgEYS3zgIttvz0.rhY5F1Jvl4y1FmBK'
+    name: Town of Jessica Fates
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A town of giants where everything — including the drums, drinks, and prices — is enormous.</em></p><p><strong>Population:</strong> Giants</p><p>A town of giants. Everything is huge. Beware being stepped on. They play massive drums and its very loud. Alcohol servings are....Massive. But prices are high because the portions are so big.</p><hr><p><em>Source: Community submission — Jessica Fates. From <a href="https://pointmongo.com/browse/neighborhoods/town-of-jessica-fates">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 439
+    category: neighborhoods
+    slug: town-of-jessica-fates
+    url: https://pointmongo.com/browse/neighborhoods/town-of-jessica-fates
+    source: Community submission — Jessica Fates
+    tags:
+      - dcc-ccs
+      - neighborhoods
+    updatedAt: '2026-08-31T17:12:37.1268823Z'
+    needsRestat: false
+    missingFields: []

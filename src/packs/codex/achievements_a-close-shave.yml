@@ -1,0 +1,23 @@
+_id: vsTOMc9PpBwI8u5T
+_key: '!journal!vsTOMc9PpBwI8u5T'
+name: A Close Shave
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: kGNhO3NE9nPIL7gA
+    _key: '!journal.pages!vsTOMc9PpBwI8u5T.kGNhO3NE9nPIL7gA'
+    name: A Close Shave
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you survive a boss battle with 20% or less of your health remaining.</em></p><p>NEW ACHIEVEMENT: A Close Shave</p><p>You''ve survived a boss battle with 20% or less of your health remaining. You should really work more on this ''not getting hit'' thing.</p><p>Reward: You''ve received a Bronze Survivor''s Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/a-close-shave">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 540
+    category: achievements
+    slug: a-close-shave
+    url: https://pointmongo.com/browse/achievements/a-close-shave
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.494769Z'
+    needsRestat: false
+    missingFields: []

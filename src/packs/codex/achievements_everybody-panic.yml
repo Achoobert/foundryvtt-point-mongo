@@ -1,0 +1,24 @@
+_id: HpvjxdxIP752KInX
+_key: '!journal!HpvjxdxIP752KInX'
+name: Everybody Panic
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 1rSJ66XzKECSLSgV
+    _key: '!journal.pages!HpvjxdxIP752KInX.1rSJ66XzKECSLSgV'
+    name: Everybody Panic
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you cause three or more party members to become involved in the same chaotic emergency.</em></p><p>You have successfully created a situation in which multiple crawlers are simultaneously yelling, running, screaming, or otherwise reconsidering their life choices.</p><p>Excellent teamwork.</p><p>Reward: Silver Chaos Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/everybody-panic">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 662
+    category: achievements
+    slug: everybody-panic
+    url: https://pointmongo.com/browse/achievements/everybody-panic
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0042609Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,44 @@
+_id: bbwAlss1zi7AAF8d
+_key: '!items!bbwAlss1zi7AAF8d'
+name: Laundry Day
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Strips a target''s armor off in a burst of suds and drops it at their feet.</em></p><p>Strips away all that filthy protective outer-layer in a glorious sudsy display of raw arcane power.</p><p>You attempt to forcibly strip armor and equipment from a target within range, causing it to instantly unequip and fall to the floor at their feet. The Crawler must succeed at an Opposed Spell Skill Check (10 + foe stat mod + F). If they are successful they may remove one minor piece of armor (up to one piece of armor or 1DR) at the Crawler’s discretion.</p><table><tbody><tr><th>Base damage</th><td>0</td></tr><tr><th>AI favor</th><td>1</td></tr><tr><th>Limitations</th><td>See above.</td></tr></tbody></table><hr><p><em>Source: Community submission — Ferninjitsu. From <a href="https://pointmongo.com/browse/spells/laundry-day">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 8
+  range: '30'
+  duration: Instant
+  cooldown: 1 Round
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses:
+    - Mage
+    - Cleric
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: Sc2IcLLzIWX1ScOs
+      rankThreshold: 5
+      description: <p>Can now target major armor pieces (breastplates/equivalent). Range now 60ft</p>
+    - id: JVVEQ4605ixeThix
+      rankThreshold: 10
+      description: <p>Complete strip effect (removes all worn armor at once including accessories). Range now within sight.</p>
+    - id: ZzOc9zUj2IYvx45E
+      rankThreshold: 15
+      description: <p>+2 Additional targets (AoE expansion). Can target up to 3 opponents within a 15ft radius of each other.</p>
+flags:
+  point-mongo:
+    id: 811
+    category: spells
+    slug: laundry-day
+    url: https://pointmongo.com/browse/spells/laundry-day
+    source: Community submission — Ferninjitsu
+    tags: []
+    updatedAt: '2026-09-28T03:33:05.775762Z'
+    needsRestat: false
+    missingFields: []

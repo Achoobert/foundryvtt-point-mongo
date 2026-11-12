@@ -1,0 +1,39 @@
+_id: 87OE5Njm4PtGyCmE
+_key: '!items!87OE5Njm4PtGyCmE'
+name: F.A.F.O.
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A short, chaotic offensive buff: double damage and +4 to hit, at the cost of your AC and saving throws.</em></p><p>You grin like an idiot, flip the System the bird, and loudly announce “Fuck Around and Find Out.” For the next three rounds you hit like a freight train on bath salts. Your attacks deal double damage, you gain a ridiculous +4 to hit, and any time you crit the System throws in bonus flair—extra bleeding, explosions, or just straight-up insulting the enemy in giant floating text. You move faster, you laugh louder, and everything feels like the best bar fight of your life. The catch? Your AC drops to absolute dogshit and you automatically fail any saving throw that isn’t “punch harder.” The Dungeon AI absolutely loves this one. “Oh look at this absolute legend! He chose F.A.F.O.! The crowd is going feral! Will our favorite moron finally Find Out, or is he about to paint the walls with someone else’s insides? Stay tuned, crawlers—this is premium content!” 35 MP and a healthy dose of poor life decisions. Perfect for when the safe play is boring and the stupid play feels right. Just don’t cry when the boss finally Finds Out right back.</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/spells/f-a-f-o">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 22
+    category: spells
+    slug: f-a-f-o
+    url: https://pointmongo.com/browse/spells/f-a-f-o
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - ability
+      - buff
+      - chaotic
+    updatedAt: '2026-10-02T23:02:05.1659375Z'
+    needsRestat: false
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

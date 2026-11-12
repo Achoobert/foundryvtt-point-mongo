@@ -1,0 +1,19 @@
+_id: 3cgw2lLaV1qdzVaX
+_key: '!items!3cgw2lLaV1qdzVaX'
+name: Ball-peen Hammer
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>A craftsman''s steel-headed hammer on a worn hickory handle, which turns out to do real damage when the nail is a mob.</em></p><p>Initially intended as a carpenters tool, this hefty steel-headed implement has a worn hickory handle.  A favourite of craftsmen everywhere, it certainly has the ability to do a significant amount of damage when wielded as a weapon.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Weapon</td></tr><tr><th>Tier</th><td>Bronze</td></tr><tr><th>Weapon skill</th><td>Improvised Weapons</td></tr><tr><th>Damage type</th><td>Bludgeoning</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>1d4+STR dmg</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/loot/ball-peen-hammer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 897
+    category: loot
+    slug: ball-peen-hammer
+    url: https://pointmongo.com/browse/loot/ball-peen-hammer
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-17T18:03:42.0233674Z'
+    needsRestat: false
+    missingFields: []

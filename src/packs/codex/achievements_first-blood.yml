@@ -1,0 +1,24 @@
+_id: WY0X3QPcyzFaE0SL
+_key: '!journal!WY0X3QPcyzFaE0SL'
+name: First Blood
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: kfCN4iaJ7Xp1n3oN
+    _key: '!journal.pages!WY0X3QPcyzFaE0SL.kfCN4iaJ7Xp1n3oN'
+    name: First Blood
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you kill your first Mob.</em></p><p>You''ve officially killed something that wasn''t human, wasn''t particularly threatening, and probably wasn''t expecting you to be here. Congratulations on discovering violence!</p><p>Reward: Bronze Adventurer Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/first-blood">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 580
+    category: achievements
+    slug: first-blood
+    url: https://pointmongo.com/browse/achievements/first-blood
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9381396Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,19 @@
+_id: IrzJCthOC4mRcWNa
+_key: '!items!IrzJCthOC4mRcWNa'
+name: Fate-Changing Knuckleduster
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>Gold knuckledusters with five ring slots, taking on the abilities of whatever rings are set into them.</em></p><p>This item used the Unarmed Combat Skill. These magical knuckledusters seem to be powerless at first, but it contains 5 Ring-shaped slots in each of the knuckles on it. Imbuing a Ring into the Knuckleduster will grant it that Ring''s ability, and increase the damage of the Knuckleduster.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Knuckleduster</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Weapon skill</th><td>Unarmed Combat</td></tr><tr><th>DR</th><td>0</td></tr><tr><th>Duration</th><td>n/a</td></tr><tr><th>Cooldown</th><td>n/a</td></tr><tr><th>Charges</th><td>n/a</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>You may slot up to 5 magical Rings into the Knuckleduster, giving the Knuckleduster those Ring''s abilities.</li><li>For each slot filled on the Knuckleduster, add an additional +1d4 to any damage these Knuckledusters do.</li><li>Removing any Ring from the Knuckleduster will destroy it.</li></ul><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/magical-weapons/fate-changing-knuckleduster">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 755
+    category: magical-weapons
+    slug: fate-changing-knuckleduster
+    url: https://pointmongo.com/browse/magical-weapons/fate-changing-knuckleduster
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.61283Z'
+    needsRestat: false
+    missingFields: []

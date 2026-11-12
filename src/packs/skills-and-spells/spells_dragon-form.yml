@@ -1,0 +1,39 @@
+_id: yBp8zT50WBwpGefB
+_key: '!items!yBp8zT50WBwpGefB'
+name: Dragon Form
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>An Enchantment spell that partially transforms the caster into a dragon, eventually granting a full draconic form and flight.</em></p><p><strong>School:</strong> Enchantment · <strong>AoE:</strong> Caster · <strong>Duration:</strong> 10 minutes + 1/level · <strong>Cost:</strong> 20 MP</p><p>Base: hands become draconic claws dealing 1d8 (unarmed skill). Rank 5: +1d8 damage; head becomes draconic, granting a bite attack (2d10 piercing + 1d6 fire). Rank 10: torso becomes draconic and wings sprout, granting a 45'' flying speed. Rank 15: full transformation into a dragon.</p><hr><p><em>Source: Community submission — Riley R (Crawler #10268). From <a href="https://pointmongo.com/browse/spells/dragon-form">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 395
+    category: spells
+    slug: dragon-form
+    url: https://pointmongo.com/browse/spells/dragon-form
+    source: 'Community submission — Riley R (Crawler #10268)'
+    tags:
+      - dcc-ccs
+      - spells
+      - enchantment
+    updatedAt: '2026-09-02T04:50:41.8697117Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

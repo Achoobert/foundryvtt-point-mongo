@@ -1,0 +1,25 @@
+_id: t6CAPqp0Pryw6zoc
+_key: '!journal!t6CAPqp0Pryw6zoc'
+name: The Lion Lounge
+folder: adVwT3zSO8jf77K5
+pages:
+  - _id: 6Di8NiG9UW8qjrvY
+    _key: '!journal.pages!t6CAPqp0Pryw6zoc.6Di8NiG9UW8qjrvY'
+    name: The Lion Lounge
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Modeled on the Heuther Hotel &amp; Brewery, full of fieldstone and natural oak accents.</em></p><p>Stolen from the Heuther Hotel &amp; Brewery, it has lots of fieldstone and natural oak accents. It''s like a home away from home.</p><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/saferooms/the-lion-lounge">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 531
+    category: saferooms
+    slug: the-lion-lounge
+    url: https://pointmongo.com/browse/saferooms/the-lion-lounge
+    source: Community submission — DeaDPaN79
+    tags:
+      - dcc-ccs
+      - saferooms
+    updatedAt: '2026-09-05T05:20:41.7810128Z'
+    needsRestat: false
+    missingFields: []

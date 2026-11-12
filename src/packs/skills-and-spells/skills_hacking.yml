@@ -1,0 +1,37 @@
+_id: yp09RpLcySNjbCD7
+_key: '!items!yp09RpLcySNjbCD7'
+name: Hacking
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>An Intelligence-based skill opposed by hostile robots and automatons, eventually granting influence over AI itself.</em></p><p>Hacking (Int), opposed by any robot/automaton you interact with that is not allied with you. As you get good enough (15+) you start getting better base results, like AI favor, because you''re able to start messing with the AI itself.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/skills/hacking">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 71
+    category: skills
+    slug: hacking
+    url: https://pointmongo.com/browse/skills/hacking
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - skill
+      - technology
+    updatedAt: '2026-08-31T17:12:29.7756669Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

@@ -1,0 +1,23 @@
+_id: TM2usG1HizgarHnC
+_key: '!journal!TM2usG1HizgarHnC'
+name: The Shakes
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: GX4oiZxEaj8KjQrv
+    _key: '!journal.pages!TM2usG1HizgarHnC.GX4oiZxEaj8KjQrv'
+    name: The Shakes
+    type: text
+    text:
+      format: 1
+      content: '<p><em>The comedown from one can too many: a penalty on every check and half your Move.</em></p><p>Effect: You have a −1 penalty on all Checks and your Move is halved. Stackable.</p><p>Duration: 30 minutes.</p><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26933. From <a href="https://pointmongo.com/browse/buffs-debuffs/the-shakes">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 869
+    category: buffs-debuffs
+    slug: the-shakes
+    url: https://pointmongo.com/browse/buffs-debuffs/the-shakes
+    source: 'Community submission — BlessedPsycho, Crawler #26933'
+    tags: []
+    updatedAt: '2026-10-09T01:13:55.1269864Z'
+    needsRestat: false
+    missingFields: []

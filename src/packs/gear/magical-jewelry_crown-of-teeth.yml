@@ -1,0 +1,23 @@
+_id: ZZiGg7H0mKpps1Gd
+_key: '!items!ZZiGg7H0mKpps1Gd'
+name: Crown of Teeth
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A crown that grants +1 Strength per unique-creature-type tooth mounted in it, up to 20 teeth.</em></p><p><strong>Type:</strong> Crown</p><p>Not pretty, but always good to have spares — now if only you could find a dentist. Grants +1 Strength per tooth in the crown, starting with a pair of teeth; only the first tooth from each creature type counts, up to 20 teeth. Exception: crawler teeth grant +5 each (max 1 per crawler) but only while that crawler remains alive.</p><table><tbody><tr><th>Type</th><td>Crown</td></tr></tbody></table><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/magical-jewelry/crown-of-teeth">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 201
+    category: magical-jewelry
+    slug: crown-of-teeth
+    url: https://pointmongo.com/browse/magical-jewelry/crown-of-teeth
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - magical-jewelry
+    updatedAt: '2026-09-03T16:29:38.8923555Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

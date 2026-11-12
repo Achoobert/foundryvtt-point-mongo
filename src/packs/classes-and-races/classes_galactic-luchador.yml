@@ -1,0 +1,24 @@
+_id: ASF5Ve7TKxwNScy4
+_key: '!items!ASF5Ve7TKxwNScy4'
+name: Galactic Luchador
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Barbarian/Bard class that treats every fight as a wrestling match, turning taunts and finishing moves into Popularity.</em></p><p>Before humanity learned to travel between the stars, it discovered the ancient art of convincing thousands of strangers that two extremely athletic people were genuinely furious with each other. They called it "Professional Wrestling." They created an art form involving masks, muscles, elaborate entrances, predetermined outcomes, and men named "The Undertaker" being paid significantly more than your average surgeon to throw another grown man off of a steel cage.</p><p>The Galactic Luchador has studied them all: the "Immortal" Hulk Hogan, the "Doctor of Thugonomics" John Cena, the "Ultimate Underdog" Rey Mysterio, and the "Most Electrifying Man in Sports Entertainment" The Rock. The Galactic Luchador does not just fight, they perform. Every battle is a match. Every enemy is an opponent. Every corridor is an entrance ramp. Every loot box is an opportunity for a dramatic celebration that will likely last too long.</p><p>Wrestling entertainment may have begun as a strange intersection of athletic competition and theatrical storytelling, but here in the World Dungeon, there is no reason it can''t become something much, much stupider.</p><p>STAT BONUSES:</p><p>+3 Strength, Constitution, and Charisma</p><p>SKILL BONUSES:</p><p>+3 Performance and Taunt</p><p>BENEFITS:</p><p>"Iron Man Match Specialist": +1 DR</p><p>"Ladies and gentlemen, my name is...": Gain Access to the "Manager" benefit</p><p>"Hulk up!" (Rage): Your melee attacks deal +1 damage for each Health Bar slot you have lost</p><p>"Promo Cut": Once per combat, after you kill/defeat an opponent, you can make an Unopposed Performance Skill Check. On an Amazing Success or better, gain +1 Popularity.</p><p>"It doesn''t matter what you think!": Your next attack on a successfully "Taunted" enemy deals an additional 1d8 + Strength modifier of Bludgeoning damage.</p><p>DETRIMENTS:</p><p>"All I need are these two hands... and maybe a steel chair": All your spell damage is halved</p><p>"The lights are on, the marquee is flashing, but nobody''s in the arena.": -2 Intelligence</p><p>"A sledgehammer to the ribs is just a solid Friday night. A pocket knife is a federal crime": Disadvantage when using "Edged Weapon" skills</p><table><tbody><tr><th>DR</th><td>1</td></tr><tr><th>Build points</th><td>35</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Strength</li><li>+3 Charisma</li><li>+3 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Taunt</li><li>+3 Performance</li></ul><p><strong>Benefits</strong></p><ul><li>+1 DR <em>(moderate)</em></li><li>Access to the Manager Benefit <em>(major)</em></li><li>"Hulk up!" (Rage) - Your melee attacks deal +1 damage for each Health Bar slot you have lost <em>(major)</em></li><li>"Promo Cut!" - Once per combat, after you kill/defeat an enemy, you can make an Unopposed Performance Skill Check. On an Amazing Success or better, gain +1 Popularity. <em>(major)</em></li><li>"It doesn''t matter what you think!" - Your next attack on a successfully "Taunted" enemy deals an additional 1d8 + Strength Bludgeoning damage. <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>-2 Intelligence <em>(1 pt)</em></li><li>All your spell damage is halved <em>(1 pt)</em></li><li>Disadvantage when using "Edged Weapon" skills <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Carlos "El Tigre Azteca" Gonzalez. From <a href="https://pointmongo.com/browse/classes/galactic-luchador">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Barbarian
+    - Bard
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 738
+    category: classes
+    slug: galactic-luchador
+    url: https://pointmongo.com/browse/classes/galactic-luchador
+    source: Community submission — Carlos "El Tigre Azteca" Gonzalez
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6108201Z'
+    needsRestat: false
+    missingFields: []

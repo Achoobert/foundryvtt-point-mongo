@@ -1,0 +1,44 @@
+_id: MJ1MidEYdIBReKqD
+_key: '!items!MJ1MidEYdIBReKqD'
+name: Punition
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>A Necrotic attack that grows stronger for every debuff already afflicting a Doomed target.</em></p><p>You punish your target for every curse, wound, poison and other indignity currently afflicting them.</p><p>Make a Punition Spell Attack against the target''s Evade.</p><p>On Success, deal 1d4 + Int Necrotic damage.</p><p>If the target has the Doomed Debuff, add one Rank damage die for each other Debuff currently affecting the target, to a maximum of three additional Rank damage dice.</p><table><tbody><tr><th>Base damage</th><td>1d4 + Int</td></tr></tbody></table><hr><p><em>Source: Community submission — TheSharp. From <a href="https://pointmongo.com/browse/spells/punition">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 8
+  range: 40 feet
+  duration: Instant
+  cooldown: Once per round
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses:
+    - Mage
+    - Rogue
+  baseDamage:
+    dice: 1d4
+    stat: int
+    damageType: necrotic
+  upgrades:
+    - id: 0p19rBJfBu0CxvC4
+      rankThreshold: 5
+      description: <p>+1d4 base damage.</p>
+    - id: kUtkXosZG4oxSOgY
+      rankThreshold: 10
+      description: <p>+1d4 base damage. Against a target suffering three or more Debuffs, Punition ignores 2 DR.</p>
+    - id: SRpSFIdn2M8gDtU2
+      rankThreshold: 15
+      description: <p>+1d4 base damage. Against a target suffering four or more Debuffs, Punition gains Armor-Piercing.</p>
+flags:
+  point-mongo:
+    id: 742
+    category: spells
+    slug: punition
+    url: https://pointmongo.com/browse/spells/punition
+    source: Community submission — TheSharp
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6589061Z'
+    needsRestat: false
+    missingFields: []

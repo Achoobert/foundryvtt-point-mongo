@@ -1,0 +1,24 @@
+_id: PzvZQjYYpUyCXbV3
+_key: '!journal!PzvZQjYYpUyCXbV3'
+name: Maps Are for Cowards
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: OxAvWlwhFSXnnJ9E
+    _key: '!journal.pages!PzvZQjYYpUyCXbV3.OxAvWlwhFSXnnJ9E'
+    name: Maps Are for Cowards
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you successfully navigate a meaningful portion of the dungeon without consulting the map or mini-map.</em></p><p>You navigated without relying on your map. Either you possess an incredible sense of direction, or you are spectacularly lost. The System AI has decided to reward your confidence.</p><p>Reward: Silver Lucky Bastard Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/maps-are-for-cowards">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 584
+    category: achievements
+    slug: maps-are-for-cowards
+    url: https://pointmongo.com/browse/achievements/maps-are-for-cowards
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.941312Z'
+    needsRestat: false
+    missingFields: []

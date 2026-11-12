@@ -1,0 +1,19 @@
+_id: IpilZ3VMixPmvhtL
+_key: '!items!IpilZ3VMixPmvhtL'
+name: Morning Star - Flail
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>A spiked iron head on eighteen inches of chain: it means business, and a bad swing can do business with you or an ally.</em></p><p>This particular iteration of the classic horseman''s fail features a single studded spiked head of cast iron suspended from the shaft by an 18" length of sturdy iron chain.  A heavy-duty swivel ring connects it to the handle which is crafted from a length of reinforced ash, wrapped in dark leather.  A steel pommel sits at the bottom to counterbalance the weight of the business end.</p><p>This weapon means business.  And business is good.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Weapon</td></tr><tr><th>Tier</th><td>Bronze</td></tr><tr><th>Weapon skill</th><td>Flail</td></tr><tr><th>Damage type</th><td>Bludgeoning</td></tr><tr><th>Limitations</th><td>On a Critical failure, the wielder could easy harm themselves or a nearby ally at the GM''s discretion.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>1d8+STR Bludgeoning dmg</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/loot/morning-star-flail">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 905
+    category: loot
+    slug: morning-star-flail
+    url: https://pointmongo.com/browse/loot/morning-star-flail
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-17T18:03:42.0307348Z'
+    needsRestat: false
+    missingFields: []

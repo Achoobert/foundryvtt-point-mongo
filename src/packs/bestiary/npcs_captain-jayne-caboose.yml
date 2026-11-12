@@ -1,0 +1,53 @@
+_id: R06vyDsq0bZhPIng
+_key: '!actors!R06vyDsq0bZhPIng'
+name: Captain Jayne Caboose
+type: mob
+img: icons/svg/mystery-man.svg
+folder: qiYCTsz5olch4hb3
+system:
+  biography: '<p><strong>Missing:</strong> Level, Size, stat scores, Move, Floor (sets DR), attacks</p><p><em>A town guard investigating a headless, organ-liquified corpse, unwittingly leading crawlers toward a cult summoning a mantis goddess.</em></p><p><strong>Level:</strong> 50 · <strong>Race:</strong> Human · <strong>Class:</strong> Guard</p><p>This guy is a member of the town guard who kinda looks like Adam Baldwin, decked out in Leather Plate armor and carrying a rifle-like compact compound crossbow (possibly a reward item). He''s physically imposing and clearly skilled, but clearly a little dumb, and willing to give up way too much information with light prodding.</p><p>He''s investigating the headless corpse of another guard, Lt. John Washington — clearly once a giant of a man, now missing his cranium and with his major internal organs liquified and sucked out through the neck hole. Also missing: his manhood. Close investigation finds partial runes carved into the neck, and reaching into the wound (achievement!) turns up a necklace with a holy-symbol pendant. Three previous, similarly mutilated bodies establish a clear pattern.</p><p>The necklace and runes lead to a cult, which leads to a summoning ritual, which leads to the city''s leader — who has partially summoned a mantis-like goddess (in her partial state she looks strangely like she''s made of papier-mâché). His goal: complete the summoning so she''ll mate with him, eat his head, and let his seed take over the floor. Caboose shows up periodically and will likely be the final victim the party has to rescue when the ritual nears completion.</p><p><strong>Rewards:</strong> Silver (or Gold if the party catches all the references and does something suitably silly) Quest Box, likely a ranged crossbow and matching armor for whoever earns it, probable ownership of the city, and a pile of silly, vulgar achievements.</p><table><tbody><tr><th>Elite</th><td>Yes (acts once per crawler)</td></tr></tbody></table><hr><p><em>Source: Community submission — Socks (Crawler #4381). From <a href="https://pointmongo.com/browse/npcs/captain-jayne-caboose">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: ''
+  creatureType: ''
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Captain Jayne Caboose
+  actorLink: false
+flags:
+  point-mongo:
+    id: 466
+    category: npcs
+    slug: captain-jayne-caboose
+    url: https://pointmongo.com/browse/npcs/captain-jayne-caboose
+    source: 'Community submission — Socks (Crawler #4381)'
+    tags:
+      - elite
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-02T04:50:44.7686652Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - Size
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

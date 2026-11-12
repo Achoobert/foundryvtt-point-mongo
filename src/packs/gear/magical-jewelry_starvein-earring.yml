@@ -1,0 +1,23 @@
+_id: UvvImQBAhxMQ5sr0
+_key: '!items!UvvImQBAhxMQ5sr0'
+name: Starvein Earring
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>An earring that stores charges from nearby spellcasting for temporary HP or bonus damage, and lets the wearer sense magic.</em></p><p><strong>Type:</strong> Earring</p><p>A thin black-silver chain ending in a crystal that pulses faintly like a heartbeat near magic. Mana Thread: stores a charge (max 3) whenever a creature within 30'' casts a spell; spend charges as a bonus action for temporary HP or increased spell damage. Arcane Sensitivity (passive): faintly hear active enchantments as whispers or tones, and magical traps feel physically cold.</p><table><tbody><tr><th>Type</th><td>Earring</td></tr></tbody></table><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/magical-jewelry/starvein-earring">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 209
+    category: magical-jewelry
+    slug: starvein-earring
+    url: https://pointmongo.com/browse/magical-jewelry/starvein-earring
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - magical-jewelry
+    updatedAt: '2026-09-03T16:29:38.8972759Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

@@ -1,0 +1,23 @@
+_id: PFOMu9F0DuZxX14a
+_key: '!items!PFOMu9F0DuZxX14a'
+name: Chainsaw Artist
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter class that turns the chainsaw from a lumber tool back into an instrument of brutal artistry, now with severed limbs.</em></p><p>Boy, we sure have come a long way from men with axes and band saws pitting muscle against the grain of wood to level trees.</p><p>Initially developed for pelviotomy during child birth, the chain link osteotome left a brutal history in the annals of gynecology before changing careers in the early 1900s. Leaving the operating theater for the open forest, the chainsaw has had something of a Renaissance over the past century, making itself a beloved staple of the arborist.</p><p>But cutting down trees is boring. It missed the brutal artistry of its days in medicine. The chainsaw whispered its dreams into many a beflannelled lumber-man before one finally listened, using the vicious, combustion fueled device to carve beautiful sculptures from wood. Thus the line of Chainsaw Artists began.</p><p>Now load up on bar lube, bring some spare chains, and go leave your mark on the dungeon you avant garde ape, you.</p><table><tbody><tr><th>Prerequisites</th><td>Level 5 in Chainsaws skill</td></tr><tr><th>Bonus box</th><td>Earth Hobby box</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 strength</li><li>+2 dexterity</li><li>+2 charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 chainsaws</li><li>+3 gear head</li><li>+3 sculpting</li></ul><p><strong>Benefits</strong></p><ul><li>regular maintenance benefit - obviates need for gas, oil, lube, and/or batteries to keep your chainsaw operating at its best <em>(minor)</em></li><li>Tune Up benefit - increases damage with chainsaws and bleed chance if you spend 10 minutes a day cleaning, sharpening, or otherwise maintaining chainsaw <em>(moderate)</em></li><li>hack job benefit - 10% chance of severing limbs off enemies with critical strikes. <em>(moderate)</em></li><li>Chainsaws can be raised to Rank 20 <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>25% damage reduction to all piercing and bludgeoning weapons <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/classes/chainsaw-artist">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter
+  prerequisites: Level 5 in Chainsaws skill
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1164
+    category: classes
+    slug: chainsaw-artist
+    url: https://pointmongo.com/browse/classes/chainsaw-artist
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1930826Z'
+    needsRestat: false
+    missingFields: []

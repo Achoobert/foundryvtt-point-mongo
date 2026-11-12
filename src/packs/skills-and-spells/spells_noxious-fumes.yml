@@ -1,0 +1,45 @@
+_id: kli6fm112LD3Foqr
+_key: '!items!kli6fm112LD3Foqr'
+name: Noxious Fumes
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>An Evocation gas-cloud spell that poisons enemies and expands with level.</em></p><p><strong>Level 1:</strong> Cast a cloud of noxious fumes at a target area. It spreads out in a 15 foot radius.</p><p><strong>Level 5:</strong> Enemy mobs within Noxious Fumes now are Poisoned for 2 Rounds.</p><p><strong>Level 10:</strong> The duration for Noxious Fumes and its Poison is increased to 4 Rounds.</p><p><strong>Level 15:</strong> Noxious Fumes adds the Woozy Debuff as long as an enemy stays inside of it.</p><p><strong>Level 20:</strong> Noxious Fumes can expand to up to 30 Feet.</p><table><tbody><tr><th>Base damage</th><td>1d8 + INT</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>None</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/noxious-fumes">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 15
+  range: 60 Feet
+  duration: 2 Rounds
+  cooldown: 4 Rounds
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses: []
+  baseDamage:
+    dice: 1d8
+    stat: int
+    damageType: poison
+  upgrades:
+    - id: g5vtTQNcWqd0TjOG
+      rankThreshold: 5
+      description: <p>Enemies within Noxious Fumes now gain the Poison debuff for 2 Rounds.</p>
+    - id: 95NyQ9VMMt7wNoMv
+      rankThreshold: 10
+      description: <p>The duration of Noxious Fumes and its Poison debuff is increased to 4 Rounds.</p>
+    - id: pAZbXB8ggAuX6LQc
+      rankThreshold: 15
+      description: <p>Noxious Fumes adds the Woozy debuff as long as enemies stay inside of it.</p>
+flags:
+  point-mongo:
+    id: 410
+    category: spells
+    slug: noxious-fumes
+    url: https://pointmongo.com/browse/spells/noxious-fumes
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+      - evocation
+    updatedAt: '2026-09-22T05:46:52.7283851Z'
+    needsRestat: true
+    missingFields: []

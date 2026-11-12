@@ -1,0 +1,24 @@
+_id: PtxCPoQCyhSMvsbQ
+_key: '!journal!PtxCPoQCyhSMvsbQ'
+name: Clean Sweep
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: ERMne66rHaFhn0z9
+    _key: '!journal.pages!PtxCPoQCyhSMvsbQ.ERMne66rHaFhn0z9'
+    name: Clean Sweep
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you fully clear a Neighborhood in a single push, without retreating to a saferoom at any point.</em></p><p>Top to bottom, wall to wall, you cleared the whole Neighborhood without once running back to rest. That''s either impressive stamina or a genuine lack of self-preservation instinct. We''re choosing to believe it''s the former. For your sake.</p><p>Reward: Silver Overachiever''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/clean-sweep">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 707
+    category: achievements
+    slug: clean-sweep
+    url: https://pointmongo.com/browse/achievements/clean-sweep
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0411943Z'
+    needsRestat: false
+    missingFields: []

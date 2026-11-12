@@ -1,0 +1,19 @@
+_id: YJErHBwQMikU06TJ
+_key: '!items!YJErHBwQMikU06TJ'
+name: Belt of Ridiculous Strength
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A wannabe superhero''s belt whose Strength bonus grows with every floor, so it''s a good find at any point in the crawl.</em></p><p>Invented for a wannabe superhero, this belt has a buff that will be valuable for the whole dungeon. Just as it says on the label, this thing is the melee fighter''s best friend. The power scales with the Floor, so this is a good find at any time.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Belt</td></tr><tr><th>Tier</th><td>Legendary</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+10 * Floor Strength</li></ul><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/magic-items/belt-of-ridiculous-strength">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1096
+    category: magic-items
+    slug: belt-of-ridiculous-strength
+    url: https://pointmongo.com/browse/magic-items/belt-of-ridiculous-strength
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-11-09T03:03:17.3710295Z'
+    needsRestat: false
+    missingFields: []

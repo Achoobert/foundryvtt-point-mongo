@@ -1,0 +1,25 @@
+_id: b55Fvxh29DuhhmCN
+_key: '!journal!b55Fvxh29DuhhmCN'
+name: Vikings vs Saxons
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: qMP9TyvrZZo5Siez
+    _key: '!journal.pages!b55Fvxh29DuhhmCN.qMP9TyvrZZo5Siez'
+    name: Vikings vs Saxons
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Crawlers pick a side in a war between raiding Vikings and defending Saxons, ending in a showdown with the opposing faction''s leader.</em></p><p>Crawlers must choose a side on this war between Vikings and Saxons. They can either help the Saxon Villages survive raids against the invaders, or join the Vikings in pillaging the towns. Choosing either side will likely put them against the opposing faction''s leader, like King Alfred and the Anglo-Saxon Fyrds.</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/floors/vikings-vs-saxons">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 454
+    category: floors
+    slug: vikings-vs-saxons
+    url: https://pointmongo.com/browse/floors/vikings-vs-saxons
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - floors
+    updatedAt: '2026-10-02T23:02:05.1659375Z'
+    needsRestat: false
+    missingFields: []

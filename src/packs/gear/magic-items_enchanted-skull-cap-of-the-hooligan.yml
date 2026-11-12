@@ -1,0 +1,19 @@
+_id: exYBYXcJDRAj4oZQ
+_key: '!items!exYBYXcJDRAj4oZQ'
+name: Enchanted Skull Cap of the Hooligan
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A tight leather skull cap for crawlers who settle things with their forehead. Who doesn''t love a good headbutt?</em></p><p>This tight fitting leather skull cap grants its wearer +4 Strength, and +1 to the Noggin Nocker Skill.  Who doesn''t love a good headbutt?</p><table><tbody><tr><th>Slot</th><td>Head</td></tr><tr><th>Type</th><td>Cap</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+4 Strength</li><li>+1 Noggin Nocker Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-skull-cap-of-the-hooligan">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 984
+    category: magic-items
+    slug: enchanted-skull-cap-of-the-hooligan
+    url: https://pointmongo.com/browse/magic-items/enchanted-skull-cap-of-the-hooligan
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-28T16:58:32.3891673Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,19 @@
+_id: EGu0bqpeBXcNGl5D
+_key: '!items!EGu0bqpeBXcNGl5D'
+name: Enchanted Patch of the Wolf
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A red diamond patch from a four-piece set, all Alpha energy, that sharpens Intelligence and Pathfinder.</em></p><p>This is a fleeting item.</p><p>This item is part of a set. (1 of 4)</p><p>This is a 2", red, diamond shaped patch with a gold border and the face of a wolf prominently stitched upon it.</p><p>Wolves are so cool. Especially the Alpha. The Alpha is the leader of the entire pack. He''s strong, smart, howls at the moon whenever he wants, and steals all the girl wolves from the stupid, dumb, weak Betas.</p><p>Aaaarrooooooo!!!</p><p>If all four patches are properly stitched into a diamond pattern onto an eligible piece of equipment, their enhancements double.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+4 Intelligence</li><li>+2 Pathfinder Skill</li></ul><hr><p><em>Source: Community submission — Mr King. From <a href="https://pointmongo.com/browse/magic-items/enchanted-patch-of-the-wolf">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1068
+    category: magic-items
+    slug: enchanted-patch-of-the-wolf
+    url: https://pointmongo.com/browse/magic-items/enchanted-patch-of-the-wolf
+    source: Community submission — Mr King
+    tags: []
+    updatedAt: '2026-11-06T19:05:36.7852373Z'
+    needsRestat: false
+    missingFields: []

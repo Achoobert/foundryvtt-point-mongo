@@ -1,0 +1,25 @@
+_id: 3G1hLbVkjPQdzsRN
+_key: '!items!3G1hLbVkjPQdzsRN'
+name: Terraformer
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A jewelry artifact that transmutes stone, air, and sand into other mundane materials stored inside it.</em></p><p><strong>Notes:</strong> See Description</p><p>Recreate the World Dungeon in your own image. What once was solid stone is now water. Turn the air in front of you into a wall of steel. Witness the sand beneath your enemy''s feet dissolve into flammable oil or a spiked pit. This power can only create static structures or objects (still affected by gravity. Ex: you can turn stone to water, but you cannot turn it into a jetstream without other external forces acting on it). All effects created by this artifact are treated as mundane. Storage: You must store different materials inside the artifact to use for terraforming. This storage is limited. These materials can be changed voluntarily by removing stored materials and putting new materials inside, and they are automatically replaced by the target of your terraforming. Warning: Stairwells between floors cannot be moved, destroyed, or created using this item. Terraforming cannot originate within or pass through Crawlers, mobs, or NPCs.</p><table><tbody><tr><th>Type</th><td>Jewelry</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/loot/terraformer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 141
+    category: loot
+    slug: terraformer
+    url: https://pointmongo.com/browse/loot/terraformer
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+      - jewelry
+    updatedAt: '2026-09-22T05:37:42.1298243Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

@@ -1,0 +1,23 @@
+_id: jwpWKZnNRNZ5gIzD
+_key: '!journal!jwpWKZnNRNZ5gIzD'
+name: 'Quest hook: The Starbucks Witch'
+folder: 9fHYnCPmH7s49g9Q
+pages:
+  - _id: 4RAOOQ4B7yhS8JPM
+    _key: '!journal.pages!jwpWKZnNRNZ5gIzD.4RAOOQ4B7yhS8JPM'
+    name: 'Quest hook: The Starbucks Witch'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A saferoom barista who brews you a permanent stat boost, then keeps your name until you''ve done her a favor.</em></p><p>Players make it to a safe room that is a starbucks.  There’s an attractive young human barista behind the counter. She asks if the players want any of her special brews.  If anyone orders something, the barista asks for a name for the order.  If the players give her a name she starts making their order.  As she is making them the potion (a +1 permanent stat boost, players choice) she starts cackling and as she hands it over she says “now that I own your name, your soul belongs to me!  The stairwell won’t let you enter until you have earned it back!!  I have but one small request for you to earn your name back, and then you will be free!  I hope the drink is delicious!”  The drink tastes horrible but it does grant the stat boost promised.</p><p>From here, give your players any quest you''d like.  a fetch quest, assassination, resolve a specific dungeon, complete a puzzle, etc.   I just think this could be an interesting way to keep players on their toes as saferooms are generally safe and they won''t be able to attack the quest giver to get out of it since she''s in a saferoom.  forces the quest (or at least forces them to get super creative to get the witch out of the saferoom) and feels very on brand for DCC.</p><p>warning:  your players might decide that the penalty is worth it for the stat boost so EVERYONE decides to give the witch their name... up to the DM to decide how to handle that.  either she only had enough ingredients for one potion so first come first serve or you''re fine with everyone being cursed and going on same quest or maybe you give each of them separate tasks... lot of variables there.</p><hr><p><em>Source: Community submission — Alex W. From <a href="https://pointmongo.com/browse/quests/quest-hook-the-starbucks-witch">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 841
+    category: quests
+    slug: quest-hook-the-starbucks-witch
+    url: https://pointmongo.com/browse/quests/quest-hook-the-starbucks-witch
+    source: Community submission — Alex W
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.0187527Z'
+    needsRestat: false
+    missingFields: []

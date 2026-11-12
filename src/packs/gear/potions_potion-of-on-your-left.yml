@@ -1,0 +1,22 @@
+_id: LC19J1c9W25NWaIk
+_key: '!items!LC19J1c9W25NWaIk'
+name: Potion of "On Your Left"
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A speed potion that lets the drinker loop past enemies leaving afterimages, followed by total exhaustion.</em></p><p><strong>Type:</strong> Buff (Speed)</p><p>For 30 seconds (3 rounds), the drinker moves at absurd speed, leaving afterimages and confusing enemies, with a chance to disorient on the first pass and a disembodied "On your left" voice on every pass after. Drawback: once it ends, the drinker gets the Exhausted debuff for 90 seconds.</p><table><tbody><tr><th>Type</th><td>Buff</td></tr></tbody></table><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/potions/potion-of-on-your-left">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 331
+    category: potions
+    slug: potion-of-on-your-left
+    url: https://pointmongo.com/browse/potions/potion-of-on-your-left
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-03T16:29:38.9479958Z'
+    needsRestat: false
+    missingFields:
+      - effects

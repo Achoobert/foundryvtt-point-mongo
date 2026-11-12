@@ -1,0 +1,24 @@
+_id: 0dNa6FOjqnzTeBL7
+_key: '!journal!0dNa6FOjqnzTeBL7'
+name: Unbreakable
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: kISDrIh3aGieQqfn
+    _key: '!journal.pages!0dNa6FOjqnzTeBL7.kISDrIh3aGieQqfn'
+    name: Unbreakable
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you survive three consecutive combat rounds under 10% Health without going down.</em></p><p>By all rights you should have been on the floor twice over. You just kept swinging. That''s either incredible willpower or a complete refusal to acknowledge basic math. Either way, the System AI respects the audacity.</p><p>Reward: Gold Flatline Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/unbreakable">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 714
+    category: achievements
+    slug: unbreakable
+    url: https://pointmongo.com/browse/achievements/unbreakable
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0469562Z'
+    needsRestat: false
+    missingFields: []

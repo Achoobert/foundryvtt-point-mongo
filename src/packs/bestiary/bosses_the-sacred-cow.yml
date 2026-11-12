@@ -1,0 +1,62 @@
+_id: 244SXtf3eO4p3Z2A
+_key: '!actors!244SXtf3eO4p3Z2A'
+name: The Sacred Cow
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><em>The leader of the Yakuza: a massive yak in saffron robes who fights with brass knuckles, martial strikes and tramples.</em></p><p>The leader of the Yakuza, the Sacred Cow is a massive yak in saffron robes. It wields a pair of brass knuckles: Thoughts and Prayers. It uses martial attacks and tramples to fight the crawlers and is usually accompanied by several members of the Yakuza. While the Sacred Cow is indeed a mighty fighter, its powers are enhanced by the Prayer Discs that the Yakuza DJs are spinning, filing the chamber with scratching chants. Stopping the discs from spinning will significantly reduce the Cow''s DR and damage (half STR and CON).</p><p>If the party can negotiate with the yak, they would be willing to sell Fermented Yak Milk.</p><table><tbody><tr><th>Floor</th><td>2</td></tr></tbody></table><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/bosses/the-sacred-cow">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 15
+  size: Large (5)
+  creatureType: Beast (Yak)
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 12
+    max: 12
+  dr: 2
+  stats:
+    str:
+      value: 20
+    dex:
+      value: 30
+    con:
+      value: 20
+    int:
+      value: 5
+    cha:
+      value: 10
+  attacks:
+    - name: Toughts
+      toHit: ''
+      damage: 2d6+F
+      damageType: psychic
+      range: 5ft
+      effect: ''
+    - name: Prayers
+      toHit: ''
+      damage: 2d6+F
+      damageType: holy
+      range: 5ft
+      effect: ''
+    - name: Trample
+      toHit: ''
+      damage: 2d6+F
+      damageType: bludgeoning
+      range: 30ft
+      effect: Attacks all targets in a single line, friend and foe alike.
+prototypeToken:
+  name: The Sacred Cow
+  actorLink: false
+flags:
+  point-mongo:
+    id: 534
+    category: bosses
+    slug: the-sacred-cow
+    url: https://pointmongo.com/browse/bosses/the-sacred-cow
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.5707247Z'
+    needsRestat: false
+    missingFields: []

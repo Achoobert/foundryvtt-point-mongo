@@ -1,0 +1,22 @@
+_id: yNKwqjY1x13CN5gt
+_key: '!items!yNKwqjY1x13CN5gt'
+name: Potion of Luck
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A 30-hour potion of unspecified luck — flip a coin every two hours to see if it''s good or bad.</em></p><p><strong>Type:</strong> Buff</p><p>Makes the drinker extremely lucky for up to 30 hours. Must flip a coin every 2 hours (or have it flipped for them) — heads means good luck, tails means bad luck. The type of luck is never specified.</p><table><tbody><tr><th>Type</th><td>Buff</td></tr></tbody></table><hr><p><em>Source: Community submission — John (Crawler #25497). From <a href="https://pointmongo.com/browse/potions/potion-of-luck">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 334
+    category: potions
+    slug: potion-of-luck
+    url: https://pointmongo.com/browse/potions/potion-of-luck
+    source: 'Community submission — John (Crawler #25497)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-03T16:29:38.9489584Z'
+    needsRestat: false
+    missingFields:
+      - effects

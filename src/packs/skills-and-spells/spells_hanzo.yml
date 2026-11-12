@@ -1,0 +1,43 @@
+_id: P3xx33HPHjn4ohN9
+_key: '!items!P3xx33HPHjn4ohN9'
+name: Hanzo
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> base damage</p><p><em>Get over here: an INT-opposed spell that yanks the target across the field to the caster''s side.</em></p><p>Make and Int Opposed Check. On hit, Target is teleported adjacent to the caster</p><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/spells/hanzo">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 10
+  range: 30ft
+  duration: Instant
+  cooldown: 1 min
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: eKGEiyGkiSDu0JCg
+      rankThreshold: 5
+      description: <p>+5ft range</p>
+    - id: TrFP94n2d3fiV9sM
+      rankThreshold: 10
+      description: <p>+5ft range and target is Stunned</p>
+    - id: 0yUmoJsE7y9FoIJE
+      rankThreshold: 15
+      description: <p>+5 ft range and it can affect Crawlers</p>
+flags:
+  point-mongo:
+    id: 1100
+    category: spells
+    slug: hanzo
+    url: https://pointmongo.com/browse/spells/hanzo
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-09T03:03:17.395502Z'
+    needsRestat: false
+    missingFields:
+      - base damage

@@ -1,0 +1,24 @@
+_id: GU9e52n573SrHnSm
+_key: '!journal!GU9e52n573SrHnSm'
+name: It Actually Worked
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: FS3t5rUJNTye1WBg
+    _key: '!journal.pages!GU9e52n573SrHnSm.FS3t5rUJNTye1WBg'
+    name: It Actually Worked
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you successfully execute a complicated plan involving at least three separate steps.</em></p><p>You successfully executed a complicated plan involving multiple steps, multiple crawlers, and an unreasonable amount of coordination.</p><p>The System AI had already prepared the failure animation.</p><p>Fortunately, you ruined it.</p><p>Reward: Gold Teamwork Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/it-actually-worked">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 660
+    category: achievements
+    slug: it-actually-worked
+    url: https://pointmongo.com/browse/achievements/it-actually-worked
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0026735Z'
+    needsRestat: false
+    missingFields: []

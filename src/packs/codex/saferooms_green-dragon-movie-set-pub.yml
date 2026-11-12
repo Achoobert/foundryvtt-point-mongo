@@ -1,0 +1,25 @@
+_id: 2PKW5Zxy3fjuBcEQ
+_key: '!journal!2PKW5Zxy3fjuBcEQ'
+name: Green Dragon Movie Set Pub
+folder: adVwT3zSO8jf77K5
+pages:
+  - _id: rwY8hxGheAgTRQNw
+    _key: '!journal.pages!2PKW5Zxy3fjuBcEQ.rwY8hxGheAgTRQNw'
+    name: Green Dragon Movie Set Pub
+    type: text
+    text:
+      format: 1
+      content: '<p><em>The Green Dragon Movie Set Pub from New Zealand, complete with a Hobbit-costumed server and Shire menu.</em></p><p>It''s quite literally the Green Dragon Movie Set Pub from New Zealand. It comes complete with someone dressed like a Hobbit to serve, and their menu. It''s considered the finest place in the Shire.</p><hr><p><em>Source: Community submission — Jessica Fates. From <a href="https://pointmongo.com/browse/saferooms/green-dragon-movie-set-pub">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 429
+    category: saferooms
+    slug: green-dragon-movie-set-pub
+    url: https://pointmongo.com/browse/saferooms/green-dragon-movie-set-pub
+    source: Community submission — Jessica Fates
+    tags:
+      - dcc-ccs
+      - saferooms
+    updatedAt: '2026-09-05T05:20:41.7423423Z'
+    needsRestat: false
+    missingFields: []

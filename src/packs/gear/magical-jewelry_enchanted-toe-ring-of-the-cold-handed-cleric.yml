@@ -1,0 +1,19 @@
+_id: agIdTYWSjCD78VUj
+_key: '!items!agIdTYWSjCD78VUj'
+name: Enchanted Toe Ring of The Cold Handed Cleric
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A warm golden toe ring that keeps ice damage away and casts Heal Others for free.</em></p><p>This golden toe ring is always warm to the touch.  You know what they say - "Cold hands, warm heart" but cold feet are even worse.   This magical toe ring bestows the following benefits when equipped: Immunity to Ice damage, Heal Others Spell at Rank 3 with a 6 hour cooldown.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Immunity to Ice damage</li><li>Heal Others Spell at Rank 3, no Mana cost, 6 hour cooldown</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-cold-handed-cleric">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1141
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-the-cold-handed-cleric
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-cold-handed-cleric
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.122204Z'
+    needsRestat: false
+    missingFields: []

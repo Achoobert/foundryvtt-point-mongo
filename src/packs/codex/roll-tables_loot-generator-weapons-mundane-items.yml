@@ -1,0 +1,23 @@
+_id: 1VJ0KwhDrmjREkUq
+_key: '!journal!1VJ0KwhDrmjREkUq'
+name: 'Loot Generator: Weapons & Mundane Items'
+folder: LgXPy7DgMLD2Fvug
+pages:
+  - _id: kQ2886717PkZ3Zum
+    _key: '!journal.pages!1VJ0KwhDrmjREkUq.kQ2886717PkZ3Zum'
+    name: 'Loot Generator: Weapons & Mundane Items'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Weapons and everyday objects a magic item can turn out to be, each with the slot and weapon skill it uses.</em></p><p>Used by the <a href="/loot">Loot Generator</a>, which picks one at random for every weapon or mundane item it rolls. Each row notes the gear slot and the published weapon skill it uses; the mundane ones swing on Improvised Weapons.</p><p>Have something to add? Press <strong>+ Suggest a row</strong> above the table, or the pencil beside a row to suggest a change. It comes to us for a quick look, then goes in with your name on it.</p><table><tbody><tr><th>unique</th><td>false</td></tr><tr><th>lootGenerator</th><td>weapon</td></tr><tr><th>category</th><td>magical-weapons</td></tr></tbody></table><hr><p><em>Source: Point Mongo Team. From <a href="https://pointmongo.com/browse/roll-tables/loot-generator-weapons-mundane-items">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 915
+    category: roll-tables
+    slug: loot-generator-weapons-mundane-items
+    url: https://pointmongo.com/browse/roll-tables/loot-generator-weapons-mundane-items
+    source: Point Mongo Team
+    tags: []
+    updatedAt: '2026-10-31T00:34:46.9050058Z'
+    needsRestat: false
+    missingFields: []

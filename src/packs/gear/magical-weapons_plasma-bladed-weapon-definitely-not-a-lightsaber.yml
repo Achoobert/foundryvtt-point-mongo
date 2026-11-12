@@ -1,0 +1,23 @@
+_id: yimfdsRfspk2S4wT
+_key: '!items!yimfdsRfspk2S4wT'
+name: Plasma Bladed Weapon (Definitely NOT a Lightsaber)
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A plasma blade that cauterizes wounds to prevent healing and can deflect ranged attacks — legally distinct from a certain other laser sword.</em></p><p>This plasma based blade in no way resembles the well known and likely heavily copyright protected Jedi(TM) weapon of yore that is owned in every way shape and form by the House of Mouse. While that particular corporate entity did not survive the world collapse, and the start of Dungeon Crawler World Earth, lawyers everywhere are a bitch, so lets just all agree that this weapon is completely different in every conceivable way. This weapon carves through all earth based material like hot butter, and does a base of 2d8 damage while also cauterizing the wound to prevent standard healing and regeneration. The blade can also be used to deflect incoming ranged attacks. When not it use the blade retracts into the handle for safe storage. It comes in a variety of shades of blade and handle configuration.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Plasma Blade</td></tr><tr><th>Weapon skill</th><td>Longsword</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/magical-weapons/plasma-bladed-weapon-definitely-not-a-lightsaber">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 217
+    category: magical-weapons
+    slug: plasma-bladed-weapon-definitely-not-a-lightsaber
+    url: https://pointmongo.com/browse/magical-weapons/plasma-bladed-weapon-definitely-not-a-lightsaber
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - magical-weapons
+      - sword
+    updatedAt: '2026-09-22T05:38:04.618917Z'
+    needsRestat: false
+    missingFields:
+      - effects

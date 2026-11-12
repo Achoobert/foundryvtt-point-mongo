@@ -1,0 +1,23 @@
+_id: 3f7mWHGKe21IovHl
+_key: '!journal!3f7mWHGKe21IovHl'
+name: The Brothers Drex, Artyholm and Holgaem
+folder: 3OtjwC4WK1EYi0uO
+pages:
+  - _id: 1Ro5Rs3Ta5rbJNsS
+    _key: '!journal.pages!3f7mWHGKe21IovHl.1Ro5Rs3Ta5rbJNsS'
+    name: The Brothers Drex, Artyholm and Holgaem
+    type: text
+    text:
+      format: 1
+      content: '<p><em>The duelling arms of two fallen titans, still locked in a brawl that spills into the dungeon if they are freed.</em></p><p>Once two mighty titans, the Brothers Drex were fickle and took to fighting each other over everything. All that’s left of them is their dueling arms, Artyholm’s left and Holgaem’s right. They’re locked in an ethereal struggle and freeing them from the Nothing will only cause their brawl to spill out into the dungeon. A good choice if you need a really big distraction.</p><p>Or if you just really hate that town.</p><hr><p><em>Source: Community submission — Moonshadow Dark. From <a href="https://pointmongo.com/browse/feral-gods/the-brothers-drex-artyholm-and-holgaem">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 545
+    category: feral-gods
+    slug: the-brothers-drex-artyholm-and-holgaem
+    url: https://pointmongo.com/browse/feral-gods/the-brothers-drex-artyholm-and-holgaem
+    source: Community submission — Moonshadow Dark
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.5959743Z'
+    needsRestat: false
+    missingFields: []

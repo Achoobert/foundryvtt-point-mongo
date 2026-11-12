@@ -1,0 +1,19 @@
+_id: Me7XzwSSheiZzHD0
+_key: '!items!Me7XzwSSheiZzHD0'
+name: Cal's Crowd Cowl
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>It let Cal Ghort vanish into a crowd, and it does the same for you for one round, provided someone else is also worth shooting at.</em></p><p>This shady Cowl, once belonging to the Crawler Cal Ghort in an older season of Dungeon Crawler Worlds, let him blend in with the masses, making it harder to find him. Didn''t do him very well against the city-leveling blast radius, however. Shame.</p><table><tbody><tr><th>Slot</th><td>Head</td></tr><tr><th>Type</th><td>Headwear</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>0</td></tr><tr><th>Duration</th><td>n/a</td></tr><tr><th>Cooldown</th><td>n/a</td></tr><tr><th>Charges</th><td>n/a</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>While wearing this Cowl, you will not be targeted on the first round of combat if you have allies in combat with you. This may not work on bosses.</li></ul><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/magic-items/cal-s-crowd-cowl">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 736
+    category: magic-items
+    slug: cal-s-crowd-cowl
+    url: https://pointmongo.com/browse/magic-items/cal-s-crowd-cowl
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-24T18:09:52.9468808Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,24 @@
+_id: 02u9xjFzzxG6c3c7
+_key: '!journal!02u9xjFzzxG6c3c7'
+name: That's Mine
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: E4IqzJmTbCqsLU6d
+    _key: '!journal.pages!02u9xjFzzxG6c3c7.E4IqzJmTbCqsLU6d'
+    name: That's Mine
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you recover an item that was stolen, lost, or taken from the crawler.</em></p><p>You recovered something that belonged to you.</p><p>The System AI applauds your dedication to personal property.</p><p>The System AI would like to remind you that this philosophy applies equally well to other people''s stuff.</p><p>Reward: Silver Looter Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/that-s-mine">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 650
+    category: achievements
+    slug: that-s-mine
+    url: https://pointmongo.com/browse/achievements/that-s-mine
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9947477Z'
+    needsRestat: false
+    missingFields: []

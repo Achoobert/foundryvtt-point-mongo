@@ -1,0 +1,19 @@
+_id: YQWUDQqi1dyjfkT9
+_key: '!items!YQWUDQqi1dyjfkT9'
+name: City Slicker
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A trench coat that keeps the cold and the wet off, and makes you that bit better at reading a street.</em></p><p>This is a stylish trench coat that keeps you warm and dry. It also gives a small bonus to the wearer''s Streetwise.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Jacket</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Streetwise</li><li>Immune to Cold Environmental Damage</li><li>Resistance to Water Attacks</li></ul><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/magic-items/city-slicker">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 835
+    category: magic-items
+    slug: city-slicker
+    url: https://pointmongo.com/browse/magic-items/city-slicker
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-09-30T02:18:46.2635057Z'
+    needsRestat: false
+    missingFields: []

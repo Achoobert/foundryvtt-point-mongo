@@ -1,0 +1,23 @@
+_id: wxoawCZOnl0nSvAD
+_key: '!items!wxoawCZOnl0nSvAD'
+name: Mgalekgolo
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A twelve-foot colony of worms walking as one: armored, regenerating, hard to rattle, and very afraid of fire.</em></p><p>EW! Why? wait really!? Gross dude.</p><p>If you choose this race you will essentially become a giant pile of worms. So you will technically become like a few thousand worm things called Lekgolo, you are a colony of them which works together as a fairly bipedal colony. Sometimes you can get as big as 12-13 feet tall.</p><p>I guess they do have a diverse history and culture or what ever. but also you will be worms. a worm that walks. But they come from a system with ring based homeworlds and stuff, they can be pretty resilient. if you get to big you can breed and create a second but that''s weird so don''t. Some in their home system call them Hunters.</p><table><tbody><tr><th>Size</th><td>Large (5)</td></tr><tr><th>DR</th><td>2</td></tr><tr><th>Prerequisites</th><td>Charisma cant be over 10</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Constitution</li><li>+4 Strength</li><li>+2 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Cockroach</li><li>+1 Catcher</li><li>+1 Endurance</li></ul><p><strong>Benefits</strong></p><ul><li>Limb Regeneration <em>(epic)</em></li><li>Resistance: Psychic <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Charisma capped at 10 <em>(3 pt)</em></li><li>Vulnerability to Fire <em>(3 pt)</em></li></ul><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/races/mgalekgolo">Point Mongo</a>.</em></p>'
+  size: Large (5)
+  prerequisites: Charisma cant be over 10
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 939
+    category: races
+    slug: mgalekgolo
+    url: https://pointmongo.com/browse/races/mgalekgolo
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6958331Z'
+    needsRestat: false
+    missingFields: []

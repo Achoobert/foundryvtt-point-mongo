@@ -1,0 +1,38 @@
+_id: P8qBUKsBBTB9voVX
+_key: '!items!P8qBUKsBBTB9voVX'
+name: Retaliation
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A reactive attack skill that mirrors incoming damage back at the attacker, scaling into healing and bonus damage against bosses.</em></p><p><strong>Type:</strong> Attack Skill · <strong>AoE:</strong> 1 crawler or mob · <strong>Duration:</strong> Instant · <strong>Cost:</strong> 0 MP · <strong>Limitation:</strong> usable only after taking damage</p><p>Lv1: strike back for damage equal to what was received. Lv5: killing the attacker with this heals 30% max HP. Lv10: deals 10% more damage than received. Lv15: a kill this way heals 70% max HP. Lv20: deals double damage against Bosses and Elites.</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/retaliation">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 418
+    category: spells
+    slug: retaliation
+    url: https://pointmongo.com/browse/spells/retaliation
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+    updatedAt: '2026-09-02T04:50:41.8844482Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

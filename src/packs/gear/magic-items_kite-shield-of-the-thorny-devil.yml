@@ -1,0 +1,19 @@
+_id: ldpJnwPDhtpBvf1H
+_key: '!items!ldpJnwPDhtpBvf1H'
+name: Kite Shield of the Thorny Devil
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Spiked demon-forged plate that blocks well and makes anyone who closes to melee regret the decision.</em></p><p>This spikey shield was made by the Thorny Devils of Sheol to protect themselves from horrors beyond your imagination. Now it doesn''t always work out for the reptilian demons, but here''s to having better luck for you!</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Shield</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>2</td></tr><tr><th>Duration</th><td>n/a</td></tr><tr><th>Cooldown</th><td>n/a</td></tr><tr><th>Charges</th><td>n/a</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 DR while this Shield is equipped</li><li>+2 Shield Block Skill</li><li>After you are attacked within melee range, the attacker takes 1d4 Piercing damage.</li></ul><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/magic-items/kite-shield-of-the-thorny-devil">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 733
+    category: magic-items
+    slug: kite-shield-of-the-thorny-devil
+    url: https://pointmongo.com/browse/magic-items/kite-shield-of-the-thorny-devil
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-24T18:09:52.9508187Z'
+    needsRestat: false
+    missingFields: []

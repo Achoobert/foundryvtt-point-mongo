@@ -1,0 +1,19 @@
+_id: vnNBElS0Kx2HHf1S
+_key: '!items!vnNBElS0Kx2HHf1S'
+name: Medical Table
+type: item
+img: icons/svg/item-bag.svg
+folder: eqtDlTphkRJGqZqI
+system:
+  description: '<p><em>A crafting table for the non-magical side of anatomy: surgery, butchering and autopsies.</em></p><p>Table used to do non magical means of dealing with bodies. Why do this when there is magic everywhere, but who knows.</p><p>Note: Can be used for Surgery, Butchering, autopsy, and much more you sick little freaks.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Crafting Table</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Can be used for Surgery, Butchering, autopsy, and much more</li></ul><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/crafting/medical-table">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 865
+    category: crafting
+    slug: medical-table
+    url: https://pointmongo.com/browse/crafting/medical-table
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-10-06T05:29:17.0803467Z'
+    needsRestat: false
+    missingFields: []

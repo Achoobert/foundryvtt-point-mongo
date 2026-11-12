@@ -1,0 +1,24 @@
+_id: Xhv0Zxx4McPWVspW
+_key: '!items!Xhv0Zxx4McPWVspW'
+name: Conference Loot Goblin
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Rogue and Merchant who gets by on contacts, borrowed access and free tote bags rather than violence.</em></p><p>CONFERENCE LOOT GOBLIN</p><p>Class Type: Merchant, Rogue</p><p>Earth Class: Yes</p><p>Prerequisite: Earth-based Race</p><p>You went to the conference because somebody else was paying.</p><p>You arrived with one lanyard.</p><p>You left with six tote bags, four notebooks, three charging cables, two reusable water bottles, an emergency poncho, a surprisingly decent screwdriver set, an inexplicably expensive bottle of whisky and the contact details for a bloke called Steve who apparently knows everyone.</p><p>You don''t remember collecting most of it.</p><p>You definitely don''t remember entering the competition that won you the tablet.</p><p>But that''s not important.</p><p>What is important is that while everyone else was listening to the keynote, you were learning the three skills that actually matter: knowing the right people, wearing the right badge and never walking past a table containing unattended promotional merchandise.</p><p>The Conference Loot Goblin is an Intelligence and Charisma-based support Class specialising in contacts, access and acquiring surprisingly useful rubbish.</p><p>They build networks of crawlers and NPCs, analyse and exploit credential systems, and possess an almost supernatural ability to find useful or valuable items amongst markets, vendors and piles of discarded tat.</p><p>They aren''t particularly good at killing things.</p><p>But they probably know somebody who is.</p><table><tbody><tr><th>Bonus box</th><td>Silver Earth Box with guaranteed Earth Hobby Skill Potion</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Charisma</li><li>+2 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Networking Skill</li><li>+3 Badge Engineering Skill</li><li>+3 Swag Scavenging Skill</li><li>+1 Good First Impression Skill</li><li>+1 Negotiation Skill</li><li>+1 Investigation Skill</li></ul><p><strong>Benefits</strong></p><ul><li>Let''s Connect: Once per Floor, you may send a Connection Request to one person who has been revealed through your Networking Skill, even if you have never personally met or fist-bumped them. The target must be connected to at least one of your existing Contacts. If the target can use the crawler HUD messaging system, they receive a Connection Request containing: Your name; Your Race; Your Class; The identity of your mutual Contact. The target may Accept or Decline the request. If they Accept, you establish a normal permanent HUD messaging link with them as though you had exchanged a fist bump. They also become one of your Contacts for the purposes of Networking. If they Decline, the use of Let''s Connect is still expended. Accepting a Connection Request does not make the target Friendly, improve their attitude towards you, require them to respond to messages or oblige them to provide assistance. If the target cannot use crawler HUD messaging but has another established remote communication method, the GM may allow Let''s Connect to send an equivalent request through that system. Let''s Connect does not magically grant communication abilities to creatures that don''t already possess them. And they''ve got their number. <em>(minor)</em></li></ul><hr><p><em>Source: Community submission — TheSharp. From <a href="https://pointmongo.com/browse/classes/conference-loot-goblin">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Rogue
+    - Merchant
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 822
+    category: classes
+    slug: conference-loot-goblin
+    url: https://pointmongo.com/browse/classes/conference-loot-goblin
+    source: Community submission — TheSharp
+    tags: []
+    updatedAt: '2026-09-28T03:33:05.8786989Z'
+    needsRestat: false
+    missingFields: []

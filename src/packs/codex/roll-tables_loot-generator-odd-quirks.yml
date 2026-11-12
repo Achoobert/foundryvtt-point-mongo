@@ -1,0 +1,23 @@
+_id: 1wqCziUzwocLD0mc
+_key: '!journal!1wqCziUzwocLD0mc'
+name: 'Loot Generator: Odd Quirks'
+folder: LgXPy7DgMLD2Fvug
+pages:
+  - _id: 9YhDMc5V9MeCacfT
+    _key: '!journal.pages!1wqCziUzwocLD0mc.9YhDMc5V9MeCacfT'
+    name: 'Loot Generator: Odd Quirks'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>One strange little detail an item has, with no effect on the rules.</em></p><p>Used by the <a href="/loot">Loot Generator</a> as a prompt for item descriptions: one odd detail with no effect on the rules. It hums near goblins, it is always slightly warm, it smells of popcorn. A few to start with; the rest is up to the community.</p><p>Have something to add? Press <strong>+ Suggest a row</strong> above the table, or the pencil beside a row to suggest a change. It comes to us for a quick look, then goes in with your name on it.</p><table><tbody><tr><th>unique</th><td>false</td></tr><tr><th>lootGenerator</th><td>quirks</td></tr></tbody></table><hr><p><em>Source: Point Mongo Team. From <a href="https://pointmongo.com/browse/roll-tables/loot-generator-odd-quirks">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 922
+    category: roll-tables
+    slug: loot-generator-odd-quirks
+    url: https://pointmongo.com/browse/roll-tables/loot-generator-odd-quirks
+    source: Point Mongo Team
+    tags: []
+    updatedAt: '2026-10-23T04:28:31.3532928Z'
+    needsRestat: false
+    missingFields: []

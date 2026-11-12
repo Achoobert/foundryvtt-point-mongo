@@ -1,0 +1,26 @@
+_id: MXeSiftozkgipYLi
+_key: '!items!MXeSiftozkgipYLi'
+name: Pirate Captain
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: "<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>Charisma-based Rogue class built around command, intimidation, and finding treasure.</em></p><p>A Charisma-based Rogue class</p><p>Chr +3 Dex +2 Str +1 \tCon -2</p><p>The Pirate Captain is the one who would rule the seas, built around command, cunning, intimidation, and the sacred maritime tradition of taking things that technically belong to someone else about five seconds ago. Pirate Captains fight dirty, excel at finding treasure, and have their tales told for centuries. Swagger and swashbuckling are their bread and butter.</p><p><strong>Class Benefits:</strong></p><p>Gain the Black Flag spell. (Aura that frightens nearby enemies)</p><p>Gain the Parley spell. (Using intimidation or persuasion, convince a ceasefire in combat with intelligent mobs for 1 Round. Doesn't work on enemies with higher Charisma)</p><p>Gain the Blood Price spell. (Mark a target, heal if that target dies by you or an ally)</p><p>Gain the Sea Legs skill. (Traverse moving terrain easier)</p><p>Gain the Mutiny Sense skill. (Get a sense if a Mob or Minion is going to betray you)</p><p>Gain +2 to Intimidation.</p><p>Gain access to the Desperado Club.</p><table><tbody><tr><th>DR</th><td>0</td></tr><tr><th>Rank 20</th><td>Sea Legs and Mutiny Sense can be raised to Rank 20</td></tr><tr><th>Bonus box</th><td>None</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Charisma (3 Points)</li><li>+3 Dexterity (3 Points)</li><li>+3 Strength (2 Points)</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Black Flag Aura and Blood Price Spell (4 Points)</li><li>+2 Sea Legs and Mutiny Sense Skill (4 Points)</li><li>+1 Intimidate Skill (2 Points)</li></ul><p><strong>Benefits</strong></p><ul><li>Gain access to the Desperado Club (1 Point)</li><li>Buried Treasure: Gain double Gold from Loot Boxes. (3 Points)</li><li>Jolly Roger: Roll with advantage on all Charisma checks to non-hostile NPCs. (4 Points)</li><li>Gain popularity whenever you open a Gold or greater Loot Box (2 Points)</li><li>Gain resistance to Drowning (2 Points)</li></ul><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href=\"https://pointmongo.com/browse/classes/pirate-captain\">Point Mongo</a>.</em></p>"
+  classTypes:
+    - Rogue
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 13
+    category: classes
+    slug: pirate-captain
+    url: https://pointmongo.com/browse/classes/pirate-captain
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - floor-class
+      - rogue
+    updatedAt: '2026-09-22T05:37:46.640371Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

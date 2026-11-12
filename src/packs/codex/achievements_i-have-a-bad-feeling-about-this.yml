@@ -1,0 +1,24 @@
+_id: h6NKZx6LM985TdQT
+_key: '!journal!h6NKZx6LM985TdQT'
+name: I Have a Bad Feeling About This
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: EFIJxCJZv7H8QBRQ
+    _key: '!journal.pages!h6NKZx6LM985TdQT.EFIJxCJZv7H8QBRQ'
+    name: I Have a Bad Feeling About This
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you identify an impending danger before it is obvious and prevent or mitigate it.</em></p><p>You recognized danger before it became obvious and acted on that instinct. Trust your gut, crawler. Your gut has apparently read more dungeon manuals than you have.</p><p>Reward: Silver Explorer''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/i-have-a-bad-feeling-about-this">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 604
+    category: achievements
+    slug: i-have-a-bad-feeling-about-this
+    url: https://pointmongo.com/browse/achievements/i-have-a-bad-feeling-about-this
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9570736Z'
+    needsRestat: false
+    missingFields: []

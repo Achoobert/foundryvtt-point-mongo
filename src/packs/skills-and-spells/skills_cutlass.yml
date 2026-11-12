@@ -1,0 +1,41 @@
+_id: OzbfgnD4QY4Xj2Ut
+_key: '!items!OzbfgnD4QY4Xj2Ut'
+name: Cutlass
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A STR melee skill for the pirate''s basket-hilted cutlass, which leaves a Blood Trail at Rank 15.</em></p><p>The favoured bladed weapon of pirates everywhere, the cutlass is a single-edged, curved, broad blade attached to a basket hilt.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d8+STR</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/skills/cutlass">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: 5ft
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: 1d8
+    stat: str
+    damageType: slashing
+  upgrades:
+    - id: fA3PIxD7GB6pKXgG
+      rankThreshold: 5
+      description: <p>+1d8 base dmg</p>
+    - id: nxWTllIpyjlGocfb
+      rankThreshold: 10
+      description: <p>+1d8 base dmg</p>
+    - id: I8A3AgEUbd3de0aP
+      rankThreshold: 15
+      description: <p>+1d8 base damage, and inflicts the Blood Trail Debuff on the target (CRB Pg 97)</p>
+flags:
+  point-mongo:
+    id: 993
+    category: skills
+    slug: cutlass
+    url: https://pointmongo.com/browse/skills/cutlass
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-29T04:19:43.9401702Z'
+    needsRestat: false
+    missingFields: []

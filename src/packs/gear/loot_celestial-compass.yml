@@ -1,0 +1,22 @@
+_id: HwUuptyVaw7Vt11H
+_key: '!items!HwUuptyVaw7Vt11H'
+name: Celestial Compass
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>A compass whose north always points to the nearest stairwell.</em></p><p>Type: Celestial Item</p><p>This unique Celestial Item is marked with an S at what would traditionally be the North point — S for Stairwell — this compass always points toward the nearest stairwell. Unfortunately it gives no indication of distance.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Item</td></tr><tr><th>Tier</th><td>Celestial</td></tr><tr><th>Charges</th><td>See Effects</td></tr><tr><th>Limitations</th><td>While direction to the nearest stairwell is known, distance is not.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+20 Cartography Skill - pertaining only to Dungeon Stairwells.  CRB Pg: 186 (In the case of this celestial item the Level 20 upgrade removes the requirement for a skill check, It grants automatic success)</li></ul><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/loot/celestial-compass">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 127
+    category: loot
+    slug: celestial-compass
+    url: https://pointmongo.com/browse/loot/celestial-compass
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-10-31T19:00:58.3256928Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,24 @@
+_id: SPCh7u3NjbRcF4qJ
+_key: '!items!SPCh7u3NjbRcF4qJ'
+name: Toque of Power
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A hat that doubles the damage of all axe-class weapons, melee or thrown.</em></p><p><strong>Type:</strong> Headwear</p><p>Doubles the damage of all axe-class weapons, including melee and thrown.</p><table><tbody><tr><th>Type</th><td>Headwear</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/toque-of-power">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 196
+    category: magic-items
+    slug: toque-of-power
+    url: https://pointmongo.com/browse/magic-items/toque-of-power
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+      - headwear
+    updatedAt: '2026-09-03T16:29:38.8700728Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

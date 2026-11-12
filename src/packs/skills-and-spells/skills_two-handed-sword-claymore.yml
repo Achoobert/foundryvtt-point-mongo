@@ -1,0 +1,41 @@
+_id: sC4PvmSyeUTbsKQs
+_key: '!items!sC4PvmSyeUTbsKQs'
+name: Two-Handed Sword (Claymore)
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>It is a big sword. It takes two hands.</em></p><p>A favoured weapon of the medieval Scots, the Swiss, and Paladins everywhere - The two handed sword dominated the battlefields of Earth until the Longbow proved its supremacy at the Battle of Againcourt in 1415AD.   It''s a BIG sword.  It requires TWO Hands to wield.  Hence the name.  Fuck Off.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d10+Str</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/skills/two-handed-sword-claymore">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: Requires two hands to wield.
+  aiFavor: 0
+  baseDamage:
+    dice: 1d10
+    stat: str
+    damageType: slashing
+  upgrades:
+    - id: Pl6WuM2EGJJKmdjx
+      rankThreshold: 5
+      description: <p>+1d10 base damage</p>
+    - id: QItLMi4URTioWTgX
+      rankThreshold: 10
+      description: <p>+1d10 base damage</p>
+    - id: 6Kh61Zwa2wJ70sKl
+      rankThreshold: 15
+      description: <p>+1d10 base damage, and the (non Boss) target suffers the Staggered debuff.</p>
+flags:
+  point-mongo:
+    id: 808
+    category: skills
+    slug: two-handed-sword-claymore
+    url: https://pointmongo.com/browse/skills/two-handed-sword-claymore
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-09-24T03:11:39.3372386Z'
+    needsRestat: false
+    missingFields: []

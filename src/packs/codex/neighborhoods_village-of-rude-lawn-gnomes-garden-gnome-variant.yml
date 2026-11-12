@@ -1,0 +1,25 @@
+_id: oukQosdXPFexf4HO
+_key: '!journal!oukQosdXPFexf4HO'
+name: Village of Rude Lawn Gnomes (Garden Gnome Variant)
+folder: cWQgUi6OmzYETooo
+pages:
+  - _id: yOD1seUDqBAKLwZV
+    _key: '!journal.pages!oukQosdXPFexf4HO.yOD1seUDqBAKLwZV'
+    name: Village of Rude Lawn Gnomes (Garden Gnome Variant)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A second take on the rude-lawn-gnome village — same off-putting antics, this time from the Garden Gnome population.</em></p><p><strong>Population:</strong> Garden Gnomes</p><p>These ain''t your grandmas sweet innocent lawn gnomes holding pretty flowers. Everywhere you look, there is a lawn gnome doing something...a little off putting. There could be one pissing on a building, another fornicating on a balcony (or street). Maybe they are just disassembling the vehicle you just parked at the Saferoom. The strangest thing is they freeze in place when you look directly at them.</p><hr><p><em>Source: Community submission — Orion Kannan, Crawler #7729. From <a href="https://pointmongo.com/browse/neighborhoods/village-of-rude-lawn-gnomes-garden-gnome-variant">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 444
+    category: neighborhoods
+    slug: village-of-rude-lawn-gnomes-garden-gnome-variant
+    url: https://pointmongo.com/browse/neighborhoods/village-of-rude-lawn-gnomes-garden-gnome-variant
+    source: 'Community submission — Orion Kannan, Crawler #7729'
+    tags:
+      - dcc-ccs
+      - neighborhoods
+    updatedAt: '2026-08-31T17:12:37.1307436Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,24 @@
+_id: Fgb1ddeijDj8dvvt
+_key: '!journal!Fgb1ddeijDj8dvvt'
+name: Talking Is a Free Action
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: KwkIdRgUYvgNnQ05
+    _key: '!journal.pages!Fgb1ddeijDj8dvvt.KwkIdRgUYvgNnQ05'
+    name: Talking Is a Free Action
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you resolve a potentially violent encounter through conversation.</em></p><p>You successfully prevented violence by talking.</p><p>The System AI is stunned.</p><p>The System AI had already prepared the blood effects.</p><p>Reward: Gold Diplomat''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/talking-is-a-free-action">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 664
+    category: achievements
+    slug: talking-is-a-free-action
+    url: https://pointmongo.com/browse/achievements/talking-is-a-free-action
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0058548Z'
+    needsRestat: false
+    missingFields: []

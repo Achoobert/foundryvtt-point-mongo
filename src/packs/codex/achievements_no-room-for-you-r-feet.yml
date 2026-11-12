@@ -1,0 +1,23 @@
+_id: ccoSbiuhP3BqDazt
+_key: '!journal!ccoSbiuhP3BqDazt'
+name: No Room For You(r Feet)
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: KuJs4jRL2fjMsQ7C
+    _key: '!journal.pages!ccoSbiuhP3BqDazt.KuJs4jRL2fjMsQ7C'
+    name: No Room For You(r Feet)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you try to seduce the System AI by showing off your feet.</em></p><p>Trigger: Try to seduce the System AI by showing off your feet.</p><p>Description: I''m sorry, but I only have room for one person''s glorious feet in my life, and yours simply don''t compare! I applaud the attempt.</p><p>Reward: Bronze Lover''s Box, and my foot-mate being informed of this.</p><hr><p><em>Source: the Point Mongo community. From <a href="https://pointmongo.com/browse/achievements/no-room-for-you-r-feet">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 539
+    category: achievements
+    slug: no-room-for-you-r-feet
+    url: https://pointmongo.com/browse/achievements/no-room-for-you-r-feet
+    source: ''
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.5126242Z'
+    needsRestat: false
+    missingFields: []

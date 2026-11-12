@@ -1,0 +1,19 @@
+_id: I3tLokxM0uQx8DTg
+_key: '!items!I3tLokxM0uQx8DTg'
+name: Enchanted Leather Jacket of the Skid Row Dentist
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A studded, vine-embroidered biker jacket that takes as many upgrade patches and pins as you can fit on it.</em></p><p>A black leather motorcycle jacket, complete with silver-and-red studs, and blood-stained vine embroidery along the sleeves. Images of a gas mask and a gas tank are stitched into the lapels.</p><p>This item is a Patch Jacket. Upgrade Patches and Upgrade Pins can be affixed to it. Its ability to host as many upgrade patches and pins as you can fit makes this one of the best, most upgradeable protection items in the game.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Patch Jacket</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>DR</th><td>4</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+4 DR</li><li>Resistance to Poison attacks</li><li>+3 Strength</li><li>2 Charisma</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/magic-items/enchanted-leather-jacket-of-the-skid-row-dentist">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1000
+    category: magic-items
+    slug: enchanted-leather-jacket-of-the-skid-row-dentist
+    url: https://pointmongo.com/browse/magic-items/enchanted-leather-jacket-of-the-skid-row-dentist
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-10-29T04:19:44.0442984Z'
+    needsRestat: false
+    missingFields: []

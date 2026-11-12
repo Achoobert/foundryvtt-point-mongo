@@ -1,0 +1,37 @@
+_id: oagXeB97oRgBrbgU
+_key: '!items!oagXeB97oRgBrbgU'
+name: Boasting
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>An opposed Charisma check that annoys and provokes enemies into attacking you, scaling into self-inflicted damage and reality-bending brags.</em></p><p>Your ability to boast is impressive(ly annoying)! You never pass up a chance to brag about your exploits, and specifically annoy those around you with them. Make an opposed skill check with CHA + Skill Rank against a target creature. On a success they become annoyed with you and are much more likely to attack you.</p><ul><li>Rank 5: You can target any number of creatures in sight. Roll your check once and compare against each of their values.</li><li>Rank 10: If a creature taunted by this ability fails to harm you on their turn for whatever reason, they have a chance to damage themselves — if their attack roll would hit themself, they take damage from their own hit.</li><li>Rank 15: Your legendary boasting shifts reality — on a successful check, the Dungeon conforms to your boast. For example, you might brag about being the "Best in Dungeon" and suddenly find yourself tagged with a purple ribbon labeled "Best In Dungeon."</li></ul><hr><p><em>Source: Community submission — Riley R (Crawler #10268). From <a href="https://pointmongo.com/browse/skills/boasting">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 60
+    category: skills
+    slug: boasting
+    url: https://pointmongo.com/browse/skills/boasting
+    source: 'Community submission — Riley R (Crawler #10268)'
+    tags:
+      - skill
+      - social
+    updatedAt: '2026-08-31T17:12:29.7690355Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

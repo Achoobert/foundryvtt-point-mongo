@@ -1,0 +1,23 @@
+_id: Nm9muYIyJmnJdgO1
+_key: '!items!Nm9muYIyJmnJdgO1'
+name: Cephalopod-Man/ Woman
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A barnacled, claw-handed squid-person of the Star Spawn persuasion: strong, tough, at home underwater, and sworn to Cthulhu.</em></p><p>Are you a squid? Are you a kid? HA jokes on you, you unholy abomination YOUR barnacled ass ain''t no cartoon character. You''re a Cephalopod-person often refereed to as “Star Spawn of Cthulhu” or “Cthulhi” their skin has a sickly greenish to muddy tinge for a complexion and quite literal barnacles on their asses (The joke is literally on you, just try getting those parasitic bastards off). Hopefully you don''t mind having a claw for a hand cause one of your dainty mitts is now the best part of a seafood buffet served alongside a hot vat of butter. With a face full of suction cupped testicles. Though visually similar to Saccathians there are notable differences in anatomy and culture. In history* the Cephalopod-person has had a feared background as Sailors and privateers. Most notably know from Pirates of the Caribbean, and works by H.P. Lovecraft. They are often worshipers of Cthulhu, or Krakaren Prime (Not a real deity she does not listen to your prayers). They are ruthless on the high-sea''s and often found past out drunk at the closest tavern to the port.</p><p>*Made up bullshit from human fantasy, and Hollywood culture.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr><tr><th>Rank 20</th><td>No</td></tr><tr><th>Build points</th><td>29</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Strength</li><li>+3 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Swimming</li><li>+4 Claw attack skill</li><li>+3 Mind Tickle Spell</li></ul><p><strong>Benefits</strong></p><ul><li>A natural Claw Attack <em>(moderate)</em></li><li>Can breath underwater. <em>(moderate)</em></li><li>Dark vision. <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>-2 Charisma <em>(1 pt)</em></li><li>Needs to be submerged in water for at least an hour a day or suffer a constitution check against fatigue. <em>(2 pt)</em></li><li>Must worship Cthulhu. <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Zerin. From <a href="https://pointmongo.com/browse/races/cephalopod-man-woman">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 938
+    category: races
+    slug: cephalopod-man-woman
+    url: https://pointmongo.com/browse/races/cephalopod-man-woman
+    source: Community submission — Zerin
+    tags: []
+    updatedAt: '2026-10-23T19:20:32.189333Z'
+    needsRestat: false
+    missingFields: []

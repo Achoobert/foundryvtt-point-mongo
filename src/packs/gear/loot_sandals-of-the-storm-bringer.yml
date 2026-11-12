@@ -1,0 +1,23 @@
+_id: g85v3umVYwXsXyZq
+_key: '!items!g85v3umVYwXsXyZq'
+name: Sandals of the Storm Bringer
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>Winged Greek sandals that grant flight and a kit of storm magic: gusts, lightning and thunder every fight, plus a summoned Lightning Elemental or a chaining Level 20 Lightning Bolt once a day.</em></p><p>This is a unique item.  These winged laced sandals are ripped straight from Greek Mythology, with a significant upgrade. This fine set of footwear grants not only the ability of flight (Movement 24'' / round), but also confer a number of spell like abilities that give the user control and mastery over the elements of wind, and electricity.</p><p>Once per combat, the wearer can cast the following spells at 5th level:</p><p>Gust of Wind: (PM) Targets must make a successful evade check or take 2d4+INT bludgeoning damage.</p><p>Lightning Bolt: (CRB Pg 208)   Summons a bolt of lighting to strike a single target for 2d10+INT electric damage.</p><p>Thunderlash: (CRB Pg 212) This booming report causes 2d10+INT sonic dmg.</p><p>Once per 30 hour syndicate standard day the sandals can be used to Cast:</p><p>Caged Storm: Summon a Level 15 Lightning Elemental (PM) to fight for the Caster.  The summon lasts until destroyed.</p><p>Chain of the Elements: Casts a Level 20 Lighting Bolt Spell (CRB Pg 208) Creates a web of electricity that can effect any number of targets within 15'' of the previous target, chaining from target to target for 5d10+INT electric damage to each individual target.  (For the purposes of this spell, the RANK 20 upgrade negates the 1/2 damage imposed at Rank 15)</p><table><tbody><tr><th>Slot</th><td>Feet</td></tr><tr><th>Type</th><td>Footwear</td></tr><tr><th>Tier</th><td>Celestial</td></tr><tr><th>Damage type</th><td>Electric</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Grants Unlimited Flight</li><li>Once per combat: Level 5: Gust of Wind Spell: 2d4+INT Force dmg</li><li>Once per combat: level 5: Lightning Bolt Spell: 2d10+INT electric dmg</li><li>Once per combat: level 5: Thunderlash Spell: 2d10+INT force dmg</li><li>Once per day: Summon Level 15 Lightning Elemental</li><li>Once per day: Level 20: Lighting Bolt Spell: 5d10+Int electric damage - able to chain to any target within 15'' of previous target.  Rank 20 removes the 1/2 damage from Rank 15.</li></ul><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/loot/sandals-of-the-storm-bringer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 135
+    category: loot
+    slug: sandals-of-the-storm-bringer
+    url: https://pointmongo.com/browse/loot/sandals-of-the-storm-bringer
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+      - footwear
+    updatedAt: '2026-11-09T03:03:17.3876929Z'
+    needsRestat: false
+    missingFields: []

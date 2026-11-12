@@ -1,0 +1,23 @@
+_id: TC8pqTmGGGqfQFT4
+_key: '!journal!TC8pqTmGGGqfQFT4'
+name: The Bronze Tangle
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: Hwp4Yp9GPG1Vxbqd
+    _key: '!journal.pages!TC8pqTmGGGqfQFT4.Hwp4Yp9GPG1Vxbqd'
+    name: The Bronze Tangle
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A full-floor train puzzle: six rainbow lines spell out BORANT, and the only way out is the line nobody can find.</em></p><p>The RPG source books completely ignored the iron tangle puzzle and expect it to just work out like it did in the novels... well that''s BS!  There''s a full floor puzzle to solve here!  Let''s get to it!</p><p>First, we want it to be solvable, pretty obscure but at the same time able to come together at the end.  The novel''s puzzle was EXTREMELY obscure and impossible to solve without tons and tons of explosives.  Our puzzle will be easier than that because we actually want players to make it through. I give you:</p><p>The Bronze Tangle:</p><p>Each rail line is a different color of the rainbow (color names are weird variants of each color, but not made up words.  players can hopefully use the colors as a clue).  Each rail, when viewed from above, makes an upper case letter.  The letters are all sitting on top of each other, everywhere where 2+ rail lines cross creates a station.  Players won’t be able to pick up on this unless they are asking questions about how the train is moving or which direction it is going.  The train paths spell out BORANT and the T is the only line that exits the tangle.  The players can figure this out by finding station maps or talking to NPCs.  Physical maps should be drawn and handed to your players.  the maps consist of just the station you are currently standing in and the lines that come into that station and the stations that those lines connect to... the maps DO NOT show the entire network.   This means that players will have to go to multiple stations to figure out how they all connect.  once they have the IRL physical maps they should be able to start spelling it out.</p><p>The Twist:</p><p>players can''t find the T route.  It is only accessible by riding the O train to the bottom station where it connects to the U train which is a named line (misery, rage, anger, etc).  the two stations at either end of the U connect to the two stations at the top of the T line.  riding the T line down the center get the crawlers out of the maze and lead to the stairwell.</p><p>Clues:</p><p>Each line is a different color of the rainbow (red, orange, yellow, green, blue, purple).  When put in the order of the rainbow, they spell out BORANT</p><p>Each station has an incomplete map of all lines.  Only showing the lines connected to it up to the next station… players have to travel to many/ most of the stations to piece together the full maps.</p><p>They keep hearing references to the indigo line (the T line) but none of the stations match with the T line except one of the two named lines.</p><p>The bottom of the T leads to the stairwell.  It is very possible that they solve this early but then they can figure out what to do with the rest of their time.</p><p>Final clue, “if you want to descend to the next floor, you need OUT”.  There is no U in BORANT, but one of the named nightmare lines is in the shape of a U and can only be reached by riding the O line to the bottom station. So players will need to ride O to U to T and then T to the bottom station.</p><hr><p><em>Source: Community submission — Alex W. From <a href="https://pointmongo.com/browse/floors/the-bronze-tangle">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 842
+    category: floors
+    slug: the-bronze-tangle
+    url: https://pointmongo.com/browse/floors/the-bronze-tangle
+    source: Community submission — Alex W
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.136049Z'
+    needsRestat: false
+    missingFields: []

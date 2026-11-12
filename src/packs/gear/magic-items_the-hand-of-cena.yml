@@ -1,0 +1,19 @@
+_id: CIq9xg9fRzSBssnP
+_key: '!items!CIq9xg9fRzSBssnP'
+name: The Hand of Cena
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A four-fingered hand granting four uses of invisibility, then fusing into a tattoo that sends enemies fleeing.</em></p><p>This is a human hand with four fingers up and a stretchy green wrist band.  When you wave it in front of your face, you become invisible... just like a normal monkey''s paw, things happen when you use up all of your wishes!</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Accessory</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Charges</th><td>4</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Every time the user waves the hand in front of their face a finger retracts and  it casts invisibility on the user which lasts until the user damages another character, or interacts with another character directly in a way that they would notice.  The user has -5 INT while invisible.</li><li>–When all four fingers are used it converts to a tattoo of the "Fist of Cena" which gives the user -2 damage to all attacks but their attacks that deal at least 1 HB of damage force all nearby enemies to make an intimidation check.  Those that fail will attempt to flee for a round.</li><li>– if a character uses one of the charges for invisibility, the paw becomes bound to them.  The other fingers will tick down 1 per day until all are down and then the hand becomes a tattoo.</li></ul><hr><p><em>Source: Community submission — Alex W. From <a href="https://pointmongo.com/browse/magic-items/the-hand-of-cena">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 785
+    category: magic-items
+    slug: the-hand-of-cena
+    url: https://pointmongo.com/browse/magic-items/the-hand-of-cena
+    source: Community submission — Alex W
+    tags: []
+    updatedAt: '2026-09-20T19:30:22.5167872Z'
+    needsRestat: false
+    missingFields: []

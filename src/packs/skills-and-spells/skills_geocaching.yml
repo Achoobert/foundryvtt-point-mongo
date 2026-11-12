@@ -1,0 +1,37 @@
+_id: T6KVwvDTSEuoT7xq
+_key: '!items!T6KVwvDTSEuoT7xq'
+name: Geocaching
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>A keen eye for clues, especially those related to buried treasure.</em></p><p>You have a keen eye, granting you a bonus on checks to find clues, especially those related to buried treasure.</p><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/skills/geocaching">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 69
+    category: skills
+    slug: geocaching
+    url: https://pointmongo.com/browse/skills/geocaching
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - skill
+      - exploration
+    updatedAt: '2026-08-31T17:12:29.7744141Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

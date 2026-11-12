@@ -1,0 +1,25 @@
+_id: AO7ctUt58P4anD7e
+_key: '!journal!AO7ctUt58P4anD7e'
+name: The Rust Belt (1984) Floor
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: rbQT5A04D8hcswte
+    _key: '!journal.pages!AO7ctUt58P4anD7e.rbQT5A04D8hcswte'
+    name: The Rust Belt (1984) Floor
+    type: text
+    text:
+      format: 1
+      content: '<p><em>An Orwell-inspired floor of malls, diners, and abandoned factories, where every mob speaks in passive-aggressive Midwest Nice Newspeak.</em></p><p>A nod to Orwell, this level has malls, supper clubs, diners, abandoned factories, dive bars, etc. Bosses lean on the authoritative characters from the book and mobs from the classes. You could do faction wars with the classes. Everyone speaks in a Midwest Nice Newspeak and is passive aggressive.</p><hr><p><em>Source: Community submission — "Rickles", Crawler #27220. From <a href="https://pointmongo.com/browse/floors/the-rust-belt-1984-floor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 450
+    category: floors
+    slug: the-rust-belt-1984-floor
+    url: https://pointmongo.com/browse/floors/the-rust-belt-1984-floor
+    source: 'Community submission — "Rickles", Crawler #27220'
+    tags:
+      - dcc-ccs
+      - floors
+    updatedAt: '2026-08-31T17:12:39.4325059Z'
+    needsRestat: false
+    missingFields: []

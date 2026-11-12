@@ -1,0 +1,41 @@
+_id: UEn6yoWRrX1O1Bcg
+_key: '!items!UEn6yoWRrX1O1Bcg'
+name: Flail
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A STR-based Melee Attack skill for flails and morning stars, 1d8+STR Bludgeoning that leaves the target Sore as Shit at Rank 15.</em></p><p>The morning star flail was traditional a horseman''s weapon, but they were later adopted by ground troops with devastating results.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d8+STR</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/skills/flail">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: 5'
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: 1d8
+    stat: str
+    damageType: bludgeoning
+  upgrades:
+    - id: mm6JlyWKxvIXvuFo
+      rankThreshold: 5
+      description: <p>+1d8 base damage</p>
+    - id: Z7TbvLJ8Q4fZRIVB
+      rankThreshold: 10
+      description: <p>+1d8 base damage</p>
+    - id: Z28v8xTxWmKLbqJk
+      rankThreshold: 15
+      description: <p>+1d8 base damage and the target gains the Sore as Shit Debuff.</p>
+flags:
+  point-mongo:
+    id: 913
+    category: skills
+    slug: flail
+    url: https://pointmongo.com/browse/skills/flail
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-17T18:03:42.1302643Z'
+    needsRestat: false
+    missingFields: []

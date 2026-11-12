@@ -1,0 +1,21 @@
+_id: UpUtJ2ea73cex8gS
+_key: '!items!UpUtJ2ea73cex8gS'
+name: The RE-RE-R-Revisor!
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>REmember the good ol'' days when you and your friends would REcall your fun little word quips and play a comedy team after each other? Now your jolly REvisions can REvive the fun you had back then with this magic item!</em></p><p>(The name MUST be said like a DJ scratching a record causing a stutter effect, and it''s intentionally RE. The description is also from the PoV of the AI/DM. And yes, this is a shameless ripoff/reskin of the Revisor from Dungeons and Daddies). Once used (literally, once, one time, but it was funny) by a group of fathers searching for the sons in a realm forgotten, this green-tinted accountant''s visor allows the modification of a spell in one (or more) of the following ways: 1) REplace a letter in the spell name (Sheol Fire becomes Shell Fire, setting all shells in the area on fire). 2) REmove a letter in the spell name (Astral Paw becomes Astral Pa, summoning an ethereal copy of the casters father). 3) REarrange a letter in the spell name (Split Personality becomes Spilt Personality, causing the caster to slowly lose any personality they had for the duration of the spell). 4) REinforce a spell name by adding a letter (War Crimes becomes Warm Crimes, allowing the caster to directly contribute to global warming. The caster must announce what the changed effect is and does and may use as many of these effects as they want!</p><p>Buuuuuut, there is a chance the spell can backfire at a rate of (# of effects) * (Caster Intelligence/100); after all, it takes some serious smarts to come up with this shit on the fly, in the warm, delicious heat of battle.</p><p>If a spell backfires in such a way, the original spell is cast instead, but the effects MIGHT be reversed.</p><p>You or a party member MAY become the target of an offensive spell or an enemy becomes the target of a beneficial spell.</p><p>The visor MIGHT also just blow up.</p><p>(I say MIGHT and MAY because I MIGHT find the attempt funny and MAY not have it happen.) Additionally, (Intelligence/10) times per day the caster can REphrase the spell (this may be done in addition to the first 4 options), changing the meaning of the spell in FUN NEW WAYS (at my discretion).</p><p>For example, "Bear Witness" will now summon a bear mob to act as your witness.</p><p>Mixing it with REmove a letter example, and you can instead get Astral PA summoning an ethereal Production Assistant.</p><p>REphrasing a spell has no way. REmember, intention matters, wink wink.</p><table><tbody><tr><th>Slot</th><td>Head</td></tr><tr><th>Type</th><td>Magic Item</td></tr></tbody></table><hr><p><em>Source: StyorofoamShotgun (Matt W.). From <a href="https://pointmongo.com/browse/magic-items/the-re-re-r-revisor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 493
+    category: magic-items
+    slug: the-re-re-r-revisor
+    url: https://pointmongo.com/browse/magic-items/the-re-re-r-revisor
+    source: StyorofoamShotgun (Matt W.)
+    tags:
+      - magic-items
+    updatedAt: '2026-09-02T00:47:04.9376427Z'
+    needsRestat: false
+    missingFields:
+      - effects

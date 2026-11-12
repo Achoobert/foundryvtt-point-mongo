@@ -1,0 +1,23 @@
+_id: YUpCNgOnYbl5PxBn
+_key: '!items!YUpCNgOnYbl5PxBn'
+name: Bombing Magician
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Mage/Rogue class that skips the workshop and wills bombs into existence. It probably won''t backfire horribly.</em></p><p>Everyone that works in the entertainment business has bombed at least once. It is part of the learning curve. Bombing Magicians eventually decided that sometimes, the solution is to bomb the place.</p><p>As arcane wielders, they learn to bypass all that pesky business of building bombs, actually willing them into existence by magic. It probably won’t backfire horribly.</p><table><tbody><tr><th>Prerequisites</th><td>Must have gotten the BOOM! Achievement.</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Arcane Skill</li><li>+2 Throwing</li><li>+3 Conjure WMD spell</li></ul><p><strong>Benefits</strong></p><ul><li>Gain access to an Arcanist table <em>(minor)</em></li><li>May use Arcane and magical materials to craft Explosives <em>(moderate)</em></li><li>May use Intelligence instead of Strength for the Throwing skill. <em>(moderate)</em></li><li>+1 to Explosives Handling, Goblin Explosives, Incendiary Device Handling and Bomb Surgeon Skills <em>(extreme)</em></li><li>Access to a Manager <em>(major)</em></li><li>Discount on materials used in building bombs <em>(minor)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/bombing-magician">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Mage / Rogue
+  prerequisites: Must have gotten the BOOM! Achievement.
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1158
+    category: classes
+    slug: bombing-magician
+    url: https://pointmongo.com/browse/classes/bombing-magician
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1874984Z'
+    needsRestat: false
+    missingFields: []

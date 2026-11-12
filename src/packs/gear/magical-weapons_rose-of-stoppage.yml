@@ -1,0 +1,24 @@
+_id: fgdMpxRHr7OvoJHV
+_key: '!items!fgdMpxRHr7OvoJHV'
+name: Rose of Stoppage
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>Crystalline rose-shaped throwing daggers that stun on hit, with a shorter stun even on a miss.</em></p><p>A crystalline dagger in the shape of a long stemmed rose. You throw a single rose into the fray. It lands with the sound of shattering glass echoing around you. A lovely red rose in full bloom with a strong scent. It''s stem is sharpened into a sharp point. These roses act as throwing daggers, dealing 1d6 piercing damage, as well as causing your target to be stunned for up to 30 seconds. On a miss, your target is stunned for only 5 seconds.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Throwing Dagger</td></tr><tr><th>Weapon skill</th><td>Shuriken</td></tr></tbody></table><hr><p><em>Source: Community submission — Miles L (Crawler #26933). From <a href="https://pointmongo.com/browse/magical-weapons/rose-of-stoppage">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 219
+    category: magical-weapons
+    slug: rose-of-stoppage
+    url: https://pointmongo.com/browse/magical-weapons/rose-of-stoppage
+    source: 'Community submission — Miles L (Crawler #26933)'
+    tags:
+      - dcc-ccs
+      - magical-weapons
+      - dagger
+      - thrown
+    updatedAt: '2026-11-11T20:08:41.6502994Z'
+    needsRestat: false
+    missingFields:
+      - effects

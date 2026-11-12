@@ -1,0 +1,19 @@
+_id: wC84JrtEALrvQD3I
+_key: '!items!wC84JrtEALrvQD3I'
+name: Infernal Boots of Minor Summoning
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Red boots tanned from Midge hide, which can call up a small swarm of the little demons to fight on your side once a day.</em></p><p>These red leather boots are crafted from the tanned hide of Sheols lowest form of demon.  The Midge.</p><p>These boots allow the wearer to summon a swarm of Midge to fight for them as allies (1d2+1/floor creatures are summoned).  This summoning can be used once per day.</p><p>Summoned Midges will act as allies, and obey basic commands.  Midge remain until banished (Killed) or 4 hours has elapsed.</p><p>The infernal nature of the material also grants a +3 Constitution Bonus.</p><p>See www.pointmongo.com for the Midge stat block.</p><table><tbody><tr><th>Slot</th><td>Feet</td></tr><tr><th>Type</th><td>Boots</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Duration</th><td>4 hours</td></tr><tr><th>Cooldown</th><td>1/ Day</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 CON</li><li>Summon 1d2+1/F Midge as allies under the command of the wearer.  Midges persist until banished (killed) or 4 hours has elapsed.</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/infernal-boots-of-minor-summoning">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 935
+    category: magic-items
+    slug: infernal-boots-of-minor-summoning
+    url: https://pointmongo.com/browse/magic-items/infernal-boots-of-minor-summoning
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-18T05:39:22.9624951Z'
+    needsRestat: false
+    missingFields: []

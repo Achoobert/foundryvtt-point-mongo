@@ -1,0 +1,22 @@
+_id: ItPXexrGkxbBZe6F
+_key: '!items!ItPXexrGkxbBZe6F'
+name: Potion of "As You Wish"
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A potion guaranteeing success on any action committed to for 10 seconds — with no way to change your mind mid-action.</em></p><p>A warm, golden vial that feels… agreeable. Effect: For 10 seconds, you cannot fail actions you commit to. No hesitation, no interruption—once you start, it finishes. Attacks land, dodges complete, interactions go through. Drawback: You also can’t cancel it once it''s started Bad idea? Too late.</p><table><tbody><tr><th>Type</th><td>Buff For</td></tr></tbody></table><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/potions/potion-of-as-you-wish">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 330
+    category: potions
+    slug: potion-of-as-you-wish
+    url: https://pointmongo.com/browse/potions/potion-of-as-you-wish
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-22T05:38:20.3361441Z'
+    needsRestat: false
+    missingFields:
+      - effects

@@ -1,0 +1,19 @@
+_id: cH3dfHWx3ARynwUM
+_key: '!items!cH3dfHWx3ARynwUM'
+name: Toe Ring of the Simian
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A toe ring that turns your feet into chimp hands, so you can climb, wear extra rings, and grow a tail the AI finds funny.</em></p><p>This toe ring when worn temporarily transforms your feet into chimpanzee like feet ... So pretty much your feet become hands. All effects of this ring last until it is taken off. Allows the following benefits:</p><p>+2 Dexterity, +3 Climbing Skill, The Ambidextrous Benefit.</p><p>Ambidextrous: You may equip normal rings as if they were toe rings upon your ... "Feet". Your new ... "Feet" also act the same as hands.</p><p>You also grow a tail...I know chimpanzees don''t have tails but it amuses me...fuck you.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Dexterity</li><li>+3 Climbing Skill</li><li>Ambidextrous Benefit</li></ul><hr><p><em>Source: the Point Mongo community. From <a href="https://pointmongo.com/browse/magical-jewelry/toe-ring-of-the-simian">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1146
+    category: magical-jewelry
+    slug: toe-ring-of-the-simian
+    url: https://pointmongo.com/browse/magical-jewelry/toe-ring-of-the-simian
+    source: ''
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1270784Z'
+    needsRestat: false
+    missingFields: []

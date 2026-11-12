@@ -1,0 +1,24 @@
+_id: ekvjHaKKigTkrU57
+_key: '!items!ekvjHaKKigTkrU57'
+name: Monster Chef
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Rogue and Arcanist set on finding out what everything tastes like, then cooking it into something useful.</em></p><p>You''ve become obsessed with finding out what all these new things taste like. are they Monsters or are they People?</p><p>Classtype: Rogue, Arcanist</p><p>6    "+3 Dexterity and Intelligence"</p><p>4    "+2 Constitution"</p><p>2    "+1 Dagger"</p><p>2    Dagger, skill can be raised to 20</p><p>6    "+1 Cooking, Iron Stomach, Gralloching,</p><p>8    "+1 Fire Fingers, Torch, Natures Breath, Magical Stove,</p><p>6    You can use unusual Monster parts to create Consumable Magic items replacing a stove with limited functionality of an Alchemy table or Arcanist table. Not all Monsters give good effects. (Still need to use infuse skill or alchemy skill with the provided ingredients)</p><p>-2    Limited to short blade weaponry (Daggers)</p><p>-2    due to you eating and cooking monster parts you have disadvantage in all Social situations</p><table><tbody><tr><th>Rank 20</th><td>Dagger</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Dexterity</li><li>+3 Intelligence</li><li>+2 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Dagger</li><li>+1 Cooking</li><li>+1 Iron Stomach</li><li>+1 Gralloching</li><li>+1 Fire Fingers</li><li>+1 Torch</li><li>+1 Natures breath</li><li>+1 Magical Stove</li></ul><p><strong>Benefits</strong></p><ul><li>You can use unusual Monster parts to create Consumable Magic items replacing a stove with limited functionality of an Alchemy table or Arcanist table. Not all Monsters give good effects. (Still need to use infuse skill or alchemy skill with the provided ingredients) <em>(epic)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Limited to short blade weaponry (Daggers) <em>(2 pt)</em></li><li>due to you eating and cooking monster parts you have disadvantage in all Social situations <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/classes/monster-chef">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Arcanist
+    - Rogue
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 827
+    category: classes
+    slug: monster-chef
+    url: https://pointmongo.com/browse/classes/monster-chef
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6114423Z'
+    needsRestat: false
+    missingFields: []

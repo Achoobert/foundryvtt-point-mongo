@@ -1,0 +1,19 @@
+_id: nrjqf3YXYBIKUxdE
+_key: '!items!nrjqf3YXYBIKUxdE'
+name: Enchanted Iron Toe Ring of the Engineer
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>An iron toe ring forged from a failed bridge, a reminder to triple-check your math, that boosts Intelligence and Engineering.</em></p><p>This iron toe ring is said to be shaped from the fallen structure of a failed bridge, as a reminder to future engineers to always triple check their math.  When equipped it bestows the following benefits: +3 Intelligence, +3 Engineering Skill.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 Intelligence</li><li>+3 Engineering Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-iron-toe-ring-of-the-engineer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1139
+    category: magical-jewelry
+    slug: enchanted-iron-toe-ring-of-the-engineer
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-iron-toe-ring-of-the-engineer
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1203005Z'
+    needsRestat: false
+    missingFields: []

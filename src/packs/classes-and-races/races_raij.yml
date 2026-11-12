@@ -1,0 +1,23 @@
+_id: YbXGD2h0NmlextJ6
+_key: '!items!YbXGD2h0NmlextJ6'
+name: Raijū
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A thunder-beast lineage open only to cats: fast, bright, and contractually obliged to worship Taranis.</em></p><p>“Quick as lightning with a cry like thunder, Raijū are the blue-white companions and servants of the god Raijin in your earth mythology. That nerds not down here so they’re stuck with Taranis! If you ever run into the guy he’ll claim to have shaped you out of a thunderstorm himself.”</p><table><tbody><tr><th>Size</th><td>Small (2); Animal</td></tr><tr><th>Prerequisites</th><td>This limited Race is only available to crawlers who are already a Cat, or feline adjacent</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Dexterity</li><li>+4 Intelligence</li><li>2 Strength</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Cat like Reflexes</li><li>+2 Holy Aura</li><li>+2 Lightning Bolt</li><li>+2 Thunderlash</li></ul><p><strong>Benefits</strong></p><ul><li>Resistance to Electrical based attacks <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Must Worship Taranis <em>(1 pt)</em></li><li>+1 Mana cost to non-Storm Spells (Lightning, sound). Your "Maker" isn''t a fan of the other elements. <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Loop. From <a href="https://pointmongo.com/browse/races/raij">Point Mongo</a>.</em></p>'
+  size: Small (2); Animal
+  prerequisites: This limited Race is only available to crawlers who are already a Cat, or feline adjacent
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 840
+    category: races
+    slug: raij
+    url: https://pointmongo.com/browse/races/raij
+    source: Community submission — Loop
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6967252Z'
+    needsRestat: false
+    missingFields: []

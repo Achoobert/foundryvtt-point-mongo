@@ -1,0 +1,19 @@
+_id: 1aR3JZCmGLaWu80y
+_key: '!items!1aR3JZCmGLaWu80y'
+name: Enchanted Toe Ring of the Best Foot Forward
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A smiling toe ring that toughens you up, adds a little charm and makes a much better first impression.</em></p><p>You put your right foot in, you put your right foot out, you put your right foot in, and you shake it all about!</p><p>A golden band that features a large smile across the top. Grants the wearer the following benefits:</p><p>• +5% CON</p><p>• +5% CHA</p><p>• +3 ranks to the Good First Impression Skill</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Platinum</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5% CON</li><li>+5% CHA</li><li>+3 ranks to the Good First Impression Skill</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-best-foot-forward">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1127
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-the-best-foot-forward
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-best-foot-forward
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-11-10T06:59:48.7109742Z'
+    needsRestat: false
+    missingFields: []

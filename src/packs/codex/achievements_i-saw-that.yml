@@ -1,0 +1,24 @@
+_id: DakG66j7Yk2g3K9A
+_key: '!journal!DakG66j7Yk2g3K9A'
+name: I Saw That
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: aY81DgRH3CTznWyE
+    _key: '!journal.pages!DakG66j7Yk2g3K9A.aY81DgRH3CTznWyE'
+    name: I Saw That
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you successfully identify a trap before anyone triggers it.</em></p><p>You noticed a trap before it had the opportunity to murder, maim, inconvenience, or embarrass you.</p><p>Congratulations! Your observational skills have officially exceeded the dungeon''s expectations.</p><p>Reward: Silver Trapfinder''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/i-saw-that">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 632
+    category: achievements
+    slug: i-saw-that
+    url: https://pointmongo.com/browse/achievements/i-saw-that
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9796966Z'
+    needsRestat: false
+    missingFields: []

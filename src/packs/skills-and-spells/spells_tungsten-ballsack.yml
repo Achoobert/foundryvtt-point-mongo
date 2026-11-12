@@ -1,0 +1,42 @@
+_id: zZxeEHNyrSzKy9wo
+_key: '!items!zZxeEHNyrSzKy9wo'
+name: Tungsten Ballsack
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Turns a male target''s anatomy into a hundred pounds of tungsten, pinning him in place, and worse if he fails badly.</em></p><p>The Target makes a STR save to avoid this effect. Failure means the target’s scrotum and testes turn into 100lbs (DC 10+F) of tungsten steel for one hour.</p><p>Once transmuted, the target makes another, immediate STR save or he is immobilized until he makes a successful save. If successful, then the target is at half movement and has only one hand to use.</p><p>If the target “Major Fails” or “Crit Fails” any of these saves then the scrotum is ripped off and the target takes 4D6 RIP (force) damage. There is no save for half for this damage (IYKYK).</p><table><tbody><tr><th>Base damage</th><td>none</td></tr><tr><th>Limitations</th><td>Female Mobs and Crawlers are immune to this spell</td></tr></tbody></table><hr><p><em>Source: Community submission — Riksheare. From <a href="https://pointmongo.com/browse/spells/tungsten-ballsack">Point Mongo</a>.</em></p>'
+  governingStat: str
+  manaCost: 15
+  range: 40 feet
+  duration: Instant
+  cooldown: 1 Hour
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: force
+  upgrades:
+    - id: 3xYxnt0ah61DuIc7
+      rankThreshold: 5
+      description: <p>Weight of the scrotum is now 200lbs (DC 12+F). Rip Damage is 4D8.</p>
+    - id: XXI8Gviu9n8UQh3p
+      rankThreshold: 10
+      description: <p>Weight of the Scrotum is 300lbs (DC17+F). Rip damage is 4D10.</p>
+    - id: QQeTkJthYSra4n8g
+      rankThreshold: 15
+      description: <p>Weight of the Scrotum is 400lbs (DC21+F). Rip damage is 4D12.</p>
+flags:
+  point-mongo:
+    id: 862
+    category: spells
+    slug: tungsten-ballsack
+    url: https://pointmongo.com/browse/spells/tungsten-ballsack
+    source: Community submission — Riksheare
+    tags: []
+    updatedAt: '2026-10-06T05:29:22.0534423Z'
+    needsRestat: false
+    missingFields: []

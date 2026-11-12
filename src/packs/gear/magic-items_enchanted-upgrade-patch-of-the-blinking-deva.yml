@@ -1,0 +1,19 @@
+_id: Cc7z2vZQN0tScoDf
+_key: '!items!Cc7z2vZQN0tScoDf'
+name: Enchanted Upgrade Patch of the Blinking Deva
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A fleeting patch of a kneeling angel that casts a free Puddle Jumper every eight hours and holds off Necrotic damage.</em></p><p>This is a fleeting item.  This medium embroidered upgrade patch depicts an kneeling ivory winged angelic figure with closed eyes on a dark blue background.   When properly affixed to an eligible garment this upgrade patch bestows the following: Puddle Jumper Spell at Rank 4, with an 8 hour cooldown.  +5% Constitution, and Resistance to Necrotic Damage.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Platinum</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Puddle Jumper Spell at Rank 4, no Mana cost, 8 hour cooldown</li><li>+5% Constitution</li><li>Resistance to Necrotic damage</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-upgrade-patch-of-the-blinking-deva">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1045
+    category: magic-items
+    slug: enchanted-upgrade-patch-of-the-blinking-deva
+    url: https://pointmongo.com/browse/magic-items/enchanted-upgrade-patch-of-the-blinking-deva
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-02T19:09:47.8837427Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,25 @@
+_id: 2HydjUlMl4apbFJv
+_key: '!journal!2HydjUlMl4apbFJv'
+name: The Crawler Memorial Project
+folder: hvyWwMcQCbDfRsP5
+pages:
+  - _id: WgmwxUYPGwphXkpG
+    _key: '!journal.pages!2HydjUlMl4apbFJv.WgmwxUYPGwphXkpG'
+    name: The Crawler Memorial Project
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A supposed non-profit sponsor collecting crawler stats for a sister trading-card company under the guise of memorializing them.</em></p><p>A non-profit corporation sponsoring as many crawlers as possible, top 10 downward. Publicly claims to memorialize as many crawlers as it can, but really harvests their stats and likeness to sell to a sister company producing a trading card game called Crawler Killer.</p><hr><p><em>Source: Community submission — JackWrekem (Crawler #36320). From <a href="https://pointmongo.com/browse/sponsors/the-crawler-memorial-project">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 357
+    category: sponsors
+    slug: the-crawler-memorial-project
+    url: https://pointmongo.com/browse/sponsors/the-crawler-memorial-project
+    source: 'Community submission — JackWrekem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - sponsors
+    updatedAt: '2026-09-02T04:50:41.8078635Z'
+    needsRestat: false
+    missingFields: []

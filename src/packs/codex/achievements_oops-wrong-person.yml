@@ -1,0 +1,24 @@
+_id: WUQYentu9G9Ddv9V
+_key: '!journal!WUQYentu9G9Ddv9V'
+name: Oops, Wrong Person
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: AOdoA405tBvChgAb
+    _key: '!journal.pages!WUQYentu9G9Ddv9V.AOdoA405tBvChgAb'
+    name: Oops, Wrong Person
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you mistake an NPC, Mob, or location for something else and survive the misunderstanding.</em></p><p>You completely misunderstood who or what you were dealing with.</p><p>Fortunately, you survived long enough to realize your mistake.</p><p>That''s basically education.</p><p>Reward: Bronze Survivor''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/oops-wrong-person">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 668
+    category: achievements
+    slug: oops-wrong-person
+    url: https://pointmongo.com/browse/achievements/oops-wrong-person
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0096871Z'
+    needsRestat: false
+    missingFields: []

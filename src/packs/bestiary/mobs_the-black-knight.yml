@@ -1,0 +1,53 @@
+_id: UQdyH2bxBgZ7OjFb
+_key: '!actors!UQdyH2bxBgZ7OjFb'
+name: The Black Knight
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><strong>Missing:</strong> Level, Size, stat scores, Move, Floor (sets DR), attacks</p><p><em>A Monty Python-style Black Knight who resurrects fully intact every 3 days unless the party keeps a dismembered piece of him with them.</em></p><p><strong>Level:</strong> 50 · <strong>Class:</strong> Hedge Knight</p><p>The party will face and defeat him easily early on, but he doesn''t stay down — after 3 days he resurrects on whatever floor the party is on and continues to hunt them until they figure out his true weakness. The Black Knight from Monty Python and the Holy Grail, but worse, since he comes back with all his appendages once more intact.</p><p>The real trick to defeating him for good: each party member needs to keep one of his dismembered appendages in their inventory. Failing to do so means he''ll keep coming, hunting the party relentlessly until its members are dead or leave the dungeon. After all — "''Tis but a flesh wound!"</p><table><tbody><tr><th>Elite</th><td>Yes (acts once per crawler)</td></tr></tbody></table><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/mobs/the-black-knight">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: ''
+  creatureType: ''
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: The Black Knight
+  actorLink: false
+flags:
+  point-mongo:
+    id: 471
+    category: mobs
+    slug: the-black-knight
+    url: https://pointmongo.com/browse/mobs/the-black-knight
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - elite
+      - dcc-ccs
+      - elites
+    updatedAt: '2026-09-02T04:50:44.8585041Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - Size
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

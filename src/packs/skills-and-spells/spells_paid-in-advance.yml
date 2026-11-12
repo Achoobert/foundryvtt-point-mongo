@@ -1,0 +1,38 @@
+_id: o2O6Pr6dxOa5v7Gp
+_key: '!items!o2O6Pr6dxOa5v7Gp'
+name: Paid in Advance
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A passive skill granting escalating combat and reward bonuses while an Active Quest is in progress.</em></p><p><strong>Type:</strong> Passive Skill · <strong>Limitation:</strong> only while an Active Quest is running</p><p>Lv1: +1d4 to all damage rolls while questing. Lv5: gold reward is received immediately and doesn''t need to be repaid on quest failure. Lv10: caster''s highest two stats +5 while questing. Lv15: HP/mana restored on receiving a quest. Lv20: receive a "Paid in Advance" box (rarity scaled to quest difficulty) on quest receipt.</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/paid-in-advance">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 411
+    category: spells
+    slug: paid-in-advance
+    url: https://pointmongo.com/browse/spells/paid-in-advance
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+    updatedAt: '2026-09-02T04:50:41.8795178Z'
+    needsRestat: false
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

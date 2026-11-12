@@ -1,0 +1,23 @@
+_id: VSmPGDo3zR2k9uo4
+_key: '!journal!VSmPGDo3zR2k9uo4'
+name: Nauseated
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: yIHpAvj1rJt7QYW4
+    _key: '!journal.pages!VSmPGDo3zR2k9uo4.yIHpAvj1rJt7QYW4'
+    name: Nauseated
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A debuff that turns the stomach: no food and no potions while it lasts.</em></p><p>Your stomach cramps and you have that Bad Taste at the back of your throat. You may not eat food or drink potions while under the effect of this debuff.</p><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/buffs-debuffs/nauseated">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 881
+    category: buffs-debuffs
+    slug: nauseated
+    url: https://pointmongo.com/browse/buffs-debuffs/nauseated
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-10-10T23:59:57.5841294Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: SCK40SoCcDl2EseU
+_key: '!items!SCK40SoCcDl2EseU'
+name: Slasher
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter/Rogue class for crawlers who''ve killed another crawler: relentless, famous, and able to appear right beside a fleeing foe.</em></p><p>Brutal Killers always get some fame. Most of the time, they become even more famous than the so called “heroes”. And being known for being a ruthless unstoppable killer is bound to be useful within the World Dungeon.</p><table><tbody><tr><th>Prerequisites</th><td>you must have killed at least 1 crawler to access this class</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Strength</li><li>+3 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Running</li><li>+2 Endurance</li><li>+1 Ambush</li><li>+1 Cockroach</li><li>+1 Non-ranged Weapon of your Choice (2pts)</li></ul><p><strong>Benefits</strong></p><ul><li>Membership to the Desperado Club (1pt) <em>(minor)</em></li><li>Gain Popularity whenever you kill a Crawler (2pts) <em>(moderate)</em></li><li>Once per scene, when a foe within 30ft takes a full move action, you may teleport beside it by the end of his move <em>(major)</em></li><li>Step +5ft <em>(moderate)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/slasher">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter / Rogue
+  prerequisites: you must have killed at least 1 crawler to access this class
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1155
+    category: classes
+    slug: slasher
+    url: https://pointmongo.com/browse/classes/slasher
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1810069Z'
+    needsRestat: false
+    missingFields: []

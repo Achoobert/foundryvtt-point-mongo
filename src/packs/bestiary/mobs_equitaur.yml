@@ -1,0 +1,64 @@
+_id: AnynOPv5QCbf0syg
+_key: '!actors!AnynOPv5QCbf0syg'
+name: Equitaur
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>Medium, aggressive horse-headed humanoids who favor cowboy gear and often travel in herds on the 3rd floor''s Western-themed regions.</em></p><p>This bipedal equine race of carnivores appear as heavily muscled humanoid creatures with a head closely resembling a horse whose mouth is filled with sharp fangs. Their bodies are covered in a soft coat and mane that can widely vary in coloration. Aggressive, and quick to anger, Equitaur''s are often found on the 3rd floor of the World Dungeon, where they populate regions that emulate the American West. Equitars have been known to sport western gear - cowboy hats, boots with spurs, chaps, shirts with dangly fringe, and are fond of carrying 6 shooter revolvers, and single action rifles. On lower floors there are rumours of Equitaur gangs of "Street Toughs" in leather jackets, and spiked mohawks in their manes, but this is unconfirmed. Equitaur''s often travel in herds, with both genders being equally vicious.</p><table><tbody><tr><th>Floor</th><td>3</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/mobs/equitaur">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 20
+  size: Medium (4)
+  creatureType: Humanoid
+  move: '15'
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 3
+  stats:
+    str:
+      value: 15
+    dex:
+      value: 10
+    con:
+      value: 15
+    int:
+      value: 15
+    cha:
+      value: 10
+  attacks:
+    - name: Bite
+      toHit: ''
+      damage: 2d4+4
+      damageType: piercing
+      range: ''
+      effect: ''
+    - name: Melee
+      toHit: ''
+      damage: 3d6+4
+      damageType: bludgeoning
+      range: ''
+      effect: ''
+    - name: By Weapon Type
+      toHit: ''
+      damage: ''
+      damageType: ''
+      range: ''
+      effect: Pistols, Rifles and other firearms are preferred.
+prototypeToken:
+  name: Equitaur
+  actorLink: false
+flags:
+  point-mongo:
+    id: 105
+    category: mobs
+    slug: equitaur
+    url: https://pointmongo.com/browse/mobs/equitaur
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-22T01:07:36.109236Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,83 @@
+_id: 6zFw4BFVAAOgYN69
+_key: '!actors!6zFw4BFVAAOgYN69'
+name: Varnath
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><em>A shock trooper of the Legions of Sheol: three heads, a morning star, and nothing but magic will touch it.</em></p><p>Varnath is a Chimera Demon of the 15th Floor. These massive demons are often used as Shock Troops of the Legions of Sheol.  Standing 30'' tall, this heavily muscled, bipedal, bat winged demon has 3 heads like the creature of legend: A flame breathing Lion, a madness inducing Goat, and an acid spitting snake. It walks on cloven hooves, and has two clawed arms which also allows it to wield It''s massive morning star.</p><p>Its feral clutchmate Talok. once banished to the Nothing, is now is found elsewhere in the Dungeon as a Floor Boss — if the two ever meet, they will try to kill each other on sight.</p><p>Access to all spells at Level 15</p><p>All Chimera Demons are Immune to all Elemental attacks and all non-magical physical attacks.</p><p>I''m Melting Debuff: Crawlers afflicted will suffer 3d4+F dmg /round until the acid is removed, or they are a steaming puddle.</p><table><tbody><tr><th>Floor</th><td>15</td></tr><tr><th>Elite</th><td>Yes (acts once per crawler)</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/bosses/varnath">Point Mongo</a>.</em></p>'
+  mobTier: city
+  level: 180
+  size: Colossal (7)
+  creatureType: Demon
+  move: '40'
+  hbSlotsOverride: null
+  hb:
+    value: 35
+    max: 35
+  dr: 15
+  stats:
+    str:
+      value: 205
+    dex:
+      value: 145
+    con:
+      value: 285
+    int:
+      value: 185
+    cha:
+      value: 105
+  attacks:
+    - name: Lion Flame Breath Weapon
+      toHit: ''
+      damage: 12d6+F
+      damageType: ''
+      range: 30ft cone
+      effect: 19+F to Evade.
+    - name: Hell Goat's Gaze
+      toHit: ''
+      damage: N/A
+      damageType: ''
+      range: ''
+      effect: 18+F to Evade. Inflicts the Terrified Debuff.
+    - name: Viper's Venom Spray
+      toHit: ''
+      damage: 12d4+9
+      damageType: ''
+      range: ''
+      effect: 19+F to Evade. Inflicts the "I'm melting" Debuff.
+    - name: Stomp
+      toHit: ''
+      damage: 12d10+9
+      damageType: ''
+      range: 10ft
+      effect: 19+F to Evade. Inflicts the Stunned Debuff.
+    - name: Morning Star
+      toHit: ''
+      damage: 12d8+9
+      damageType: bludgeoning
+      range: 10'
+      effect: 19+F to Evade.
+    - name: Tail Thrash
+      toHit: ''
+      damage: 12d8+9
+      damageType: bludgeoning
+      range: 15ft
+      effect: 19+F to Evade. On a Evade major fail or worse, the crawler gains the Take Down Debuff.
+prototypeToken:
+  name: Varnath
+  actorLink: false
+flags:
+  point-mongo:
+    id: 85
+    category: bosses
+    slug: varnath
+    url: https://pointmongo.com/browse/bosses/varnath
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - city-boss
+      - bosses
+    updatedAt: '2026-10-01T15:03:07.7564369Z'
+    needsRestat: false
+    missingFields: []

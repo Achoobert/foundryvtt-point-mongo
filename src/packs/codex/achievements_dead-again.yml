@@ -1,0 +1,24 @@
+_id: 1ACpk0gOZgYmcJtZ
+_key: '!journal!1ACpk0gOZgYmcJtZ'
+name: Dead Again
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: sHQ6c1ADDZ8nOuaO
+    _key: '!journal.pages!1ACpk0gOZgYmcJtZ.sHQ6c1ADDZ8nOuaO'
+    name: Dead Again
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you deal damage to an enemy corpse after combat has ended.</em></p><p>You damaged a corpse.</p><p>The System AI has no idea why.</p><p>The System AI is beginning to suspect that you don''t know what corpses are.</p><p>Reward: Bronze Asshole''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/dead-again">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 642
+    category: achievements
+    slug: dead-again
+    url: https://pointmongo.com/browse/achievements/dead-again
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9881668Z'
+    needsRestat: false
+    missingFields: []

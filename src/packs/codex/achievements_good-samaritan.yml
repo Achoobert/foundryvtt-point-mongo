@@ -1,0 +1,24 @@
+_id: AtSXPtwLEbiNvGgP
+_key: '!journal!AtSXPtwLEbiNvGgP'
+name: Good Samaritan
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: AT9A4g9Mwts6Nh70
+    _key: '!journal.pages!AtSXPtwLEbiNvGgP.AT9A4g9Mwts6Nh70'
+    name: Good Samaritan
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you heal or rescue a fellow crawler you actively dislike.</em></p><p>You saved someone''s life even though you can''t stand them. That''s not weakness, that''s character. Rare, apparently unwelcome character. They still owe you. Collect eventually.</p><p>Reward: Silver Saint''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/good-samaritan">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 705
+    category: achievements
+    slug: good-samaritan
+    url: https://pointmongo.com/browse/achievements/good-samaritan
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0396221Z'
+    needsRestat: false
+    missingFields: []

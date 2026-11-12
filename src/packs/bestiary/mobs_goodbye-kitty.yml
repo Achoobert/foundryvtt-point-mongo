@@ -1,0 +1,58 @@
+_id: FVldzLFS9nEldknr
+_key: '!actors!FVldzLFS9nEldknr'
+name: Goodbye Kitty
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>A cute-looking, bipedal cat mob that''s secretly a knife-wielding serial killer.</em></p><p>This white bipedal cat mob wears a cute yellow shirt with blue overalls and sports a red bow hanging on one of its ears. Don''t let this adorable little mob fool you, through its cute appearance lies a serial murderer. Brandishing a sharp knife (also adorned with a red bow), the Goodbye Kitty mob would no sooner slit your own throat before you can say, "Aww, Hello Kitty!"</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/mobs/goodbye-kitty">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 4
+  size: Petite (3)
+  creatureType: Creature
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 4
+    max: 4
+  dr: 1
+  stats:
+    str:
+      value: 2
+    dex:
+      value: 6
+    con:
+      value: 2
+    int:
+      value: 2
+    cha:
+      value: 4
+  attacks:
+    - name: Claw
+      toHit: ''
+      damage: 1d4+1
+      damageType: ''
+      range: ''
+      effect: ''
+    - name: By Weapon Type
+      toHit: ''
+      damage: ''
+      damageType: ''
+      range: ''
+      effect: Whatever it has picked up; the knife is traditional.
+prototypeToken:
+  name: Goodbye Kitty
+  actorLink: false
+flags:
+  point-mongo:
+    id: 106
+    category: mobs
+    slug: goodbye-kitty
+    url: https://pointmongo.com/browse/mobs/goodbye-kitty
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-22T01:07:36.1097403Z'
+    needsRestat: false
+    missingFields: []

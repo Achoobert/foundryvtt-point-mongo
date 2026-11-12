@@ -1,0 +1,25 @@
+_id: GYrOzKbtWNsk68Rm
+_key: '!journal!GYrOzKbtWNsk68Rm'
+name: Octo-Shark Tank
+folder: 60wNl7vBu4R8G6qF
+pages:
+  - _id: htKINxefKXTuKJeM
+    _key: '!journal.pages!GYrOzKbtWNsk68Rm.htKINxefKXTuKJeM'
+    name: Octo-Shark Tank
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A Shark Tank parody where inventive crawlers pitch dungeon inventions to five bickering intergalactic business tycoons.</em></p><p><strong>Panel:</strong> 5 "Octo-Sharks" — Zark Qban, Mori Greener, KhevN O''H''Lry, Cor Coran, Lubet Zky · <strong>Sponsor:</strong> The Squim Congoomerate</p><p>Inventive crawlers pitch new dungeon inventions to a panel of five intergalactic business tycoons who spend as much time sniping at each other as they do feigning interest. Hosts rarely engage for anything less than a controlling stake in the product.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/interview-shows/octo-shark-tank">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 372
+    category: interview-shows
+    slug: octo-shark-tank
+    url: https://pointmongo.com/browse/interview-shows/octo-shark-tank
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - tunnel-shows
+    updatedAt: '2026-09-02T04:50:41.8473Z'
+    needsRestat: false
+    missingFields: []

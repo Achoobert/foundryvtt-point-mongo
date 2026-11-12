@@ -1,0 +1,19 @@
+_id: mGeja3Z5pUIps9yy
+_key: '!items!mGeja3Z5pUIps9yy'
+name: Enchanted Chainmail Shirt of Necrotic Resistance
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A gleaming chainmail shirt that shrugs off half of any necrotic damage.</em></p><p>This gleaming chainmail shirt bestows +1 DR and grants its wearer a 50% damage reduction against necrotic damage.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Chainmail Shirt</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Resistance to Necrotic damage</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-chainmail-shirt-of-necrotic-resistance">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 975
+    category: magic-items
+    slug: enchanted-chainmail-shirt-of-necrotic-resistance
+    url: https://pointmongo.com/browse/magic-items/enchanted-chainmail-shirt-of-necrotic-resistance
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-27T16:16:13.6600969Z'
+    needsRestat: false
+    missingFields: []

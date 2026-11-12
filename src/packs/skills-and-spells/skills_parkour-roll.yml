@@ -1,0 +1,41 @@
+_id: IwyHaiBBfNHAzzJk
+_key: '!items!IwyHaiBBfNHAzzJk'
+name: Parkour Roll
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A Dexterity-based utility skill for landing short falls without taking damage.</em></p><p>You are frickin amazing at falling and not dying!  If you succeed at an unopposed Dex check, you take no damage from falls up to 10''.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — JayFish #221. From <a href="https://pointmongo.com/browse/skills/parkour-roll">Point Mongo</a>.</em></p>'
+  governingStat: dex
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: WrCEPwGCSbSJgRRl
+      rankThreshold: 5
+      description: <p>You take no damage from falls up to 20'</p>
+    - id: VwAdXBddfw2xlOK7
+      rankThreshold: 10
+      description: <p>Roll with advantage</p>
+    - id: Sy0bKAmHbUqEhEM8
+      rankThreshold: 15
+      description: <p>You take no damage from falls up to 30'</p>
+flags:
+  point-mongo:
+    id: 727
+    category: skills
+    slug: parkour-roll
+    url: https://pointmongo.com/browse/skills/parkour-roll
+    source: 'Community submission — JayFish #221'
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.7155482Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,25 @@
+_id: 6iZ6gZQfOqpLeNE5
+_key: '!journal!6iZ6gZQfOqpLeNE5'
+name: Got'cha - Silent Alarm
+folder: i4V5JDum8ZGrgq0L
+pages:
+  - _id: UYU7vQ6zqiF8a4Uh
+    _key: '!journal.pages!6iZ6gZQfOqpLeNE5.UYU7vQ6zqiF8a4Uh'
+    name: Got'cha - Silent Alarm
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A fake-looking landmine that makes a loud click but instead of exploding, aggros every mob in the area while the victim stays frozen on it.</em></p><p>A trap that makes a really loud "click" sound when you step on it like in the shows, so you know you''ve stepped in it, but you are scared to step off it? and instead of an explosion it aggro''s every mob in a radius? So then you''re stuck standing on the thing waiting for someone to try and disarm it and then suddenly swarmed by mobs and trying to decide if you''re willing to step off and see what happens so you can fight or try to fight without moving.</p><p><strong>Notes:</strong></p><p>Something that looks like a landmine, but is actually just a silent alarm.</p><hr><p><em>Source: Community submission — Socks (Crawler #4381). From <a href="https://pointmongo.com/browse/traps/got-cha-silent-alarm">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 362
+    category: traps
+    slug: got-cha-silent-alarm
+    url: https://pointmongo.com/browse/traps/got-cha-silent-alarm
+    source: 'Community submission — Socks (Crawler #4381)'
+    tags:
+      - dcc-ccs
+      - traps
+    updatedAt: '2026-09-22T05:38:24.8358515Z'
+    needsRestat: false
+    missingFields: []

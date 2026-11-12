@@ -1,0 +1,22 @@
+_id: Glnvdruysclsxh5D
+_key: '!items!Glnvdruysclsxh5D'
+name: Potion of Mildly Concerning Confidence
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A fizzy purple potion that grants absolute, unearned certainty for persuasion, bluffing, and terrible ideas.</em></p><p><strong>Type:</strong> Buff</p><p>"It doesn''t make you smarter. It just removes your ability to notice you''re not." For 10 minutes: +2 to Charisma checks for bluffing, persuasion, or intimidation; the drinker speaks with total certainty even when objectively wrong, and can''t hesitate before deciding (first answer only). Optional side effects: 30% more likely to start sentences with "Trust me," advantage on lying but disadvantage on spotting lies, and full confidence in increasingly bad ideas.</p><table><tbody><tr><th>Type</th><td>Buff</td></tr></tbody></table><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/potions/potion-of-mildly-concerning-confidence">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 335
+    category: potions
+    slug: potion-of-mildly-concerning-confidence
+    url: https://pointmongo.com/browse/potions/potion-of-mildly-concerning-confidence
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-03T16:29:38.9494634Z'
+    needsRestat: false
+    missingFields:
+      - effects

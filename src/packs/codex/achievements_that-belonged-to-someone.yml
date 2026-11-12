@@ -1,0 +1,24 @@
+_id: HM4DTNtmqBFXMbdR
+_key: '!journal!HM4DTNtmqBFXMbdR'
+name: That Belonged to Someone
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: Ncl9gPQwfgKV5kvu
+    _key: '!journal.pages!HM4DTNtmqBFXMbdR.Ncl9gPQwfgKV5kvu'
+    name: That Belonged to Someone
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you recover an intact usable item from a defeated Mob.</em></p><p>You recovered an item from a fallen enemy without destroying it. Congratulations! Nothing says "professional adventurer" quite like immediately checking the corpse for valuables.</p><p>Reward: Bronze Looter Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/that-belonged-to-someone">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 619
+    category: achievements
+    slug: that-belonged-to-someone
+    url: https://pointmongo.com/browse/achievements/that-belonged-to-someone
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9693398Z'
+    needsRestat: false
+    missingFields: []

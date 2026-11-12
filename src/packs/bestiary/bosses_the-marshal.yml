@@ -1,0 +1,53 @@
+_id: gRvnUe6zzSUunRqs
+_key: '!actors!gRvnUe6zzSUunRqs'
+name: The Marshal
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><strong>Missing:</strong> Level, Size, stat scores, Move, Floor (sets DR), attacks</p><p><em>An undead gunslinger Neighborhood Boss who relentlessly hunts down whoever stole his horse, with dual soul-piercing revolvers.</em></p><p><strong>NEW ACHIEVEMENT:</strong> Grand Theft Equine (Post-Mortem Edition) You’ve successfully tamed a creature that was never meant to be yours. It’s fast, it’s frightening, and it has a very angry, very dead previous owner who is currently filing a report in the most violent way possible. You''ve realized that the rotting, high-speed nightmare you’re riding used to belong to a middle-management prick with a badge and a very long memory. Reward: A "Stolen Property" debuff and a sudden, intense craving for sarsaparilla. Also, you get to keep your soul. For now. Listen, Crawler. I know what you’re thinking. You’re thinking, Hey, free horse! Sure, it smells like a dumpster fire in a morgue, but it’s fast and it kicks people in the teeth." But nothing in this dungeon is free. Not the air, not the health potions, and certainly not the custom-ordered undead stallion you’ve been using to bypass the traffic jams. The Lawman of the Dead The previous owner isn’t just some random zombie in a cowboy hat. He’s the Neighborhood Boss, and the AI has given him a name that sounds like a bad 1950s western: The Marshal. He is an Undead Gunslinger, a relic of a programmed past designed to "clean up the streets" of anyone possessing a pulse. To him, the living aren''t just targets—they’re an infestation. By taking his horse, you haven''t just gained a mount; you’ve signed your own arrest warrant. He views you as a "vagrant" violating his jurisdiction, and you are currently riding his favorite deputy.</p><p>The Stats on Your New Best Friend Attribute Owner The Marshal (Undead Tier: Legendary)</p><p>Weaponry Dual Soul-Piercing Revolvers that deal 200% extra damage to the "Living."</p><p>Tracking Soul-Bonded Tether. As long as you’re on that horse, he has a permanent GPS lock on your position.</p><p>Special Ability The Hanging Tree. A localized gravity well that pins riders to the ground for a public execution.</p><p>The Strategic Reality Check No Stealth: You are currently riding a 1,200-pound necrotic homing beacon. The Marshal can feel the horse’s energy; he is always moving toward it, and he does not sleep.</p><p><strong>Handling Issues:</strong> The closer the Marshal gets, the more the horse will struggle to return to its "rightful" master. Expect your mount to fight your controls during mid-tier combat.</p><p><strong>The Showdown:</strong> He’s going to wait until you’re in the middle of a frantic boss fight or trying to take a nap, and then you’re going to hear the jingle of spurs and the clicking of a hammer.</p><p><strong>Note from the Dungeon AI:</strong></p><p>Look at you, gallivanting around on a stolen horse like you’re the hero of some tragic space-western. It’s adorable. Truly. Just a heads-up: The Marshal just crossed the sector border. He’s got six bullets with your name on them, and he’s a very fast learner when it comes to spelling. Goddammit, I love a good chase! The spurs are jingling in the distance, Crawler. You might want to pick up the pace.</p><hr><p><em>Source: Community submission — David Brookhart (Crawler #26531). From <a href="https://pointmongo.com/browse/bosses/the-marshal">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 1
+  size: ''
+  creatureType: ''
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: The Marshal
+  actorLink: false
+flags:
+  point-mongo:
+    id: 97
+    category: bosses
+    slug: the-marshal
+    url: https://pointmongo.com/browse/bosses/the-marshal
+    source: 'Community submission — David Brookhart (Crawler #26531)'
+    tags:
+      - dcc-ccs
+      - neighborhood-boss
+      - bosses
+    updatedAt: '2026-09-22T05:27:11.5440635Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - Size
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

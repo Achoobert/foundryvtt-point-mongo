@@ -1,0 +1,22 @@
+_id: SXK5cTKcFv9w6hpy
+_key: '!items!SXK5cTKcFv9w6hpy'
+name: Nail Polish of the Frightened Goth
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>Dark nail polish that adds a bleed effect to melee strikes and a free slash reaction when surprised.</em></p><p><strong>Type:</strong> Item</p><p>Imbues nails with magical slicing power that causes a bleed effect, and grants an automatic slash reaction attack when surprised. Each application lasts one day.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Item</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/nail-polish-of-the-frightened-goth">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 184
+    category: magic-items
+    slug: nail-polish-of-the-frightened-goth
+    url: https://pointmongo.com/browse/magic-items/nail-polish-of-the-frightened-goth
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-30T20:04:01.9636671Z'
+    needsRestat: false
+    missingFields:
+      - effects

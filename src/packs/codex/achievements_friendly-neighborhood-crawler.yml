@@ -1,0 +1,24 @@
+_id: DYpRNuROK0rz7UjH
+_key: '!journal!DYpRNuROK0rz7UjH'
+name: Friendly Neighborhood Crawler
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: NFPITyK36hES5WKr
+    _key: '!journal.pages!DYpRNuROK0rz7UjH.NFPITyK36hES5WKr'
+    name: Friendly Neighborhood Crawler
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you help a non-party crawler at meaningful personal cost or risk.</em></p><p>You helped someone who wasn''t even part of your party. The System AI has reviewed your actions and determined that you may, in fact, possess a functioning soul.</p><p>Reward: Silver Friendship Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/friendly-neighborhood-crawler">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 627
+    category: achievements
+    slug: friendly-neighborhood-crawler
+    url: https://pointmongo.com/browse/achievements/friendly-neighborhood-crawler
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9757294Z'
+    needsRestat: false
+    missingFields: []

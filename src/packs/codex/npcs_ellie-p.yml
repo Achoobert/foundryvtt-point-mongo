@@ -1,0 +1,25 @@
+_id: zf3OuhKLL3N5HwMV
+_key: '!journal!zf3OuhKLL3N5HwMV'
+name: Ellie P
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: pKcWimmOIbaBsSL6
+    _key: '!journal.pages!zf3OuhKLL3N5HwMV.pKcWimmOIbaBsSL6'
+    name: Ellie P
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A snarky almost-16-year-old human crawler, separated from her parents at the Dungeon''s creation, who has survived largely on luck.</em></p><p><strong>Type:</strong> Crawler #20100424 · <strong>Race:</strong> Human</p><p>Has perfected the art of the disdainful eye roll and exasperated sigh. Separated from her parents when the Dungeon was created, Ellie is a sneaky survivor who''s made it this far mostly through blind luck.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/npcs/ellie-p">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 256
+    category: npcs
+    slug: ellie-p
+    url: https://pointmongo.com/browse/npcs/ellie-p
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-02T04:50:41.4130643Z'
+    needsRestat: false
+    missingFields: []

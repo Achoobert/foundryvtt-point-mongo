@@ -1,0 +1,24 @@
+_id: 0B1zI5zCTSE28eVh
+_key: '!journal!0B1zI5zCTSE28eVh'
+name: Science!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: mH8Ko6ThMgErCyuZ
+    _key: '!journal.pages!0B1zI5zCTSE28eVh.mH8Ko6ThMgErCyuZ'
+    name: Science!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you deliberately experiment with an unknown item, substance, creature, or environmental effect.</em></p><p>You deliberately experimented with something you did not understand.</p><p>You have demonstrated the three fundamental principles of dungeon science:</p><p>Observe. Hypothesize. Probably explode.</p><p>Reward: Silver Crafter''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/science">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 636
+    category: achievements
+    slug: science
+    url: https://pointmongo.com/browse/achievements/science
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9829685Z'
+    needsRestat: false
+    missingFields: []

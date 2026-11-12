@@ -1,0 +1,48 @@
+_id: MFuZ0ngCHWx2KyI9
+_key: '!actors!MFuZ0ngCHWx2KyI9'
+name: Ratatoui
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><strong>Missing:</strong> Level, Move, Floor (sets DR), attacks</p><p><em>A rat swarm that rides your head by the hair and fights you with your own fists.</em></p><p>A rat swarm that, upon successfully reaching you head, will possess you and control the player via holding onto your hair.</p><p>Rat can be removed with a successful attack on the rat, using the possessed players stats.  Rat attacks using players physical basic attacks. No access to special skills or magic.</p><hr><p><em>Source: Community submission — Rusty Blade. From <a href="https://pointmongo.com/browse/mobs/ratatoui">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: Small (2)
+  creatureType: Beast/swarm
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 2
+    dex:
+      value: 3
+    con:
+      value: 2
+    int:
+      value: 2
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Ratatoui
+  actorLink: false
+flags:
+  point-mongo:
+    id: 829
+    category: mobs
+    slug: ratatoui
+    url: https://pointmongo.com/browse/mobs/ratatoui
+    source: Community submission — Rusty Blade
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6685374Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - Move
+      - Floor (sets DR)
+      - attacks

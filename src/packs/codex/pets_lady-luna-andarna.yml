@@ -1,0 +1,26 @@
+_id: MmYmVaXQIrUL7KOV
+_key: '!journal!MmYmVaXQIrUL7KOV'
+name: Lady Luna Andarna
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: YgvqDeeIWhZtZhQI
+    _key: '!journal.pages!MmYmVaXQIrUL7KOV.YgvqDeeIWhZtZhQI'
+    name: Lady Luna Andarna
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A young Pembroke Corgi who chased her runaway cat straight into the dungeon.</em></p><dl class="stat-block"><dt>Species</dt><dd>Corgi (Canine)</dd><dt>Stats</dt><dd>Level 1</dd></dl><p>She enters chasing/herding her kitty, who was running away and went down the stairs that appeared in front of her. She is only two years old, so still has her puppiness, but is getting her corgi body — aka potato-ness. She has high charisma, decent strength (she Kool-Aid Man''s through the door when coming inside), and high intelligence.</p><hr><p><em>Source: Community submission — Chewyz (Crawler #408). From <a href="https://pointmongo.com/browse/pets/lady-luna-andarna">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 34
+    category: pets
+    slug: lady-luna-andarna
+    url: https://pointmongo.com/browse/pets/lady-luna-andarna
+    source: 'Community submission — Chewyz (Crawler #408)'
+    tags:
+      - animal-companion
+      - pet
+      - dog
+    updatedAt: '2026-08-31T17:12:29.726595Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,22 @@
+_id: WYY0DcrDomg3iT3R
+_key: '!items!WYY0DcrDomg3iT3R'
+name: Val'neria
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> effects</p><p><em>A battle axe with a fiery temper, you will certainly never be alone wielding this in battle.</em></p><p>A double bladed battle axe of remarkable quality. The haft of this weapon is inlaid with a deep red scale pattern. This sentient weapon is imbued with the mind of a particularly destructive and greedy female Red Dragon. Able to communicate telepathically with its wielder, Val often urges brutality in its dealings with lesser beings. Damage: 1d8+4. This weapon has +4 to hit and damage rolls.</p><p><strong>Abilities:</strong> Dragon''s Flame: Once every 5 rounds, the axe is able to unleash a 20'' cone of flame that causes 3d8 to all creatures caught in its path (save for half damage). Immunity to Fire: The wielder of Val''neria enjoys a 100% damage reduction from all standard flame and fire based game, while Val is equipped or stored in their inventory. This does not include damage from Sheol fire.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Battle Axe</td></tr><tr><th>Weapon skill</th><td>Axe</td></tr><tr><th>Damage type</th><td>Fire</td></tr></tbody></table><hr><p><em>Source: DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/magical-weapons/val-neria">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 473
+    category: magical-weapons
+    slug: val-neria
+    url: https://pointmongo.com/browse/magical-weapons/val-neria
+    source: 'DeaDPaN79 (Crawler #1945)'
+    tags:
+      - magical-weapons
+      - axe
+    updatedAt: '2026-11-11T20:08:41.6516756Z'
+    needsRestat: true
+    missingFields:
+      - effects

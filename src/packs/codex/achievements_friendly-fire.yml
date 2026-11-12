@@ -1,0 +1,24 @@
+_id: e7hKIy0FPznGB19J
+_key: '!journal!e7hKIy0FPznGB19J'
+name: Friendly Fire
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: iSHDpsPRKAB9KfNY
+    _key: '!journal.pages!e7hKIy0FPznGB19J.iSHDpsPRKAB9KfNY'
+    name: Friendly Fire
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you accidentally damage an ally during combat but still defeat the intended enemy.</em></p><p>You accidentally injured one of your allies while fighting an enemy. Fortunately, you still killed the thing you were actually trying to kill. Your friends will remember this.</p><p>Reward: Bronze Asshole''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/friendly-fire">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 597
+    category: achievements
+    slug: friendly-fire
+    url: https://pointmongo.com/browse/achievements/friendly-fire
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9515608Z'
+    needsRestat: false
+    missingFields: []

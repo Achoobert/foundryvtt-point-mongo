@@ -1,0 +1,19 @@
+_id: Wr1CvLWYALAIbbfA
+_key: '!items!Wr1CvLWYALAIbbfA'
+name: Enchanted Ring of Healing
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A copper ring etched with the Caduceus that casts Heal Others and refills your own Health once a floor.</em></p><p>This copper ring is etched with the symbol of the staff of Hermes, the Caduceus: Recognized Syndicate wide as the symbol of medics and healers.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Heal Others Spell at Rank 3, no Mana cost, 6 hour cooldown</li><li>Once per floor: Recovery (full Health)</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-ring-of-healing">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 966
+    category: magical-jewelry
+    slug: enchanted-ring-of-healing
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-ring-of-healing
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-23T19:20:32.2130304Z'
+    needsRestat: false
+    missingFields: []

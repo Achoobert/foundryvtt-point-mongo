@@ -1,0 +1,24 @@
+_id: bLM20MGXNwsmG2wx
+_key: '!journal!bLM20MGXNwsmG2wx'
+name: Sticky Fingers
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 25K8af0dgQplE9BE
+    _key: '!journal.pages!bLM20MGXNwsmG2wx.25K8af0dgQplE9BE'
+    name: Sticky Fingers
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you steal from a Crawler in your party.</em></p><p>You have stolen something form another Crawler in your party that was not intended for you. There are no laws ''per say'' in the Dungeon that will land you to be put on trial, but let''s just hope that a jury of your peers decide not to go all vigilante justice on your ass.</p><p>Reward: You''ve received a Bronze Asshole''s Box</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/sticky-fingers">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 577
+    category: achievements
+    slug: sticky-fingers
+    url: https://pointmongo.com/browse/achievements/sticky-fingers
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9356557Z'
+    needsRestat: false
+    missingFields: []

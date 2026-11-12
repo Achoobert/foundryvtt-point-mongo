@@ -1,0 +1,24 @@
+_id: uuTtsC0zlycSZM0p
+_key: '!journal!uuTtsC0zlycSZM0p'
+name: Ugly Crying for the Camera
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: tF9VxMC38sMz75PM
+    _key: '!journal.pages!uuTtsC0zlycSZM0p.tF9VxMC38sMz75PM'
+    name: Ugly Crying for the Camera
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you have a genuinely emotional, unguarded moment that plays exceptionally well for the viewing audience.</em></p><p>That wasn''t strategy. That wasn''t skill. That was just real, messy, human feeling, live on the broadcast. Turns out that''s exactly what the galaxy tunes in for. Ratings gold. Emotionally, considerably less gold. But hey — ratings.</p><p>Reward: Gold Emmy Contender Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/ugly-crying-for-the-camera">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 717
+    category: achievements
+    slug: ugly-crying-for-the-camera
+    url: https://pointmongo.com/browse/achievements/ugly-crying-for-the-camera
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0494114Z'
+    needsRestat: false
+    missingFields: []

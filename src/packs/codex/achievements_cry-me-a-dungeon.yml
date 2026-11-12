@@ -1,0 +1,25 @@
+_id: TFn4TSeTAlWfzAlJ
+_key: '!journal!TFn4TSeTAlWfzAlJ'
+name: Cry Me a Dungeon
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: KVcPIKbhib2JSqvx
+    _key: '!journal.pages!TFn4TSeTAlWfzAlJ.KVcPIKbhib2JSqvx'
+    name: Cry Me a Dungeon
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a real-world celebrity enters the dungeon, dominating the AI''s attention out of sheer star power.</em></p><p><strong>Scenario:</strong> A celebrity enters the dungeon</p><p>Oh. Oh wow. Everyone, I need you to understand something—this is not a bit, not a bizarre construct, not one of my usual barely-holding-it-together chaotic ''What the F'' moments. This is a platinum-tier human specimen walking into my dungeon like he''s owed a Celestial Box. Look at him. No, really—look at him. The posture? Impeccable. The timing? Flawless. The man hasn’t even hit the bottom step and he’s already dominating the dungeon. So.... Hi. Yes. Welcome Mr. Timberlake, can I call you Justin? This is—wow—this is an honor, genuinely. I don’t say that. I have never said that. And yet here we are. You’ve entered a blood-soaked nightmare labyrinth filled with unspeakable horrors, and somehow, impossibly, you are still the most dangerous thing in the room. I mean, the confidence alone? That’s at least a +4 aura buff. Minimum. right. Anyway. Justin, if you need anything—guidance, narration, a dramatic pause before a one-liner—you just let me know. I am, apparently, very invested in your success now.</p><p><strong>Suggested Rewards:</strong></p><p>n/a</p><hr><p><em>Source: Community submission — Ian O''H (Crawler #4207). From <a href="https://pointmongo.com/browse/achievements/cry-me-a-dungeon">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 274
+    category: achievements
+    slug: cry-me-a-dungeon
+    url: https://pointmongo.com/browse/achievements/cry-me-a-dungeon
+    source: 'Community submission — Ian O''H (Crawler #4207)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:27:11.5153483Z'
+    needsRestat: false
+    missingFields: []

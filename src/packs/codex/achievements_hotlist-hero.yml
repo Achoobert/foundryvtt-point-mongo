@@ -1,0 +1,24 @@
+_id: 8iLv45wfkZJsHXmk
+_key: '!journal!8iLv45wfkZJsHXmk'
+name: Hotlist Hero
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: MeDBtK751iuekFjm
+    _key: '!journal.pages!8iLv45wfkZJsHXmk.MeDBtK751iuekFjm'
+    name: Hotlist Hero
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you save your own life or an ally''s using an item you had preloaded on your Hotlist.</em></p><p>All that time organizing your Hotlist instead of paying attention to the fight finally paid off. One thought, one lifesaving item, zero fumbling through your Inventory while dying. Efficiency. We love to see it.</p><p>Reward: Silver Speed Dial Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/hotlist-hero">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 703
+    category: achievements
+    slug: hotlist-hero
+    url: https://pointmongo.com/browse/achievements/hotlist-hero
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0380207Z'
+    needsRestat: false
+    missingFields: []

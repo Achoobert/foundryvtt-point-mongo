@@ -1,0 +1,24 @@
+_id: lCccP9xcFYPGeJb4
+_key: '!items!lCccP9xcFYPGeJb4'
+name: Rodeo Clown
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Rogue/Monk class for the face-painted lifesaver who taunts the bull, dodges for their life and lets the other guy get away.</em></p><p>There is something spectacular about a rodeo. It''s not the chap-clad cowboys or the bulls glistening with sweat and fury. No. It''s that poor bastard in face paint and a barrel running for his fucking life when things get out of hand.</p><p>The rodeo clown is a time honored tradition in damage mitigation, risking life and limb to save other dumb bastards from massive, painful mistakes. All for glorious spectacle. We will cheer as you fly through the air like a pinwheel and your body breaks. But at least the other guy got away.</p><table><tbody><tr><th>Bonus box</th><td>Earth hobby box</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+6 dexterity</li><li>+2 constitution</li><li>+2 charisma</li><li>-2 intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+4 Dodge</li><li>+4 taunt</li><li>+2 jump</li></ul><p><strong>Benefits</strong></p><ul><li>Narrow escape: +2 DR when you dodge successfully <em>(moderate)</em></li><li>Run for your life: move 50% faster fleeing from a taunted attacker <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Send in the Clowns: All stealth skills are 75 % less effective and enemies are more likely to target you <em>(3 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/classes/rodeo-clown">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Rogue
+    - monk
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1111
+    category: classes
+    slug: rodeo-clown
+    url: https://pointmongo.com/browse/classes/rodeo-clown
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-10T06:59:48.5744264Z'
+    needsRestat: false
+    missingFields: []

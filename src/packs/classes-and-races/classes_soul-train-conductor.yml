@@ -1,0 +1,28 @@
+_id: HnKYEpE3HST3zVgW
+_key: '!items!HnKYEpE3HST3zVgW'
+name: Soul Train Conductor
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: "<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>Necromancer/Bard hybrid that channels siphoned life energy through the power of dance.</em></p><p>Necromancer / Bard</p><p>Chr +2 Dex +1</p><p><strong>Necromancy based bard class:</strong> Able to siphon life energy from defeated opponents to power abilities impacting the mood and emotions of nearby players and npcs.</p><p>Soul energy can be used to heal or harm as expressed through the power of dance.\tSubmitted by: DeaDPaN79: Crawler #1945</p><p>Spartan Hoplite</p><p>A Constitution-based Paladin class</p><p>Con +3 Str +2 \tDex -2 Int -1</p><p>The Spartan Hoplite deals mostly with discipline, shield-based defense, and refusing to move when every reasonable instinct says otherwise. A Hoplite is strongest when protecting their allies and anchoring a battle line. They're elite at turning narrow corridors into very educational stabbing funnels. Their power comes from conviction and training.</p><p><strong>Class Benefits:</strong></p><p>Gain the Radiant Tip spell. (Imbue the tip of your weapon with Radiant damage)</p><p>Gain the Aegis Flash spell. (Make a flash of light erupt from your shield, disorienting enemies near you)</p><p>Gain the Shieldbash skill. (Slams a target with your shield, sending them backwards)</p><p>Gain the Spear Brace skill. (Root yourself in place, using your spear to brace for impact.)</p><p>Gain +3 to Shield-based skills.</p><p>Gain +3 to Spear-based skills.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href=\"https://pointmongo.com/browse/classes/soul-train-conductor\">Point Mongo</a>.</em></p>"
+  classTypes: []
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 15
+    category: classes
+    slug: soul-train-conductor
+    url: https://pointmongo.com/browse/classes/soul-train-conductor
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - floor-class
+      - necromancer
+      - bard
+    updatedAt: '2026-11-11T20:08:41.6141206Z'
+    needsRestat: false
+    missingFields:
+      - stat bonuses
+      - benefits
+      - Build Point costs

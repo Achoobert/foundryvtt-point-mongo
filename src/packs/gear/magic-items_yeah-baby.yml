@@ -1,0 +1,19 @@
+_id: l3siwRyxyC5fOot0
+_key: '!items!l3siwRyxyC5fOot0'
+name: Yeah, BABY!!!
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A glittering, groovy fleeting patch that helps you blend in, boosts your charm, wrecks your driving and adds a karate chop.</em></p><p>This is a fleeting item.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Legendary</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>[International man of mystery] Even though the patch glitters like a damn fairy, it rises your {blend in} skill by 3 points. {Blend in} gives you a bonus in convincing that you belong right here. In this closed off area! Unlike some shotgun enthusiast who''s got beaten up by his own security guard!</li><li>[The spy who shagged me] get a bonus of +3 to your charisma modifier. Make it 6 with female NPC''s (this joke goes to our German viewers)</li><li>[Halfway 3-point turn] your driving gets lowered by 4 points!</li><li>[KARATE CHOP!] Your {KARATE CHOP} skill rises by 3. {KARATE CHOP} your hand to hand attack gets a 1d4 bonus and has a 5% chance (like a 20 on a d20?) to knock your enemy out for an hour! If you shout "karate chop" before hitting the chance rises to 15%</li></ul><hr><p><em>Source: Community submission — IceGrin. From <a href="https://pointmongo.com/browse/magic-items/yeah-baby">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1084
+    category: magic-items
+    slug: yeah-baby
+    url: https://pointmongo.com/browse/magic-items/yeah-baby
+    source: Community submission — IceGrin
+    tags: []
+    updatedAt: '2026-11-08T10:01:17.936289Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,25 @@
+_id: HBepcb9Ls6NmvM42
+_key: '!journal!HBepcb9Ls6NmvM42'
+name: Horror Movie Floor
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: TB2NZDzqZyOmTwhx
+    _key: '!journal.pages!HBepcb9Ls6NmvM42.TB2NZDzqZyOmTwhx'
+    name: Horror Movie Floor
+    type: text
+    text:
+      format: 1
+      content: '<p><em>One giant haunted house floor packed with more gore than ever — Freddy, Chucky, and a Jason who now answers to a kidnapped Jamie Lee Curtis.</em></p><p>The Crawlers are welcomed into one big haunted house. There is more gore than ever before. Freddy, Chucky, and all the others make an appearance. Jason is a servant of Jamie Lee Curtis, who was kidnapped from the surface.</p><hr><p><em>Source: Community submission — Jay, Crawler #221. From <a href="https://pointmongo.com/browse/floors/horror-movie-floor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 459
+    category: floors
+    slug: horror-movie-floor
+    url: https://pointmongo.com/browse/floors/horror-movie-floor
+    source: 'Community submission — Jay, Crawler #221'
+    tags:
+      - dcc-ccs
+      - floors
+    updatedAt: '2026-08-31T17:12:39.4385353Z'
+    needsRestat: false
+    missingFields: []

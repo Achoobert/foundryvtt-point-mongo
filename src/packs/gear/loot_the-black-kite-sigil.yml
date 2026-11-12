@@ -1,0 +1,24 @@
+_id: 5t8quUmzneDBxIE6
+_key: '!items!5t8quUmzneDBxIE6'
+name: The Black Kite Sigil
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A unique, divine folded-metal sigil that scouts ahead as a bound kite and warns its bearer of danger while worn.</em></p><p><strong>Notes:</strong> See Description</p><p>This is a Unique item! This is a Divine item! A small, folded piece of dark metal shaped like a bird in mid-flight. It is always slightly warm, and when placed in light, it casts a shadow that moves a fraction of a second out of sync with reality. When released, it unfolds into something that should not be able to fly—but does.</p><p>Scout of Impossible Paths The Sigil can be sent out as a bound “kite” that scouts ahead through terrain, structures, or hostile zones. Or it may be stored on your person as a sigil on a piece of armor or a weapon. While "Kite" mode is active: You can perceive through its senses It can move through tight or hazardous spaces unharmed It reveals hidden routes, traps, and concealed threats It always returns unless deliberately destroyed. While in "Sigil" mode: you are harder to ambush (you subconsciously notice “wrongness” in paths you feel uneasy when standing still for too long you instinctively choose routes that avoid hidden danger</p><p>Final Behavior If the Black Kite Sigil is ever destroyed, it does not vanish. Instead, somewhere else in the world, a new one is slowly folded into existence—always ending up in motion again, as if flight is its natural state.</p><table><tbody><tr><th>Type</th><td>Sigil</td></tr></tbody></table><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/loot/the-black-kite-sigil">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 142
+    category: loot
+    slug: the-black-kite-sigil
+    url: https://pointmongo.com/browse/loot/the-black-kite-sigil
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-09-22T05:37:42.1276639Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

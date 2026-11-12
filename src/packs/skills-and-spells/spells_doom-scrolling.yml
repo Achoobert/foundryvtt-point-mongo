@@ -1,0 +1,39 @@
+_id: TAeStr2eJAduXAlf
+_key: '!items!TAeStr2eJAduXAlf'
+name: Doom Scrolling
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A Conjuration spell that conjures a random unknown scroll the caster must use before any other scrolls.</em></p><p><strong>School:</strong> Conjuration · <strong>AoE:</strong> Self · <strong>Duration:</strong> Instant · <strong>Cost:</strong> 5 MP · <strong>Limitation:</strong> conjured scrolls must be used before any others</p><p>Lv1: conjures a random Scroll of an unknown-but-castable spell; must be used before any other scrolls. Lv5: conjures a second scroll simultaneously. Lv10: can conjure a scroll of a known spell for free (still random). Lv15: can conjure scrolls of spells the caster couldn''t normally learn. Lv20: conjure two chosen scrolls, drawn from previously cast spells or known spells.</p><hr><p><em>Source: Community submission — Myles L (Crawler #26933). From <a href="https://pointmongo.com/browse/spells/doom-scrolling">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 392
+    category: spells
+    slug: doom-scrolling
+    url: https://pointmongo.com/browse/spells/doom-scrolling
+    source: 'Community submission — Myles L (Crawler #26933)'
+    tags:
+      - dcc-ccs
+      - spells
+      - conjuration
+    updatedAt: '2026-09-02T04:50:41.867915Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

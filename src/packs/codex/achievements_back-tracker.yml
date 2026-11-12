@@ -1,0 +1,25 @@
+_id: EeKLbTISyhS3jeVB
+_key: '!journal!EeKLbTISyhS3jeVB'
+name: Back Tracker
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: EEa98Xx4vwc0TeH8
+    _key: '!journal.pages!EeKLbTISyhS3jeVB.EEa98Xx4vwc0TeH8'
+    name: Back Tracker
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler tries to retreat back up the stairwell instead of descending, hurting themselves in the attempt.</em></p><p><strong>Scenario:</strong> Crawler balks while descending the stairwell</p><p>You had enough nerves to come into the stairway, but you tried so hard to go back up the stairs that you damaged yourself. That is not how this works, so F U.</p><p><strong>Suggested Rewards:</strong></p><p>You are compelled to go downstairs for the next three floors, and if you don''t, well, we will deal with that when you do that, you coward.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/achievements/back-tracker">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 279
+    category: achievements
+    slug: back-tracker
+    url: https://pointmongo.com/browse/achievements/back-tracker
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:38:13.5968093Z'
+    needsRestat: false
+    missingFields: []

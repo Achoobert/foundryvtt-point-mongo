@@ -1,0 +1,19 @@
+_id: aWv5cLcoXnpEsDf6
+_key: '!items!aWv5cLcoXnpEsDf6'
+name: Enchanted Ring of the Sturdy Raider
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A plain iron ring that toughens its wearer by two points of Constitution.</em></p><p>This iron ring bestows a +2 CON bonus to its wearer.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Ring</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Constitution</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-ring-of-the-sturdy-raider">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1024
+    category: magical-jewelry
+    slug: enchanted-ring-of-the-sturdy-raider
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-ring-of-the-sturdy-raider
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-31T19:00:58.301881Z'
+    needsRestat: false
+    missingFields: []

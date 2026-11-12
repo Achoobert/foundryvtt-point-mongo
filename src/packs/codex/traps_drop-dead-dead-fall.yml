@@ -1,0 +1,25 @@
+_id: MTVcjLRzu3ihywGy
+_key: '!journal!MTVcjLRzu3ihywGy'
+name: Drop Dead Dead Fall
+folder: i4V5JDum8ZGrgq0L
+pages:
+  - _id: x90AATOOmLSdLDe1
+    _key: '!journal.pages!MTVcjLRzu3ihywGy.x90AATOOmLSdLDe1'
+    name: Drop Dead Dead Fall
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A two-stage pit trap: a falling-damage pit followed by a crushing ceiling block a round later.</em></p><p>This wicked little pit trap is a two stage menace. A hinged, weight sensitive lid conceals a 10x10x10 pit in the floor, which causes 1d8 falling damage to unwary Crawlers. 1 round later, a 10×10×10 block falls from the ceiling crushing the occupants of the pit for 10d10dmg. A successful skill check vs Dex will avoid the initial fall. Very useful for discouraging pursuit, at least against the first wave of whatever is after you.</p><p><strong>Notes:</strong></p><p>Neeewwww Achievement!! You''ve fallen in a hole!!! And not the figurative type the real type. How unfortunate... FOR YOU!!! You were just walking along minding your own business when the floor fell out from under you like some sort of magic trick, too bad there is no Magician in sight, maybe he could save you from your peril... Reward? Let''s find out what happens next before we talk about your reward there Chicken Little... (if they survive the next part) Neeeeewwwww Achievement! Chicken Little!!! Some how the sky fell and you survived!! It would have been so much easier if it was just an alien invasion... Oh, wait.... Reward? You''re still alive, Chicken Little, that''s your reward (and you got a new nickname, LUCKY YOU!) Note Submitted by Brenden Harden - Crawler #12,193.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1942). From <a href="https://pointmongo.com/browse/traps/drop-dead-dead-fall">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 360
+    category: traps
+    slug: drop-dead-dead-fall
+    url: https://pointmongo.com/browse/traps/drop-dead-dead-fall
+    source: 'Community submission — DeaDPaN79 (Crawler #1942)'
+    tags:
+      - dcc-ccs
+      - traps
+    updatedAt: '2026-09-22T05:27:11.5092911Z'
+    needsRestat: false
+    missingFields: []

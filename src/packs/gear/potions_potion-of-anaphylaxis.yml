@@ -1,0 +1,22 @@
+_id: 8ztUkOLRZvhawr2X
+_key: '!items!8ztUkOLRZvhawr2X'
+name: Potion of Anaphylaxis
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A poison that induces an allergic reaction cutting off the target''s ability to breathe — and the allergens go airborne.</em></p><p><strong>Warning:</strong> do not spill this on yourself! Remember antihistamines you had to take because you love cats but they''re furry little b@stards that spread dander? This is the opposite! If the recipient of this potion is allergic to any common food or pet dander, they will lose the ability to breathe. The effect is immediate. Duration: 3 minutes. Can be cancelled by a healing potion.... If their cooldown is short enough. Second warning: oh yeah, the allergens trend to go airborne so... Hope you don''t have allergies too!</p><table><tbody><tr><th>Type</th><td>Potion</td></tr></tbody></table><hr><p><em>Source: Community submission — Jessica Fates (Crawler #2067). From <a href="https://pointmongo.com/browse/potions/potion-of-anaphylaxis">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 332
+    category: potions
+    slug: potion-of-anaphylaxis
+    url: https://pointmongo.com/browse/potions/potion-of-anaphylaxis
+    source: 'Community submission — Jessica Fates (Crawler #2067)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-22T05:38:20.3347698Z'
+    needsRestat: false
+    missingFields:
+      - effects

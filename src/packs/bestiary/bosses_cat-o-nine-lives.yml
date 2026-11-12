@@ -1,0 +1,53 @@
+_id: d98Z7ZmVtvSKredT
+_key: '!actors!d98Z7ZmVtvSKredT'
+name: Cat O'Nine Lives
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> Level, stat scores, Move, Floor (sets DR), attacks</p><p><em>Meow-ve over, Garfield, this Borough Boss is the cat''s pajamas. We aren''t kitten around, here.</em></p><p><strong>Type:</strong> Beast. Size: Small-Large. HB: 1 through 9 (usually seen on Floor 4 and higher) DR: 0 +1 for each following life and a 1d6 modifier for each fatal attack used against it. Movement: 1'' per round with +1 every new life. Description: A kitten Borough Boss that must be slain 9 times to truly defeat it. Every time it is slain, though, it grows bigger, more aggressive, gains new and deadlier features that can make it immune to the previous attacks that killed it. Its phases are identified by the number of tails it sprouts during each resurrection. By lives 1-3, its the size of a kitten to a young cat, lives 4-6 its the size of a large house cat. Reaching life 7-9 its the size of a predator cat. Weaknesses: Any unique attacks to end its life can kill it. However, on its next life it will develop an adaptation to survive. Snapped its neck? Its head can swivel. Smashed its skull? Gains thick skull ridges. Plan accordingly or you could end up in the kitty litter.  There is a secret way to end the boss fight: Get the cat to enter a box in any of the phases from its environment and the fight ends immediately. No matter how big it is, it will fit into a box of any size. Opening the box after will reveal the cat has vanished. Crawler/s receive the “Schrödinger’s Boss” achievement and Legendary Schrödinger Loot Box which contains a summonable token for the cat boss at whatever phase it was captured in the box. Last for 90 seconds before it collapses dead and returns to its token state on its next life cycle with a random upgrade and immunity. When it token has used up all its charges, it’s removed from the inventory of the crawler.</p><hr><p><em>Source: Moonshadow Dark. From <a href="https://pointmongo.com/browse/bosses/cat-o-nine-lives">Point Mongo</a>.</em></p>'
+  mobTier: borough
+  level: 1
+  size: Small (2)
+  creatureType: Beast
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 15
+    max: 15
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Cat O'Nine Lives
+  actorLink: false
+flags:
+  point-mongo:
+    id: 487
+    category: bosses
+    slug: cat-o-nine-lives
+    url: https://pointmongo.com/browse/bosses/cat-o-nine-lives
+    source: Moonshadow Dark
+    tags:
+      - boss
+      - borough-boss
+      - beast
+      - bosses
+    updatedAt: '2026-11-11T20:08:41.5909578Z'
+    needsRestat: true
+    missingFields:
+      - Level
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

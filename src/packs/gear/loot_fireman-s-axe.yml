@@ -1,0 +1,19 @@
+_id: 9YlniwI1Y5fVA1du
+_key: '!items!9YlniwI1Y5fVA1du'
+name: Fireman's Axe
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>A red fire axe liberated from a break-glass cabinet, as good against stubborn doors as stubborn mobs, and better with both hands.</em></p><p>Likely pulled directly from a "break glass in case of fire" cabinet somewhere when the world collapsed, this red painted axe is very equally against mobs and stubborn doors.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Weapon</td></tr><tr><th>Tier</th><td>Bronze</td></tr><tr><th>Weapon skill</th><td>Axe</td></tr><tr><th>Damage type</th><td>Slashing</td></tr><tr><th>Limitations</th><td>If used 2 handed - the wielder gains advantage on the attack roll.</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/loot/fireman-s-axe">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 908
+    category: loot
+    slug: fireman-s-axe
+    url: https://pointmongo.com/browse/loot/fireman-s-axe
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-17T18:03:42.03325Z'
+    needsRestat: false
+    missingFields: []

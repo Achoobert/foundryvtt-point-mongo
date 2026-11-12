@@ -1,0 +1,23 @@
+_id: HCWOccHThTKlWmvM
+_key: '!journal!HCWOccHThTKlWmvM'
+name: Gator Creek Estates
+folder: cWQgUi6OmzYETooo
+pages:
+  - _id: QvJtGr0dusEiHf9n
+    _key: '!journal.pages!HCWOccHThTKlWmvM.QvJtGr0dusEiHf9n'
+    name: Gator Creek Estates
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A rundown Florida gated community in the Everblades, hiding a hurricane simulation lab and Crikey the Shivigator Hunter beneath its slime-green pool.</em></p><p>This neighborhood is modeled after a Florida Gated Community</p><p>There is a 8ft tall fence that encloses 3 of its quarters. around the fence are splotched spot of marshy ground with razor like plants growing from them.</p><p>Quarter 1</p><p>The Welcome sign-</p><p>The entrance to Gator Creek Estates is run down and half broken, there is a empty guard house and a broken automatic swinging gate. There is a giant sign next to the entrance that reads, "Welcome to Gator Creek Estates" it is run down as the rest of the place there are pamphlets scattered around the guard house that read "Florida''s premier master-planned residential community! Enjoy our award-winning schools, affordable flood insurance, and complimentary swimming pools!"</p><p>Quarter 2-</p><p>The Cul''de''sac</p><p>Upon entering the community there are four houses placed around a round cul-de-sac. three of the four houses are run down and in shambles. One House stands perfectly sound</p><p>House 1 is in the shape of a Bird</p><p>House 2 shape of a gator</p><p>House 3 is a normal house with a storm chaser like vehicle parked in its drive way there is also a storm shelter in he front yard</p><p>House 4 Perfect house</p><p>Quarter 3-</p><p>The Pool</p><p>The pool is fenced in with 3ft high fencing. the pool is full with green slime like water and smells like sewage. there is a hidden passage way hidden under the lifeguard chair that leads to the final quarter</p><p>Quarter 4-</p><p>Hurricane Simulation Control room</p><p>This room is pristine and high tech. There are rows of servers and computers connected to them. there is a observation room that hangs above the underground facility that houses the neighborhood boss.</p><p>Boss- Crikey the Shivigator Hunter</p><p>Mobs- Shivigator, Shivigator Baby, Bark-ito</p><hr><p><em>Source: Community submission — VertaHex. From <a href="https://pointmongo.com/browse/neighborhoods/gator-creek-estates">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 962
+    category: neighborhoods
+    slug: gator-creek-estates
+    url: https://pointmongo.com/browse/neighborhoods/gator-creek-estates
+    source: Community submission — VertaHex
+    tags: []
+    updatedAt: '2026-10-23T19:20:32.1999013Z'
+    needsRestat: false
+    missingFields: []

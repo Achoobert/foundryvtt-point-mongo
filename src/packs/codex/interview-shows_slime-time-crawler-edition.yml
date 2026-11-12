@@ -1,0 +1,25 @@
+_id: k5tstSQwpMgFKdBE
+_key: '!journal!k5tstSQwpMgFKdBE'
+name: Slime Time, Crawler Edition
+folder: 60wNl7vBu4R8G6qF
+pages:
+  - _id: IPVBzMCRWxOApZ0a
+    _key: '!journal.pages!k5tstSQwpMgFKdBE.IPVBzMCRWxOApZ0a'
+    name: Slime Time, Crawler Edition
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A viewer-voted team competition among three jello-slime crawlers, with a consume-at-your-own-risk vial prize.</em></p><p><strong>Contestants:</strong> Swee Pea (Yellow), J. Fates (Red), Ashley (Green) · <strong>Sponsor:</strong> Self-Produced</p><p>Teams are voted for by adoring viewers; winners get their own vial of slime to do with as they wish. Small print: no liability for side effects if a crawler decides to consume it.</p><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/interview-shows/slime-time-crawler-edition">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 374
+    category: interview-shows
+    slug: slime-time-crawler-edition
+    url: https://pointmongo.com/browse/interview-shows/slime-time-crawler-edition
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - tunnel-shows
+    updatedAt: '2026-09-02T04:50:41.8502648Z'
+    needsRestat: false
+    missingFields: []

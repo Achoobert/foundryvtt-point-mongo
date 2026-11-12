@@ -1,0 +1,23 @@
+_id: lOGy1a0IH1TI0xhL
+_key: '!journal!lOGy1a0IH1TI0xhL'
+name: 'Loot Generator: Previous Owners'
+folder: LgXPy7DgMLD2Fvug
+pages:
+  - _id: ET1jUIYsCdYAAcHS
+    _key: '!journal.pages!lOGy1a0IH1TI0xhL.ET1jUIYsCdYAAcHS'
+    name: 'Loot Generator: Previous Owners'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Who had the item before the crawler did. Waiting for its first rows.</em></p><p>Used by the <a href="/loot">Loot Generator</a> as a prompt for item descriptions: who owned this thing before it ended up in a loot box? A retired dentist, a mall Santa, a very small goblin. This one is for the community to fill.</p><p>Have something to add? Press <strong>+ Suggest a row</strong> above the table, or the pencil beside a row to suggest a change. It comes to us for a quick look, then goes in with your name on it.</p><table><tbody><tr><th>unique</th><td>false</td></tr><tr><th>lootGenerator</th><td>owners</td></tr></tbody></table><hr><p><em>Source: Point Mongo Team. From <a href="https://pointmongo.com/browse/roll-tables/loot-generator-previous-owners">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 921
+    category: roll-tables
+    slug: loot-generator-previous-owners
+    url: https://pointmongo.com/browse/roll-tables/loot-generator-previous-owners
+    source: Point Mongo Team
+    tags: []
+    updatedAt: '2026-11-09T03:03:17.4124468Z'
+    needsRestat: false
+    missingFields: []

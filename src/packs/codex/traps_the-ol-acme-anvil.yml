@@ -1,0 +1,25 @@
+_id: XdeyLzY2jKwzgMQ4
+_key: '!journal!XdeyLzY2jKwzgMQ4'
+name: The Ol' Acme Anvil
+folder: i4V5JDum8ZGrgq0L
+pages:
+  - _id: Q38TUg2MOHJ2a0IQ
+    _key: '!journal.pages!XdeyLzY2jKwzgMQ4.Q38TUg2MOHJ2a0IQ'
+    name: The Ol' Acme Anvil
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A classic falling-anvil gag trap, triggerable via button, rope, or sticky pressure plate, for variable but likely heavy damage.</em></p><p>A classic of Earth cartoons, this gag has brought a smile to the faces of countless children (Earth has such a violent culture, doesn''t it? Good thing we annihilated most of their population and trapped the survivors inside the dungeon so they could really go wild!). Triggered by a red button too tantalizing to ignore, a rope to nowhere, or, my personal favorite, a sticky pressure plate, this trap is heralded by the ominous whistling and looming shadow of a 500lb anvil falling much faster and from much farther than should be possible inside the dungeon. You know what they say: if it ain''t broke, drop an anvil on it! (Note: anvil may be substituted for pianos, elephants, or boiling pots of tar followed by a bag of feathers) Damage: Variable, but probably a lot.</p><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/traps/the-ol-acme-anvil">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 365
+    category: traps
+    slug: the-ol-acme-anvil
+    url: https://pointmongo.com/browse/traps/the-ol-acme-anvil
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - dcc-ccs
+      - traps
+    updatedAt: '2026-09-22T05:38:24.8313303Z'
+    needsRestat: false
+    missingFields: []

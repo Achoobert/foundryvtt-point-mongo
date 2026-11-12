@@ -1,0 +1,24 @@
+_id: rD1qFze7ojEBANJE
+_key: '!journal!rD1qFze7ojEBANJE'
+name: Fresh Meat
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 3Tr3PkQBGEqFEfPO
+    _key: '!journal.pages!rD1qFze7ojEBANJE.3Tr3PkQBGEqFEfPO'
+    name: Fresh Meat
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you take your first point of damage on the Second Floor.</em></p><p>Congratulations, you bled! It''s not much, but it''s honest work. The viewers back home are already placing bets on how long you''ll last. The over/under is not in your favor.</p><p>Reward: Bronze Rookie Mistake Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/fresh-meat">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 596
+    category: achievements
+    slug: fresh-meat
+    url: https://pointmongo.com/browse/achievements/fresh-meat
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9507776Z'
+    needsRestat: false
+    missingFields: []

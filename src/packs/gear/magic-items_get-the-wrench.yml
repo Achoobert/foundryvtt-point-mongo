@@ -1,0 +1,23 @@
+_id: Rt4AVK9BuSXEesnV
+_key: '!items!Rt4AVK9BuSXEesnV'
+name: Get The Wrench
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A magical wrench that boosts repair, building, and throwing-wrench skills.</em></p><p><strong>Tool:</strong> +2 to the Repair skill, + 1 to the build tool, + 1 to Thrown wrench skill, This is a Wrench, a needed piece of any toolbox, just use it for a turn and something gets tighter or looser (if you can remember the way each thing goes), anyway it is important to keep things running, and can sometimes even help you build things. just make sure you dodge it if it gets thrown at you.</p><table><tbody><tr><th>Type</th><td>Tool</td></tr></tbody></table><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/magic-items/get-the-wrench">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 177
+    category: magic-items
+    slug: get-the-wrench
+    url: https://pointmongo.com/browse/magic-items/get-the-wrench
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-11-11T20:08:41.6607951Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

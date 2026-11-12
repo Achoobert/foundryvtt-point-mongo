@@ -1,0 +1,23 @@
+_id: cM5PIsE4TjN8Jik9
+_key: '!journal!cM5PIsE4TjN8Jik9'
+name: Adding Insult To Injury!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: VBHUTKZcOIYNsvsJ
+    _key: '!journal.pages!cM5PIsE4TjN8Jik9.VBHUTKZcOIYNsvsJ'
+    name: Adding Insult To Injury!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Awarded for humiliating an enemy who was already beaten.</em></p><p>He was already down, did you really have to go and add salt to the wound?</p><p>Wow. That was just incredible. You straight up pulverized that guy! And not only that, it was utterly and totally HUMILIATING! Bravo! I couldn’t have done a better job myself. That’s one for the record books!</p><p>REWARD!</p><p>You’ve received a [TIER] Ass Whooping Loot Box!</p><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26933. From <a href="https://pointmongo.com/browse/achievements/adding-insult-to-injury">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 856
+    category: achievements
+    slug: adding-insult-to-injury
+    url: https://pointmongo.com/browse/achievements/adding-insult-to-injury
+    source: 'Community submission — BlessedPsycho, Crawler #26933'
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.1761659Z'
+    needsRestat: false
+    missingFields: []

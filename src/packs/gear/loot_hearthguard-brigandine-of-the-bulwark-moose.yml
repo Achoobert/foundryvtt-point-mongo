@@ -1,0 +1,26 @@
+_id: tVpGtVIjXIFock6d
+_key: '!items!tVpGtVIjXIFock6d'
+name: Hearthguard Brigandine of the Bulwark Moose
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>Rare medium body armor that reduces damage on hits and can grow protective moose horns for allies.</em></p><dl class="stat-block"><dt>Type</dt><dd>Body Armor (Medium)</dd><dt>AC Bonus</dt><dd>+3</dd></dl><p>A reinforced brigandine coat of interlocking steel plates hidden beneath thick wool and hardened leather. The metal is etched with faint warding lines that warm slightly when danger is near, as if the armor is waking up before its wearer does. It feels less like equipment and more like a habit of survival made solid.</p><p><strong>While wearing this armor:</strong> +3 to Armor Class. Resistance to cold damage from nonmagical sources. Advantage on saving throws against being knocked prone or forcibly moved.</p><p><strong>Brace for Impact</strong> — when hit by an attack, use your reaction to absorb and distribute the force: reduce the triggering attack''s damage in half (rounded down), or to 1/4 (rounded down) if you took the evade action, and may ignore forced movement from the hit.</p><p><strong>Hearth-Ward Horns</strong> — after 24 hours of wear, you or your helmet grow a set of moose horns (disappear once the armor is removed). While present: allies within 20ft gain resistance to non-magical cold, and allies within 5ft gain additional benefits.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/loot/hearthguard-brigandine-of-the-bulwark-moose">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 45
+    category: loot
+    slug: hearthguard-brigandine-of-the-bulwark-moose
+    url: https://pointmongo.com/browse/loot/hearthguard-brigandine-of-the-bulwark-moose
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - armor
+      - body-armor
+      - magical-armor
+      - rare
+    updatedAt: '2026-08-31T17:12:29.7433532Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

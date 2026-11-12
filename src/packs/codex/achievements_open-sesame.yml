@@ -1,0 +1,24 @@
+_id: emDDkd5GliKMoQbt
+_key: '!journal!emDDkd5GliKMoQbt'
+name: Open Sesame
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 9qi1uD7YXH55tNX3
+    _key: '!journal.pages!emDDkd5GliKMoQbt.9qi1uD7YXH55tNX3'
+    name: Open Sesame
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you open a locked door without using its obvious intended method.</em></p><p>You opened a locked door without using the obvious method. The System AI has determined that locks are merely suggestions when you are sufficiently creative.</p><p>Reward: Bronze Looter Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/open-sesame">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 600
+    category: achievements
+    slug: open-sesame
+    url: https://pointmongo.com/browse/achievements/open-sesame
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9539242Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,44 @@
+_id: 2pSUBtCLuAPrmLWY
+_key: '!items!2pSUBtCLuAPrmLWY'
+name: Path of Shadows
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Teleports you from one shadow to another within sight.</em></p><p>Step into one shadow and emerge from another.</p><p>Your starting position and destination must both contain a shadow or an area of dim light, and you must be able to see the destination.</p><p>You instantly teleport to the destination.</p><hr><p><em>Source: Community submission — TheSharp. From <a href="https://pointmongo.com/browse/spells/path-of-shadows">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 5
+  range: 30 feet
+  duration: ''
+  cooldown: Once per round
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Mage
+    - Rogue
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: fOCbJmi9Q1BTYe29
+      rankThreshold: 5
+      description: <p>Range increases to 60 feet.</p>
+    - id: cbfJPCgcS1ZXxF22
+      rankThreshold: 10
+      description: <p>You may teleport directly to the location of one of your Shadow Familiar's manifested bodies, even if you cannot see that location.</p>
+    - id: Wxo0hJvRy3EtvPax
+      rankThreshold: 15
+      description: <p>Range increases to 120 feet. Once per round, when targeted by an Attack, you may use Path of Shadows as an Interrupt by spending an Action.</p>
+flags:
+  point-mongo:
+    id: 743
+    category: spells
+    slug: path-of-shadows
+    url: https://pointmongo.com/browse/spells/path-of-shadows
+    source: Community submission — TheSharp
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6584558Z'
+    needsRestat: false
+    missingFields: []

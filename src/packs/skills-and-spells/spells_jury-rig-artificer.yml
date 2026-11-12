@@ -1,0 +1,39 @@
+_id: okyZnAtTnzNFoNsl
+_key: '!items!okyZnAtTnzNFoNsl'
+name: Jury-Rig Artificer
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>Highlights usable components nearby and lets you assemble crude but functional tools, traps, or weapons.</em></p><dl class="stat-block"><dt>Type</dt><dd>Artificer</dd><dt>Area of Effect</dt><dd>15 meters</dd><dt>Duration</dt><dd>Concentration, or until deactivated</dd><dt>Cost</dt><dd>15 mana</dd></dl><p>Highlights "usable" components in your surroundings, or things other crawlers would overlook. You have an unnatural knack for turning dungeon trash into something that almost works. With a few seconds and whatever is nearby, you can assemble crude but functional tools, traps, or weapons — impromptu shanks, clubs, or reinforced melee weapons, basic traps (tripwires, spike rigs, noise-makers), emergency tools (lock picks, wedges, crude shields). The system won''t guarantee quality, only results.</p><p><strong>Efficiency Scaling:</strong></p><ul><li>Lv.1: Usable items are highlighted</li><li>Lv.2: System presents options for items to build</li><li>Lv.3: System gives a probability of success percentage</li><li>Lv.4: Built items remain named and don''t disassemble when stored in inventory</li><li>Lv.5: Allies can use your inventions, albeit with worse efficacy</li><li>Lv.6: Specializations unlock — Field Engineer (durability/complex constructs), Trap Gremlin (faster trap deployment, higher damage, higher failure chance), Scrap Hoarder (break down items into reusable components)</li><li>Lv.7: Rarely below 75% chance of success</li><li>Lv.8: Critical failures using this skill are no longer possible</li></ul><hr><p><em>Source: Community submission — Superior Booker (Crawler #30429). From <a href="https://pointmongo.com/browse/spells/jury-rig-artificer">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 24
+    category: spells
+    slug: jury-rig-artificer
+    url: https://pointmongo.com/browse/spells/jury-rig-artificer
+    source: 'Community submission — Superior Booker (Crawler #30429)'
+    tags:
+      - ability
+      - artificer
+      - crafting
+    updatedAt: '2026-08-31T17:12:29.7089953Z'
+    needsRestat: false
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

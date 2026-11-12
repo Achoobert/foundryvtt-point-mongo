@@ -1,0 +1,24 @@
+_id: GOc9wcVIcOf26ECy
+_key: '!journal!GOc9wcVIcOf26ECy'
+name: Misc. Junk Drawer
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: SkRyoNZCc8FMfKFo
+    _key: '!journal.pages!GOc9wcVIcOf26ECy.SkRyoNZCc8FMfKFo'
+    name: Misc. Junk Drawer
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you fill your Inventory entirely with Misc. Junk before picking up a single useful item.</em></p><p>You had your pick of an entire dungeon floor''s worth of loot and chose bottle caps, a broken spoon, and half a shoelace. There''s a kitchen drawer in every household exactly like your Inventory right now. We respect the commitment to clutter.</p><p>Reward: Bronze Kitchen Draw Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/misc-junk-drawer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 689
+    category: achievements
+    slug: misc-junk-drawer
+    url: https://pointmongo.com/browse/achievements/misc-junk-drawer
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0265989Z'
+    needsRestat: false
+    missingFields: []

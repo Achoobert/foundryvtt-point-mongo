@@ -1,0 +1,25 @@
+_id: 1DguuZ4FGHnC9xUd
+_key: '!journal!1DguuZ4FGHnC9xUd'
+name: The Time Thief's Refuge
+folder: adVwT3zSO8jf77K5
+pages:
+  - _id: GqNVIQnWGI49yKQS
+    _key: '!journal.pages!1DguuZ4FGHnC9xUd.GqNVIQnWGI49yKQS'
+    name: The Time Thief's Refuge
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Time slows inside — a day within is an hour outside. Wounds close faster, skills grow, but the chat feature and sleep are unavailable.</em></p><p>Inside the refuge, time slows. One day within is just an hour outside. Your wounds close faster, your mind sharpens, your skills grow. You can train, craft, rest...or unravel. Your chat feature becomes unavailable. You lose some interface functionality and you cannot sleep. Food appears when you think about it. Not what you ask for, but what you need. A perfect steak that restores your strength, a drink that boosts your mind but leaves your thoughts...a little off.</p><p>You can summon echoes of enemies, past and present, and things you haven''t met yet. Fight them. Study them. Die to them repeatedly without consequence. Probably. But nothing is free. Stay too long and the silence starts to press in. Thoughts loop. Time loses meaning. You might leave stronger...or just different. Sometimes you hear movement in the distance. Other Crawlers? Ghosts? Future versions of yourself. The system does not clarify. Usage is limited. Of course it is. Use it wisely, Crawler. Or don''t. The show gets better either way.</p><hr><p><em>Source: Community submission — PrplCrazy. From <a href="https://pointmongo.com/browse/saferooms/the-time-thief-s-refuge">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 434
+    category: saferooms
+    slug: the-time-thief-s-refuge
+    url: https://pointmongo.com/browse/saferooms/the-time-thief-s-refuge
+    source: Community submission — PrplCrazy
+    tags:
+      - dcc-ccs
+      - saferooms
+    updatedAt: '2026-09-05T05:20:41.7956455Z'
+    needsRestat: false
+    missingFields: []

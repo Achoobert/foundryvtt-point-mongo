@@ -1,0 +1,39 @@
+_id: DlLnL3nivVLarjhk
+_key: '!items!DlLnL3nivVLarjhk'
+name: Swagger
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>An Illusion spell that doubles the apparent value of the caster''s stats to onlookers, scaling into real temporary boosts.</em></p><p><strong>School:</strong> Illusion · <strong>AoE:</strong> Caster · <strong>Duration:</strong> 1 hour · <strong>Cost:</strong> 2 MP</p><p>Base: doubles how the caster''s stats appear to onlookers. Lv5: temporary +1 level to one skill. Lv10: temporary +1 level to one attribute. Lv15: duration extends until the caster next rests.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/spells/swagger">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 422
+    category: spells
+    slug: swagger
+    url: https://pointmongo.com/browse/spells/swagger
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - spells
+      - illusion
+    updatedAt: '2026-09-02T04:50:41.8870542Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

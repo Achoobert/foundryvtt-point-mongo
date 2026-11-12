@@ -1,0 +1,25 @@
+_id: e7A4oL24gTVtH1MQ
+_key: '!journal!e7A4oL24gTVtH1MQ'
+name: The Aunt Bunny Special
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: qGkkLBb05QAYgnuc
+    _key: '!journal.pages!e7A4oL24gTVtH1MQ.qGkkLBb05QAYgnuc'
+    name: The Aunt Bunny Special
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler tumbles spectacularly down a flight of stairs.</em></p><p><strong>Scenario:</strong> Crawler falls down stairs</p><p>Congratulations!** You just completed a vertical descent at a velocity that defies both physics and basic motor skills. You didn''t just fall; you performed a rhythmic, percussive interpretive dance with every single wooden riser on your way down. I watched the whole thing. It was like watching a slinky made of regret.</p><p><strong>The flavor text:</strong> "Lord have mercy! My shoe!" You’ve successfully channeled the spirit of a legendary 1980s family gathering. Somewhere, in a purple leather jumpsuit, a man is laughing at your structural integrity. You’ve got the momentum of a runaway freight train and the grace of a bowling ball in a tumble dryer. Go ahead, lay there on the foyer floor. Just make sure you don''t lose a shoe, or we’ll have to start the whole routine over.</p><p><strong>Current Status:</strong> Embarrassed, but surprisingly aerodynamic.</p><p><strong>Suggested Rewards:</strong> You’ve received a **Bronze "Gooney Goo-Goo" Box.** Inside, you’ll find a **Celestial Ice Pack** and a single, slightly scuffed **High-Heeled Pump.** (Warning: Wearing the shoe provides a +5 to Charisma but a -20 to Dexterity. Use with caution around staircases.)</p><hr><p><em>Source: Community submission — David Brookhart (Crawler #25631). From <a href="https://pointmongo.com/browse/achievements/the-aunt-bunny-special">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 285
+    category: achievements
+    slug: the-aunt-bunny-special
+    url: https://pointmongo.com/browse/achievements/the-aunt-bunny-special
+    source: 'Community submission — David Brookhart (Crawler #25631)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:27:11.5181133Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: poCz2wPOY3VsqCD0
+_key: '!items!poCz2wPOY3VsqCD0'
+name: Hanky of Offensive Odor Immunity
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A silk handkerchief that grants immunity to aerosol/cloud attacks and makes everything smell like roses.</em></p><p><strong>Type:</strong> Item</p><p>Placed over the mouth, this colorful silk handkerchief grants immunity to aerosol and cloud attacks, and everything smells like roses while worn.</p><table><tbody><tr><th>Type</th><td>Item</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/hanky-of-offensive-odor-immunity">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 179
+    category: magic-items
+    slug: hanky-of-offensive-odor-immunity
+    url: https://pointmongo.com/browse/magic-items/hanky-of-offensive-odor-immunity
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-03T16:29:38.8632786Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

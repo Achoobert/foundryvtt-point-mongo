@@ -1,0 +1,25 @@
+_id: lmTjt2d7SjEbAXmT
+_key: '!journal!lmTjt2d7SjEbAXmT'
+name: Cropduster
+folder: i4V5JDum8ZGrgq0L
+pages:
+  - _id: W9iRM9t07r1Wakdd
+    _key: '!journal.pages!lmTjt2d7SjEbAXmT.W9iRM9t07r1Wakdd'
+    name: Cropduster
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A delayed-trigger pressure plate that releases a foul, nausea-inducing gas cloud on everyone except the one who set it off.</em></p><p>Pressure Plate triggers silently and doesn''t go off until after you step off it, releases a noxious fart smelling cloud of gas on everyone in the party except the one that triggered it (who can''t smell it) that in addition to smelling really bad gives everyone a nausea debuff. That would be the floor one or two version of the effect, obviously could be modified to be more deadly, maybe there''s a version where the fart cloud is visible and actually looks like it spouts from the tripper''s butt. also "cropduster" could be a debuff disease/curse applied to the tripper that sticks around and he randomly will continue to produce until it''s cured.</p><hr><p><em>Source: Community submission — Socks (Crawler #4381). From <a href="https://pointmongo.com/browse/traps/cropduster">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 359
+    category: traps
+    slug: cropduster
+    url: https://pointmongo.com/browse/traps/cropduster
+    source: 'Community submission — Socks (Crawler #4381)'
+    tags:
+      - dcc-ccs
+      - traps
+    updatedAt: '2026-09-22T05:38:24.833522Z'
+    needsRestat: false
+    missingFields: []

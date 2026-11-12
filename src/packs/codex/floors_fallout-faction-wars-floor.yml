@@ -1,0 +1,25 @@
+_id: Exct6fRGNAtp0dlC
+_key: '!journal!Exct6fRGNAtp0dlC'
+name: Fallout Faction Wars Floor
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: xCKrWN2mzrNCQw67
+    _key: '!journal.pages!Exct6fRGNAtp0dlC.xCKrWN2mzrNCQw67'
+    name: Fallout Faction Wars Floor
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A post-apocalypse floor where the mobs are Raiders, Super Mutants, Brotherhood, and Enclave analogues — Crawlers must grab the water chip and give the NPCs a fighting chance.</em></p><p>Instead of a beautiful world ruined by the war, a post apocalypse world where the factions are all available mobs (instead of Raiders, Super Mutants, Brotherhood and Enclave). The goal for the Crawlers is to get the water chip and leave the level having given the NPCs a chance to improve their world, even though we know it''ll be immediately crushed.</p><hr><p><em>Source: Community submission — Ian O''H, Crawler #4207. From <a href="https://pointmongo.com/browse/floors/fallout-faction-wars-floor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 449
+    category: floors
+    slug: fallout-faction-wars-floor
+    url: https://pointmongo.com/browse/floors/fallout-faction-wars-floor
+    source: 'Community submission — Ian O''H, Crawler #4207'
+    tags:
+      - dcc-ccs
+      - floors
+    updatedAt: '2026-08-31T17:12:39.4301361Z'
+    needsRestat: false
+    missingFields: []

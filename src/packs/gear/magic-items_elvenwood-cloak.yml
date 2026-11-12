@@ -1,0 +1,23 @@
+_id: T2jALlDlHbPufY4U
+_key: '!items!T2jALlDlHbPufY4U'
+name: Elvenwood Cloak
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>Warm, waterproof, hooded dark green wool. It hides you from most people and endears you to elves.</em></p><p><strong>Type:</strong> Accessory</p><p>Waterproof, warm, hooded wool cloak granting +50% stealth and +50% charisma with elves.</p><table><tbody><tr><th>Type</th><td>Cloak</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/elvenwood-cloak">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 173
+    category: magic-items
+    slug: elvenwood-cloak
+    url: https://pointmongo.com/browse/magic-items/elvenwood-cloak
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-24T18:09:52.9475024Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

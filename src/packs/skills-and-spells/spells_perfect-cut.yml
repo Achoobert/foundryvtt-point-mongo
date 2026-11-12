@@ -1,0 +1,38 @@
+_id: 09F5DN5kewkn8M9p
+_key: '!items!09F5DN5kewkn8M9p'
+name: Perfect Cut
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A free precision attack skill that scales into armor-vulnerability, bleed, disarm, and spell-interrupt effects.</em></p><p><strong>Level 1:</strong> Aim a precise cut at your target, slashing at them with deliverable speed.</p><p><strong>Level 5:</strong> You can aim this at armor straps, applying the Vulnerable debuff, making them take an 10% more damage (rounded down) for 1 Round.</p><p><strong>Level 10:</strong> You can aim this at a target''s exposed flesh, applying the Rend debuff, making them take an additional 1d8 Bleed damage a turn until they heal.</p><p><strong>Level 15:</strong> You can aim this at the target''s weapon, Disarming them until they pick it back up or draw out a new one.</p><p><strong>Level 20:</strong> You can aim this at a spellcasting target, being faster than their magic, and interrupt any casting Spell they were going to use. Using it this way counts as an Interrupt.</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/perfect-cut">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 413
+    category: spells
+    slug: perfect-cut
+    url: https://pointmongo.com/browse/spells/perfect-cut
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+    updatedAt: '2026-11-11T20:08:41.7228818Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

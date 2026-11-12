@@ -1,0 +1,23 @@
+_id: JnCBcnD7C0GTbKZT
+_key: '!journal!JnCBcnD7C0GTbKZT'
+name: Image is Everything
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: HP1sBCrRt8psmivI
+    _key: '!journal.pages!JnCBcnD7C0GTbKZT.HP1sBCrRt8psmivI'
+    name: Image is Everything
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Awarded for staying immaculately groomed while the world ends around you.</em></p><p>Not everyone has the sense of mind to dress for success when the world just pancaked. Good for you! You would not believe how much people let themselves go when "everything is gone".  Not you though it seems, dressed to the 9''s with a freshly trimmed beard, the ladies are gonna love you, and the fellas. But we can talk about passes to see your backstage later, for now see if there are any mobs that could.....use a trim. Gooood Luck</p><p>Reward: One Vanity Box</p><hr><p><em>Source: Community submission — AI Bogboi. From <a href="https://pointmongo.com/browse/achievements/image-is-everything">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 837
+    category: achievements
+    slug: image-is-everything
+    url: https://pointmongo.com/browse/achievements/image-is-everything
+    source: Community submission — AI Bogboi
+    tags: []
+    updatedAt: '2026-09-30T02:18:46.2934635Z'
+    needsRestat: false
+    missingFields: []

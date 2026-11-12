@@ -1,0 +1,43 @@
+_id: 8yAYMyP6TO06ydXp
+_key: '!items!8yAYMyP6TO06ydXp'
+name: Windfury
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>A Druid weapon enchantment that turns every hit into a free swing at whoever is standing next to your target.</em></p><p>For the duration of this spell, if you hit with the enchanted weapon, you may make an extra free attack with disadvantage against a creature adjacent to the first target.</p><table><tbody><tr><th>Limitations</th><td>must be casted on a Melee Weapon</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/spells/windfury">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 13
+  range: 5ft
+  duration: 1min per rank
+  cooldown: 15min
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Druid
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: 8Bo1VBaOESX56Rv2
+      rankThreshold: 5
+      description: <p>You may take a free step between attacks, allowing you to make the extra free attack against a creature within range after the step.</p>
+    - id: zR5K0wcQiJTtxP2b
+      rankThreshold: 10
+      description: <p>The extra free attack is no longer made at Disadvantage</p>
+    - id: g61xkwLsTEHOaRdj
+      rankThreshold: 15
+      description: <p>You may take the extra free attack even if you miss the original target.</p>
+flags:
+  point-mongo:
+    id: 944
+    category: spells
+    slug: windfury
+    url: https://pointmongo.com/browse/spells/windfury
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-10-20T15:14:57.4220885Z'
+    needsRestat: false
+    missingFields: []

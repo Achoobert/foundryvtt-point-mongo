@@ -1,0 +1,24 @@
+_id: mRHdFuHGtagcJdNo
+_key: '!journal!mRHdFuHGtagcJdNo'
+name: Hold My Beer
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 8bhRbIc0t7sLbbBb
+    _key: '!journal.pages!mRHdFuHGtagcJdNo.8bhRbIc0t7sLbbBb'
+    name: Hold My Beer
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you attempt an obviously dangerous stunt because another crawler dared you.</em></p><p>You voluntarily attempted an extremely dangerous stunt because someone else suggested it.</p><p>This is not courage.</p><p>This is not bravery.</p><p>This is friendship.</p><p>Reward: Silver Lucky Bastard Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/hold-my-beer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 638
+    category: achievements
+    slug: hold-my-beer
+    url: https://pointmongo.com/browse/achievements/hold-my-beer
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9847564Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,25 @@
+_id: bvpb7kv9Rl3NcQ3y
+_key: '!journal!bvpb7kv9Rl3NcQ3y'
+name: Bloom Owls
+folder: rEMOgPJ7utWySMpl
+pages:
+  - _id: O6ohkEtmFXJ3NfGL
+    _key: '!journal.pages!bvpb7kv9Rl3NcQ3y.O6ohkEtmFXJ3NfGL'
+    name: Bloom Owls
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Large flower-feathered owls that release sleep-inducing pollen clouds and glow with pollen-light eyes.</em></p><p><strong>Species:</strong> Bloom Owl · <strong>Size:</strong> Large · <strong>Stats:</strong> STR 14, DEX 18, CON 16, INT 12, WIS 20, CHA 17</p><p>Attacks: Talons 2d6+DEX (DC16 CON save or bleed 5 rounds), Beak Strike 2d8+DEX. Feathers resemble flower petals or leaves that shift with the seasons or moon cycle, with pollen-glowing eyes symbolizing wisdom and renewal; may feed on nectar or ambient magic. Ability — Pollen Dream: releases glowing pollen in a 30'' cone, DC14 CON save or fall asleep for 1d4 rounds.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/mounts/bloom-owls">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 263
+    category: mounts
+    slug: bloom-owls
+    url: https://pointmongo.com/browse/mounts/bloom-owls
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - mounts
+    updatedAt: '2026-09-02T04:50:41.6712867Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: MwEv4LajhsonqKbk
+_key: '!items!MwEv4LajhsonqKbk'
+name: IV Bag of Autodelivery
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A magical IV bag, worn outside inventory, that auto-triggers up to 5 stored potions with no cooldown.</em></p><p><strong>Type:</strong> Accessory</p><p>Also known as the Paramedic Roomie Bag. A magical fluid delivery bag hung outside the inventory that holds up to 5 potions and auto-administers them on trigger, no cooldown. Designed for healing potions but works with others — mixing potion types may cause unintended consequences.</p><table><tbody><tr><th>Type</th><td>Accessory</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/iv-bag-of-autodelivery">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 182
+    category: magic-items
+    slug: iv-bag-of-autodelivery
+    url: https://pointmongo.com/browse/magic-items/iv-bag-of-autodelivery
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-03T16:29:38.8642758Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

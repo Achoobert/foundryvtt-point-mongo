@@ -1,0 +1,26 @@
+_id: XP5tGmkPhr2Q15mA
+_key: '!journal!XP5tGmkPhr2Q15mA'
+name: Dewy, Cheatum, and Hauw
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: pH7bmGiP1gsMnUoG
+    _key: '!journal.pages!XP5tGmkPhr2Q15mA.pH7bmGiP1gsMnUoG'
+    name: Dewy, Cheatum, and Hauw
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A three-headed Ogre attorney firm specializing in medical malpractice.</em></p><p><strong>Type:</strong> Lawyer · <strong>Race:</strong> Ogre</p><p>A three-headed Ogre Attorney at Law, specializing in medical malpractice.</p><hr><p><em>Source: Community submission — Ogrekin (Crawler #30788). From <a href="https://pointmongo.com/browse/npcs/dewy-cheatum-and-hauw">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 242
+    category: npcs
+    slug: dewy-cheatum-and-hauw
+    url: https://pointmongo.com/browse/npcs/dewy-cheatum-and-hauw
+    source: 'Community submission — Ogrekin (Crawler #30788)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - lawyer
+    updatedAt: '2026-09-02T04:50:41.4048966Z'
+    needsRestat: false
+    missingFields: []

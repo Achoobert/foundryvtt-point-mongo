@@ -1,0 +1,23 @@
+_id: aFGvkCHREtYaM2ze
+_key: '!items!aFGvkCHREtYaM2ze'
+name: Wolfman
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A large, furry carnivore race: an efficient killing machine with serious self-control problems.</em></p><p>Carnivorous, hungry, enraged and furry, a large, highly efficient killing machine with serious self control issue. Yeah, I am sure your party is thrilled you went for this race...</p><table><tbody><tr><th>Size</th><td>Large (5)</td></tr><tr><th>DR</th><td>1</td></tr><tr><th>Build points</th><td>25</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Strength</li><li>+2 Dexterity</li><li>+2 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Regeneration Skill</li><li>+2 Bite</li><li>+2 Slice</li><li>+1 Acute Ears</li></ul><p><strong>Benefits</strong></p><ul><li>Roll with advantage for all scent based checks <em>(minor)</em></li><li>Rage benefit <em>(major)</em></li><li>Heal 1 HB when you damage or kill a creature with a Bite attack - maximum 5HBs per scene (2pts) <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Minor: -2 Int</li><li>Minor: Poisoned by Wolfsbane</li><li>Minor: When hurt (50% health or less) must succeed in an Unopposed INT to avoid attacking allies if they are the nearest target</li><li>Moderate: Vulnerable to Silver (+2pts)</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/wolfman">Point Mongo</a>.</em></p>'
+  size: Large (5)
+  prerequisites: ''
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 557
+    category: races
+    slug: wolfman
+    url: https://pointmongo.com/browse/races/wolfman
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6366422Z'
+    needsRestat: false
+    missingFields: []

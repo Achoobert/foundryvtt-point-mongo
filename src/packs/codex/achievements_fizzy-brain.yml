@@ -1,0 +1,25 @@
+_id: sbSPqLyq85FVuZcL
+_key: '!journal!sbSPqLyq85FVuZcL'
+name: Fizzy Brain
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 3AI6GSKSQkbSbMiK
+    _key: '!journal.pages!sbSPqLyq85FVuZcL.3AI6GSKSQkbSbMiK'
+    name: Fizzy Brain
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered by a chat typing mistake, but this time it grants a permanent dyslexia-immunity reading skill instead of mockery.</em></p><p><strong>Trigger:</strong> A typing mistake in chat.</p><p><strong>Effect:</strong> the crawler''s Dyslexia skill jumps to level 15, letting them read error-riddled posts without noticing a single mistake, even when someone points it out.</p><p><strong>Reward:</strong> A Bronze Poindexter box with a pair of reading glasses.</p><hr><p><em>Source: Community submission — Ian O''H (Crawler #4207). From <a href="https://pointmongo.com/browse/achievements/fizzy-brain">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 300
+    category: achievements
+    slug: fizzy-brain
+    url: https://pointmongo.com/browse/achievements/fizzy-brain
+    source: 'Community submission — Ian O''H (Crawler #4207)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-02T04:50:41.7046084Z'
+    needsRestat: false
+    missingFields: []

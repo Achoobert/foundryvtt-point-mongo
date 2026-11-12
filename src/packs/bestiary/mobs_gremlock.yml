@@ -1,0 +1,52 @@
+_id: MEU1uG0xi8xT4GtF
+_key: '!actors!MEU1uG0xi8xT4GtF'
+name: Gremlock
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>A cute sprite by day that transforms into a flesh-devouring, pack-hunting horror by night.</em></p><p>A small sprite that looks adorable by day but turns into a medium-dog-sized, flesh-devouring monster at night, hunting in packs — think gremlins with more teeth.</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — TheMrPanda (Crawler #—). From <a href="https://pointmongo.com/browse/mobs/gremlock">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 3
+  size: Small (2)
+  creatureType: Fairy
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 3
+    max: 3
+  dr: 1
+  stats:
+    str:
+      value: 2
+    dex:
+      value: 3
+    con:
+      value: 6
+    int:
+      value: 2
+    cha:
+      value: 1
+  attacks:
+    - name: Bite
+      toHit: ''
+      damage: 1d4+1
+      damageType: ''
+      range: ''
+      effect: ''
+prototypeToken:
+  name: Gremlock
+  actorLink: false
+flags:
+  point-mongo:
+    id: 107
+    category: mobs
+    slug: gremlock
+    url: https://pointmongo.com/browse/mobs/gremlock
+    source: 'Community submission — TheMrPanda (Crawler #—)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-22T01:07:36.1102178Z'
+    needsRestat: false
+    missingFields: []

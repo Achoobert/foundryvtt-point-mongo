@@ -1,0 +1,58 @@
+_id: Gw7DYwHwKpT31ksf
+_key: '!actors!Gw7DYwHwKpT31ksf'
+name: Palm Trees
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>Mobile, sentient Huge palm trees with a giant slapping hand in place of leaves — friendly to vegans, dangerous to everyone else.</em></p><p>Vegans love them, non vegans should be terrified of them. These are not your Caribbean destination picture perfect shade creating plants. They have a flexible trunk and instead of leaves, there is a giant hand, yes a giant hand and the end. Depending on the age and length of the palm tree, they can either smack you to the ground or grab you and throw you with force to a distant location. Vegans though, get a pat on the head and perhaps a palm nut that can be consumed for buffs. These palm trees are not stationary and can migrate by crawling. In this form they are limited to slaps and smacks.</p><p>Resistant to slashing and blunt weapons</p><p>Vulnerable to fire</p><table><tbody><tr><th>Floor</th><td>3</td></tr></tbody></table><hr><p><em>Source: Community submission — Otoun (Crawler #1427). From <a href="https://pointmongo.com/browse/mobs/palm-trees">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 12
+  size: Huge (6)
+  creatureType: Sentient Vegetation
+  move: '5'
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 3
+  stats:
+    str:
+      value: 14
+    dex:
+      value: 2
+    con:
+      value: 16
+    int:
+      value: 4
+    cha:
+      value: 5
+  attacks:
+    - name: Smush
+      toHit: ''
+      damage: 3d10+4
+      damageType: bludgeoning
+      range: ''
+      effect: ''
+    - name: Smack / Slap
+      toHit: ''
+      damage: 3d4+4
+      damageType: bludgeoning
+      range: 5ft
+      effect: ''
+prototypeToken:
+  name: Palm Trees
+  actorLink: false
+flags:
+  point-mongo:
+    id: 114
+    category: mobs
+    slug: palm-trees
+    url: https://pointmongo.com/browse/mobs/palm-trees
+    source: 'Community submission — Otoun (Crawler #1427)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-22T04:40:29.5948187Z'
+    needsRestat: false
+    missingFields: []

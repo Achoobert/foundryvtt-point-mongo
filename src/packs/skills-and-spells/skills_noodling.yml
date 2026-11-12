@@ -1,0 +1,37 @@
+_id: oRtIdrFHRHpV9s5q
+_key: '!items!oRtIdrFHRHpV9s5q'
+name: Noodling
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>Bare-handed fishing that grants increasing damage resistance to your arms as you level up.</em></p><p>You can go fishing... with nothing but your bare hands! Good luck with the fish down here. Higher levels grant increased damage resistance to your arms below the elbow, up to 100%. Let''s hope you don''t lose too many fingers along the way!</p><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/skills/noodling">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 78
+    category: skills
+    slug: noodling
+    url: https://pointmongo.com/browse/skills/noodling
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - skill
+      - earth-skill
+    updatedAt: '2026-08-31T17:12:29.7799474Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

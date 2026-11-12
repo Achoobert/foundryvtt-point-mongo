@@ -1,0 +1,23 @@
+_id: bd4JhrKAp9AFyFJ8
+_key: '!items!bd4JhrKAp9AFyFJ8'
+name: Hellbreach Legendary Combat Shotgun
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A demon-plated double-barreled shotgun that burns targets, knocks them back, and speeds up the wielder on a kill.</em></p><p><strong>Type:</strong> Firearm · <strong>Damage:</strong> 6d6 fire · <strong>Range:</strong> 15/30''</p><p>A brutal double-barreled shotgun of blackened steel and molten-red infernal plating, its barrels glowing like a furnace. Hellfire Buckshot: on hit, burning for d4 turns. Goreblast: on hit, DC 15 CON save or pushed back 10''. Predator''s Rush: on kill, +10'' movement speed until the end of the next turn. 2 shots.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Shotgun</td></tr><tr><th>Weapon skill</th><td>Shotgun</td></tr></tbody></table><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/magical-weapons/hellbreach-legendary-combat-shotgun">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 213
+    category: magical-weapons
+    slug: hellbreach-legendary-combat-shotgun
+    url: https://pointmongo.com/browse/magical-weapons/hellbreach-legendary-combat-shotgun
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - magical-weapons
+      - firearm
+    updatedAt: '2026-09-03T05:54:47.8449581Z'
+    needsRestat: false
+    missingFields:
+      - effects

@@ -1,0 +1,19 @@
+_id: 0Skbcb4KSHyykzpn
+_key: '!items!0Skbcb4KSHyykzpn'
+name: Short Sword of Sharpness
+type: item
+img: https://pointmongo.com/img/entries/magical-weapons-short-sword-of-sharpness.jpg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A razor-edged gladius with a mahogany and silver hilt that shears through bone and sharpens the mind while it works.</em></p><p>This 2 foot long, double edged blade is forged in the style of a Roman Gladius with a razor sharp edges and a beautifully etched blade.  The pommel and hilt are carved from dark mahogany inlaid with silver accents, and it comes with a matching sheath.</p><p>This magical sword not only has the ability to shear through bone like butter, it also grants the user an increase to intelligence when it is worn or carried.  Despite it''s small size it uses the Longsword Skill to determine damage due to its finely honed edge.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Sword</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Weapon skill</th><td>Short Sword</td></tr><tr><th>Damage type</th><td>Slashing</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 Short Sword Skill</li><li>+ 5 INT</li></ul><hr><p><em>Source: Community submission — DeaDPan79. From <a href="https://pointmongo.com/browse/magical-weapons/short-sword-of-sharpness">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 769
+    category: magical-weapons
+    slug: short-sword-of-sharpness
+    url: https://pointmongo.com/browse/magical-weapons/short-sword-of-sharpness
+    source: Community submission — DeaDPan79
+    tags: []
+    updatedAt: '2026-10-29T04:28:09.7742795Z'
+    needsRestat: false
+    missingFields: []

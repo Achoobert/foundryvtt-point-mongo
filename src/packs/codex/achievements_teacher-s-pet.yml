@@ -1,0 +1,24 @@
+_id: vdNed2zaVSpUfFG1
+_key: '!journal!vdNed2zaVSpUfFG1'
+name: Teacher's Pet
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: rQy1uwWm6NokQ60B
+    _key: '!journal.pages!vdNed2zaVSpUfFG1.rQy1uwWm6NokQ60B'
+    name: Teacher's Pet
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you follow your Game Guide''s advice to the letter for an entire session without deviating once.</em></p><p>You did exactly what your Game Guide told you, every single time, like an extremely well-behaved golden retriever. It''s a solid strategy for surviving the tutorial floors. It is not, historically, how anyone interesting gets a spin-off interview.</p><p>Reward: Bronze Good Little Crawler Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/teacher-s-pet">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 691
+    category: achievements
+    slug: teacher-s-pet
+    url: https://pointmongo.com/browse/achievements/teacher-s-pet
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0282377Z'
+    needsRestat: false
+    missingFields: []

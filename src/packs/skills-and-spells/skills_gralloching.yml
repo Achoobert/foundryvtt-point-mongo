@@ -1,0 +1,41 @@
+_id: j1uTWgprCfi5p5gy
+_key: '!items!j1uTWgprCfi5p5gy'
+name: Gralloching
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>Field-dressing a kill for ingredients, and halving the prep time for whatever you do with them.</em></p><p>Gralloching</p><p>Intelligence</p><p>You are skilled at field dressing and butchering your kills, removing internal organs, skinning, and lightening a carcass for transport and eventual repurposing of all the bits. Make an Unopposed Skill check.</p><p>On a success you take about 30minx(Size) to do this, gaining basic ingredients and reducing your prep time for the next skill you associate with this in half.</p><p>Rank 5: Time it takes to do this is reduced to 15minutes x (Size), and quality of ingredients increases.</p><p>Rank 10: You gain foresight on what quality your Targets ingredients can provide, Improving the quality of ingredients even further.</p><p>Rank 15: Reduce the time it takes to do this to 10minutes x (Size), Dagger crits are tripled.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/skills/gralloching">Point Mongo</a>.</em></p>'
+  governingStat: int
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: fFgUJX8KyctZvJse
+      rankThreshold: 5
+      description: <p>Time it takes to do this is reduced to 15minutes x (Size), and quality of ingredients increases.</p>
+    - id: JeCnbF66Dh0sd6WI
+      rankThreshold: 10
+      description: <p>You gain foresight on what quality your Targets ingredients can provide, Improving the quality of ingredients even further.</p>
+    - id: xNYlu79zXIW8iCAj
+      rankThreshold: 15
+      description: <p>Reduce the time it takes to do this to 10minutes x (Size), Dagger crits are tripled.</p>
+flags:
+  point-mongo:
+    id: 821
+    category: skills
+    slug: gralloching
+    url: https://pointmongo.com/browse/skills/gralloching
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-09-28T03:33:05.8632786Z'
+    needsRestat: false
+    missingFields: []

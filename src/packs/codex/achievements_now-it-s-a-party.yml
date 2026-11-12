@@ -1,0 +1,24 @@
+_id: drhmUF9OZBzLRoqm
+_key: '!journal!drhmUF9OZBzLRoqm'
+name: Now It's A Party
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: Q3V0JlPQrI8hdzDI
+    _key: '!journal.pages!drhmUF9OZBzLRoqm.Q3V0JlPQrI8hdzDI'
+    name: Now It's A Party
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you enter the World Dungeon with other humans.</em></p><p>You have descended into the World Dungeon to take on the many trials and tribulations that lay within with other humans! You know what they say, teamwork makes the dream work. Let''s hope your new party is completely trustworthy and not at all willing to sacrifice you in the sake of an extra stat point!</p><p>Reward: Teamwork. Companionship. Comradery. These are all rewarding in their own right.</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/now-it-s-a-party">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 572
+    category: achievements
+    slug: now-it-s-a-party
+    url: https://pointmongo.com/browse/achievements/now-it-s-a-party
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9315656Z'
+    needsRestat: false
+    missingFields: []

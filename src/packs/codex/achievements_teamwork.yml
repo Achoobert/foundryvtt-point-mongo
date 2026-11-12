@@ -1,0 +1,24 @@
+_id: 6cPKFsZ6cKW8KVlL
+_key: '!journal!6cPKFsZ6cKW8KVlL'
+name: Teamwork
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: PBfnfanBl1OGlls4
+    _key: '!journal.pages!6cPKFsZ6cKW8KVlL.PBfnfanBl1OGlls4'
+    name: Teamwork
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when your party kills something for the first time.</em></p><p>As a group, you killed something getting slightly less experience than if you would''ve done it on your on! Make sure your leeches thank you!</p><p>Reward: Bronze Adventurer Box</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/teamwork">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 578
+    category: achievements
+    slug: teamwork
+    url: https://pointmongo.com/browse/achievements/teamwork
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9365036Z'
+    needsRestat: false
+    missingFields: []

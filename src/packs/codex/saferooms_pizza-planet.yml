@@ -1,0 +1,25 @@
+_id: bRCz1nmww5GCat5F
+_key: '!journal!bRCz1nmww5GCat5F'
+name: Pizza Planet
+folder: adVwT3zSO8jf77K5
+pages:
+  - _id: yXQ2bnGdt0yuO8Dg
+    _key: '!journal.pages!bRCz1nmww5GCat5F.yXQ2bnGdt0yuO8Dg'
+    name: Pizza Planet
+    type: text
+    text:
+      format: 1
+      content: '<p><em>The Pizza Planet from Toy Story, complete with a claw machine.</em></p><p>You know, from Toy Story, accompanied by a Claw Machine.</p><hr><p><em>Source: Community submission — The Royal Grumble. From <a href="https://pointmongo.com/browse/saferooms/pizza-planet">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 436
+    category: saferooms
+    slug: pizza-planet
+    url: https://pointmongo.com/browse/saferooms/pizza-planet
+    source: Community submission — The Royal Grumble
+    tags:
+      - dcc-ccs
+      - saferooms
+    updatedAt: '2026-09-05T05:20:41.7966921Z'
+    needsRestat: false
+    missingFields: []

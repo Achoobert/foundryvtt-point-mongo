@@ -1,0 +1,24 @@
+_id: oV7nzHlL18VhgttG
+_key: '!journal!oV7nzHlL18VhgttG'
+name: Wrong Door
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: Ax83uzKKmj4UpmUB
+    _key: '!journal.pages!oV7nzHlL18VhgttG.Ax83uzKKmj4UpmUB'
+    name: Wrong Door
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you open a door or chest expecting treasure and find something completely mundane and disappointing instead.</em></p><p>You built up the moment. Slow creak, dramatic pause, the works. Behind door number one: a broom closet. The anticipointment is a gift all its own.</p><p>Reward: Bronze Anticlimax Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/wrong-door">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 681
+    category: achievements
+    slug: wrong-door
+    url: https://pointmongo.com/browse/achievements/wrong-door
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.02034Z'
+    needsRestat: false
+    missingFields: []

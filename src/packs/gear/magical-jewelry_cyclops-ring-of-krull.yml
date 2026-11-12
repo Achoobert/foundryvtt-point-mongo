@@ -1,0 +1,25 @@
+_id: nBwaEVyRpfQUeq2t
+_key: '!items!nBwaEVyRpfQUeq2t'
+name: Cyclops Ring of Krull
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A ring that shows the wearer a vision of their own death, without revealing when it will happen.</em></p><p><strong>Type:</strong> Celestial Ring</p><p>Putting this ring on shows the wearer their own death. You won''t know when it will happen, but knowing might let you do something about it — or at least make your remaining time worthwhile.</p><table><tbody><tr><th>Type</th><td>Ring</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/magical-jewelry/cyclops-ring-of-krull">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 130
+    category: magical-jewelry
+    slug: cyclops-ring-of-krull
+    url: https://pointmongo.com/browse/magical-jewelry/cyclops-ring-of-krull
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+      - ring
+    updatedAt: '2026-09-03T16:29:38.8928418Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

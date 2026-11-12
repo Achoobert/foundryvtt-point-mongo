@@ -1,0 +1,24 @@
+_id: ACss7A5nmMtokYdx
+_key: '!journal!ACss7A5nmMtokYdx'
+name: Spell Check
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: xm64qPj9OStOa7zR
+    _key: '!journal.pages!ACss7A5nmMtokYdx.xm64qPj9OStOa7zR'
+    name: Spell Check
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you successfully cast a spell for the first time from a looted Spell Scroll or Tome.</em></p><p>You pointed at a scroll, said some words you didn''t fully understand, and something actually happened. Congratulations, you''re magic now. Sort of. Temporarily. Try not to set anything important on fire. Yet.</p><p>Reward: Silver First Cast Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/spell-check">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 702
+    category: achievements
+    slug: spell-check
+    url: https://pointmongo.com/browse/achievements/spell-check
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0372298Z'
+    needsRestat: false
+    missingFields: []

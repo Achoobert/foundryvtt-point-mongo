@@ -1,0 +1,24 @@
+_id: zAPQwQvJj7Or2sj4
+_key: '!journal!zAPQwQvJj7Or2sj4'
+name: Unsanctioned Science
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: adMHgkUfe3gdwTrH
+    _key: '!journal.pages!zAPQwQvJj7Or2sj4.adMHgkUfe3gdwTrH'
+    name: Unsanctioned Science
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you solve a combat or environmental problem using an item or spell in a way it was clearly never designed for.</em></p><p>That''s not remotely what that item was for. It worked anyway. Somewhere, an item designer is either furious or taking notes. Creative problem-solving like that deserves recognition. And maybe a safety inspection.</p><p>Reward: Gold Mad Scientist Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/unsanctioned-science">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 715
+    category: achievements
+    slug: unsanctioned-science
+    url: https://pointmongo.com/browse/achievements/unsanctioned-science
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0477858Z'
+    needsRestat: false
+    missingFields: []

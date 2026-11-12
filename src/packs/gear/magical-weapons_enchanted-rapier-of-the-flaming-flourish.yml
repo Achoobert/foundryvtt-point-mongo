@@ -1,0 +1,19 @@
+_id: s3jHuGWxbKCASRAM
+_key: '!items!s3jHuGWxbKCASRAM'
+name: Enchanted Rapier of the Flaming Flourish
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A swept-hilt rapier that bursts into harmless illusory flame when flourished, for intimidation, while making its wielder immune to the real thing.</em></p><p>This finely crafted, magical, swept hilt rapier is able to manifest an illusion of magical  (non-damaging) flames when flourished in a dramatic fashion, triggering the +5 Intimidate Buff that it grants its wielder.   The fact that it also bestows an immunity to fire is a handy addition.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Rapier</td></tr><tr><th>Tier</th><td>Legendary</td></tr><tr><th>Weapon skill</th><td>Longsword</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5 Intimidate Skill</li><li>Resistance to Sonic damage</li><li>Immunity to Fire damage</li><li>Resistance to Holy damage</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/enchanted-rapier-of-the-flaming-flourish">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 952
+    category: magical-weapons
+    slug: enchanted-rapier-of-the-flaming-flourish
+    url: https://pointmongo.com/browse/magical-weapons/enchanted-rapier-of-the-flaming-flourish
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-22T21:12:28.5981026Z'
+    needsRestat: false
+    missingFields: []

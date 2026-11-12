@@ -1,0 +1,23 @@
+_id: dZoeoxywtk6O1nyQ
+_key: '!journal!dZoeoxywtk6O1nyQ'
+name: Addicted
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: fdalp7OMcfZeOR5G
+    _key: '!journal.pages!dZoeoxywtk6O1nyQ.fdalp7OMcfZeOR5G'
+    name: Addicted
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Every check at Disadvantage until the craving passes.</em></p><p>Effect: You make all your Checks with Disadvantage.</p><p>Duration: 1 hour</p><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26933. From <a href="https://pointmongo.com/browse/buffs-debuffs/addicted">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 870
+    category: buffs-debuffs
+    slug: addicted
+    url: https://pointmongo.com/browse/buffs-debuffs/addicted
+    source: 'Community submission — BlessedPsycho, Crawler #26933'
+    tags: []
+    updatedAt: '2026-10-09T01:13:55.1282011Z'
+    needsRestat: false
+    missingFields: []

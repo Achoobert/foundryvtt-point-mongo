@@ -1,0 +1,25 @@
+_id: 4Az80sEim9xUxjvV
+_key: '!journal!4Az80sEim9xUxjvV'
+name: The Mercy Network
+folder: 60wNl7vBu4R8G6qF
+pages:
+  - _id: EuieUjqw55S5fCIi
+    _key: '!journal.pages!4Az80sEim9xUxjvV.EuieUjqw55S5fCIi'
+    name: The Mercy Network
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A charity-framed tunnel series that turns the five lowest-ranked crawlers'' survival into a managed, monitored spectacle.</em></p><p>Brings the five lowest-ranked crawlers onto the show, shows them how they''re faring against the field, and grants "mercy drops." Framed as a charity program, but really turns survival itself into a monitored, adjusted, sustained-for-engagement spectacle.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/interview-shows/the-mercy-network">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 375
+    category: interview-shows
+    slug: the-mercy-network
+    url: https://pointmongo.com/browse/interview-shows/the-mercy-network
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - tunnel-shows
+    updatedAt: '2026-09-02T04:50:41.8507904Z'
+    needsRestat: false
+    missingFields: []

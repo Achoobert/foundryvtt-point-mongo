@@ -1,0 +1,19 @@
+_id: J5pG7rXY465DOcFC
+_key: '!items!J5pG7rXY465DOcFC'
+name: Enchanted Salamanderskin Tank Top of Recklessness
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Faintly damp salamander hide that toughens you up and, in under two weeks, regrows a limb you were careless with.</em></p><p>Salamanders are solitary, smooth skinned critters that spend their days hunting bugs and slugs. A few of these reclusive amphibians can get to be six feet long, but most are between 4 and 6 inches, which isn’t nearly as big as you tell yourself. Do you know how many salamanders were skinned alive to make this tank top? Over 2,000 of the little guys!</p><p>This article of clothing is moist to the touch on both sides. While it may appear black from a distance, up close you can see all the tiny, pretty colored spots commemorating each and every innocent life taken.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Shirt</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Limitations</th><td>This is a Fleeting Item!</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Constitution</li><li>+1 Regeneration Skill</li><li>The Limb Regeneration Benefit (In 12 days minus your CON MOD, one limb fully regrows)</li></ul><hr><p><em>Source: Community submission — Mr King. From <a href="https://pointmongo.com/browse/magic-items/enchanted-salamanderskin-tank-top-of-recklessness">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 784
+    category: magic-items
+    slug: enchanted-salamanderskin-tank-top-of-recklessness
+    url: https://pointmongo.com/browse/magic-items/enchanted-salamanderskin-tank-top-of-recklessness
+    source: Community submission — Mr King
+    tags: []
+    updatedAt: '2026-09-24T18:09:52.9489635Z'
+    needsRestat: false
+    missingFields: []

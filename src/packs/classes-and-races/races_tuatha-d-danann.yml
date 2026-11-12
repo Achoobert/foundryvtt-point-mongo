@@ -1,0 +1,23 @@
+_id: 25VQLvQ7F5w1e7Bi
+_key: '!items!25VQLvQ7F5w1e7Bi'
+name: Tuatha Dé Danann
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Ageless Celtic champions — beautiful, brave, and persuasive to a fault.</em></p><p>These supernatural beings of Celtic legend are heroes, champions, protectors of the world and a light against the darkness of the unknown. Ageless, beautiful and brave, they are probably what humans would aspire to be.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Constitution</li><li>+3 Charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 to either Longswords, Greatswords, Javelins, Bows or Solsplash Spell</li><li>+1 to either Animal Handling, Riding, Smithing or Taunt</li><li>+2 to Performance</li><li>+2 to Nature''s Breath</li></ul><p><strong>Benefits</strong></p><ul><li>Advantage on all Charisma checks <em>(epic)</em></li></ul><p><strong>Detriments</strong></p><ul><li>May not be a member of Desperado Club <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/tuatha-d-danann">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 832
+    category: races
+    slug: tuatha-d-danann
+    url: https://pointmongo.com/browse/races/tuatha-d-danann
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-28T03:33:05.9278295Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,24 @@
+_id: yP2fxg5wyTvAdpSW
+_key: '!items!yP2fxg5wyTvAdpSW'
+name: Toe Ring of Unstable Insanity
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A divine, unremovable cursed toe ring that perfects the wearer''s feet while inflicting foot-obsession and creeping insanity.</em></p><p>Toe ring, cursed</p><p><strong>Debuff:</strong> Foot Maniac</p><p>This is a Divine item, which means that you can’t see what it does until you equip it. This cursed item is one of my favorites, it makes it so that your feet become the perfect length of 30.004861 centimeters long. It also inflicts the ‘foot maniac’ and ‘slightly insane’ debuffs upon the user and gives them the ‘perfection spreader’ spell and changes/gives them the class ‘AI’s pet’. Also, you cannot remove this item. Unless… never mind, you wouldn’t even survive until the point where it would be possible. Also, why would you ever want to remove it?</p><p><strong>Debuffs:</strong></p><p><strong>Foot maniac:</strong> You cannot put on shoes. Ever. No mater what you do. You will be barefoot forever. Also, you are obsessed with feet, and want to study everyone’s and everything’s feet and see what you can do to make your’s better. Also, if you encounter someone with better feet then you, you will receive a timed quest to kill them, with the penalty of death.</p><p><strong>Slightly insane:</strong> it just means that you are slightly insane. It can, and probably will, evolve into the insane debuff. Fuck you.</p><p><strong>Spells:</strong></p><p><strong>Perfection spreader:</strong> You can use this spell to cause someone else to permanently gain the class ‘AI’s pet’ although it will not be as strong as your progenitor class. It also gives them the ‘insane’ debuff. They will also have their feet become 30.004861 centimeters long.</p><p><strong>AI’s pet:</strong> You are one of my followers, you do whatever I tell you to, and strive to become the perfect host for me. Grants the AI power to force you to do anything you want by a quest, with a death penalty. You also gain plus 50 to each stat because you need to be as strong as possible for me. You also gain the ability to level skills up to level 21. (Don’t tell anyone about this) I can also take over your body, but once I do that, it will be irreversible. I can also choose where you allocate your stats, of which you gain 7 / per level. To everyone else, this is an ordinary foot mage class.</p><table><tbody><tr><th>Type</th><td>Toe Ring</td></tr></tbody></table><hr><p><em>Source: Community submission — Dferd310 (Crawler #1888). From <a href="https://pointmongo.com/browse/magical-jewelry/toe-ring-of-unstable-insanity">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 166
+    category: magical-jewelry
+    slug: toe-ring-of-unstable-insanity
+    url: https://pointmongo.com/browse/magical-jewelry/toe-ring-of-unstable-insanity
+    source: 'Community submission — Dferd310 (Crawler #1888)'
+    tags:
+      - dcc-ccs
+      - loot
+      - cursed
+    updatedAt: '2026-11-11T20:08:41.6433942Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

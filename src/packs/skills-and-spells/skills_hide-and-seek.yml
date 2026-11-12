@@ -1,0 +1,38 @@
+_id: Qj2CKzTYmaYrxtCB
+_key: '!items!Qj2CKzTYmaYrxtCB'
+name: Hide and Seek
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>A universal Earth-based skill everyone starts with a basic proficiency in, from childhood games.</em></p><p>An Earth-based skill that everyone on Earth starts with a basic proficiency in, due to its inclusion in childhood games across most continents.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/skills/hide-and-seek">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 72
+    category: skills
+    slug: hide-and-seek
+    url: https://pointmongo.com/browse/skills/hide-and-seek
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - skill
+      - earth-skill
+      - stealth
+    updatedAt: '2026-08-31T17:12:29.7762156Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

@@ -1,0 +1,39 @@
+_id: du9oYRkYw7LEkGdO
+_key: '!items!du9oYRkYw7LEkGdO'
+name: Verdant Mantle
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>An Abjuration self-buff granting slow combat regeneration at the cost of fire vulnerability, scaling into full bleed/poison immunity for the party.</em></p><p><strong>School:</strong> Abjuration · <strong>AoE:</strong> Self · <strong>Duration:</strong> 3 rounds · <strong>Cost:</strong> 10 MP</p><p>Lv1: wraps the caster in green light granting slow regeneration that works during combat, at the cost of bonus fire damage taken. Lv5: cleanses pre-existing Bleed. Lv10: cleanses pre-existing Poison. Lv15: grants immunity to Bleed and Poison while active. Lv20: extends the mantle to all allies and minions in the party.</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/verdant-mantle">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 427
+    category: spells
+    slug: verdant-mantle
+    url: https://pointmongo.com/browse/spells/verdant-mantle
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+      - abjuration
+    updatedAt: '2026-09-02T04:50:41.890152Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

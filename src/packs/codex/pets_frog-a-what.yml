@@ -1,0 +1,25 @@
+_id: lQYJ0vOAolJyrexC
+_key: '!journal!lQYJ0vOAolJyrexC'
+name: Frog-a-What
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: 2G5RSuDEjJycaIvZ
+    _key: '!journal.pages!lQYJ0vOAolJyrexC.2G5RSuDEjJycaIvZ'
+    name: Frog-a-What
+    type: text
+    text:
+      format: 1
+      content: '<p><em>An ugly-on-purpose frog-chihuahua hybrid pet that grows into a distraction-capable, cheetah-outrunning companion.</em></p><p><strong>Suggested Name:</strong> n/a</p><p>This creature is a frog, but has the skin tone of a chihuahua and it waddles around, but it does not go into the category of cute because it is so ugly. It is just ugly. And its ribbit sounds like something is vomiting. But this pet is fast and can distract even a cheetah once it grows to its full size of a ... what the F... the size of a Bernese mountain dog, at level 20.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/pets/frog-a-what">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 316
+    category: pets
+    slug: frog-a-what
+    url: https://pointmongo.com/browse/pets/frog-a-what
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-22T05:38:18.0729865Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,25 @@
+_id: UCZNtIcQsXsR1TJq
+_key: '!items!UCZNtIcQsXsR1TJq'
+name: Some Ring
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>An ancient, unassuming ring that grants permanent invisibility — and draws the attention of a host of incompetent ring-hunters.</em></p><p><strong>Notes:</strong> See Description</p><p>Someone a really long time ago created this ring in a volcano or something. It... Does stuff? I don''t know the last time a Crawler used this item all it did was turn them invisible while wearing it. Don''t get me wrong, that''s pretty good, but... Not really ALL POWERFUL ARTIFACT level good, you know? Grants the following benefits:</p><p>Permanent invisibility.</p><p>See the world with a wispy overlay.</p><p>Can only be destroyed by throwing it in the same volcano it was crafted in.</p><p>WARNING! Wielding this item reveals your location to a host of terrible (as in terrible at their job) wights who are forever hunting for this ring. If they find you, you might be harmed. Maybe. Idk they probably won''t even find you.</p><table><tbody><tr><th>Type</th><td>Ring</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — Riley R (Crawler #10268). From <a href="https://pointmongo.com/browse/magical-jewelry/some-ring">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 139
+    category: magical-jewelry
+    slug: some-ring
+    url: https://pointmongo.com/browse/magical-jewelry/some-ring
+    source: 'Community submission — Riley R (Crawler #10268)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+      - ring
+    updatedAt: '2026-09-22T05:37:42.1570185Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

@@ -1,0 +1,19 @@
+_id: a0bW4Cx4UiIFZYFf
+_key: '!items!a0bW4Cx4UiIFZYFf'
+name: Enchanted Amulet of the Forest's Benefactor
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>An acorn pendant on a chain of bronze oak leaves that calms animals and refills your Mana once a floor.</em></p><p>The chain of this enchanted amulet is fashioned from a series of small bronze oak leaves with an small bronze acorn pendant.  When worn it bestows +3 Animal Handling Skill, and grants the wearer the ability to use the Restore Buff once per Floor.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Amulet</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 Animal Handling Skill</li><li>Once per floor: Restore (full Mana)</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-amulet-of-the-forest-s-benefactor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1038
+    category: magical-jewelry
+    slug: enchanted-amulet-of-the-forest-s-benefactor
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-amulet-of-the-forest-s-benefactor
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-01T19:31:04.7688704Z'
+    needsRestat: false
+    missingFields: []

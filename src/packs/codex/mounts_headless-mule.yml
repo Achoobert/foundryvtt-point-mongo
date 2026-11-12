@@ -1,0 +1,24 @@
+_id: 4fwMhqzf5QVX0Tm9
+_key: '!journal!4fwMhqzf5QVX0Tm9'
+name: Headless Mule
+folder: rEMOgPJ7utWySMpl
+pages:
+  - _id: MZC9T9C1FAdOAcZR
+    _key: '!journal.pages!4fwMhqzf5QVX0Tm9.MZC9T9C1FAdOAcZR'
+    name: Headless Mule
+    type: text
+    src: https://pointmongo.com/img/entries/mounts-headless-mule.png
+    text:
+      format: 1
+      content: '<p><img src="https://pointmongo.com/img/entries/mounts-headless-mule.png"></p><p><em>A fire-necked mule that kicks, gallops and casts Fear, yours for 35,000 gold.</em></p><p>This odd creature has the body of a mule and fire shooting out of its neck. Legend tell of its speed, strong kicks and, despite the absence of a head, a terrifying neigh that can be heard from a distance.</p><p>Size: Large (5)</p><p>If purchased, it costs 35.000 gold.</p><p>- They have a Regular Trample attack</p><p>- They can cast Fear as a natural spell [Rank=F] with a 5 hour cooldown</p><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/mounts/headless-mule">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 771
+    category: mounts
+    slug: headless-mule
+    url: https://pointmongo.com/browse/mounts/headless-mule
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6749376Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,25 @@
+_id: Orn7by4x6qTuqcEV
+_key: '!journal!Orn7by4x6qTuqcEV'
+name: Squid Games Floor
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: nu3UssnLrQCinZoF
+    _key: '!journal.pages!Orn7by4x6qTuqcEV.nu3UssnLrQCinZoF'
+    name: Squid Games Floor
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A night-games gauntlet inspired by childhood street games, starting with Red Light, Green Light — lose and you''re out, but never dead for real.</em></p><p>Welcome to this floor, you little scamp. As you may know by now, Crawlers aren''t allowed to bring children into the dungeon. So instead, this floor borrows their games instead.</p><p><strong>First game: Red Light, Green Light.</strong> Your goal is to reach the caller before the timer runs out. When the light is green, it''s business as usual — no restrictions. When the light is red, the rules change and you can''t use skills, spells, potions, or scrolls. Get caught moving on red and you go back to the start. Only those who reach the goal get to play tomorrow''s game.</p><p>Tomorrow''s game is a surprise. Could be hide and seek, capture the flag, kick the can (careful, you might be the can), or something else entirely.</p><hr><p><em>Source: Community submission — Barry. From <a href="https://pointmongo.com/browse/floors/squid-games-floor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 453
+    category: floors
+    slug: squid-games-floor
+    url: https://pointmongo.com/browse/floors/squid-games-floor
+    source: Community submission — Barry
+    tags:
+      - dcc-ccs
+      - floors
+    updatedAt: '2026-08-31T17:12:39.4354766Z'
+    needsRestat: false
+    missingFields: []

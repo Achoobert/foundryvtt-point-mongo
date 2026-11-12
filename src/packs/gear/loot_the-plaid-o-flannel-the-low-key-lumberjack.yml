@@ -1,0 +1,26 @@
+_id: DBbanHcZfxYgWhp5
+_key: '!items!DBbanHcZfxYgWhp5'
+name: The Plaid-O-Flannel / The Low-Key Lumberjack
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>A cozy stealth flannel with a rare chance of violently, loudly betraying your position.</em></p><p>Listen, Crawler. In the dungeon, everyone wants to look like a spike-covered death machine or a glowing wizard douchebag. But sometimes, you just want to look like a guy who owns a golden retriever and knows way too much about craft IPAs. This heavy-duty, red-and-black checkered flannel is woven from the wool of Boreas Sheep—creatures that live in the eye of a permanent blizzard and are surprisingly good at staying out of sight. It’s soft. It’s cozy. It smells faintly of cedar and unearned confidence.</p><p><strong>Passive Benefits:</strong></p><p>The "I’m Not Even Here" Buff: Grants a +12% bonus to Stealth while in wooded or dimly lit environments. Enemies are significantly less likely to notice you as long as you aren’t doing anything stupid. Like screaming. Thermal Regulation: You won''t freeze to death in the Ice Levels, and you won''t sweat through your pits in the Magma Tunnels. It’s breathable, Carl!</p><p>The Catch (Because there’s always a catch):</p><p>The "Ghostly Trucker" Curse: This shirt has a bit of a... performance anxiety issue. There is a 5% chance that the "Quiet Magic" fails spectacularly. Effect: The moment the ambient noise level drops below 10 decibels—right when you’re trying to sneak past that Level 15 Ogre or pick a high-security lock—the shirt will violently discharge its stored kinetic energy. This results in a sound equivalent to a fully-loaded garbage truck being dropped from the observation deck of the Empire State Building onto a pile of sheet metal. Once the ringing in your ears stops and the dust settles, the shirt’s collar will stand up and scream at 110 decibels: "TELL ''EM LARGE MARGE SENT YA!" Durability: 40/40</p><p><strong>Equip Requirement:</strong> Must have a "Common Sense" stat lower than 12. (You’re doing great, Carl!) "Goddammit, Donut. I’m not wearing the screaming flannel. I don''t care how soft it is!" "But Carl! It matches my collar! And the AI says it''s very slimming for your ''burly'' physique! You look like a very rugged, very loud hobo!"</p><hr><p><em>Source: Community submission — David Brookhart (Crawler #26531). From <a href="https://pointmongo.com/browse/loot/the-plaid-o-flannel-the-low-key-lumberjack">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 54
+    category: loot
+    slug: the-plaid-o-flannel-the-low-key-lumberjack
+    url: https://pointmongo.com/browse/loot/the-plaid-o-flannel-the-low-key-lumberjack
+    source: 'Community submission — David Brookhart (Crawler #26531)'
+    tags:
+      - armor
+      - body-armor
+      - magical-armor
+      - stealth
+    updatedAt: '2026-09-22T05:38:00.1206614Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

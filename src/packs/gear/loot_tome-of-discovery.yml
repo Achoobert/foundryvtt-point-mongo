@@ -1,0 +1,23 @@
+_id: UHafO0213gI41LHw
+_key: '!items!UHafO0213gI41LHw'
+name: Tome of Discovery
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A tome containing the sum knowledge of Earth, retrievable via a percentile roll that determines how useful (or useless) the answer actually is.</em></p><p><strong>Notes:</strong> See Description</p><p>The Tome of Discovery contains the sum knowledge of Earth. It can instantly retrieve any work of fiction or nonfiction, as well as accessing any written document in its current land within a 5 mile radius. However, this information retrieval is not always perfect. Anyone using the Tome of Discovery should remember the old adage, “be careful what you wish for.” You may want to know all about the history of the magical object you’ve just discovered, but the Tome will most likely not show you that. Instead, it may show you a map to the exact location of where that magical object must be taken to be used properly. Need to know how to cure the curse your teammate was just given? No can do, but the Tome will show you where to collect a certain magical amulet that may or may not aid you.</p><p>DATA RETRIEVAL [Spell] Casting Time: 1 Bonus Action Range: 5 miles Components: V, M Duration: Instantaneous. Can be cast daily a number of times equal to the player’s INT+2 You open the Tome of Discovery to look up the information you need. Information retrieved must be from at least one written source within a 5 mile radius.</p><p>Once the DM determines if the information is available, roll 1d100 and consult the table below to determine how successful you are at retrieving the information.</p><p>1 to 20%: You do not glean any information from the source.</p><p>21-40%: You receive a cryptic riddle that is only vaguely connected to the information you seek.</p><p>30-60%: You receive the text of a children’s fairytale, which bears some similarity to the information you seek.</p><p>61-70%: You receive a single page of information. The page tells you the history of the object/information you are seeking, but the record is incomplete. The record indicates who you need to consult, but not where to find them.</p><p>71-80%: You receive several pages of information on the object/information you seek, but the final bits are indecipherable. The record indicates who you need to consult and where to find them.</p><p>81-95%: You receive most of the information you’re seeking, but there is still one vital piece missing. The record indicates who you need to consult, where to find them, and where to go next.</p><p>95-100%: You receive the full text of the information you are seeking.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Tome</td></tr></tbody></table><hr><p><em>Source: Community submission — Myles L (Crawler #26933). From <a href="https://pointmongo.com/browse/loot/tome-of-discovery">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 150
+    category: loot
+    slug: tome-of-discovery
+    url: https://pointmongo.com/browse/loot/tome-of-discovery
+    source: 'Community submission — Myles L (Crawler #26933)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-09-30T20:04:01.8848747Z'
+    needsRestat: false
+    missingFields:
+      - effects

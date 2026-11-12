@@ -1,0 +1,45 @@
+_id: jw7u90HpJptIDnxU
+_key: '!items!jw7u90HpJptIDnxU'
+name: Blood Price
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>A Transmutation bounty spell that heals and pays out gold to whoever kills a marked target.</em></p><p>Mark a single Crawler, Mob, Elite, or Boss and place a blood price on their head. This creates a floating bounty sigil above their head. Whoever kills this marked target will heal for 10% of their max health.</p><p>You may only have one bounty sigil created by Blood Price on a target at a time.</p><p>Casting this spell at every Rank milestone (Rank 5, 10, 15, 20) increases the healing by an additional 20%.</p><p>Increase the mana cost of this spell by 5 for each Rank milestone.</p><table><tbody><tr><th>Base damage</th><td>n/a</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>None.</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/blood-price">Point Mongo</a>.</em></p>'
+  governingStat: con
+  manaCost: 5
+  range: 30 Feet
+  duration: Until the target dies or combat ends.
+  cooldown: 3 Rounds after all active bounty sigils are claimed.
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: MfldrbJGIw1YVbbW
+      rankThreshold: 5
+      description: <p>Whoever claims the bounty sigil will receive 10 Gold X your CHA. The base gold of this doubles at each Rank milestone.</p>
+    - id: UDQu2y44pUA5I0OM
+      rankThreshold: 10
+      description: <p>You may choose up to 3 targets with this spell at once.</p>
+    - id: 7AEtW1vfdCGosJuJ
+      rankThreshold: 15
+      description: <p>Reduce the cooldown of this by 2 Rounds.</p>
+flags:
+  point-mongo:
+    id: 385
+    category: spells
+    slug: blood-price
+    url: https://pointmongo.com/browse/spells/blood-price
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+      - transmutation
+    updatedAt: '2026-09-09T07:07:44.000672Z'
+    needsRestat: true
+    missingFields: []

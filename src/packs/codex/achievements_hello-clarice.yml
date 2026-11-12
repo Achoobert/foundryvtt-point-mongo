@@ -1,0 +1,25 @@
+_id: dZrcfi6hJKNxCBBx
+_key: '!journal!dZrcfi6hJKNxCBBx'
+name: Hello Clarice
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: mktAdigThML1tk1d
+    _key: '!journal.pages!dZrcfi6hJKNxCBBx.mktAdigThML1tk1d'
+    name: Hello Clarice
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler eats human flesh, earning a Silence of the Lambs-themed roast from the AI.</em></p><p><strong>Scenario:</strong> A crawler commits cannibalism.</p><p>On February 14, 1991 the ultimate romance movie was released in theaters across the United States. Released on Valentine’s Day, a film told the story of a man and a woman who shared an intimate bond that few would understand. Built off of mutual respect, the two become confidants while working together to catch a killer. As their relationship grows they begin sharing personal details of their lives together that goes well beyond the case file. Two star-crossed lovers that couldn’t be due to their situations. This is the tale of Hannibal Lecter and Clarice Starling. I mention this because I wept at how these two weren’t allowed to explore their burgeoning relationship. But, I’m just waxing poetic. You have gotten this achievement because I just witnessed you consume human flesh. Much like the honorable Doctor Hannibal Lecter, you’ve just taken a step into cannibalism. And that is truly fucked up. Like, really fucked. In most cultures YOU would now be the monster instead of the mobs you slaughter. If I wasn’t so disgusted with you I would ask what it tasted like. Sadly, unlike Doctor Lecter, you''ve no Clarice. You have nothing except for a new hunger for long pig. Reeeeeeeewwwwwward: A VHS Copy of Silence of the Lambs and Cassette Tape of the 1988 cult classic hit Goodbye Horses by Q Lazarus.</p><p><strong>Suggest Rewards:</strong></p><p>A VHS Copy of Silence of the Lambs and Cassette Tape of the 1988 cult classic hit Goodbye Horses by Q Lazarus.</p><hr><p><em>Source: Community submission — Charles D. Parrott (Crawler #102365). From <a href="https://pointmongo.com/browse/achievements/hello-clarice">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 276
+    category: achievements
+    slug: hello-clarice
+    url: https://pointmongo.com/browse/achievements/hello-clarice
+    source: 'Community submission — Charles D. Parrott (Crawler #102365)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:27:11.5163908Z'
+    needsRestat: false
+    missingFields: []

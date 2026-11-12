@@ -1,0 +1,25 @@
+_id: I1IlrrS25VZqHtLM
+_key: '!journal!I1IlrrS25VZqHtLM'
+name: The Royal Grumble
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: 9rj9ySLYrRxM8MVH
+    _key: '!journal.pages!I1IlrrS25VZqHtLM.9rj9ySLYrRxM8MVH'
+    name: The Royal Grumble
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A sentient canine trio — a future-seeing queen, a soft-hearted prince, and a fierce assassin duchess — entering the dungeon together with their Royal Guard.</em></p><p><strong>The Royal Grumble:</strong></p><p><strong>Queen Annabelle:</strong> she is in charge and makes sure everyone knows it. What she lacks in physical stature she makes up for in her metaphorical one. She can see the future thanks to a magical ring she found on a dead pigeon but is so stubborn she believes she can change it.</p><p><strong>Rupert the prince:</strong> he is big but sensitive, Queen Annabelle expects him to serve as a tank but he is a little too soft inside so will need some encouragement. He is loyal to a fault, often resulting in him being the last to the food bowls, hard to believe based on him being a barrel!</p><p><strong>Duchess Evelyn:</strong> she is the fierce assassin, small but deadly. She knows how to get what she wants and won''t let anyone get in her way. She once took on a German Shepherd and won, he ran away with his tails between his legs, or so she says.</p><p>When they entered the dungeon with their Royal Guard (that''s me by the way) they were completely unaware of what the game would do to both themselves and their relationships. There has been laughter, tears and plenty of belly rubs and that''s all before leaving the first safe room.</p><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/npcs/the-royal-grumble">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 262
+    category: npcs
+    slug: the-royal-grumble
+    url: https://pointmongo.com/browse/npcs/the-royal-grumble
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-22T05:38:15.8402952Z'
+    needsRestat: false
+    missingFields: []

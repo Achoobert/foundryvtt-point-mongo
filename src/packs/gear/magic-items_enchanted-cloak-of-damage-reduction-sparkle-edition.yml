@@ -1,0 +1,19 @@
+_id: 9ZS5JX35ElWUZypx
+_key: '!items!9ZS5JX35ElWUZypx'
+name: Enchanted Cloak of Damage Reduction - Sparkle Edition
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A silver-threaded cloak that makes you harder to hit and impossible not to laugh at.</em></p><p>This heavy black woolen cloak has silver threads woven into it that catch the light as the wearer moves through the Dungeon.  The cloak bestows +2 DR to it''s wearer, which is a great effect, but it does make you like like a discount store sparkle vampire...so be prepared for people to take notice.  And point at you.  And laugh at you.  Their ALL going to laugh at you.  But, they''ll struggle to hit you, so the pros may just outweigh the cons.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Cloak</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>2</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 DR</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-cloak-of-damage-reduction-sparkle-edition">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 979
+    category: magic-items
+    slug: enchanted-cloak-of-damage-reduction-sparkle-edition
+    url: https://pointmongo.com/browse/magic-items/enchanted-cloak-of-damage-reduction-sparkle-edition
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-27T16:16:13.6636126Z'
+    needsRestat: false
+    missingFields: []

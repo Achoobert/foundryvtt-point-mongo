@@ -1,0 +1,24 @@
+_id: aBuO3kDcYOj5ci3U
+_key: '!journal!aBuO3kDcYOj5ci3U'
+name: I Regret Everything
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: uwmJkv3EzTv2hIe9
+    _key: '!journal.pages!aBuO3kDcYOj5ci3U.uwmJkv3EzTv2hIe9'
+    name: I Regret Everything
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you make a reckless decision that immediately produces disastrous consequences.</em></p><p>You made a terrible decision.</p><p>It immediately produced terrible consequences.</p><p>The System AI appreciates your consistency.</p><p>Reward: Bronze Survivor''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/i-regret-everything">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 647
+    category: achievements
+    slug: i-regret-everything
+    url: https://pointmongo.com/browse/achievements/i-regret-everything
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.992314Z'
+    needsRestat: false
+    missingFields: []

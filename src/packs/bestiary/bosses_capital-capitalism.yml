@@ -1,0 +1,65 @@
+_id: NlfPtnGjjU7MORBc
+_key: '!actors!NlfPtnGjjU7MORBc'
+name: Capital Capitalism
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><em>A bronze money-golem with gold where its health should be. Every hit it takes spills coin on the floor, and every hit it lands takes coin off you.</em></p><p>"This green statue like creature is actually a sentient bronze Golem which holds bags of money, wants more money and its drive is also to kill the little guy. And guess what crawler, your always the little guy. Instead of HP, it has gold as its hit points. For every gold lost, it will drop that gold on the floor.</p><p>It starts with 150 gold in its Bank.</p><p>Capital capitalism stands at 10 meters tall (32.8 ft) and is a sturdy statue that also strikes like a hammer that pushes those into poverty.</p><table><tbody><tr><th>Floor</th><td>3</td></tr></tbody></table><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/bosses/capital-capitalism">Point Mongo</a>.</em></p>'
+  mobTier: city
+  level: 40
+  size: Colossal (7)
+  creatureType: Bronze Golem
+  move: '40'
+  hbSlotsOverride: null
+  hb:
+    value: 23
+    max: 23
+  dr: 3
+  stats:
+    str:
+      value: 45
+    dex:
+      value: 40
+    con:
+      value: 55
+    int:
+      value: 55
+    cha:
+      value: 30
+  attacks:
+    - name: Backhand of the elite
+      toHit: ''
+      damage: 5d6+F
+      damageType: bludgeoning
+      range: '20'
+      effect: this attack is magical, and takes 100 gold from you; if you don't have gold, it takes an additional health box.
+    - name: Underlings
+      toHit: ''
+      damage: NA
+      damageType: ''
+      range: '40'
+      effect: this city boss can make you or another crawler take an action that it wants you to take for one turn.
+    - name: Money eye
+      toHit: ''
+      damage: 5d4+F
+      damageType: ''
+      range: '40'
+      effect: This magic missile like attack is a beam that can hit multiple opponents that decreases a skill for a turn, increasing the amount of money capital capitalism has. Drops all the money as well as a boss box.
+prototypeToken:
+  name: Capital Capitalism
+  actorLink: false
+flags:
+  point-mongo:
+    id: 81
+    category: bosses
+    slug: capital-capitalism
+    url: https://pointmongo.com/browse/bosses/capital-capitalism
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - city-boss
+      - bosses
+    updatedAt: '2026-09-30T02:25:41.421299Z'
+    needsRestat: false
+    missingFields: []

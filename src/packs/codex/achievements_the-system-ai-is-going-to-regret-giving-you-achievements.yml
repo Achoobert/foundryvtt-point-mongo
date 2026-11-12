@@ -1,0 +1,39 @@
+_id: hPKZyNUDgLeC6t2c
+_key: '!journal!hPKZyNUDgLeC6t2c'
+name: The System AI Is Going to Regret Giving You Achievements
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: iAv8PBwTaWiFLKAv
+    _key: '!journal.pages!hPKZyNUDgLeC6t2c.iAv8PBwTaWiFLKAv'
+    name: The System AI Is Going to Regret Giving You Achievements
+    type: text
+    text:
+      format: 1
+      content: |-
+        <p><em>Trigger: During the First Floor, a crawler must accomplish an absurd chain of events:
+
+        Kill a Mob.
+        Save another crawler from certain death.
+        Trigger a trap.
+        Survive the trap.
+        Loot something from the resulting chaos.
+        Use that loot to solve an unrelated problem.
+        Convince an NPC to help.
+        Defeat another Mob using that NPC's assistance.
+        Discover a hidden location.
+        Make the entire party laugh.
+        Never intentionally choose the safest or most optimal solution.
+
+        Then the System AI finally gives up trying to understand what the crawler is doing.</em></p><p>You have accomplished a sequence of events so improbable, convoluted, reckless, and spectacularly stupid that the System AI is no longer certain whether you are exceptionally clever or catastrophically incompetent.</p><p>The System AI has reviewed the available evidence.</p><p>The System AI has reviewed it again.</p><p>The System AI has asked for a second opinion.</p><p>The second opinion was worse.</p><p>Congratulations, crawler. You have earned a Legendary Achievement.</p><p>The System AI would like to remind you that this behavior is not encouraged.</p><p>The System AI would also like to remind you that it is absolutely going to tell everyone about it.</p><p>Reward: Legendary "WHAT THE FUCK DID I JUST WATCH" Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/the-system-ai-is-going-to-regret-giving-you-achievements">Point Mongo</a>.</em></p>
+flags:
+  point-mongo:
+    id: 624
+    category: achievements
+    slug: the-system-ai-is-going-to-regret-giving-you-achievements
+    url: https://pointmongo.com/browse/achievements/the-system-ai-is-going-to-regret-giving-you-achievements
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9733696Z'
+    needsRestat: false
+    missingFields: []

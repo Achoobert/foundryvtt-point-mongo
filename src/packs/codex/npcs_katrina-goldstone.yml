@@ -1,0 +1,26 @@
+_id: CxL3WBSNagY32rJG
+_key: '!journal!CxL3WBSNagY32rJG'
+name: Katrina Goldstone
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: QAej05AYvY4uNAvu
+    _key: '!journal.pages!CxL3WBSNagY32rJG.QAej05AYvY4uNAvu'
+    name: Katrina Goldstone
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A brilliant, arrogant High Elf lawyer who wins fairly but makes everyone involved regret ever meeting her.</em></p><p><strong>Type:</strong> Lawyer · <strong>Race:</strong> High Elf</p><p>An "I''m better than you at everything" lawyer who thrives on inflicting embarrassing courtroom defeats. Never lies, cheats, or scams to win, but her arrogance makes clients and opponents alike wish she would, just to justify how insufferable she is. She''ll win your case — at what personal cost to your patience is another matter.</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/npcs/katrina-goldstone">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 247
+    category: npcs
+    slug: katrina-goldstone
+    url: https://pointmongo.com/browse/npcs/katrina-goldstone
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - lawyer
+    updatedAt: '2026-09-02T04:50:41.4077271Z'
+    needsRestat: false
+    missingFields: []

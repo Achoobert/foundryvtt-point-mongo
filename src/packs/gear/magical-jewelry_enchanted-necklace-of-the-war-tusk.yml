@@ -1,0 +1,19 @@
+_id: I8MvZPf3f7qOZnbH
+_key: '!items!I8MvZPf3f7qOZnbH'
+name: Enchanted Necklace of The War Tusk
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A thick braided gold chain from a Skull Empire legion commander, stamped "Strength and Honour", that builds Strength and heals you to full once a floor.</em></p><p>Once owned the War Tusk of the Skull Empire''s Faction Wars Legions.  At first glance this enchanted item appears to be a simple thick braided gold chain.  In actuality it carries a pair of heavy enchantments, raising the welders Strength stat, and granting the ability completely refill the wearers Health, once per floor.  Upon inspection the moto "Strength and Honour" can be found stamped into the clasp. "</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Necklace</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>DR</th><td>2</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Once per floor: Recovery (full Health)</li><li>+5 Strength</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-necklace-of-the-war-tusk">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 946
+    category: magical-jewelry
+    slug: enchanted-necklace-of-the-war-tusk
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-necklace-of-the-war-tusk
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-21T18:46:39.4770415Z'
+    needsRestat: false
+    missingFields: []

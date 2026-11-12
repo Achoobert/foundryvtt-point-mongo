@@ -1,0 +1,45 @@
+_id: jAIhE88HjpLnK592
+_key: '!items!jAIhE88HjpLnK592'
+name: Draconic Breath (Fire)
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>An Evocation breath-weapon spell dealing scaling elemental cone damage against a targeted area.</em></p><p>You open your mouth and flames (substitute type of spell) belch out! Roll an opposed (Int+Skill_Rank) check against each creature in the targeted area (roll once, compare against each creature''s DEX). Base Damage: 2d6+ INT Fire/Acid/Cold (substitute type of spell) damage</p><p><strong>Rank 5:</strong> +2d6 base damage, increase cone size to 60ft</p><p><strong>Rank 10:</strong> +4d6 base damage, increase cone size to 120ft</p><p><strong>Rank 15:</strong> Your head briefly transforms into a true dragon''s head, before releasing its destructive breath. +6d6 base damage, increase cone size to 160ft.</p><table><tbody><tr><th>Base damage</th><td>2d6 + INT</td></tr><tr><th>AI favor</th><td>0</td></tr></tbody></table><hr><p><em>Source: Community submission — Riley R (Crawler #10268). From <a href="https://pointmongo.com/browse/spells/draconic-breath-fire">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 20
+  range: 15ft
+  duration: Instant
+  cooldown: 3 rounds
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses: []
+  baseDamage:
+    dice: 2d6
+    stat: int
+    damageType: fire
+  upgrades:
+    - id: 6gSwUbZU1mv1zor3
+      rankThreshold: 5
+      description: <p>+2d6 base damage. Cone increases to 30ft range.</p>
+    - id: 7f3hJCXeRUljQoCc
+      rankThreshold: 10
+      description: <p>+2d6 base damage. Cone increases to 50ft range.</p>
+    - id: n4JnWlFxuMQhpq77
+      rankThreshold: 15
+      description: <p>+2d6 base damage. Cone increases to 75ft range.</p>
+flags:
+  point-mongo:
+    id: 393
+    category: spells
+    slug: draconic-breath-fire
+    url: https://pointmongo.com/browse/spells/draconic-breath-fire
+    source: 'Community submission — Riley R (Crawler #10268)'
+    tags:
+      - dcc-ccs
+      - spells
+      - evocation
+    updatedAt: '2026-11-10T06:59:48.666079Z'
+    needsRestat: true
+    missingFields: []

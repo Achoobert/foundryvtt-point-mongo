@@ -1,0 +1,23 @@
+_id: 652j23MPkk7vjGni
+_key: '!items!652j23MPkk7vjGni'
+name: Soft-Tread Boots
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>Knee-high leather boots granting stealth and the ability to hear plants scream when stepped on.</em></p><p><strong>Type:</strong> Footwear</p><p>Waterproof, warm, knee-high soft leather boots granting +5 stealth. The wearer can speak to plants underfoot — and hears their screams of pain when trodden upon.</p><table><tbody><tr><th>Type</th><td>Footwear</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/soft-tread-boots">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 192
+    category: magic-items
+    slug: soft-tread-boots
+    url: https://pointmongo.com/browse/magic-items/soft-tread-boots
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-03T16:30:37.2097005Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

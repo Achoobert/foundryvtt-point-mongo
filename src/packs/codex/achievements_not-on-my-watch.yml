@@ -1,0 +1,24 @@
+_id: fKc0zbP1DNPn6dio
+_key: '!journal!fKc0zbP1DNPn6dio'
+name: Not on My Watch
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: XRWbd0W2VOUBqtik
+    _key: '!journal.pages!fKc0zbP1DNPn6dio.XRWbd0W2VOUBqtik'
+    name: Not on My Watch
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you deliberately take damage intended for another crawler.</em></p><p>You deliberately put yourself in harm''s way to protect another crawler. The System AI finds this behavior admirable. Questionable, but admirable.</p><p>Reward: Silver Survivor''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/not-on-my-watch">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 611
+    category: achievements
+    slug: not-on-my-watch
+    url: https://pointmongo.com/browse/achievements/not-on-my-watch
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9627398Z'
+    needsRestat: false
+    missingFields: []

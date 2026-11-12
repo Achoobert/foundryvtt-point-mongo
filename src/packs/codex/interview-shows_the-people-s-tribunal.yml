@@ -1,0 +1,25 @@
+_id: xDVywsvAYSCgxmft
+_key: '!journal!xDVywsvAYSCgxmft'
+name: The People's Tribunal
+folder: 60wNl7vBu4R8G6qF
+pages:
+  - _id: 93361pOm1kVg3Rzm
+    _key: '!journal.pages!xDVywsvAYSCgxmft.93361pOm1kVg3Rzm'
+    name: The People's Tribunal
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A courtroom reality show where feuding crawlers air their grievances before the sharp-tongued Judge Troovey.</em></p><p><strong>Host:</strong> Judge Toovey</p><p><strong>Sponsor:</strong> The Dream</p><p>This courtroom reality drama-documentary pits two crawlers who are experiencing in-Dungeon beef and allows them to air their grievances and plead their case in front of the wise cracking Judge Troovey, a hard as nails, member of The Dream. Judge Troovey is known for having been featured in hundreds of snickts over years for her no nonsense approach to Crawler disputes, always peppered with snappy catch phrases, like "Ah honey, that sounds like a you problem", and "pull the other one". Because who doesn''t love watching an intergalactic train wreck?</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/interview-shows/the-people-s-tribunal">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 376
+    category: interview-shows
+    slug: the-people-s-tribunal
+    url: https://pointmongo.com/browse/interview-shows/the-people-s-tribunal
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - tunnel-shows
+    updatedAt: '2026-09-22T05:38:27.0622199Z'
+    needsRestat: false
+    missingFields: []

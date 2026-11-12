@@ -1,0 +1,21 @@
+_id: TvACjS4QmJ9YiOzX
+_key: '!items!TvACjS4QmJ9YiOzX'
+name: '"Make This Last Forever" Potion'
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><em>A potion that makes the next potion consumed permanent — its listed duration becomes forever.</em></p><p>Sometimes the temporary effects of a potion are just so good that you find yourself buying dozens (if not hundreds! Looking at you Crawler Rudi P and your 472 rejuvenation potions... When are you ever going to use all of those?!). Well, this potion offers a solution to that problem! The next potion you drink after consuming this potion has its effects become permanent! Any listed duration changes to "FOREVER" until the end of time. This doesn''t have any effect on potions without a duration and if you try that this potion will be wasted! WARNING! Don''t use this on a detrimental potion or poison... Or do, idk I''m not your mother.</p><table><tbody><tr><th>Type</th><td>Buff</td></tr><tr><th>Duration</th><td>until next potion drank</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>The next potion drunk after this one has its effects become permanent, with any listed duration changing to "FOREVER." Has no effect on potions without a duration, and is wasted if used that way. Warning: works on detrimental potions and poisons too.</li></ul><hr><p><em>Source: Community submission — Riley R (Crawler #10268). From <a href="https://pointmongo.com/browse/potions/make-this-last-forever-potion">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 327
+    category: potions
+    slug: make-this-last-forever-potion
+    url: https://pointmongo.com/browse/potions/make-this-last-forever-potion
+    source: 'Community submission — Riley R (Crawler #10268)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-22T05:38:20.3314046Z'
+    needsRestat: false
+    missingFields: []

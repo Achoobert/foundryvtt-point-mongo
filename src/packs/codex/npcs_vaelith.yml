@@ -1,0 +1,26 @@
+_id: F2PMsyYMi1JLPKdG
+_key: '!journal!F2PMsyYMi1JLPKdG'
+name: Vaelith
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: 1dJRWYaA2rA5RJL3
+    _key: '!journal.pages!F2PMsyYMi1JLPKdG.1dJRWYaA2rA5RJL3'
+    name: Vaelith
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A bioluminescent Kthyren historian-lawyer known as ''The Silence Before Verdict,'' defending marginalized species against corrupt galactic powers.</em></p><p><strong>Type:</strong> Lawyer · <strong>Race:</strong> The Kythyren</p><p>A bioluminescent extraterrestrial from the ocean-world Nerevos Prime, whose civilization evolved around perfect memory retention, producing legendary historians and negotiators. Specializes in defending marginalized species against megacorporations, corrupt planetary governors, and empires exploiting treaty loopholes. Wears a living-circuitry legal mantle that records every word spoken at trial; nicknamed "The Silence Before Verdict" for his calm, razor-sharp logic.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/npcs/vaelith">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 252
+    category: npcs
+    slug: vaelith
+    url: https://pointmongo.com/browse/npcs/vaelith
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - lawyer
+    updatedAt: '2026-11-11T20:08:41.6862714Z'
+    needsRestat: false
+    missingFields: []

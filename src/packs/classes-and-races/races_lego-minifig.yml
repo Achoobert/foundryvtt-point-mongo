@@ -1,0 +1,23 @@
+_id: z1GpNSsbxDACgJTI
+_key: '!items!z1GpNSsbxDACgJTI'
+name: Lego Minifig
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A one-inch plastic Tiny race with enormous Dexterity, a hard cap on Strength, and the Master Builder skill.</em></p><p>You have entered the Dungeon</p><p>Choose a fantastical race</p><p>HEY!</p><p>Become a bean size, pee yellow, plastic figure</p><p>Avoid getting smushed</p><p>Get laughed at by your fellow Crawlers</p><p>And look stupid on camera</p><p>The new Lego Minfig race for Dungeon Crawler World!</p><p>Your choice to become a toy bug is certainly an interesting one. While you may not be the Goliath of this story, you''ll certainly become the David of it, if he was 1 inch tall and could change out his slingshot with an M1 Abrams that HE made with own two C shaped hands. Now can you hop up and down and move your little arms for the camera? Gotta show my friends this.</p><table><tbody><tr><th>Size</th><td>Tiny (1)</td></tr><tr><th>Prerequisites</th><td>Must have crafted a minimum of 3 items during the tutorial floors.</td></tr><tr><th>Rank 20</th><td>Master Builder</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+10 to Dexterity</li><li>+2 to Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Master Builder Skill</li></ul><p><strong>Benefits</strong></p><ul><li>You roll with advantage on Skill Advancement Checks for the Master Builder skill <em>(moderate)</em></li><li>+1d4 on Evade checks <em>(major)</em></li><li>You can survive without breathing, which also gives you immunity to inhaled toxins <em>(major)</em></li><li>Immunity to Poison and all Disease <em>(epic)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Your Strength stat is capped at 10. Even magic gear and potions cannot exceed this limit <em>(3 pt)</em></li><li>You halve all Weapon damage you inflict <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — UpDogCity. From <a href="https://pointmongo.com/browse/races/lego-minifig">Point Mongo</a>.</em></p>'
+  size: Tiny (1)
+  prerequisites: Must have crafted a minimum of 3 items during the tutorial floors.
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 759
+    category: races
+    slug: lego-minifig
+    url: https://pointmongo.com/browse/races/lego-minifig
+    source: Community submission — UpDogCity
+    tags: []
+    updatedAt: '2026-09-15T21:44:33.6268658Z'
+    needsRestat: false
+    missingFields: []

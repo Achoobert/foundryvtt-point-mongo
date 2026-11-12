@@ -1,0 +1,38 @@
+_id: RzBruWCreHu3DBaN
+_key: '!items!RzBruWCreHu3DBaN'
+name: Closet Full of Lies
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>Cosplay experience makes your disguises more convincing, stable, and socially believable.</em></p><p>(Passive / Active Hybrid) Well, well, well… looks like before you were thrown into a meat grinder for the entertainment of sociopathic galaxy-spanning voyeurs, you spent your time playing dress-up on a backwater planet called Earth. Adorable. Truly. Nothing says "I''m prepared for interdimensional survival" like hot glue burns and a suspicious number of wigs. Good news, crawler — turns out pretending to be someone else is actually useful down here.</p><p><strong>Effect:</strong> Your experience with cosplay doesn''t just make you look the part — it helps you be the part.</p><ul><li><strong>Base Bonus (Always Active):</strong> All disguises gain enhanced visual accuracy and cohesion, while subtle behavioral mimicry — posture, idle movements, confidence — naturally improves overall believability.</li><li><strong>Disguise Self Synergy:</strong> Illusion-based disguises become more realistic and stable, require less mana to maintain, and automatically smooth out minor visual inconsistencies in real time.</li><li><strong>Social Deception Boost:</strong> You are more convincing while disguised, making others less likely to question you during normal interactions and more resistant to casual scrutiny.</li><li><strong>Active Ability — "Convention Mode":</strong> Once per day, lock in and perfectly mirror a target you can see, gaining a sharp edge in deception while briefly making others second-guess what they''re seeing.</li></ul><p><strong>Passive Flavor Bonus:</strong> You move comfortably in ridiculous outfits, patch gear with whatever''s on hand, and commit to the bit harder than is ever reasonable.</p><p><strong>Drawback:</strong> You may feel compelled to explain your "build" to people who absolutely do not care.</p><p><em>Dungeon Tip: If you''re going to fake it, make sure you can survive being found out.</em></p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/skills/closet-full-of-lies">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 63
+    category: skills
+    slug: closet-full-of-lies
+    url: https://pointmongo.com/browse/skills/closet-full-of-lies
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - skill
+      - social
+      - illusion
+    updatedAt: '2026-08-31T17:12:29.7710734Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

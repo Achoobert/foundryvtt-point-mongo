@@ -1,0 +1,21 @@
+_id: CJ8kfyVgJs6MwFEQ
+_key: '!items!CJ8kfyVgJs6MwFEQ'
+name: Yinto, the Frying Pan
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>Perfect for both offense and defense on a full belly, this large Wok will certainly be something viewers will remember as you bash in that poor Goblin''s head.</em></p><p>A heavy iron cast Wok that might be used as a Warhammer or a Shield.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Weapon</td></tr><tr><th>Weapon skill</th><td>Club</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 to Shield Block.</li><li>+1DR when used as a Shield</li><li>On an Amazing Success on Warhammer Attack or Shield Block, the enemy becomes Burned.</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/magical-weapons/yinto-the-frying-pan">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 477
+    category: magical-weapons
+    slug: yinto-the-frying-pan
+    url: https://pointmongo.com/browse/magical-weapons/yinto-the-frying-pan
+    source: Community submission — Gabe M
+    tags:
+      - magical-weapons
+      - mace
+    updatedAt: '2026-09-04T05:11:43.4450462Z'
+    needsRestat: false
+    missingFields: []

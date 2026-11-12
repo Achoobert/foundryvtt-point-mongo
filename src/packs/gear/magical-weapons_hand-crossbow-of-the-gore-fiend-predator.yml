@@ -1,0 +1,19 @@
+_id: JpKbWKZKYSJP9fcJ
+_key: '!items!JpKbWKZKYSJP9fcJ'
+name: Hand Crossbow of the Gore Fiend Predator
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>It knows how to finish what something else started — anything already bleeding is far easier to put down. Mind the blood in the water.</em></p><p>This item uses the Hand Crossbow Skill. This magical hand crossbow knows how to effectively put down the wounded and injured beasts of the Crawl. Be careful for the blood in the water.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Hand Crossbow</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Weapon skill</th><td>Hand Crossbow</td></tr><tr><th>DR</th><td>0</td></tr><tr><th>Duration</th><td>n/a</td></tr><tr><th>Cooldown</th><td>n/a</td></tr><tr><th>Charges</th><td>n/a</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Successful attacks from this weapon apply the Blood Trail debuff</li><li>Successful attacks from this weapon on targets that have the Blood Trail debuff can score a Critical of 19 or 20</li><li>Killing a target with this weapon that has Blood Trail has a 1% chance to summon a Gore Fiend Predator somewhere on this floor to hunt you down.</li></ul><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/magical-weapons/hand-crossbow-of-the-gore-fiend-predator">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 756
+    category: magical-weapons
+    slug: hand-crossbow-of-the-gore-fiend-predator
+    url: https://pointmongo.com/browse/magical-weapons/hand-crossbow-of-the-gore-fiend-predator
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-24T18:09:50.6312669Z'
+    needsRestat: false
+    missingFields: []

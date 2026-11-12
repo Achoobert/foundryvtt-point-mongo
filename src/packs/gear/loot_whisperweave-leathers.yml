@@ -1,0 +1,26 @@
+_id: 4ej6Puy5zaNMS6VP
+_key: '!items!4ej6Puy5zaNMS6VP'
+name: Whisperweave Leathers
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>Lightweight shadow-threaded leathers that protect by making sure you''re never hit in the first place.</em></p><dl class="stat-block"><dt>Type</dt><dd>Full Set Leather Armor</dd><dt>AC Bonus</dt><dd>See Description</dd></dl><p>A set of lightweight black leathers threaded with faint silver fibers that seem to blur at the edges when you move. The material is soft, flexible, and almost unnaturally quiet, muting even the sound of armor shifting against itself. In low light, it seems to drink in shadows, making your outline harder to follow. It doesn''t protect you by taking hits — it protects you by making sure you don''t.</p><p><strong>Base Defense:</strong> Low physical resistance, moderate magical resistance, high mobility bonus. +10 magic resistance, +20 to stealth and other dexterity-based checks.</p><ul><li>Shadow-step (Passive) — after moving a short distance without taking damage, your next attack deals 15% bonus damage</li><li>Silent Movement (Passive) — greatly reduces noise and increases stealth effectiveness</li><li>Evasion (Passive) — increased chance to dodge attacks, especially when not surrounded</li><li>Fade (Active, short cooldown) — briefly reduces enemy awareness, making it easier to disengage or reposition</li><li>Opportunist (Passive) — deal 15% increased damage to enemies who are distracted, isolated, or attacking someone else</li></ul><p><em>"If they can''t hit you, they can''t kill you."</em></p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/loot/whisperweave-leathers">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 56
+    category: loot
+    slug: whisperweave-leathers
+    url: https://pointmongo.com/browse/loot/whisperweave-leathers
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - armor
+      - leather
+      - magical-armor
+      - stealth
+    updatedAt: '2026-08-31T17:12:29.7507729Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

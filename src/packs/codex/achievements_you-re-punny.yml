@@ -1,0 +1,25 @@
+_id: hucoaA2y5ykVwenC
+_key: '!journal!hucoaA2y5ykVwenC'
+name: You're Punny!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: AJvysRYfRpo6wLEw
+    _key: '!journal.pages!hucoaA2y5ykVwenC.AJvysRYfRpo6wLEw'
+    name: You're Punny!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler spots and responds to a pun in the wild, all on their own.</em></p><p><strong>Scenario:</strong> Crawler makes/responds to a pun</p><p>Congratulations crawler, you spotted a pun in the wild and responded in kind, all by yourself. Ah, that''s adorable. For all of our sakes, I hope they didn''t let you reproduce.</p><p><strong>Suggested Rewards:</strong></p><p>You get a pat on the head and a Bronze: Dad Joke Box.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/achievements/you-re-punny">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 288
+    category: achievements
+    slug: you-re-punny
+    url: https://pointmongo.com/browse/achievements/you-re-punny
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:27:11.5187394Z'
+    needsRestat: false
+    missingFields: []

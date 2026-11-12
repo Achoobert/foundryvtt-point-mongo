@@ -1,0 +1,24 @@
+_id: rTLgPM66gdnPXTK9
+_key: '!journal!rTLgPM66gdnPXTK9'
+name: I Know a Shortcut
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: eLYltKluccQaHRwh
+    _key: '!journal.pages!rTLgPM66gdnPXTK9.eLYltKluccQaHRwh'
+    name: I Know a Shortcut
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you successfully navigate an unconventional route that bypasses the obvious path.</em></p><p>You found a way around the obvious route. Congratulations! You have demonstrated that sometimes the fastest way forward is the path the dungeon designers absolutely did not expect you to take.</p><p>Reward: Silver Explorer''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/i-know-a-shortcut">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 583
+    category: achievements
+    slug: i-know-a-shortcut
+    url: https://pointmongo.com/browse/achievements/i-know-a-shortcut
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9405352Z'
+    needsRestat: false
+    missingFields: []

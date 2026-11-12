@@ -1,0 +1,43 @@
+_id: U30fBxwnhBhWi8xh
+_key: '!items!U30fBxwnhBhWi8xh'
+name: Paper Cuts
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Opens long thin cuts across a target, inflicting a stack of Blood Trail.</em></p><p>You open long, thin strips in the flesh of your target.</p><p>Note: This is part of a series of Spells that I am calling Afflictions, that are intended to inflict debuffs. If you are interested in the other ones, check Fire Cloud and Fang Bang.</p><table><tbody><tr><th>Base damage</th><td>Inflicts one stack of Blood Trail</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/spells/paper-cuts">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 13
+  range: 25ft
+  duration: Instant
+  cooldown: ''
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses:
+    - Mage
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: TWRqJxHOfWfhjsfV
+      rankThreshold: 5
+      description: <p>Target will receive one stack of Blood Trail debuff for each degree of success</p>
+    - id: 65HK5fFnbP9xhLkI
+      rankThreshold: 10
+      description: <p>+1 stack of Blood Trail</p>
+    - id: pOTUUDYD26n67Luv
+      rankThreshold: 15
+      description: <p>You can assign available Blood Trail stacks to any number of targets within the spell range</p>
+flags:
+  point-mongo:
+    id: 552
+    category: spells
+    slug: paper-cuts
+    url: https://pointmongo.com/browse/spells/paper-cuts
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.7223554Z'
+    needsRestat: false
+    missingFields: []

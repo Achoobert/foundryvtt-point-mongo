@@ -1,0 +1,26 @@
+_id: p9ytrq43NW1BF60l
+_key: '!journal!p9ytrq43NW1BF60l'
+name: Vinny (Lawyer)
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: QZfZ0c6DMxB1DNts
+    _key: '!journal.pages!p9ytrq43NW1BF60l.QZfZ0c6DMxB1DNts'
+    name: Vinny (Lawyer)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A former Crawler turned rules-lawyer intern, now a money-driven, semi-mercenary attorney who keeps host corporations honest — for the right price.</em></p><p><strong>Type:</strong> Lawyer · <strong>Race:</strong> Fawn</p><p>Took a deal after hitting floor 10 in a secret, unnamed season, interning at a law office to help enforce the rules of the crawl against system AIs and host corporations. Fell into the trap of easy money working the system, and now often retains himself to crawlers with the best odds of a big post-crawl payout — but he can be swayed by a bigger offer from the house, making him more mercenary than principled. Conceived as Joe Pesci''s voice from My Cousin Vinny in the body of Phil from Hercules.</p><hr><p><em>Source: Community submission — John (Crawler #25497). From <a href="https://pointmongo.com/browse/npcs/vinny-lawyer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 253
+    category: npcs
+    slug: vinny-lawyer
+    url: https://pointmongo.com/browse/npcs/vinny-lawyer
+    source: 'Community submission — John (Crawler #25497)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - lawyer
+    updatedAt: '2026-09-02T04:50:41.4113408Z'
+    needsRestat: false
+    missingFields: []

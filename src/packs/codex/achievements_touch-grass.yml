@@ -1,0 +1,25 @@
+_id: fXzdXntAUCbb2ZQM
+_key: '!journal!fXzdXntAUCbb2ZQM'
+name: Touch Grass
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: ldevdRP0gELLNToD
+    _key: '!journal.pages!fXzdXntAUCbb2ZQM.ldevdRP0gELLNToD'
+    name: Touch Grass
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler happened to be outside taking a break from video games at the moment of the collapse.</em></p><p><strong>Scenario:</strong> Outside, taking a break from video games at the time of the collapse.</p><p>You took a break from playing video games and happened to be outside at the collapse See, look, all of those people that told you to get out and touch grass because it was "good for you" THEY WERE RIGHT!!! Too bad for them they weren''t following their own advice when everything collapsed. Talk about Hypocrites.</p><p><strong>Suggested Rewards:</strong></p><p>You''re still alive, that''s your damn reward. Maybe do something worth while and you can actually get something useful</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/achievements/touch-grass">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 296
+    category: achievements
+    slug: touch-grass
+    url: https://pointmongo.com/browse/achievements/touch-grass
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:38:13.6001435Z'
+    needsRestat: false
+    missingFields: []

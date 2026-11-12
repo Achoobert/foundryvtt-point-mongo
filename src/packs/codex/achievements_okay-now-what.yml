@@ -1,0 +1,24 @@
+_id: MvZBaoUnAkyX4M5k
+_key: '!journal!MvZBaoUnAkyX4M5k'
+name: Okay, Now What?
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: uqh1jKsf9EM3orLg
+    _key: '!journal.pages!MvZBaoUnAkyX4M5k.uqh1jKsf9EM3orLg'
+    name: Okay, Now What?
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you enter the Dungeon, stand completely still for one full minute, and ask aloud, "What do we do now?"</em></p><p>Congratulations! You have successfully entered a terrifying death dungeon and immediately demonstrated absolutely no idea what to do next. Don''t worry. You''ll figure it out. Probably.</p><p>Reward: Bronze Tutorial Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/okay-now-what">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 581
+    category: achievements
+    slug: okay-now-what
+    url: https://pointmongo.com/browse/achievements/okay-now-what
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-11-11T20:08:41.5130456Z'
+    needsRestat: false
+    missingFields: []

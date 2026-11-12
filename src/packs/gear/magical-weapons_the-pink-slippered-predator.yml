@@ -1,0 +1,23 @@
+_id: AbKJ3G43l8Ioa8Jj
+_key: '!items!AbKJ3G43l8Ioa8Jj'
+name: The Pink Slippered Predator
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>Neon-pink stiletto throwing weapons that echolocate misbehaving mobs and curve around corners to hit them.</em></p><p>Inspired by the legendary "shoe-throwing" accuracy of a certain 1980s maternal powerhouse, these are neon-pink, four-inch stilettos that smell faintly of Aqua Net and impending discipline. They vibrate whenever someone nearby is "acting up." Passive Ability: "I’m Gonna Get You" While equipped, the heels emit a low-frequency subsonic pulse. This grants the user Echolocation for any entity the AI deems "unruly."</p><p><strong>Targeting:</strong> Mobs, bosses, and children with sticky fingers are highlighted in a shimmering red hue, even through walls.</p><p><strong>The Warning:</strong> You’ll hear a faint, ghostly whisper of "Don''t make me come back there"whenever a threat enters a 30-meter radius.</p><p><strong>Active Ability:</strong> The "Around the Corner" Curveball When thrown, these heels ignore traditional ballistics. You don’t need a line of sight; you just need an attitude.</p><p><strong>Guided Trajectory:</strong> The shoe will bank, drift, and pull high-G turns to find its target. It can navigate up to three 90-degree corners to connect with a mob''s skull.</p><p><strong>Guaranteed Hit:</strong> If they’re "showing off," the heel will find them.</p><p><strong>The Signature Perk:</strong> Locked and Loaded This is the best part, Carl. When the shoe completes its flight and returns to your hand, the kinetic energy doesn’t just dissipate.</p><p><strong>The Sound:</strong> Upon impact with your palm, the heel emits a crisp, metallic CHICK-CHUNK—the unmistakable sound of a 12-gauge shell being racked into a pump-action shotgun.</p><p><strong>The Buff:</strong> The next throw within 5 seconds deals 50% more "Discipline Damage" and has a 100% chance to inflict the Cowering status effect.</p><p>NEW ACHIEVEMENT Redefining "Foot Traffic: You’ve acquired a weapon so steeped in parental trauma and comedic legend that it actually defies the laws of physics. Somewhere, a goat is screaming in terror, and it’s probably because of you.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Throwing Stiletto</td></tr><tr><th>Weapon skill</th><td>Shuriken</td></tr></tbody></table><hr><p><em>Source: Community submission — David Brookhart (Crawler #26531). From <a href="https://pointmongo.com/browse/magical-weapons/the-pink-slippered-predator">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 222
+    category: magical-weapons
+    slug: the-pink-slippered-predator
+    url: https://pointmongo.com/browse/magical-weapons/the-pink-slippered-predator
+    source: 'Community submission — David Brookhart (Crawler #26531)'
+    tags:
+      - dcc-ccs
+      - magical-weapons
+      - thrown
+    updatedAt: '2026-09-22T05:38:04.6160688Z'
+    needsRestat: false
+    missingFields:
+      - effects

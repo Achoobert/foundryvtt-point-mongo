@@ -1,0 +1,23 @@
+_id: QHlRE2Ua7DIhJ62n
+_key: '!journal!QHlRE2Ua7DIhJ62n'
+name: 'Loot Generator: Creatures'
+folder: LgXPy7DgMLD2Fvug
+pages:
+  - _id: U0BQoACyP7BAJjx8
+    _key: '!journal.pages!QHlRE2Ua7DIhJ62n.U0BQoACyP7BAJjx8'
+    name: 'Loot Generator: Creatures'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Monsters, animals and the occasional mall cop, for the far end of a magic item''s name.</em></p><p>Used by the <a href="/loot">Loot Generator</a> alongside the mobs, bosses, gods, classes, races and places already in the codex, for the last part of an item name: Gauntlets of the Substitute Teacher, Boots of the Possum. Codex entries come first in spirit; this table is here so a party of five never runs out of names.</p><p>Have something to add? Press <strong>+ Suggest a row</strong> above the table. It comes to us for a quick look, then goes in with your name on it.</p><table><tbody><tr><th>unique</th><td>false</td></tr><tr><th>lootGenerator</th><td>creatures</td></tr></tbody></table><hr><p><em>Source: Point Mongo Team. From <a href="https://pointmongo.com/browse/roll-tables/loot-generator-creatures">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 945
+    category: roll-tables
+    slug: loot-generator-creatures
+    url: https://pointmongo.com/browse/roll-tables/loot-generator-creatures
+    source: Point Mongo Team
+    tags: []
+    updatedAt: '2026-10-23T04:28:31.3538497Z'
+    needsRestat: false
+    missingFields: []

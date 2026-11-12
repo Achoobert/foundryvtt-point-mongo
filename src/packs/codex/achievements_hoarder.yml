@@ -1,0 +1,24 @@
+_id: b7YmdS8EdDbqWucN
+_key: '!journal!b7YmdS8EdDbqWucN'
+name: Hoarder
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: WOmtP5LGK3y6Hjbn
+    _key: '!journal.pages!b7YmdS8EdDbqWucN.WOmtP5LGK3y6Hjbn'
+    name: Hoarder
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you fill every available Inventory slot with loot before leaving an area.</em></p><p>You filled your available inventory with loot before leaving the area. The System AI is proud of your dedication to collecting absolutely everything that isn''t nailed down.</p><p>Reward: Silver Looter Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/hoarder">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 620
+    category: achievements
+    slug: hoarder
+    url: https://pointmongo.com/browse/achievements/hoarder
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.970124Z'
+    needsRestat: false
+    missingFields: []

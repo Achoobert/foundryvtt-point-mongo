@@ -1,0 +1,24 @@
+_id: rMQcjVPKnsGFY9qx
+_key: '!journal!rMQcjVPKnsGFY9qx'
+name: Overkill Is Still Kill
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: uPzyrQI49L3XAicM
+    _key: '!journal.pages!rMQcjVPKnsGFY9qx.uPzyrQI49L3XAicM'
+    name: Overkill Is Still Kill
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you deal at least twice the damage necessary to defeat a Mob.</em></p><p>You used significantly more force than necessary to kill a single opponent. Was it efficient? Absolutely not. Was it entertaining? The System AI thinks so!</p><p>Reward: Bronze Goblin Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/overkill-is-still-kill">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 590
+    category: achievements
+    slug: overkill-is-still-kill
+    url: https://pointmongo.com/browse/achievements/overkill-is-still-kill
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.946Z'
+    needsRestat: false
+    missingFields: []

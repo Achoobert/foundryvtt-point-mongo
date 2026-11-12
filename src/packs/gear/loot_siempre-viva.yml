@@ -1,0 +1,24 @@
+_id: dgaUQdyd4CuXIxlg
+_key: '!items!dgaUQdyd4CuXIxlg'
+name: Siempre Viva
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A pulsing potion of eternal life — apply to a wound for instant healing, or drink to stop aging, at the risk of becoming Undead upon death.</em></p><p><strong>Notes:</strong> See Description</p><p>Live Forever! A vial of pulsing fuschia liquid exudes power when you’re near it. It can be used in one of two ways, with different results for each method used. 1) A drop may be applied to an open wound, and the wound will heal instantly up to one-third of the user’s current HP, and grants +5 to attacks made with that appendage for the next 1d6 days. The vial contains 10d100 drops if used in this way. 2) If the potion is ingested, however, the user will regain up to one-third of their life and will cease aging from that point forward. They gain a permanent +5 to all DEX and STR based checks while they LIVE.</p><p><strong>NOW A WARNING:</strong> Take care of yourself. You and your body are going to be together a long time… Be good to it…</p><p>While the user may not physically age anymore, their body may still die from sufficient physical damage. Upon the death of the body, and a short trip to the afterlife (up to 3d12 minutes), the user will reawaken to their new, Undead life! The mind and spirit will remain strong, forever bound to the now decaying body. Rumors persist that a second dose of The Potion may cure this state, but it has never been tested (and you’d be hard-pressed to find another vial of The Potion). Once Undead, the user will gain a permanent -5 to all DEX, STR, and CON based checks.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Potion</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — Myles L (Crawler #26933). From <a href="https://pointmongo.com/browse/loot/siempre-viva">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 138
+    category: loot
+    slug: siempre-viva
+    url: https://pointmongo.com/browse/loot/siempre-viva
+    source: 'Community submission — Myles L (Crawler #26933)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+      - potion
+    updatedAt: '2026-09-30T20:04:01.8827361Z'
+    needsRestat: false
+    missingFields:
+      - effects

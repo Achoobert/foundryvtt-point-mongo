@@ -1,0 +1,19 @@
+_id: yRwbcv1NzeqLpKYE
+_key: '!items!yRwbcv1NzeqLpKYE'
+name: Patch of Void Hole
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>A reusable patch of black silk that turns whatever it''s stuck to into a two-inch peephole, as long as you remember to take it back.</em></p><p>A two inch round piece of pitch black silk. Stick it to a clothing item to create a 2 inch hole. This is not a fleeting item and can be unstuck and placed on other objects! Need to look on the other side of a wall? Stick this patch on and create a 2 inch viewing hole! But be careful where you leave it and don''t forget to pick it back up after use.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Bronze</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Creates 2 inch hole - Reusable</li></ul><hr><p><em>Source: Community submission — evilranma42. From <a href="https://pointmongo.com/browse/loot/patch-of-void-hole">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1047
+    category: loot
+    slug: patch-of-void-hole
+    url: https://pointmongo.com/browse/loot/patch-of-void-hole
+    source: Community submission — evilranma42
+    tags: []
+    updatedAt: '2026-11-04T17:26:13.484911Z'
+    needsRestat: false
+    missingFields: []

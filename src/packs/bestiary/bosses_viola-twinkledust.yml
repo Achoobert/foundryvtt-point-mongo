@@ -1,0 +1,51 @@
+_id: l1rWR2z0INPFgWXU
+_key: '!actors!l1rWR2z0INPFgWXU'
+name: Viola Twinkledust
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> Level, stat scores, Floor (sets DR), attacks</p><p><em>A Tiny, malicious fairy Neighborhood Boss with unusually high stats for her size and a fondness for evocation spells.</em></p><p>This irate little deviant is the scourge of the fairy community. Viola''s enhanced strength and durability is an anomaly in the Fairy World. Considered an outcast among fairies, Viola delights in punishing anybody weaker than herself, and has been known to rip the wings off of other fairies she comes across, just out of spite. Her small size is countered by her speed, durability, strength and a pure desire to cause pain. She is constantly trash talking her opponents and nothing is off the table. Viola also has access to a fairy''s innate access to magic, and has a particular fondness for evocation magic, dropping fireballs with murderess glee.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/bosses/viola-twinkledust">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 1
+  size: Tiny (1)
+  creatureType: Fairy
+  move: '40'
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Viola Twinkledust
+  actorLink: false
+flags:
+  point-mongo:
+    id: 99
+    category: bosses
+    slug: viola-twinkledust
+    url: https://pointmongo.com/browse/bosses/viola-twinkledust
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - neighborhood-boss
+      - bosses
+    updatedAt: '2026-11-11T20:08:41.5933588Z'
+    needsRestat: true
+    missingFields:
+      - Level
+      - stat scores
+      - Floor (sets DR)
+      - attacks

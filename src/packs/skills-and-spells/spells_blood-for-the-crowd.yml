@@ -1,0 +1,39 @@
+_id: tCosA7Po8nhl5kYg
+_key: '!items!tCosA7Po8nhl5kYg'
+name: Blood For The Crowd
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A passive Evocation skill boosting melee weapon damage while the caster is outnumbered.</em></p><p>Passive Skill</p><p><strong>Limitations:</strong> This only works while you''re outnumbered in combat.</p><p><strong>Level 1:</strong> While outnumbered in combat, your Melee Weapon Skills deal additional damage.</p><p><strong>Level 5:</strong> Your Melee Weapon Skills now deal even more damage.</p><p><strong>Level 10:</strong> Your Melee Weapon Skills now deal even MORE damage.</p><p><strong>Level 15:</strong> Your Melee Weapon Skills now deal EVEN MORE damage.</p><p><strong>Level 20:</strong> Your Melee Weapon Skills now deal an outstanding amount of damage.</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/blood-for-the-crowd">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 384
+    category: spells
+    slug: blood-for-the-crowd
+    url: https://pointmongo.com/browse/spells/blood-for-the-crowd
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+      - evocation
+    updatedAt: '2026-09-22T05:46:52.7330346Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

@@ -1,0 +1,25 @@
+_id: dxyQ4XjCLvSGVS5K
+_key: '!journal!dxyQ4XjCLvSGVS5K'
+name: Rascal
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: 9mEQlPRUj6S1TymE
+    _key: '!journal.pages!dxyQ4XjCLvSGVS5K.9mEQlPRUj6S1TymE'
+    name: Rascal
+    type: text
+    text:
+      format: 1
+      content: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>A sentient, telepathic Shadow Mimic pet that grows able to mimic larger objects as it levels up by consuming mobs.</em></p><p><strong>Species:</strong> Shadow Mimic · <strong>HD:</strong> 1/level</p><p>Starts as a mobile, animated black puddle of goo, able to duplicate only small objects like cutlery or coins. As it consumes mobs and levels up, it can replicate progressively larger items — beer steins, doorknobs, eventually medium and large objects. Sentient and telepathic, making it an excellent ambush hunter. Introduces itself directly into the owner''s mind as "We are Rascal."</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/pets/rascal">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 304
+    category: pets
+    slug: rascal
+    url: https://pointmongo.com/browse/pets/rascal
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.7403355Z'
+    needsRestat: true
+    missingFields: []

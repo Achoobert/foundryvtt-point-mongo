@@ -1,0 +1,19 @@
+_id: mvXaofcK81vb28Qf
+_key: '!items!mvXaofcK81vb28Qf'
+name: Enchanted Chainmail Shirt of Damage Reduction
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A gleaming chainmail shirt that never tarnishes and leaves its wearer a good deal hardier.</em></p><p>This gleaming chainmail shirt never tarnishes.  It offers its wearer both a +4 CON buff and +1 DR.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Chainmail Shirt</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+4 Constitution</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-chainmail-shirt-of-damage-reduction">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 983
+    category: magic-items
+    slug: enchanted-chainmail-shirt-of-damage-reduction
+    url: https://pointmongo.com/browse/magic-items/enchanted-chainmail-shirt-of-damage-reduction
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-28T16:58:32.3292815Z'
+    needsRestat: false
+    missingFields: []

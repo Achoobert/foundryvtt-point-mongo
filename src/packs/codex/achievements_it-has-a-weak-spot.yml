@@ -1,0 +1,23 @@
+_id: Ak3fJ8RndFGo6pLu
+_key: '!journal!Ak3fJ8RndFGo6pLu'
+name: It has a weak spot
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: MaNHQBcQYQf7QdTd
+    _key: '!journal.pages!Ak3fJ8RndFGo6pLu.MaNHQBcQYQf7QdTd'
+    name: It has a weak spot
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you find an enemy''s weak spot and make the most of it.</em></p><p>Almost like the yellow big eye in those videogames you used to play...</p><p>You found a vulnerability on a enemy and you really took advantage of that.</p><p>Don''t think you are so clever...dipshit.</p><p>Reward: A combat /analysis improvement.</p><hr><p><em>Source: Community submission — naule. From <a href="https://pointmongo.com/browse/achievements/it-has-a-weak-spot">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1165
+    category: achievements
+    slug: it-has-a-weak-spot
+    url: https://pointmongo.com/browse/achievements/it-has-a-weak-spot
+    source: Community submission — naule
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.219986Z'
+    needsRestat: false
+    missingFields: []

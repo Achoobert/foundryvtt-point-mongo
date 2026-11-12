@@ -1,0 +1,23 @@
+_id: jggxqG7I6tVYbLyx
+_key: '!journal!jggxqG7I6tVYbLyx'
+name: Fr8 Tanner
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: siNokqX2dOirkmK9
+    _key: '!journal.pages!jggxqG7I6tVYbLyx.siNokqX2dOirkmK9'
+    name: Fr8 Tanner
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A scarred street kid who grew up dumpster-diving by the train tracks and enters the dungeon for a warm place to eat and sleep.</em></p><p>NPC Type: Crawler</p><p>Probably born to a homeless junky who died. Grew up near some train tracks and trailer parks. Most families didn''t stay very long and those that learned of his life didn''t trust him. He would get into fights all the time. Hes pretty scared up. He got pretty good at dumpster diving, one time even finding a broken Pocket bike and getting help to fix it up and learning to ride it. He had found a dilapidated storage facility to call home. Kept most of his stuff in there. Keeps a little string bag filled with extra clothes, about 100 unfinished cigs, 20 lighters that he has used other used lighters to fill back up with, He had a jar with savings to maybe rent a place in one of those halfway houses. He never fully learned how to spell the name he went by, some kid when he was younger had shown him a cool way to spell skate, like Sk8. and figured that''s probably the best way to spell his name. And another kid thought he said Tanner like the family on Full house and showed him that. And hes kept that as his name. Fr8 Tanner.</p><p>Once he hits floor 3 he will choose Prize fighter and Sasquatch, he will follow Emberus when given the choice. as long as the system gives him a nice place to eat and sleep and feel warm he will fight and kill everyone and anyone. he would love to make friends but the world has never been kind to him. He will enter the dungeon with 2 baggies, one is filled with hand rolled cigs made from dropped and left over cigs opened and refilled, the other baggy is filled with lighters that have been skillfully refilled from thrown out lighters. he will not shy away from drugs if it will make him feel good.</p><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/npcs/fr8-tanner">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 793
+    category: npcs
+    slug: fr8-tanner
+    url: https://pointmongo.com/browse/npcs/fr8-tanner
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.685356Z'
+    needsRestat: false
+    missingFields: []

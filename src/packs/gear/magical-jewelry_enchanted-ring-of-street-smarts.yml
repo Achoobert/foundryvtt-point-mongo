@@ -1,0 +1,19 @@
+_id: lNtscjFCJHZ0B75w
+_key: '!items!lNtscjFCJHZ0B75w'
+name: Enchanted Ring of Street Smarts
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A freshly polished silver ring for crawlers who settle things with their fists and know where not to step.</em></p><p>This silver ring gleams as though it was freshly polished.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Pugilism Skill</li><li>+1 Detect Trap Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-ring-of-street-smarts">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1008
+    category: magical-jewelry
+    slug: enchanted-ring-of-street-smarts
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-ring-of-street-smarts
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-29T18:33:18.9701542Z'
+    needsRestat: false
+    missingFields: []

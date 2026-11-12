@@ -1,0 +1,25 @@
+_id: x7H2HHAE8G9eV01Y
+_key: '!items!x7H2HHAE8G9eV01Y'
+name: Bone Mech with Meat Armor
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>A full-body upgrade that reinforces flesh with ''meat'' armor and hardens bone structure to titanium.</em></p><p>Well that''s what you all are isn''t it? A brain travelling the world in a Bone Mech encased in Meat Armour? Sheesh everyone gets so touchy about all this stuff. Well screw you sentients! I''m not taking any shit from an organism who is essentially a donut with overly complicated emotions! Take the damn upgrade to your existing meat armour and bone mech and be grateful you little bitch! Appearance: Two approximately footprint looking meat steaks. Description: Stepping into these footprints causes them to grow up and over your flesh reinforcing it with a layer of tougher, more durable ''meat'' armour. It looks and feels a LOT like being eaten. At the same time after 24 hours of wear (including a sleep rest), your bone structure is also upgraded to have the composition of titanium. If you can stop panicking long enough during the initial joining phase, you will see controls in your menu where you can change the appearance of the meat armour to template presets or your own personalised version. This is only possible within the first ten minutes otherwise a random style will be chosen by the AI.</p><hr><p><em>Source: Community submission — K8 (Crawler #71). From <a href="https://pointmongo.com/browse/loot/bone-mech-with-meat-armor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 39
+    category: loot
+    slug: bone-mech-with-meat-armor
+    url: https://pointmongo.com/browse/loot/bone-mech-with-meat-armor
+    source: 'Community submission — K8 (Crawler #71)'
+    tags:
+      - armor
+      - full-body
+      - magical-armor
+    updatedAt: '2026-09-22T05:38:00.1229533Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

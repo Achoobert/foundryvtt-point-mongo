@@ -1,0 +1,25 @@
+_id: FoN3LkEdsmTHcpUZ
+_key: '!journal!FoN3LkEdsmTHcpUZ'
+name: So, You Think You're Prepared?
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: QYNvRsNt1008znh7
+    _key: '!journal.pages!FoN3LkEdsmTHcpUZ.QYNvRsNt1008znh7'
+    name: So, You Think You're Prepared?
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a self-assured tabletop/video game veteran enters the dungeon, prompting the AI to raise the difficulty just for them.</em></p><p><strong>Trigger:</strong> A gamer enters the dungeon.</p><p><strong>Effect:</strong> every mob the crawler encounters has its level automatically increased by 5%, with no extra reward for the added difficulty — can''t have them getting bored.</p><hr><p><em>Source: Community submission — John (Crawler #24597). From <a href="https://pointmongo.com/browse/achievements/so-you-think-you-re-prepared">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 293
+    category: achievements
+    slug: so-you-think-you-re-prepared
+    url: https://pointmongo.com/browse/achievements/so-you-think-you-re-prepared
+    source: 'Community submission — John (Crawler #24597)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-02T04:50:41.7010956Z'
+    needsRestat: false
+    missingFields: []

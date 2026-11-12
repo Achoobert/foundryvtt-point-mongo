@@ -1,0 +1,26 @@
+_id: 1xB4vyeAqDzO4N4d
+_key: '!journal!1xB4vyeAqDzO4N4d'
+name: The Lawyer Formerly Known as Elvis
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: qvyGlOZ3mS1kiBrX
+    _key: '!journal.pages!1xB4vyeAqDzO4N4d.qvyGlOZ3mS1kiBrX'
+    name: The Lawyer Formerly Known as Elvis
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A musician, a lover of peanut butter and banana sandwiches, this Nullian is certainly the best lawyer to call.</em></p><p>Oh yeah. It’s THAT Elvis. This tubby rhinestone suit wearing Nullian lawyer used to be a famous singer back in the day. Now he’s doing legal work for the Crawl. He has a speech impediment where he ends every sentence with “Ah huh huh” and speaks in strange idioms from his time on Earth. Always asks if you’re packing a peanut butter and banana sandwich. He’s a good lawyer to have in your pocket.</p><hr><p><em>Source: Moonshadow Dark. From <a href="https://pointmongo.com/browse/npcs/the-lawyer-formerly-known-as-elvis">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 479
+    category: npcs
+    slug: the-lawyer-formerly-known-as-elvis
+    url: https://pointmongo.com/browse/npcs/the-lawyer-formerly-known-as-elvis
+    source: Moonshadow Dark
+    tags:
+      - npc
+      - lawyer
+      - npcs
+    updatedAt: '2026-09-02T00:47:04.9176839Z'
+    needsRestat: false
+    missingFields: []

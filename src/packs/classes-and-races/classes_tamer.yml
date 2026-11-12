@@ -1,0 +1,23 @@
+_id: muUD7NP5YsHq8vWo
+_key: '!items!muUD7NP5YsHq8vWo'
+name: Tamer
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter/Druid class for whip-cracking beast tamers, built around a big bonded pet and Advantage on anything involving animals.</em></p><p>Taming Beasts and taking names!</p><table><tbody><tr><th>Prerequisites</th><td>Must have a bonded pet with Size 4+ and at least +3 to Whips Skill</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Dexterity</li><li>+3 Charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Heal Critter Spell</li></ul><p><strong>Benefits</strong></p><ul><li>+1 to Whips, Animal Handling, Performance and Ropework <em>(extreme)</em></li><li>+1 to Whips, Animal Handling, Performance and Ropework <em>(extreme)</em></li><li>Roll with advantage on all skills dealing, involving and made with the aid of an "animal" (what constitutes an animal in the Dungeon may vary) <em>(epic)</em></li><li>Once per combat, you may spend an action to crack your whip and give one of the following advantages to your Pet: +5ft Speed; Add your Cha mod to the pet damage for that round; Advantage on attacks for that round; +1d4 to evade until the next round <em>(extreme)</em></li><li>Upon reaching lvl 50, you may have one additional bonded pet. <em>(moderate)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/tamer">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter/Druid
+  prerequisites: Must have a bonded pet with Size 4+ and at least +3 to Whips Skill
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 890
+    category: classes
+    slug: tamer
+    url: https://pointmongo.com/browse/classes/tamer
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-10-17T17:40:16.7723399Z'
+    needsRestat: false
+    missingFields: []

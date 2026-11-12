@@ -1,0 +1,23 @@
+_id: UE5iUBGm88YGPPXp
+_key: '!journal!UE5iUBGm88YGPPXp'
+name: Muiraquitã
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: CLtKeOUqHfHBoPKL
+    _key: '!journal.pages!UE5iUBGm88YGPPXp.CLtKeOUqHfHBoPKL'
+    name: Muiraquitã
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A gem-skinned frog that must be gifted rather than bought, granting a daily dose of AI Favor at Level 15.</em></p><p>These small green frogs have an odd reflective skin, giving them the appearance of living gems or jewelry. They don''t grow much, always staying Tiny (Size 1)</p><p>Bonding: You must bathe and polish a Muiraquitã to get it to bond with you. Muiraquitã will never bond with someone who purchases it, but will instantly bond if given as gifts.</p><p>Level 15 Benefit</p><p>Muiraquitã is the bringer of good luck. Once per day it gives the benefits of using AI Favor.</p><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/pets/muiraquit">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 772
+    category: pets
+    slug: muiraquit
+    url: https://pointmongo.com/browse/pets/muiraquit
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-20T19:30:22.4955339Z'
+    needsRestat: false
+    missingFields: []

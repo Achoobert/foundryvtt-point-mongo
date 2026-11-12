@@ -1,0 +1,25 @@
+_id: p358CmdPbrVDvmzh
+_key: '!journal!p358CmdPbrVDvmzh'
+name: STFU!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: P8q1liXGMJDGQKgH
+    _key: '!journal.pages!p358CmdPbrVDvmzh.P8q1liXGMJDGQKgH'
+    name: STFU!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler annoys another crawler badly enough to get blocked in chat.</em></p><p><strong>Scenario:</strong> Crawler gets blocked in chat</p><p>You did it, you actually did it… you’ve annoyed another crawler enough that they blocked you in chat. Remember when you got the fist bump? That’s over now. You will forever be left on read. You must be one annoying asshole!</p><p><strong>Suggested Rewards:</strong></p><p>Since it’s apparently cool to not talk to you, I want to join in! Three times per day I will conveniently forget to give you a notification or update. I''m sure it’s nothing that could save your life. Just be glad I didn’t permanently mute you.</p><hr><p><em>Source: Community submission — Charles D. Parrott (Crawler #102365). From <a href="https://pointmongo.com/browse/achievements/stfu">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 286
+    category: achievements
+    slug: stfu
+    url: https://pointmongo.com/browse/achievements/stfu
+    source: 'Community submission — Charles D. Parrott (Crawler #102365)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:27:11.5175603Z'
+    needsRestat: false
+    missingFields: []

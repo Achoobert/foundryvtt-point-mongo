@@ -1,0 +1,23 @@
+_id: FIdKaeVBeYHWj9AL
+_key: '!journal!FIdKaeVBeYHWj9AL'
+name: Rat (R.O.U.S.)
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: KNEjXnxCj8isQ6ZJ
+    _key: '!journal.pages!FIdKaeVBeYHWj9AL.KNEjXnxCj8isQ6ZJ'
+    name: Rat (R.O.U.S.)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A first-floor rat grown to Petite size, whose bite poisons on an Amazing Success.</em></p><p>Those who see the small rats infesting the first level of the Dungeon might think of them as just janitor mobs.</p><p>But they can actually grow quite large, and, once fully grown, become Rodents of Unusual Size (Petite, Size 3).</p><p>Bonding: rats enjoy food and warmth.</p><p>Level 15 Benefit</p><p>R.O.U.S. bites are infectious. On an Amazing Success, the target becomes Poisoned.</p><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/pets/rat-r-o-u-s">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 775
+    category: pets
+    slug: rat-r-o-u-s
+    url: https://pointmongo.com/browse/pets/rat-r-o-u-s
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-20T19:30:22.4972746Z'
+    needsRestat: false
+    missingFields: []

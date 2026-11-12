@@ -1,0 +1,41 @@
+_id: jBx3L7rvRJmvjBru
+_key: '!items!jBx3L7rvRJmvjBru'
+name: Pillage
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A Strength-based melee attack skill that tears gold off the target as you hit them.</em></p><p><strong>Level 1:</strong> Rend the target with an Axe, stealing 5 gold X your Strength.</p><p><strong>Level 5:</strong> Pillage applies the Rend debuff, making them take additional Bleed damage a Round until they heal.</p><p><strong>Level 10:</strong> The Rend debuff is replaced by the Deep Wounds debuff. The Deep Wounds debuff makes them take severe Bleed damage each Round until they''re healed to 100%.</p><p><strong>Level 15:</strong> If your target contains more gold than their highest stat, Pillage deals double damage.</p><p><strong>Level 20:</strong> Pillage steals one random equipped armor piece off the target. Non-magical armor is taken before magical armor.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d6 + STR</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/skills/pillage">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: ''
+  cooldown: None
+  limitations: This can only be used if you have an Axe equipped.
+  aiFavor: 0
+  baseDamage:
+    dice: 1d6
+    stat: str
+    damageType: slashing
+  upgrades:
+    - id: wvWN6zc3KmWfg39D
+      rankThreshold: 5
+      description: <p>+1d6 base damage, apply Rend (1d8 Bleed damage a Round unless healed to 100%, doesn't stack) debuff on your target.</p>
+    - id: pjJtTksBgvPZA3he
+      rankThreshold: 10
+      description: <p>+1d6 base damage, Rend debuff is replaced with Deep Wounds (2d8 Bleed damage a Round unless healed to 100%, doesn't stack.)</p>
+    - id: QfaummYrB6lYn0dU
+      rankThreshold: 15
+      description: <p>+1d6 base damage, if your target contains more gold than their highest Stat, Pillage deals double damage.</p>
+flags:
+  point-mongo:
+    id: 559
+    category: skills
+    slug: pillage
+    url: https://pointmongo.com/browse/skills/pillage
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-22T05:27:11.5325461Z'
+    needsRestat: false
+    missingFields: []

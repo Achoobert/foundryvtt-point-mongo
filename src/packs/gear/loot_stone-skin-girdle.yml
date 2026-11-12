@@ -1,0 +1,25 @@
+_id: ZwRdDsuPSeAeJpMU
+_key: '!items!ZwRdDsuPSeAeJpMU'
+name: Stone Skin Girdle
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>A slimming, uncomfortable girdle that turns skin to stone once per day for heavy melee resistance.</em></p><dl class="stat-block"><dt>Type</dt><dd>Chest Armor</dd></dl><p>Slimming and incredibly uncomfortable, this item allows the wearer to turn their skin to stone once per day, providing a 50% reduction to all melee damage for one hour. Reduces movement speed by 50%. Moving in stone form also generates a lot of grinding and grunting noises.</p><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/loot/stone-skin-girdle">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 53
+    category: loot
+    slug: stone-skin-girdle
+    url: https://pointmongo.com/browse/loot/stone-skin-girdle
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - armor
+      - chest
+      - magical-armor
+    updatedAt: '2026-08-31T17:12:29.7486607Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

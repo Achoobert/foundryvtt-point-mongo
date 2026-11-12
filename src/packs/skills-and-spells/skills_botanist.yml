@@ -1,0 +1,42 @@
+_id: HfaAIWCJ2Po2fxUJ
+_key: '!items!HfaAIWCJ2Po2fxUJ'
+name: Botanist
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A strong bonus to plant identification and use, at the cost of getting distracted by plants.</em></p><p>40% bonus to plant ID and use. Gets easily distracted by plants.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/skills/botanist">Point Mongo</a>.</em></p>'
+  governingStat: int
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: Background Skill, Career
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: ylgsNLRkq1LaA9rE
+      rankThreshold: 5
+      description: <p>60% Identify and use mundanely, Know one possible magical potion effect</p>
+    - id: 4kH1MYNVuMjkfwxB
+      rankThreshold: 10
+      description: <p>75% Identify and use mundanely, Know two possible magical potion effect</p>
+    - id: oKNieh88vcYZSo8d
+      rankThreshold: 15
+      description: <p>90% Identify and use mundanely, Know three possible magical potion effect</p>
+flags:
+  point-mongo:
+    id: 61
+    category: skills
+    slug: botanist
+    url: https://pointmongo.com/browse/skills/botanist
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - skill
+    updatedAt: '2026-10-17T17:40:16.6818914Z'
+    needsRestat: false
+    missingFields: []

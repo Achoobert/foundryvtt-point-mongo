@@ -1,0 +1,24 @@
+_id: joFBQ56Uz97jfWME
+_key: '!journal!joFBQ56Uz97jfWME'
+name: Improvised Arsenal
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: qXvb5k7WQ6DyW4RI
+    _key: '!journal.pages!joFBQ56Uz97jfWME.qXvb5k7WQ6DyW4RI'
+    name: Improvised Arsenal
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you turn a piece of mundane Bronze-tier gear into an effective improvised weapon.</em></p><p>You looked at a canoe paddle, or a bicycle, or fifty feet of rope, and saw a weapon instead of a tool. That''s the kind of lateral thinking that keeps crawlers alive. Also the kind that makes insurance adjusters weep. Good thing there''s no insurance here.</p><p>Reward: Silver MacGyver Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/improvised-arsenal">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 708
+    category: achievements
+    slug: improvised-arsenal
+    url: https://pointmongo.com/browse/achievements/improvised-arsenal
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0419809Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,25 @@
+_id: CGkvlZcZpnWL2FPc
+_key: '!journal!CGkvlZcZpnWL2FPc'
+name: Cute Day, Scary Night Floor
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: dyKmHPUi1Ae0DJCd
+    _key: '!journal.pages!CGkvlZcZpnWL2FPc.dyKmHPUi1Ae0DJCd'
+    name: Cute Day, Scary Night Floor
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Everything is cute and cuddly by day and turns savage after dark — killer bunnies, skewering unicorns, the works.</em></p><p>Everything is cute and cuddly during the day, but once it gets dark, they turn into killers. That cute little bunny is now a savage killer bunny. Unicorns are all sunshine and rainbows, but at night they turn dark, evil, and will skewer you with their horns.</p><hr><p><em>Source: Community submission — Chewyz. From <a href="https://pointmongo.com/browse/floors/cute-day-scary-night-floor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 456
+    category: floors
+    slug: cute-day-scary-night-floor
+    url: https://pointmongo.com/browse/floors/cute-day-scary-night-floor
+    source: Community submission — Chewyz
+    tags:
+      - dcc-ccs
+      - floors
+    updatedAt: '2026-08-31T17:12:39.4370825Z'
+    needsRestat: false
+    missingFields: []

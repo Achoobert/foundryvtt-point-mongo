@@ -1,0 +1,26 @@
+_id: rBWVtHom035an0RQ
+_key: '!journal!rBWVtHom035an0RQ'
+name: Adam's Dripping Stroke Mag'
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: 7g11yRxUvEg9kc2B
+    _key: '!journal.pages!rBWVtHom035an0RQ.7g11yRxUvEg9kc2B'
+    name: Adam's Dripping Stroke Mag'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A sapient, sexually explicit magazine housing the memory-patchy consciousness of a former game guide who died mid-stroke.</em></p><p><strong>Type:</strong> Sapient Item / Game Guide · <strong>Level:</strong> 50 · <strong>Race:</strong> Human</p><p>A well-worn pornographic magazine that occasionally "drips" white fluid and causes immediate arousal while open. Contains the consciousness of Adam, a former game guide extremely knowledgeable about the crawl, who died of a stroke (in both senses). While open, Adam can converse aloud with the holder — a perverted, sometimes-forgetful, but genuinely helpful source of dungeon information.</p><hr><p><em>Source: Community submission — Barry (Crawler #3779). From <a href="https://pointmongo.com/browse/npcs/adam-s-dripping-stroke-mag">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 239
+    category: npcs
+    slug: adam-s-dripping-stroke-mag
+    url: https://pointmongo.com/browse/npcs/adam-s-dripping-stroke-mag
+    source: 'Community submission — Barry (Crawler #3779)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - game-guide
+    updatedAt: '2026-09-02T04:50:41.4031914Z'
+    needsRestat: false
+    missingFields: []

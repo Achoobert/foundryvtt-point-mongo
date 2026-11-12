@@ -1,0 +1,24 @@
+_id: iFsIOjWy7uyGH4Dt
+_key: '!journal!iFsIOjWy7uyGH4Dt'
+name: The Stairs! (With Minutes to Spare)
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 3rdVGHihTOKMf163
+    _key: '!journal.pages!iFsIOjWy7uyGH4Dt.3rdVGHihTOKMf163'
+    name: The Stairs! (With Minutes to Spare)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you reach the stairwell/exit with less than one hour remaining before the First Floor collapse.</em></p><p>You reached the exit with less than an hour remaining before the floor collapses. Congratulations! You have successfully transformed a fifteen-day deadline into a five-minute problem.</p><p>Reward: Platinum Survivor''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/the-stairs-with-minutes-to-spare">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 621
+    category: achievements
+    slug: the-stairs-with-minutes-to-spare
+    url: https://pointmongo.com/browse/achievements/the-stairs-with-minutes-to-spare
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9709191Z'
+    needsRestat: false
+    missingFields: []

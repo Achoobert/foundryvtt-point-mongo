@@ -1,0 +1,25 @@
+_id: XEqa8VoGXDQqK5p5
+_key: '!journal!XEqa8VoGXDQqK5p5'
+name: Teddy
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: LrT290nV7Ve5pxeu
+    _key: '!journal.pages!XEqa8VoGXDQqK5p5.LrT290nV7Ve5pxeu'
+    name: Teddy
+    type: text
+    text:
+      format: 1
+      content: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>A Small, Lawful Good sentient stuffed bear that shields, comforts, and confides in its owner while dressed for battle.</em></p><p><strong>Species:</strong> Sentient Stuffie · <strong>Alignment:</strong> Lawful Good · <strong>Size:</strong> Small (1.5-2'') · <strong>AC:</strong> 30 · <strong>HP:</strong> 30 · <strong>Speed:</strong> 30'' · <strong>Stats:</strong> STR 4, INT 5, CON 6, DEX 4, CHA 11</p><p>Immune to Poison/Cold/Psychic/Necrotic, resistant to Bludgeoning/Magic, weak to lightning/water/piercing/slashing/fire/acid. Dark Vision 60'', Passive Perception 18. Abilities: So Cute! (persuasion proficiency, advantage vs small creatures), Squishy! (bludgeoning resistance + knockback), Confidant (perfectly keeps secrets), Protector (+5 to defensive spells when guarding its owner), Shield of Faith, and Go Teddy (pretends to be inanimate for up to 5d20 minutes, 5-hour cooldown). Weapons: Foam Sword (1d8+CHA slashing), Foam Shield (+3 AC, advantage on initiative/perception).</p><hr><p><em>Source: Community submission — Myles L (Crawler #26933). From <a href="https://pointmongo.com/browse/pets/teddy">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 307
+    category: pets
+    slug: teddy
+    url: https://pointmongo.com/browse/pets/teddy
+    source: 'Community submission — Myles L (Crawler #26933)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.7441531Z'
+    needsRestat: true
+    missingFields: []

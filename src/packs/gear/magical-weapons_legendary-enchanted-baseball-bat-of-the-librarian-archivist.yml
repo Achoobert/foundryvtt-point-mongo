@@ -1,0 +1,19 @@
+_id: aKIEEXTzmldPNOUC
+_key: '!items!aKIEEXTzmldPNOUC'
+name: Legendary Enchanted Baseball Bat of the Librarian Archivist
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>What happens when you push a mild-mannered librarian too far: a bat with Choke Out, Magic Missile and a lot of rage.</em></p><p>This improvised weapon is what happens when you push a mild mannered librarian too far.  They do not go gentle into that good night.  RAGE is on the menu.  How do you like ''dem apples?</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Baseball Bat</td></tr><tr><th>Tier</th><td>Legendary</td></tr><tr><th>Weapon skill</th><td>Club</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Choke Out Skill at Rank 3</li><li>+5 Improvised Weapons Skill</li><li>+10% Dexterity</li><li>Magic Missile Spell at Rank 5, no Mana cost, 10 hour cooldown</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/legendary-enchanted-baseball-bat-of-the-librarian-archivist">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 969
+    category: magical-weapons
+    slug: legendary-enchanted-baseball-bat-of-the-librarian-archivist
+    url: https://pointmongo.com/browse/magical-weapons/legendary-enchanted-baseball-bat-of-the-librarian-archivist
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-23T19:20:32.2242326Z'
+    needsRestat: false
+    missingFields: []

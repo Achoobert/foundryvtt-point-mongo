@@ -1,0 +1,25 @@
+_id: oP2oBQw13DqGaYKj
+_key: '!journal!oP2oBQw13DqGaYKj'
+name: The Mirror Maze
+folder: i4V5JDum8ZGrgq0L
+pages:
+  - _id: ifB0IitbxCpRqqPP
+    _key: '!journal.pages!oP2oBQw13DqGaYKj.ifB0IitbxCpRqqPP'
+    name: The Mirror Maze
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A puddle-disguised psychic trap that traps the mind in an infinite hall of mirrors unless the victim identifies the real reflection.</em></p><p>Looks like an ordinary puddle; stepping over it triggers vertigo and drops the crawler into an endless maze of mirrors and repeating images of themselves. The Puzzle: the crawler must identify the one reflection NOT in a mirror and say so — mirrors shatter and are replaced as they''re crashed through, stretching endlessly in both directions. Failing traps the crawler''s mind here indefinitely while their body stands motionless (with slightly wet feet) back in the dungeon. Psychic immunity or psychiatry skills help provide clues to escape.</p><hr><p><em>Source: Community submission — K8 (Crawler #71). From <a href="https://pointmongo.com/browse/traps/the-mirror-maze">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 364
+    category: traps
+    slug: the-mirror-maze
+    url: https://pointmongo.com/browse/traps/the-mirror-maze
+    source: 'Community submission — K8 (Crawler #71)'
+    tags:
+      - dcc-ccs
+      - traps
+    updatedAt: '2026-09-02T04:50:41.8287182Z'
+    needsRestat: false
+    missingFields: []

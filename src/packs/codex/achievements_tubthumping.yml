@@ -1,0 +1,23 @@
+_id: XIf9NolqX2HT5IMZ
+_key: '!journal!XIf9NolqX2HT5IMZ'
+name: TUBTHUMPING!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: VIVM9yFmSGwmW8ok
+    _key: '!journal.pages!XIf9NolqX2HT5IMZ.VIVM9yFmSGwmW8ok'
+    name: TUBTHUMPING!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you survive an explosion that by rights should have killed you.</em></p><p>"I get knocked down, but I get up again,</p><p>You''re never gonna keep me down!"</p><p>You got blown over and knocked down by an explosion so powerful that, by all rights, SHOULD have killed you. BUT YOU SURVIVED! How lucky are you?</p><hr><p><em>Source: Community submission — BlessedPsycho, Myles L., Crawler #26933. From <a href="https://pointmongo.com/browse/achievements/tubthumping">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 538
+    category: achievements
+    slug: tubthumping
+    url: https://pointmongo.com/browse/achievements/tubthumping
+    source: 'Community submission — BlessedPsycho, Myles L., Crawler #26933'
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.4988046Z'
+    needsRestat: false
+    missingFields: []

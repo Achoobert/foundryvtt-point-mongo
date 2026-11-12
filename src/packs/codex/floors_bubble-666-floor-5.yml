@@ -1,0 +1,26 @@
+_id: lx4eDUYi9cWn1btg
+_key: '!journal!lx4eDUYi9cWn1btg'
+name: 'Bubble #666 (Floor 5)'
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: GNUetvZKyS2K7fqD
+    _key: '!journal.pages!lx4eDUYi9cWn1btg.GNUetvZKyS2K7fqD'
+    name: 'Bubble #666 (Floor 5)'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A four-quadrant hellscape Floor 5 bubble of fire dragons, imp-infested magma fields, demon nightlife dungeons, and a toxic, hallucinogenic ocean.</em></p><p><strong>Type:</strong> Floor 5 Bubble</p><p>A fiery hellscape of sulfur, demons, and dragons. Air: flying dragons living in villages on their boiling backs — get their attention and they''ll flame on. Land: geysers, magma, and obsidian underfoot, populated by small demonic imps. Subterranean: demon nightlife — dungeons, caves, and torture (or something like it) in small caverns. Water: the "nicest" quadrant is actually the most toxic — hallucinogenic fumes, and incubi, succubi, and sirens lurking throughout.</p><hr><p><em>Source: Community submission — Chewyz (Crawler #408) &amp; Jessica Fates (Crawler #2067). From <a href="https://pointmongo.com/browse/floors/bubble-666-floor-5">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 228
+    category: floors
+    slug: bubble-666-floor-5
+    url: https://pointmongo.com/browse/floors/bubble-666-floor-5
+    source: 'Community submission — Chewyz (Crawler #408) & Jessica Fates (Crawler #2067)'
+    tags:
+      - dcc-ccs
+      - floors
+      - bubble
+    updatedAt: '2026-09-02T04:50:41.6562038Z'
+    needsRestat: false
+    missingFields: []

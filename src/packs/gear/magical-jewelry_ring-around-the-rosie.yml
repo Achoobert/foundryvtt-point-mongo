@@ -1,0 +1,19 @@
+_id: d0t69gvY2sPppptr
+_key: '!items!d0t69gvY2sPppptr'
+name: Ring Around the Rosie
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A Gold ring that teleports you behind an adjacent target once per scene, setting them alight and knocking them down.</em></p><p>This Ring may be used once per scene when the wearer is adjacent to another target. When activated, the wearer is teleported to the other side of the target, accompanied by the scent of flowers. The target is set on fire and knocked down.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Cooldown</th><td>One Scene</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Teleport behind adjacent target.</li><li>Target receives the Burned debuff.</li><li>Target receives the Take Down debuff.</li></ul><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/magical-jewelry/ring-around-the-rosie">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 548
+    category: magical-jewelry
+    slug: ring-around-the-rosie
+    url: https://pointmongo.com/browse/magical-jewelry/ring-around-the-rosie
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6017338Z'
+    needsRestat: false
+    missingFields: []

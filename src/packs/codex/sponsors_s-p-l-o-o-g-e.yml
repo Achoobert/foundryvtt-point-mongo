@@ -1,0 +1,25 @@
+_id: RqbsRiYDskx8h08l
+_key: '!journal!RqbsRiYDskx8h08l'
+name: S.P.L.O.O.G.E
+folder: hvyWwMcQCbDfRsP5
+pages:
+  - _id: tfuRkYH7RU55US0t
+    _key: '!journal.pages!RqbsRiYDskx8h08l.tfuRkYH7RU55US0t'
+    name: S.P.L.O.O.G.E
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Strategic Performance Logistics &amp; Overclocking Optimization Group Enterprise — sponsors short, extreme physical/mental power spikes.</em></p><p><strong>Motto:</strong> "When you absolutely, positively need to overperform."</p><p>Bestows items that dramatically boost all physical and mental capabilities for a short time — an extreme power spike followed by a severe crash and unpredictable side effects.</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/sponsors/s-p-l-o-o-g-e">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 356
+    category: sponsors
+    slug: s-p-l-o-o-g-e
+    url: https://pointmongo.com/browse/sponsors/s-p-l-o-o-g-e
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - sponsors
+    updatedAt: '2026-10-02T23:02:05.1659375Z'
+    needsRestat: false
+    missingFields: []

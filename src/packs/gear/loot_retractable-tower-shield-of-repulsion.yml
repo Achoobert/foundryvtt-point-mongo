@@ -1,0 +1,25 @@
+_id: vxm3IlMrJNbT9NJA
+_key: '!items!vxm3IlMrJNbT9NJA'
+name: Retractable Tower Shield of Repulsion
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>A shield that retracts to wrist-bracer size and reverses metal weapon attacks, ranged and melee alike.</em></p><dl class="stat-block"><dt>Type</dt><dd>Shield</dd></dl><p>This shield is imbued with the ability to retract to the size of a small banded wrist bracer when not in use. When activated, it springs to full size — a standard full body tower shield of banded dark-stained wood and steel. Its primary magical property acts like a reverse-polarity magnet: when its user is attacked by metal weapons, including ranged weapons, the attacker often finds themselves turned away (-4 to attack rolls, +4 to evade checks for the wearer). This ability can also add damage to charge attacks, repelling a metal-armored target an additional 10'' if they''re hit.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/loot/retractable-tower-shield-of-repulsion">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 47
+    category: loot
+    slug: retractable-tower-shield-of-repulsion
+    url: https://pointmongo.com/browse/loot/retractable-tower-shield-of-repulsion
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - armor
+      - shield
+      - magical-armor
+    updatedAt: '2026-08-31T17:12:29.7447181Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

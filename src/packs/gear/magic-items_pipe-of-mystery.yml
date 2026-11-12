@@ -1,0 +1,23 @@
+_id: lXd3GY4lLYJwnEBj
+_key: '!items!lXd3GY4lLYJwnEBj'
+name: Pipe of Mystery
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A pipe that produces a cloud of literal mystery when smoked.</em></p><p><strong>Type:</strong> Accessory</p><p>Smoking this pipe generates a cloud of mystery.</p><table><tbody><tr><th>Type</th><td>Accessory</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/pipe-of-mystery">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 185
+    category: magic-items
+    slug: pipe-of-mystery
+    url: https://pointmongo.com/browse/magic-items/pipe-of-mystery
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-03T16:29:38.8657324Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

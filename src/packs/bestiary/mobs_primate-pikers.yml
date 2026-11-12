@@ -1,0 +1,50 @@
+_id: KTWiuaFFIDjLtZ6h
+_key: '!actors!KTWiuaFFIDjLtZ6h'
+name: Primate Pikers
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>Bigger, stronger mandrill cousins of the Simian Skewers, with longer spears and just as much noise.</em></p><p>A larger and stronger relative of the Simian Skewer, Primate Pikers are mandrills that usually travel in troops of 1d2, along with 1d4+1 of their cousins. Similar to their cousins, Primate Pikers are also quite loud and likely to draw the attention of nearby mobs.</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — SuperBob. From <a href="https://pointmongo.com/browse/mobs/primate-pikers">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 4
+  size: Medium (4)
+  creatureType: Primate
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 4
+    max: 4
+  dr: 1
+  stats:
+    str:
+      value: 10
+    dex:
+      value: 1
+    con:
+      value: 3
+    int:
+      value: 2
+    cha:
+      value: 1
+  attacks:
+    - name: Big Poke
+      toHit: ''
+      damage: 1d8
+      damageType: piercing
+      range: '10'
+      effect: ''
+prototypeToken:
+  name: Primate Pikers
+  actorLink: false
+flags:
+  point-mongo:
+    id: 1117
+    category: mobs
+    slug: primate-pikers
+    url: https://pointmongo.com/browse/mobs/primate-pikers
+    source: Community submission — SuperBob
+    tags: []
+    updatedAt: '2026-11-10T06:59:48.678549Z'
+    needsRestat: false
+    missingFields: []

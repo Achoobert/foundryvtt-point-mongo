@@ -1,0 +1,40 @@
+_id: 0PB51hVW0sRGx9ek
+_key: '!items!0PB51hVW0sRGx9ek'
+name: Pain Deferral
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>Ignore all damage while active and deal bonus damage, but the stored damage returns in three waves.</em></p><p>The caster ignores all damage while active, and their attacks deal extra damage based on caster level. All ignored damage is stored.</p><p><strong>Trigger:</strong> After the effect ends, stored damage is applied in three waves, each dealing double the stored damage, split evenly across the waves. Conditional Reduction: If the caster kills their target before the effect ends, the stored damage is halved before being applied.</p><p><strong>Level 5:</strong> Extra damage to enemies = 1d6 per caster level; deferred damage applied in three waves.</p><p>Rally Point</p><p>Concentration You mark your position as a focal point of resolve, drawing allies toward it and strengthening them when they arrive.</p><p><strong>Level 1:</strong> Place a rally zone on the ground at your feet for a short duration. Allies(including you) who enter it or start their turn in the zone, gain 5ft of movement speed and resistance to non magical damage.</p><p><strong>Level 5:</strong> Allies and yourself also gain health regeneration (1 HP bar) per turn while inside the zone.</p><p><strong>Level 10:</strong> Allies and yourself also gain Temp HP (2 HP bars) for the duration of the ability.</p><p><strong>Level 15:</strong> The duration increases to 5 rounds. The resistances applied are now include magical bludgeoning, piercing, slashing damage. Level 20: The zones AoE increases to 15ft. Allies and yourself also cleanse one debuff (once per ally, not per turn).</p><hr><p><em>Source: Community submission — faceless2u (Crawler #9231). From <a href="https://pointmongo.com/browse/spells/pain-deferral">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 25
+    category: spells
+    slug: pain-deferral
+    url: https://pointmongo.com/browse/spells/pain-deferral
+    source: 'Community submission — faceless2u (Crawler #9231)'
+    tags:
+      - ability
+      - defensive
+      - offensive
+      - risk
+    updatedAt: '2026-09-22T05:37:39.8134059Z'
+    needsRestat: false
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

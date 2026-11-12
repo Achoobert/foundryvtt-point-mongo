@@ -1,0 +1,26 @@
+_id: utvJG0uU4zvzTJQ0
+_key: '!journal!utvJG0uU4zvzTJQ0'
+name: Master Farengar (Game Guide)
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: dBK2TPJ2GdJ7dZLT
+    _key: '!journal.pages!utvJG0uU4zvzTJQ0.dBK2TPJ2GdJ7dZLT'
+    name: Master Farengar (Game Guide)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A level-50 half-elf mage Game Guide, sentenced by the Borant System to 50 seasons of guiding crawlers instead of facing execution.</em></p><p><strong>Type:</strong> Game Guide (Mage) · <strong>Level:</strong> 50 · <strong>Race:</strong> Half Elf · <strong>Guild:</strong> Potions</p><p>Has no idea how he ended up in the dungeon — one minute plane-hopping, the next facing the Borant System for unspecified crimes, given a choice of death or 50 seasons as a Game Guide. 32 seasons in, he''s no stranger to the dungeon and might just keep his crawlers alive.</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/npcs/master-farengar-game-guide">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 234
+    category: npcs
+    slug: master-farengar-game-guide
+    url: https://pointmongo.com/browse/npcs/master-farengar-game-guide
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - game-guide
+    updatedAt: '2026-09-02T04:50:41.4002496Z'
+    needsRestat: false
+    missingFields: []

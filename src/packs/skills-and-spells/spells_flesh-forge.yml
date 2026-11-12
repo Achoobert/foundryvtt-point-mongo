@@ -1,0 +1,42 @@
+_id: WSuoaZsvWcl3KCs0
+_key: '!items!WSuoaZsvWcl3KCs0'
+name: Flesh Forge
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Reshapes a corpse into a simple bone-and-sinew structure such as a bridge, ladder, ramp or wall.</em></p><p>You reshape a corpse into a simple, static structure (e.g., bridge, ladder, ramp, wall) made of bone and sinew. The structure is as sturdy as wood and can support up to 2 Medium creatures without collapsing.</p><p>The caster makes an INT-based Skill Check to determine the quality of the transformation. On a Success, the structure is created with standard integrity.</p><p>On a Fail, the structure grows out of the corpse unpredictably, requiring the caster to make an Evade check as sharp fragments of bone erupt out of the cadaver like a sea urchin. Uses the caster''s INT for to-hit, base damage 1d6.</p><table><tbody><tr><th>Limitations</th><td>Requires a fresh corpse of Medium or larger size. The structure has no Health Bar, it is destroyed if subjected to more than 10 damage from any single source.</td></tr></tbody></table><hr><p><em>Source: Community submission — Kron. From <a href="https://pointmongo.com/browse/spells/flesh-forge">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 10
+  range: Touch
+  duration: 3 rounds
+  cooldown: 3 hours
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: QblWN5IwzxUOLwth
+      rankThreshold: 5
+      description: <p>The structure is as sturdy as stone (+10 base health). It can support up to 4 Medium creatures simultaneously without collapsing.</p>
+    - id: hDMWnpOnrfqMijOX
+      rankThreshold: 10
+      description: <p>The duration increases to 1 day. The structure is as sturdy as iron (+10 base health) and can support up to 8 Medium creatures.</p>
+    - id: Fo9PJJsYlzjF7HD4
+      rankThreshold: 15
+      description: <p>The duration increases to 1 week. You may use a Large corpse to create a structure twice the normal size (e.g., a double-width bridge or a wall twice as high).</p>
+flags:
+  point-mongo:
+    id: 556
+    category: spells
+    slug: flesh-forge
+    url: https://pointmongo.com/browse/spells/flesh-forge
+    source: Community submission — Kron
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6566189Z'
+    needsRestat: false
+    missingFields: []

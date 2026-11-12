@@ -1,0 +1,19 @@
+_id: uHXtgPFWQRBgRNyE
+_key: '!items!uHXtgPFWQRBgRNyE'
+name: Main Gauche
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>An off-hand parrying dagger that blocks like a shield and bashes with the point instead of the flat.</em></p><p>Not just any gauche, this is the Main Gauche. It acts as a normal dagger. However, when used in the off-hand it grants the wielder Shield Block +1 and can be used as such, doing Piercing damage instead of Bludgeoning.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dagger</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr><tr><th>Damage type</th><td>Piercing</td></tr><tr><th>Limitations</th><td>Must be used in the off-hand: Disadvantage for normal attacks (not Shield Bash).</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Shield Block</li></ul><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/magical-weapons/main-gauche">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1094
+    category: magical-weapons
+    slug: main-gauche
+    url: https://pointmongo.com/browse/magical-weapons/main-gauche
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-11-09T03:03:17.2527923Z'
+    needsRestat: false
+    missingFields: []

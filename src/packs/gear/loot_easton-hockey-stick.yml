@@ -1,0 +1,19 @@
+_id: 0tx3SCChoNZRXJAi
+_key: '!items!0tx3SCChoNZRXJAi'
+name: Easton Hockey Stick
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>A pro-grade carbon fiber hockey stick, light in the hands and fine in a pinch, until a bad swing snaps the blade.</em></p><p>Built from pro-grade carbon fiber matrices and resin systems that deliver ultra-lightweight feel while handling the high impact demands of competitive play.</p><p>While maybe not originally intended as a weapon, this piece of sports equipment will certainly do in a pinch.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Weapon</td></tr><tr><th>Tier</th><td>Bronze</td></tr><tr><th>Weapon skill</th><td>Improvised Weapons</td></tr><tr><th>Damage type</th><td>Bludgeoning</td></tr><tr><th>Limitations</th><td>On a Critical failure, the blade of the stick could shatter or snap at the DM''s discretion.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>1d4+STR bludgeoning dmg.</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/loot/easton-hockey-stick">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 902
+    category: loot
+    slug: easton-hockey-stick
+    url: https://pointmongo.com/browse/loot/easton-hockey-stick
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-17T18:03:42.0281583Z'
+    needsRestat: false
+    missingFields: []

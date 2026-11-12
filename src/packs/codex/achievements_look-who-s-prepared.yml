@@ -1,0 +1,24 @@
+_id: zsxrMESIoH0i6jNF
+_key: '!journal!zsxrMESIoH0i6jNF'
+name: Look Who's Prepared
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: ElMAExJRzp8P3NCU
+    _key: '!journal.pages!zsxrMESIoH0i6jNF.ElMAExJRzp8P3NCU'
+    name: Look Who's Prepared
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you bring food into the World Dungeon.</em></p><p>You have brought food with you into the World Dungeon. What a novel concept, wanting to keep yourself fed. Did you know that in every season of Dungeon Crawler Worlds, there is a very large percentage of people who don''t use that hour we give them to gather food, and just trudge on into the World Dungeon willy-nilly? Good for you for not just becoming another statistic. Well, this way anyhow.</p><p>Reward: Bronze Culinarian Box</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/look-who-s-prepared">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 571
+    category: achievements
+    slug: look-who-s-prepared
+    url: https://pointmongo.com/browse/achievements/look-who-s-prepared
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9307681Z'
+    needsRestat: false
+    missingFields: []

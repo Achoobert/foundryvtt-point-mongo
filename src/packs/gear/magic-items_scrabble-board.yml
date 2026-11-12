@@ -1,0 +1,22 @@
+_id: g3fmJcn1CtATImFn
+_key: '!items!g3fmJcn1CtATImFn'
+name: Scrabble Board
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>An upgradable Scrabble set that lets the owner permanently rename and alter their own spells using found letter tiles.</em></p><p><strong>Type:</strong> Item (upgradable)</p><p>Comes with 5 random letter tiles (many are missing — go look around). Effect "That''s Not a Word!": using owned letter tiles, replace up to half the letters in a known spell''s name; the spell is permanently renamed and gains altered effects to match. Each upgrade allows one additional spell to be altered.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Item</td></tr></tbody></table><hr><p><em>Source: Community submission — Dean Gkane (Crawler #10140). From <a href="https://pointmongo.com/browse/magic-items/scrabble-board">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 190
+    category: magic-items
+    slug: scrabble-board
+    url: https://pointmongo.com/browse/magic-items/scrabble-board
+    source: 'Community submission — Dean Gkane (Crawler #10140)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-30T20:04:01.9641763Z'
+    needsRestat: false
+    missingFields:
+      - effects

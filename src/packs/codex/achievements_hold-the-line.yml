@@ -1,0 +1,24 @@
+_id: W3gQNbK88xdgX9Bb
+_key: '!journal!W3gQNbK88xdgX9Bb'
+name: Hold the Line
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 0MD1Lu7YUKtsvACf
+    _key: '!journal.pages!W3gQNbK88xdgX9Bb.0MD1Lu7YUKtsvACf'
+    name: Hold the Line
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you prevent enemies from reaching another crawler for an entire round.</em></p><p>You prevented enemies from reaching another crawler for an entire round. Congratulations! You have discovered the ancient and highly advanced tactical technique known as "standing in the way."</p><p>Reward: Gold Guardian Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/hold-the-line">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 613
+    category: achievements
+    slug: hold-the-line
+    url: https://pointmongo.com/browse/achievements/hold-the-line
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.964324Z'
+    needsRestat: false
+    missingFields: []

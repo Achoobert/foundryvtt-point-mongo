@@ -1,0 +1,24 @@
+_id: 5uE53LlaNkfAmqP4
+_key: '!items!5uE53LlaNkfAmqP4'
+name: Bosun
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter/Bard who keeps the crew moving by shouting, swearing and the occasional kick.</em></p><p>A crew has many roles that need filling. And the captain is usually the one that draws the attention. But YOU are not the captain. Oh no, you are a much more important cog in this machine. Actually, you are what makes this machine work. All they need is a good tap in the back. Sometimes a proper kick in their behinds. You keep the crew in line and things moving forward. By any means necessary.</p><p>(this class is based on Vanellope Chapman, from Cloudward Ho)</p><p><strong>Stat bonuses</strong></p><ul><li>+3 Constitution</li><li>+3 Strength</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Intimidate (4pts)</li><li>+1 Climbing (2pts)</li><li>+2 Taunt (4pts)</li><li>+2 in one Weapon Skill of your choice (4pts)</li></ul><p><strong>Benefits</strong></p><ul><li>May raise the weapons skill of your choice to lvl 20. <em>(minor)</em></li><li>‘Cussing like... well, a sailor. (Advantage on Taunt checks) <em>(extreme)</em></li><li>Look alive, lads! (Regeneration to allies for a scene once per day) <em>(major)</em></li><li>Listen up, you lot! (when you Call a Play, you may roll 2d8 instead of 2d6s) <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Minor: Barred from joining Vanquisher Club <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/bosun">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter
+    - Bard
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 845
+    category: classes
+    slug: bosun
+    url: https://pointmongo.com/browse/classes/bosun
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.1410252Z'
+    needsRestat: false
+    missingFields: []

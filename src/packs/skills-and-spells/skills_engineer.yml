@@ -1,0 +1,37 @@
+_id: gvtWqqtAWru4b2A0
+_key: '!items!gvtWqqtAWru4b2A0'
+name: Engineer
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>A strong bonus to design and build skills, offset by slower build times from obsessive attention to detail.</em></p><p>Provides a 30% bonus to design and build skills. Designs and builds take longer to complete due to obsessive attention to detail.</p><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/skills/engineer">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 68
+    category: skills
+    slug: engineer
+    url: https://pointmongo.com/browse/skills/engineer
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - skill
+      - crafting
+    updatedAt: '2026-08-31T17:12:29.7738973Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

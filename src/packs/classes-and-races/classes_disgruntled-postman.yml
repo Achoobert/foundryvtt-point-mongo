@@ -1,0 +1,23 @@
+_id: 5oKPsx0HBr40aw1K
+_key: '!items!5oKPsx0HBr40aw1K'
+name: Disgruntled Postman
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Rogue class for the overworked letter carrier who finally snaps, delivering explosives and homing projectiles in 3-5 business days.</em></p><p>Ah, yes. The time-honored tradition of overworked, underpaid laborers losing their absolute shit and delivering murder to the masses. Follow in the footsteps of your forebears and bring death to your enemies in 3-5 business days.</p><table><tbody><tr><th>Crafting table</th><td>Tier 1 Sapper Table</td></tr><tr><th>Bonus box</th><td>Earth Hobby box</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 dexterity</li><li>+3 constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 handle explosives</li><li>+2 find Crawler</li><li>+1 Pathfinder</li><li>+2 drive vehicle</li><li>+2 Special Delivery (add homing to any projectile)</li></ul><p><strong>Benefits</strong></p><ul><li>immune to slow <em>(major)</em></li><li>Going Postal benefit. 5% damage increase after hitting target with a homing projectile. <em>(major)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/classes/disgruntled-postman">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Rogue
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1108
+    category: classes
+    slug: disgruntled-postman
+    url: https://pointmongo.com/browse/classes/disgruntled-postman
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-09T03:03:17.4583005Z'
+    needsRestat: false
+    missingFields: []

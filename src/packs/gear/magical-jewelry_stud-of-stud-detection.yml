@@ -1,0 +1,23 @@
+_id: AcVXBYZYOmEfEHeS
+_key: '!items!AcVXBYZYOmEfEHeS'
+name: Stud of Stud Detection
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A diamond stud piercing that unerringly points toward the nearest Desperado Club entrance.</em></p><p><strong>Type:</strong> Piercing (Stud)</p><p>Imbues the crawler with an unerring sense of the direction and distance to the nearest Desperado Club — specifically highlighting the entrance to the Penis Parade.</p><table><tbody><tr><th>Type</th><td>Piercing</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/magical-jewelry/stud-of-stud-detection">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 210
+    category: magical-jewelry
+    slug: stud-of-stud-detection
+    url: https://pointmongo.com/browse/magical-jewelry/stud-of-stud-detection
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - magical-jewelry
+    updatedAt: '2026-09-03T16:30:37.216833Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

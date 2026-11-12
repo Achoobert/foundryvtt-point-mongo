@@ -1,0 +1,23 @@
+_id: gG3a8ZlEUigdikD8
+_key: '!items!gG3a8ZlEUigdikD8'
+name: Intellect Hunter
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: "<p><em>A finger-sized parasitic worm race that possesses host bodies, hopping to a new one as each rots.</em></p><p>Similar to Gondii and Scree, Intellect Hunters are the most common variety of finger-sized parasitic worms. Intellect Hunters can possess the bodies of creatures; however, the host body immediately begins to rot, so intellect hunters are constantly hopping from body to body.</p><table><tbody><tr><th>Size</th><td>Worm (0)</td></tr><tr><th>Build points</th><td>25</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>Intelligence +6</li><li>Dexterity +2 (Overridden by corpse)</li></ul><p><strong>Skill bonuses</strong></p><ul><li>Stealth +3 (non corpsewalking only)</li><li>CorpseWalk Skill (Corpse’s Con) at rank 3 (10 pts - 6 for the skill, 4 for +2 ranks): You can enter and control the corpse of a dead Crawler or Mob (does not work on bosses). While Corpse Walking, you use the body's current Strength, Dexterity and Constitution, but your own Intelligence and Charisma (might be modified at GM’s discretion)</li><li>After each day in the corpse, make a check. On a failure, the corpse decays to the next tier. On a success, you have stifled the decay for that day. After  3 days the body inevitably moves one tier up in the Decay chart.</li><li>Rank 5: adds 1 day to each decay Threshold per 5 ranks</li><li>Decay Tier\tDecay Threshold\tEffect</li><li>Tier 1\t3 days\tNo Penalty</li><li>Tier 2\t3 days\tDEX, CON and DR -1 (modifiers, not attributes) - Body is stiff and leaking</li><li>Tier 3\t3 days \tDEX, CON -2 and DR halved - Flesh soft, breaking down</li><li>Tier 4\t3 days\tDEX, CON and STR -5, no DR, All CHA Disadvantage - Visually rotten</li><li>Tier 5\t\tUnusable</li></ul><p><strong>Benefits</strong></p><ul><li>Advantage to Stealth (non corpsewalking only) <em>(minor)</em></li><li>Telepathic Communication 30ft (non corpse walking only) <em>(minor)</em></li><li>Living Rent Free: Access to memories of the body you are inhabiting <em>(epic)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Minor: Strength -2 (Overridden by corpse) <em>(1 pt)</em></li><li>Minor: Con -2 (Overridden by corpse) <em>(1 pt)</em></li><li>Major: Con Capped at 10 (Overridden by corpse) (+3pts) <em>(3 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href=\"https://pointmongo.com/browse/races/intellect-hunter\">Point Mongo</a>.</em></p>"
+  size: Worm (0)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 523
+    category: races
+    slug: intellect-hunter
+    url: https://pointmongo.com/browse/races/intellect-hunter
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6357117Z'
+    needsRestat: false
+    missingFields: []

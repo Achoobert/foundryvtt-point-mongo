@@ -1,0 +1,19 @@
+_id: HvPBp3Gw2LEuV9Yw
+_key: '!items!HvPBp3Gw2LEuV9Yw'
+name: Enchanted Upgrade Patch of The Stone Cold Fox
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A fleeting patch of a frost-rimmed fox in sunglasses that halves Ice damage and makes its wearer considerably cooler.</em></p><p>This is a fleeting item.  This medium embroidered patch depicts a frost rimmed fox wearing sunglasses on a light blue field.</p><p>When properly sewn onto an eligible garment it provides the following benefits:  Resistance to Ice damage. +4 Charisma.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Resistance to Ice damage</li><li>+4 Charisma</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-upgrade-patch-of-the-stone-cold-fox">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1057
+    category: magic-items
+    slug: enchanted-upgrade-patch-of-the-stone-cold-fox
+    url: https://pointmongo.com/browse/magic-items/enchanted-upgrade-patch-of-the-stone-cold-fox
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-06T06:15:09.3472802Z'
+    needsRestat: false
+    missingFields: []

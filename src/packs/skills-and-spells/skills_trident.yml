@@ -1,0 +1,41 @@
+_id: WjJKmEMHRbYRAQM1
+_key: '!items!WjJKmEMHRbYRAQM1'
+name: Trident
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A STR melee skill for the three-pronged trident, harder-hitting two-handed and able to pin a target at Rank 15.</em></p><p>The favoured weapon of sentient aquatic sea creatures, and trademarked, fictional rulers of the Sea, this three to five pronged weapon is perfect for underwater thrusting attacks, and works equally well on dry land.</p><p>When used 2-handed, the base damage jumps up to 1d8+STR.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d6+STR</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/skills/trident">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: 5ft
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: 1d6
+    stat: str
+    damageType: piercing
+  upgrades:
+    - id: yfLsnONbtAoBA6ye
+      rankThreshold: 5
+      description: <p>+1d6 base damage</p>
+    - id: cIxTqsblTSayY0kX
+      rankThreshold: 10
+      description: <p>+1d6 base damage</p>
+    - id: EA5eLIx5xBuVrIqF
+      rankThreshold: 15
+      description: <p>+1d6 base damage, and the target suffers from the Held Debuff</p>
+flags:
+  point-mongo:
+    id: 1014
+    category: skills
+    slug: trident
+    url: https://pointmongo.com/browse/skills/trident
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-31T00:34:46.7722156Z'
+    needsRestat: false
+    missingFields: []

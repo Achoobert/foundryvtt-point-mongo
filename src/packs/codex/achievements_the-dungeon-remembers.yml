@@ -1,0 +1,24 @@
+_id: 2yz4zwHjEsqWK4Z0
+_key: '!journal!2yz4zwHjEsqWK4Z0'
+name: The Dungeon Remembers
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: XCLGdKH0zXKu50T3
+    _key: '!journal.pages!2yz4zwHjEsqWK4Z0.XCLGdKH0zXKu50T3'
+    name: The Dungeon Remembers
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you return to an area on the 1st Floor after previously discovering something there and use that knowledge to avoid a trap, solve a puzzle, find a shortcut, or gain an advantage.</em></p><p>You remembered what the dungeon showed you. More importantly, you used that knowledge against it.</p><p>Reward: Bronze Dungeon Delvers Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/the-dungeon-remembers">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 678
+    category: achievements
+    slug: the-dungeon-remembers
+    url: https://pointmongo.com/browse/achievements/the-dungeon-remembers
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0179923Z'
+    needsRestat: false
+    missingFields: []

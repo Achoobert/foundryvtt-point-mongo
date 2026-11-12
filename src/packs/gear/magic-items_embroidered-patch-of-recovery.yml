@@ -1,0 +1,19 @@
+_id: PvH38scZ5yDDYXSW
+_key: '!items!PvH38scZ5yDDYXSW'
+name: Embroidered Patch of Recovery
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A fleeting medic''s-cross patch that, once sewn on, refills your health to full once a floor.</em></p><p>This is a fleeting item.  This embroidered patch features a red medics cross on a white background with a red border.  When this upgrade patch is properly sewn onto an eligible garment it bestows the Recovery Buff, allowing the wearer to refill their health to 100% once per floor.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Once per floor: Recovery (full Health)</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/embroidered-patch-of-recovery">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1021
+    category: magic-items
+    slug: embroidered-patch-of-recovery
+    url: https://pointmongo.com/browse/magic-items/embroidered-patch-of-recovery
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-31T19:00:58.2193622Z'
+    needsRestat: false
+    missingFields: []

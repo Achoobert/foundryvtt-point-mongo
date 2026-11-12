@@ -1,0 +1,23 @@
+_id: fPbeKiX3PiWEN2ep
+_key: '!journal!fPbeKiX3PiWEN2ep'
+name: Convention Belongings
+folder: LgXPy7DgMLD2Fvug
+pages:
+  - _id: 776Glbp4pOmPO6Hs
+    _key: '!journal.pages!fPbeKiX3PiWEN2ep.776Glbp4pOmPO6Hs'
+    name: Convention Belongings
+    type: text
+    text:
+      format: 1
+      content: '<p><em>What a crawler had on them when they were pulled out of a convention: draw five from twelve con-goer essentials.</em></p><p>Some people may have been at a convention center or other sort of big event that required them to be very well prepared for traveling. Roll a 5d12 or choose 5 items from the list below for which items your Crawler was carrying at the time.</p><table><tbody><tr><th>unique</th><td>true</td></tr></tbody></table><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/roll-tables/convention-belongings">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 873
+    category: roll-tables
+    slug: convention-belongings
+    url: https://pointmongo.com/browse/roll-tables/convention-belongings
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-10-09T01:13:55.2160784Z'
+    needsRestat: false
+    missingFields: []

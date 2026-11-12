@@ -1,0 +1,23 @@
+_id: sOtQtpkXVf3GoiiO
+_key: '!items!sOtQtpkXVf3GoiiO'
+name: Broach of Uncharacteristic Functionality
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A broach that boosts one random power of whatever clothing item it''s pinned to by 50%.</em></p><p><strong>Type:</strong> Broach</p><p>Provides a 50% boost to one randomly determined power of the clothing item it''s attached to. Can be repinned up to 5 times before losing its magic entirely.</p><table><tbody><tr><th>Type</th><td>Broach</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magical-jewelry/broach-of-uncharacteristic-functionality">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 198
+    category: magical-jewelry
+    slug: broach-of-uncharacteristic-functionality
+    url: https://pointmongo.com/browse/magical-jewelry/broach-of-uncharacteristic-functionality
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magical-jewelry
+    updatedAt: '2026-09-03T16:29:38.8913541Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

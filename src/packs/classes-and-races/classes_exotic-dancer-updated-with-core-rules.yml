@@ -1,0 +1,25 @@
+_id: QLAI88zeW93sSuBA
+_key: '!items!QLAI88zeW93sSuBA'
+name: Exotic Dancer (Updated with Core Rules)
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>A Bard/Monk class built on performance and crowd work, brought in line with the published core rules.</em></p><p>“Congratulations, Crawler! You have chosen to enter the glamorous world of Exotic Dancing! From the red-light district windows of Andromeda to the high-end clubs of Sombrero, exotic dancing is a cornerstone industry in every galaxy. Sure, you could have been a doctor, a lawyer, or even a barbarian, but you chose a different path because your father probably never loved you or perhaps loved you a little too much. Either way, now you''re walking around in your underwear in a dungeon, kicking ass and making gold. But there’s more to it than body glitter and traumatic repression: an Exotic Dancer is a master of acrobatics, performance, and seduction, utilizing their body as a deadly weapon. Or, should you prefer something a little more traditional, you can always pick up an actual weapon, like a polearm or quarterstaff. Unlike the life choices that led you to this vocation, you have options!”</p><table><tbody><tr><th>Prerequisites</th><td>Popularity 2 by Third Floor, “Master of Steps” Achievement or “Nearly Naked and Afraid” Achievement</td></tr><tr><th>Rank 20</th><td>Dance Skills, Class Skills</td></tr><tr><th>Bonus box</th><td>Class Starter Set Loot Box</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>\+3 Charisma</li><li>\+2 Dexterity</li><li>\+2 Constitution</li><li>\-1 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>\+1 to Pole Work Skill (1 pt)</li><li>\+1 to Pussycat Passive Skill (1 pt)</li><li>\+ 1 to Make It Rain Passive Skill (1 pt)</li></ul><p><strong>Benefits</strong></p><ul><li>Free room in Safe Rooms (1 pt)</li><li>Membership to Club Desperado (1 pt)</li><li>Access to the Dancer’s Guild (2 pts)</li><li>Access to job opportunities in Bitches or Penis Parade (2 pts)</li><li>Discount at stores (1 pt)</li><li>Gain Popularity for using Dance skills in combat (2 pts)</li><li>Manager Benefit (3 pts)</li><li>Can raise Dance related Skills to level 20 (6 pts)</li><li>Gain a Pet and a Bodyguard Enhanced Pet Biscuit (3 pts)</li><li>Granted a Class Starter Set containing a voucher for a Pole arm or Quarter Staff weapon at the nearest weapon vendor or Auction House (5 pts)</li></ul><p><strong>Detriments</strong></p><ul><li>Restricted to Light Armor (Gain 2)</li><li>Cannot join Club Vanquisher (Gain 1)</li><li>Restricted to Unarmed and Martial Weapons (Gain 2)</li></ul><hr><p><em>Source: Community submission — Sugar Dazzlethighs (Crawler #12765). From <a href="https://pointmongo.com/browse/classes/exotic-dancer-updated-with-core-rules">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Bard
+    - Monk
+  prerequisites: Popularity 2 by Third Floor, “Master of Steps” Achievement or “Nearly Naked and Afraid” Achievement
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 546
+    category: classes
+    slug: exotic-dancer-updated-with-core-rules
+    url: https://pointmongo.com/browse/classes/exotic-dancer-updated-with-core-rules
+    source: 'Community submission — Sugar Dazzlethighs (Crawler #12765)'
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.5795116Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

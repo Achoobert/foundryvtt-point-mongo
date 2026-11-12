@@ -1,0 +1,23 @@
+_id: pe5JF6Bq1A1oiLKQ
+_key: '!journal!pe5JF6Bq1A1oiLKQ'
+name: Monad the Trickster Prince
+folder: EC7wotocfEVDG1Mx
+pages:
+  - _id: JuS63k1aaFEi5t8H
+    _key: '!journal.pages!pe5JF6Bq1A1oiLKQ.JuS63k1aaFEi5t8H'
+    name: Monad the Trickster Prince
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A trickster god and son of Eris who sends his followers to prank the other gods, and pays them in Charisma for a good show.</em></p><p>One of the sons of Eris, the Goddess of Discord. Monad is a trickster deity who invokes the spirit of other famed tricksters like Loki, Anansi the Spider, Sun Wukong and Bugs Bunny. His impish nature and penchant for pranks make him an unfavorable god in the Celestial Ascendancy, which is how he likes it. His iconography is a smiley face with swirly rouge cheeks and a simple M tattoo on the forehead.</p><p>Monad appears as a humanoid figure wearing a smart business suit made of blue and black velvet. Heeled beetle boots colored white adorn his feet. His face is obscured by a mask of his icon with a hood covering the back of his head. His voice is reminiscent of early Mel Blanc’s Wile E. Coyote, pompous and articulate.</p><p>Monad’s quests are often centered around pranking his fellow gods by defiling their temples or stealing relics from their followers. His booms increase charisma and charisma based skills for a day, depending on how entertained he is by a follower’s antics.</p><hr><p><em>Source: Community submission — MoonshadowDark. From <a href="https://pointmongo.com/browse/deities/monad-the-trickster-prince">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 889
+    category: deities
+    slug: monad-the-trickster-prince
+    url: https://pointmongo.com/browse/deities/monad-the-trickster-prince
+    source: Community submission — MoonshadowDark
+    tags: []
+    updatedAt: '2026-10-17T17:40:16.7679731Z'
+    needsRestat: false
+    missingFields: []

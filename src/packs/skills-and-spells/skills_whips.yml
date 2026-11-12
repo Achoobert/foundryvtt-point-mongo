@@ -1,0 +1,41 @@
+_id: RZu7Hw1LDunjWWUj
+_key: '!items!RZu7Hw1LDunjWWUj'
+name: Whips
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A Dexterity weapon skill with ten feet of reach that can trade its damage for holding a target or shoving everyone back.</em></p><p>Might help you cracking some whips and maybe even trying to do a Whippy shoooow in the dungeon</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d2+STR</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/skills/whips">Point Mongo</a>.</em></p>'
+  governingStat: dex
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: 10ft
+  cooldown: ''
+  limitations: ''
+  aiFavor: 2
+  baseDamage:
+    dice: 1d2
+    stat: str
+    damageType: slashing
+  upgrades:
+    - id: Lnhpw6sW0IeHoONg
+      rankThreshold: 5
+      description: <p>+1d2 base dmg and can forego doing damage to apply the Held Debuff</p>
+    - id: UPn1ggkHDvDrA92h
+      rankThreshold: 10
+      description: <p>+1d2 base dmg and can forego doing damage to force every adjacent creature to take a Step back</p>
+    - id: cITWy8DMSffESEWt
+      rankThreshold: 15
+      description: <p>+1d2 base damage and may add 1 Rank die to damage</p>
+flags:
+  point-mongo:
+    id: 854
+    category: skills
+    slug: whips
+    url: https://pointmongo.com/browse/skills/whips
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.1722401Z'
+    needsRestat: false
+    missingFields: []

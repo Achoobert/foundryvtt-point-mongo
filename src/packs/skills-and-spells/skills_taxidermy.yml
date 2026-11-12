@@ -1,0 +1,37 @@
+_id: 6oFPAbmGdUZNHiBr
+_key: '!items!6oFPAbmGdUZNHiBr'
+name: Taxidermy
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>Puts all those dead mobs in your inventory to use — pairs especially well with necromancy.</em></p><p>Now you have a use for all of those dead mobs you keep stuffing into your inventory. Combine with necromancy spells to create your own horrifying monstrosities!</p><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/skills/taxidermy">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 80
+    category: skills
+    slug: taxidermy
+    url: https://pointmongo.com/browse/skills/taxidermy
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - skill
+      - crafting
+    updatedAt: '2026-08-31T17:12:29.7810212Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

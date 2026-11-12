@@ -1,0 +1,23 @@
+_id: ZCrTWrxl3ZzK5061
+_key: '!journal!ZCrTWrxl3ZzK5061'
+name: 'Loot Generator: Buffs'
+folder: LgXPy7DgMLD2Fvug
+pages:
+  - _id: XdhiFdvFlUVaei1V
+    _key: '!journal.pages!ZCrTWrxl3ZzK5061.XdhiFdvFlUVaei1V'
+    name: 'Loot Generator: Buffs'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Thirty-five buffs a magic item can carry, from Iron Skin to Sonic immunity, for when the dice say "a buff".</em></p><p>Used by the <a href="/loot">Loot Generator</a>: whenever an item rolls a buff, it rolls again on this table to say which one. The named buffs are the official ones from the Core Rulebook; each row gives a short summary in our words and the page to read for the full rules. The resistances and immunities cover every damage type.</p><p>Have something to add? Press <strong>+ Suggest a row</strong> above the table. It comes to us for a quick look, then goes in with your name on it.</p><table><tbody><tr><th>unique</th><td>false</td></tr><tr><th>lootGenerator</th><td>buffs</td></tr></tbody></table><hr><p><em>Source: Point Mongo Team. From <a href="https://pointmongo.com/browse/roll-tables/loot-generator-buffs">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 951
+    category: roll-tables
+    slug: loot-generator-buffs
+    url: https://pointmongo.com/browse/roll-tables/loot-generator-buffs
+    source: Point Mongo Team
+    tags: []
+    updatedAt: '2026-10-23T04:28:31.3543969Z'
+    needsRestat: false
+    missingFields: []

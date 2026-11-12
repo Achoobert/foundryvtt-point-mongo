@@ -1,0 +1,52 @@
+_id: CZ97Mzb8h0wvwYFr
+_key: '!actors!CZ97Mzb8h0wvwYFr'
+name: Negative Nancy
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>A humanoid mob that mimics you and drains health/stamina through infectious negativity — one infected party member ruins everyone''s day.</em></p><p>Looks and acts like a party member, but sucks the fun out of everything, draining health and stamina until the target dies in frustration. Infectious — a single infected party member can ruin the whole party''s run.</p><table><tbody><tr><th>Floor</th><td>1</td></tr><tr><th>Elite</th><td>Yes (acts once per crawler)</td></tr></tbody></table><hr><p><em>Source: Community submission — The Wombat Mafia (Crawler #12208). From <a href="https://pointmongo.com/browse/mobs/negative-nancy">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 3
+  size: Medium (4)
+  creatureType: Humanoid
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 3
+    max: 3
+  dr: 1
+  stats:
+    str:
+      value: 3
+    dex:
+      value: 4
+    con:
+      value: 4
+    int:
+      value: 2
+    cha:
+      value: 1
+  attacks:
+    - name: Life Drain
+      toHit: ''
+      damage: 1d4+2
+      damageType: ''
+      range: ''
+      effect: On a Evade Major Fail or worse, the crawler suffers a temporary 1d4 CON Debuff.
+prototypeToken:
+  name: Negative Nancy
+  actorLink: false
+flags:
+  point-mongo:
+    id: 111
+    category: mobs
+    slug: negative-nancy
+    url: https://pointmongo.com/browse/mobs/negative-nancy
+    source: 'Community submission — The Wombat Mafia (Crawler #12208)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-22T04:40:29.5917718Z'
+    needsRestat: false
+    missingFields: []

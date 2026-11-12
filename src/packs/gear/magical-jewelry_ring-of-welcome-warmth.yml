@@ -1,0 +1,23 @@
+_id: dJOajoQqBabKu0UW
+_key: '!items!dJOajoQqBabKu0UW'
+name: Ring of Welcome Warmth
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A black enameled ring that makes any frozen environment feel like a mild spring day and grants a Constitution buff.</em></p><p>This black enameled band bestows the ability survive in all sub-zero temperature environments. While wearing this ring even desolate, frozen ice worlds feel like a mild spring day, regardless of the other clothing a Crawler may, or may not be wearing. The ring also adds a +4 Con buff to the wearer. The ring of welcome warmth is a common item, and is always slightly warm to the touch.</p><table><tbody><tr><th>Type</th><td>Ring</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/magical-jewelry/ring-of-welcome-warmth">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 208
+    category: magical-jewelry
+    slug: ring-of-welcome-warmth
+    url: https://pointmongo.com/browse/magical-jewelry/ring-of-welcome-warmth
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - magical-jewelry
+    updatedAt: '2026-09-22T05:38:02.3732958Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

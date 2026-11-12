@@ -1,0 +1,22 @@
+_id: lNij50TlHdsX2HYJ
+_key: '!items!lNij50TlHdsX2HYJ'
+name: The Blue Drink
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A potion that makes any single being follow the drinker''s commands for two minutes, with a small chance of the effect reversing instead.</em></p><p>Have you ever gone with the flow, joined your friends following a charismatic leader who may or may not want to steal all of your money and maybe your wife? This little concoction is for you. Effect: This potion will make another being (yes, being, whether a mob, crawler, or other) follow your commands for 2 minutes. Has a 10 percent chance to fail, and you have to follow the being targeted.</p><table><tbody><tr><th>Type</th><td>Buff</td></tr></tbody></table><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/potions/the-blue-drink">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 342
+    category: potions
+    slug: the-blue-drink
+    url: https://pointmongo.com/browse/potions/the-blue-drink
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-22T05:38:20.3342609Z'
+    needsRestat: false
+    missingFields:
+      - effects

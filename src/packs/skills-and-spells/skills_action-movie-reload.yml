@@ -1,0 +1,41 @@
+_id: i45hAujH6qgpHkQD
+_key: '!items!i45hAujH6qgpHkQD'
+name: Action Movie Reload
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A passive skill that keeps a magazine weapon firing long after it should be empty, as long as you stay out of cover like a proper action hero.</em></p><p>Allows you to continuously fire any ranged weapon with a magazine after all ammo has been fired(stock ammo only). Just like you favorite 80''s &amp; 90''s action movie star.</p><table><tbody><tr><th>Category</th><td>Passive</td></tr></tbody></table><hr><p><em>Source: Community submission — Chillboswaggins. From <a href="https://pointmongo.com/browse/skills/action-movie-reload">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: passive
+  attackType: ''
+  isPassive: true
+  range: ''
+  cooldown: ''
+  limitations: You must remain outside of cover, maintain line of sight, and be engaged with the mobs/boss.
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: HPbOCRzil9p2YydY
+      rankThreshold: 5
+      description: <p>You no no longer need line of sight on the mobs/boss and gain access to L1 Engineering table to craft your own ammunition</p>
+    - id: VhmUBHbPXq27mK9P
+      rankThreshold: 10
+      description: <p>At the start of each floor, you may select a stock ammo type. The ammo type must be known and craftable to you in your Engineering table.</p>
+    - id: SiWwZANIB27qVMq2
+      rankThreshold: 15
+      description: <p>Your currently held ranged weapon with a magazine, gains the Buffet Enchant.</p>
+flags:
+  point-mongo:
+    id: 1064
+    category: skills
+    slug: action-movie-reload
+    url: https://pointmongo.com/browse/skills/action-movie-reload
+    source: Community submission — Chillboswaggins
+    tags: []
+    updatedAt: '2026-11-06T06:15:09.4428832Z'
+    needsRestat: false
+    missingFields: []

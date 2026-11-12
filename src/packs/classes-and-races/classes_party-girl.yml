@@ -1,0 +1,23 @@
+_id: gcmo7AKkaGbIUxnB
+_key: '!items!gcmo7AKkaGbIUxnB'
+name: Party Girl
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Bard class that turns any fight into a social event, rallying allies with a battle cry and getting better the drunker it gets.</em></p><p>Since the beginning of (party) time, there was the Party Girl. Any situation can become a social event, usually by being loud, charming or drunk enough to make everyone forget the consequences of their actions.</p><p>The life of the party, be it by keeping your allies motivated, the enemies distracted or bringing down the dance floor (metaphorically or not), you are not letting this (and your) party stop!</p><p>Borant Corporation takes no responsibility over hangovers, midnight texts or dubious decisions made while under the influence.</p><p><strong>Stat bonuses</strong></p><ul><li>+4 Cha</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Earworm (2pts)</li><li>+1 Intimate Touches (2pts)</li><li>+1 Second Chance (2pts)</li></ul><p><strong>Benefits</strong></p><ul><li>+1 to Endurance, Escape Plan, Negotiation, Persuasion and Taunt <em>(extreme)</em></li><li>another +1 to Endurance, Escape Plan, Negotiation, Persuasion and Taunt <em>(extreme)</em></li><li>Once per day, you let out the battle cry of the Party Girl (Whohoo!). Each ally that can hear you may add your Cha bonus to either their attack or damage for their next attack <em>(major)</em></li><li>Immune to Poison <em>(extreme)</em></li><li>While under the Shit Faced Debuff, you take a -2 penalty to checks instead of a disadvantage to them. <em>(major)</em></li><li>When under the Shit-Faced Debuff, you have Cat-Like Reflexes at a Rank equal to the Floor. <em>(extreme)</em></li></ul><p><strong>Detriments</strong></p><ul><li>May not become a member of Club Vanquisher <em>(1 pt)</em></li><li>Vulnerability to all Psychic damage. <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/party-girl">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Bard
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1161
+    category: classes
+    slug: party-girl
+    url: https://pointmongo.com/browse/classes/party-girl
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1903043Z'
+    needsRestat: false
+    missingFields: []

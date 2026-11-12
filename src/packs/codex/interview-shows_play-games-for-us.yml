@@ -1,0 +1,25 @@
+_id: Wz3O2xIdtlDWoivC
+_key: '!journal!Wz3O2xIdtlDWoivC'
+name: Play Games For Us
+folder: 60wNl7vBu4R8G6qF
+pages:
+  - _id: y7eIY8tk1JNqm6jN
+    _key: '!journal.pages!Wz3O2xIdtlDWoivC.y7eIY8tk1JNqm6jN'
+    name: Play Games For Us
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A silly-games competition show featuring sriracha-mayo chugging, slime pits, and electroshock twister for prizes.</em></p><p><strong>Sponsor:</strong> K-Pax Demon H. Consortium</p><p>Part silly-games spectacle: sucking demon-hot sriracha mayo from a baby bottle, sliding into a slime-ball pit, or playing electroshock twister, all for prizes, followed by a Q&amp;A session.</p><hr><p><em>Source: Community submission — Blackscyes (Crawler #33822). From <a href="https://pointmongo.com/browse/interview-shows/play-games-for-us">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 373
+    category: interview-shows
+    slug: play-games-for-us
+    url: https://pointmongo.com/browse/interview-shows/play-games-for-us
+    source: 'Community submission — Blackscyes (Crawler #33822)'
+    tags:
+      - dcc-ccs
+      - tunnel-shows
+    updatedAt: '2026-09-02T04:50:41.849695Z'
+    needsRestat: false
+    missingFields: []

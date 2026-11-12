@@ -1,0 +1,19 @@
+_id: TeYbYUbiGwsbddTX
+_key: '!items!TeYbYUbiGwsbddTX'
+name: The Gauntlets of Tubthumping
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>Silver gauntlets that soften falls, grant temporary health, and summon a day''s worth of drinks if you sing for them.</em></p><p>+5 against Falling damage. Grants +10% temporary HP during combat.</p><p>Once per day, can be used to summon 1 of 4 drinks (Whiskey, Vodka, Cider, Lager) in your hand that will have limitless drinks for up to 6 hours. (Requires the wearer to sing "Oh Danny Boy"). Chances of summoning a specific drink increase the more the gauntlets are used.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Gauntlets</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>DR</th><td>10</td></tr><tr><th>Limitations</th><td>Limitless drinks last for only 6 hours and requires wearer to sing "Oh Danny Boy".</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5 against Falling damage</li><li>+10% temporary HP during combat</li><li>Once per day, can be used to summon 1 of 4 drinks (Whiskey, Vodka, Cider, Lager) in your hand that will have limitless drinks for up to 6 hours. Chances of summoning a specific drink increase the more the gauntlets are used.</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Myles L., Crawler #26933. From <a href="https://pointmongo.com/browse/loot/the-gauntlets-of-tubthumping">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 543
+    category: loot
+    slug: the-gauntlets-of-tubthumping
+    url: https://pointmongo.com/browse/loot/the-gauntlets-of-tubthumping
+    source: 'Community submission — BlessedPsycho, Myles L., Crawler #26933'
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.5992189Z'
+    needsRestat: false
+    missingFields: []

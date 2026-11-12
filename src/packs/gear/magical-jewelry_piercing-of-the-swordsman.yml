@@ -1,0 +1,19 @@
+_id: l1j6CTRoZNADjY3S
+_key: '!items!l1j6CTRoZNADjY3S'
+name: Piercing of the Swordsman
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A barbell piercing that sharpens your Longsword skill, wherever you decide to wear it.</em></p><p>This barbel shaped piercing can be worn as an ear-ring, or the Crawler could choose to get more creative with where it is worn.  We won''t judge...well, we will, but that''s really not relevant to the effects bestowed to the wearer.  The piercing bestows +1 to the users Longsword Skill.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Piercing</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Longsword Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/piercing-of-the-swordsman">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1025
+    category: magical-jewelry
+    slug: piercing-of-the-swordsman
+    url: https://pointmongo.com/browse/magical-jewelry/piercing-of-the-swordsman
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-31T19:00:58.3030329Z'
+    needsRestat: false
+    missingFields: []

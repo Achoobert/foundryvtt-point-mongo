@@ -1,0 +1,25 @@
+_id: ahQpTrQVibfgPNif
+_key: '!journal!ahQpTrQVibfgPNif'
+name: Chronic Chunibyo!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: XrpKeYo3mdiYwObm
+    _key: '!journal.pages!ahQpTrQVibfgPNif.XrpKeYo3mdiYwObm'
+    name: Chronic Chunibyo!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler enters the dungeon in full cosplay of a fictional character.</em></p><p><strong>Scenario:</strong> Crawler enters the World Dungeon in full cosplay</p><p>Enter the world dungeon in full cosplay of a fictional character. Wow, you didn''t even change into something more comfortable or less strange before entering the dungeon? Maybe you actually were super excited for the apocalypse and saw this as a chance for life to finally be interesting! You have a problem and I encourage it!</p><p><strong>Suggested Rewards:</strong></p><p>You receive a gold (depends on context e.g Weeb/superhero/anime) box! Inside the box is a power or weapon related to the cosplay.</p><hr><p><em>Source: Community submission — Tea (Crawler #24801). From <a href="https://pointmongo.com/browse/achievements/chronic-chunibyo">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 284
+    category: achievements
+    slug: chronic-chunibyo
+    url: https://pointmongo.com/browse/achievements/chronic-chunibyo
+    source: 'Community submission — Tea (Crawler #24801)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-11-11T20:08:41.5082968Z'
+    needsRestat: false
+    missingFields: []

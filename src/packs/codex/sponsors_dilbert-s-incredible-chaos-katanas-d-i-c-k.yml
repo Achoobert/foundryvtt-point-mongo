@@ -1,0 +1,25 @@
+_id: Sol586W8KQrDo8UJ
+_key: '!journal!Sol586W8KQrDo8UJ'
+name: Dilbert's Incredible Chaos Katanas (D.I.C.K)
+folder: hvyWwMcQCbDfRsP5
+pages:
+  - _id: jCY2HfAwU3V7YRQn
+    _key: '!journal.pages!Sol586W8KQrDo8UJ.jCY2HfAwU3V7YRQn'
+    name: Dilbert's Incredible Chaos Katanas (D.I.C.K)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A blade-sponsor stocking standard to enchanted chaos-infused katanas, with unsubtly innuendo-laden marketing.</em></p><p>We stock a range of Katana’s, from your standard chaos infused katanas to enchanted blades that will shock your socks off!</p><p>Whatever you’re after, if it’s a blade you desire then nothing better than having a reliable DICK in your hand.</p><p><strong>Testimonials from actual customers:</strong></p><p>I remember my first DICK, it was so big I had to use two hands to keep it up. - Biggin the dwarf</p><p>Nothing feels better than the first time you slide your DICK into somebody and watch their guts spill out everywhere! - Butcher Ben</p><p>I love running around the dungeon waving my DICK around, it makes me feel like a real man. - Alpha</p><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/sponsors/dilbert-s-incredible-chaos-katanas-d-i-c-k">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 351
+    category: sponsors
+    slug: dilbert-s-incredible-chaos-katanas-d-i-c-k
+    url: https://pointmongo.com/browse/sponsors/dilbert-s-incredible-chaos-katanas-d-i-c-k
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - sponsors
+    updatedAt: '2026-09-22T05:38:22.5838153Z'
+    needsRestat: false
+    missingFields: []

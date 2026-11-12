@@ -1,0 +1,62 @@
+_id: HV6CDoowM9BcGtUC
+_key: '!actors!HV6CDoowM9BcGtUC'
+name: Midge Overlord
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><em>A four-foot, morbidly obese demon commander who drives swarms of Midges forward at the point of a hell-forged trident.</em></p><p>Midge Overlord''s command the Legions of lessor demons in the armies of Sheol.  The nadir of the commanders of Hells forces, the Overlords are scions of sloth and gluttony.  Towering over their minions, Midge Overlords stand 4'' tall, and their mottled red frames are morbidly obese.  They drive their forces onward at the point of their hell forged tridents.</p><p>They are immune to all fire and fire based attacks, including Sheol Fire.</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/bosses/midge-overlord">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 7
+  size: Medium (4)
+  creatureType: Demon
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 11
+    max: 11
+  dr: 1
+  stats:
+    str:
+      value: 10
+    dex:
+      value: 7
+    con:
+      value: 10
+    int:
+      value: 9
+    cha:
+      value: 10
+  attacks:
+    - name: Claw
+      toHit: ''
+      damage: 1d6+4
+      damageType: ''
+      range: 5ft
+      effect: ''
+    - name: Trident
+      toHit: ''
+      damage: 1d8+4
+      damageType: piercing
+      range: 5ft
+      effect: ''
+    - name: Swarm - Command
+      toHit: ''
+      damage: 1d2+2
+      damageType: ''
+      range: 40ft
+      effect: Commands 1d2+1(F) Midge Minions to attack the party.  They gain advantage on their attacks for 1 round.
+prototypeToken:
+  name: Midge Overlord
+  actorLink: false
+flags:
+  point-mongo:
+    id: 893
+    category: bosses
+    slug: midge-overlord
+    url: https://pointmongo.com/browse/bosses/midge-overlord
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-17T17:40:16.7979172Z'
+    needsRestat: false
+    missingFields: []

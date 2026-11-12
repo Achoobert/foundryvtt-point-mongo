@@ -1,0 +1,41 @@
+_id: pq9GdWmMnAeA7Opy
+_key: '!items!pq9GdWmMnAeA7Opy'
+name: Harsh Vocals
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A Singing Style that trades debuffs for damage, adding a Rank die of Sonic every five ranks.</em></p><p>Singing Style Skill*</p><p>Out of all the different Styles for Singing, Harsh Vocals consistently get mislabeled as "just screaming." From high frys to guttural roars, Harsh Vocals push the boundaries of what the voice can do.</p><p>When using the Style while singing, every 5 levels adds another Rank damage die.</p><p>* See "Singing Skill"</p><table><tbody><tr><th>Category</th><td>Passive</td></tr><tr><th>Base damage</th><td>1d2</td></tr></tbody></table><hr><p><em>Source: Community submission — Mr King. From <a href="https://pointmongo.com/browse/skills/harsh-vocals">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: passive
+  attackType: ''
+  isPassive: true
+  range: ''
+  cooldown: ''
+  limitations: This Skill is used only in conjunction with the Singing Attack Skill. Mark this Skill for Advancement only when applying its Ranks to such an attack.
+  aiFavor: 0
+  baseDamage:
+    dice: 1d2
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: VCJ507EVd75VkGXW
+      rankThreshold: 5
+      description: <p>Add 1 Rank damage die.</p>
+    - id: h797QqY91w7lNTlH
+      rankThreshold: 10
+      description: <p>Add 1 Rank damage die.</p>
+    - id: RlemuUuWS4rZta5c
+      rankThreshold: 15
+      description: <p>Add 1 Rank damage die.</p>
+flags:
+  point-mongo:
+    id: 788
+    category: skills
+    slug: harsh-vocals
+    url: https://pointmongo.com/browse/skills/harsh-vocals
+    source: Community submission — Mr King
+    tags: []
+    updatedAt: '2026-09-20T19:30:22.5199294Z'
+    needsRestat: false
+    missingFields: []

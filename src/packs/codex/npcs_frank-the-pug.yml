@@ -1,0 +1,25 @@
+_id: TEPrKLOVcgjvQUQt
+_key: '!journal!TEPrKLOVcgjvQUQt'
+name: Frank the Pug
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: DnbGxj0DrswaLHcL
+    _key: '!journal.pages!TEPrKLOVcgjvQUQt.DnbGxj0DrswaLHcL'
+    name: Frank the Pug
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A talking, suit-wearing sentient canine who runs a street stall selling illegal merchandise and information, possibly an alien.</em></p><p><strong>Type:</strong> Sentient Canine</p><p>Hangs out at a street stall selling illegal merchandise and information. May or may not be an alien. Can talk, and wears a suit for legal reasons.</p><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/npcs/frank-the-pug">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 258
+    category: npcs
+    slug: frank-the-pug
+    url: https://pointmongo.com/browse/npcs/frank-the-pug
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-02T04:50:41.4143518Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,22 @@
+_id: b4r3ByEz5KqLnIuB
+_key: '!items!b4r3ByEz5KqLnIuB'
+name: Risky Potion of Identity Crisis
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A potion that opens a menu offering a permanent race change to one of three randomly selected options.</em></p><p>"Were you overwhelmed with all of those pesky character creation choices? Did something sound cool in theory but fall flat in practice? Well, now is your chance to try something new! Good luck, Crawler..." Imbibing this draught will open a menu and give you the option to permanently change into one of three randomly selected Crawler races. One of these races must be selected. Warning: If a race is not selected within 1 hour, one will be randomly selected for you. (Consider using a blind vote to decide in this case)</p><table><tbody><tr><th>Type</th><td>Polymorph</td></tr></tbody></table><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/potions/risky-potion-of-identity-crisis">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 341
+    category: potions
+    slug: risky-potion-of-identity-crisis
+    url: https://pointmongo.com/browse/potions/risky-potion-of-identity-crisis
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-22T05:38:20.3338047Z'
+    needsRestat: false
+    missingFields:
+      - effects

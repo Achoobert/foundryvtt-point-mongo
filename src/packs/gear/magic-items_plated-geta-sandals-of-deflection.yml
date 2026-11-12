@@ -1,0 +1,19 @@
+_id: YSEkkvEi1OBSjoGN
+_key: '!items!YSEkkvEi1OBSjoGN'
+name: Plated Geta Sandals of Deflection
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Semeru geta shod with dwarven plate. Good footing, and the undersides stop rather more than you would expect.</em></p><p>This pair of Semeru designed Geta Sandals with have sturdy Dwarven metal plates on the underside.</p><table><tbody><tr><th>Slot</th><td>Feet</td></tr><tr><th>Type</th><td>Armor</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Foot Soldier</li><li>+1 Shield Block</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/magic-items/plated-geta-sandals-of-deflection">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 764
+    category: magic-items
+    slug: plated-geta-sandals-of-deflection
+    url: https://pointmongo.com/browse/magic-items/plated-geta-sandals-of-deflection
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-24T18:09:52.9518051Z'
+    needsRestat: false
+    missingFields: []

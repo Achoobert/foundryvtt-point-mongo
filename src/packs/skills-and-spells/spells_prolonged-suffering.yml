@@ -1,0 +1,43 @@
+_id: EQPnpVeKjhLZvSJX
+_key: '!items!EQPnpVeKjhLZvSJX'
+name: Prolonged Suffering
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>An INT spell that makes a debuff on a creature last as long as the spell does, from three rounds at first to ten minutes at Rank 15.</em></p><p>Choose a debuff affecting the creature. Its duration becomes the duration of this spell</p><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/spells/prolonged-suffering">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 9
+  range: 20ft
+  duration: 3 rounds
+  cooldown: Once per Scene
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Warlock
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: ksRbvsXLomlIoQJH
+      rankThreshold: 5
+      description: <p>Duration increases to 1min, cooldown reduced to 5 Rounds</p>
+    - id: nzdlMhJsLTHlCZAl
+      rankThreshold: 10
+      description: <p>Duration increases to 5min, no longer has a cooldown</p>
+    - id: tIvGkWSxERwkcXnq
+      rankThreshold: 15
+      description: <p>Duration increases to 10 min, you may use a lower rank version of this spell.</p>
+flags:
+  point-mongo:
+    id: 943
+    category: spells
+    slug: prolonged-suffering
+    url: https://pointmongo.com/browse/spells/prolonged-suffering
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.7232851Z'
+    needsRestat: false
+    missingFields: []

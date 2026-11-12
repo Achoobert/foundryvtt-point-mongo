@@ -1,0 +1,26 @@
+_id: zTwhK2HxCAv3WvnP
+_key: '!items!zTwhK2HxCAv3WvnP'
+name: The Chip
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>Sometimes you just need to say, ''Humanity be damned'', its time to leave this mortal coil for a more electronic coil. The Chip is, well, exactly that, a mechanical existence beyond your squishy, fleshy one. Don''t be scared though, Crawler, we have a shiny Chip-exclusive Classes to dangle in front of you to show you why this is the best idea you''ll make in the Dungeon.</em></p><p>There''s a version of "waking up in the dungeon" that involves gasping for breath on cold stone, and then there''s yours: a slow boot sequence, a status check, and the quiet, somewhat dread-inducing realisation that you no longer have lungs to gasp with. Where’s your body? That’s irrelevant now; welcome to ‘machine learning’, bitch. What matters now is you, the chip; your processes running on it, and whatever chassis the dungeon''s been generous enough to offer you today. Why would you choose this? Cautionary tales be damned, nobody chooses this. But the ratings don''t care how you got here, and neither do I. Size: Medium (4) (for flavour, you''re tiny, but mechanically your Chassis will be medium sized; actual dimensions depend on installed Chassis (see the Chassis Class), Ability to survive without breathing, which also gives Immunity to inhaled toxins, Immunity to Poison, Resistance to Psychic damage, Advantage on all Stat Checks for Intelligence, Can see in total darkness, You can see twice as far as most creatures (optical sensors), +4 Intelligence, Add your Intelligence Mod a second time when using the Repair Skill in a common circumstance, At the end of each floor, add 1 to your Skill Advancement Checks for the Repair Skill, Advantage on Skill Advancement Checks for Perception, a free room in saferooms (likely just a cupboard w/ dock until you can get a personal space), 25% discounts at tech based stores, once per session gain a non-combat benefit under a specific condition (GM-defined, e.g., interfacing directly with dungeon terminals, cameras, or electronic locks for information, VUlnerability to Electric damage.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Intelligence</li></ul><p><strong>Benefits</strong></p><ul><li>You do not breathe, granting immunity to inhaled toxins.</li><li>Immunity to Poison.</li><li>Resistance to Psychic damage.</li><li>Advantage on all Intelligence Stat Checks.</li><li>You can see in total darkness, and twice as far as most creatures.</li><li>Add your Intelligence Mod a second time when using the Repair Skill in a common circumstance.</li><li>At the end of each floor, add 1 to your Skill Advancement Checks for Repair.</li><li>Advantage on Skill Advancement Checks for Perception.</li><li>A free room in saferooms, and 25% discounts at tech-based stores.</li></ul><p><strong>Detriments</strong></p><ul><li>Vulnerability to Electric damage.</li></ul><hr><p><em>Source: Crawler Raph. From <a href="https://pointmongo.com/browse/races/the-chip">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 513
+    category: races
+    slug: the-chip
+    url: https://pointmongo.com/browse/races/the-chip
+    source: Crawler Raph
+    tags:
+      - race
+      - races
+    updatedAt: '2026-11-11T20:08:41.6996295Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

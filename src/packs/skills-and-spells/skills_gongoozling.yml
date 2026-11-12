@@ -1,0 +1,37 @@
+_id: 87vJFfUiwTke0fut
+_key: '!items!87vJFfUiwTke0fut'
+name: Gongoozling
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>An affinity for narrow waterways and canals, derived from a real leisurely British pastime.</em></p><p>You have an affinity for narrow waterways, especially canals. Not sure how many canals you''ll see down here in the World Dungeon, but if you do, you will find it very interesting. Gongoozling is the leisurely British pastime of watching activity on canals, such as passing narrowboats, locks opening, and wildlife. Derived from 19th-century Lincolnshire dialect meaning to stare, a "gongoozler" observes without participating — a relaxing, often meditative hobby popular along UK waterways, sometimes jokingly compared to trainspotting.</p><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/skills/gongoozling">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 70
+    category: skills
+    slug: gongoozling
+    url: https://pointmongo.com/browse/skills/gongoozling
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - skill
+      - earth-skill
+    updatedAt: '2026-08-31T17:12:29.7749751Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

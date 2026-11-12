@@ -1,0 +1,19 @@
+_id: 5Reso3IZEHhSQs42
+_key: '!items!5Reso3IZEHhSQs42'
+name: Enchanted Upgrade Patch of the Charming Drifter
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A fleeting parachute patch that softens any fall, adds a little charm, and brings you back to full health once a floor.</em></p><p>This is a fleeting item.  This medium sized embroidered upgrade patch depicts a white parachute covered with red crosses floating against a blue background.  When properly sewn onto an eligible garment, this upgrade patch bestows the following Buffs:  Safe Fall Buff, +5% Charisma, and Recovery (Restore Full Health, once-per-floor).</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Platinum</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Safe Fall Buff</li><li>Once per floor: Recovery (full Health)</li><li>+5% Charisma</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-upgrade-patch-of-the-charming-drifter">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1044
+    category: magic-items
+    slug: enchanted-upgrade-patch-of-the-charming-drifter
+    url: https://pointmongo.com/browse/magic-items/enchanted-upgrade-patch-of-the-charming-drifter
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-02T19:09:47.8828111Z'
+    needsRestat: false
+    missingFields: []

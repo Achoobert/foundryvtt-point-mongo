@@ -1,0 +1,22 @@
+_id: 6kLlqflAel0wwvnr
+_key: '!items!6kLlqflAel0wwvnr'
+name: Liquid Courage
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A potion granting a large temporary boost to Constitution, Charisma, and Strength — with a rough hangover to match.</em></p><p>Too shy to talk to that Crawler at the bar you''ve been crushing on for the last 3 days? Too afraid to face the Mimic in the old abandoned mine outside of town? Well, have no worries! The Liquid Courage potion has your back! It grants +2d6 to Constitution, Charisma, and Strength for the next hour. Don''t take too many, though! Those hangovers can be a bitch.</p><table><tbody><tr><th>Type</th><td>Potion</td></tr></tbody></table><hr><p><em>Source: Community submission — Myles L (Crawler #26933). From <a href="https://pointmongo.com/browse/potions/liquid-courage">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 328
+    category: potions
+    slug: liquid-courage
+    url: https://pointmongo.com/browse/potions/liquid-courage
+    source: 'Community submission — Myles L (Crawler #26933)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-22T05:38:20.3276123Z'
+    needsRestat: false
+    missingFields:
+      - effects

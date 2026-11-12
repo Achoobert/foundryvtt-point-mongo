@@ -1,0 +1,25 @@
+_id: e5kfvXPbAdjgOQtR
+_key: '!items!e5kfvXPbAdjgOQtR'
+name: Cryak Draconian
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A rare ruby-scaled Dragon-kin variant born from Red Dragon eggs purified by a High Cleric of Light — natural-born Paladins and Avengers with flight, fire immunity, and a fear-inducing gaze.</em></p><p>Stat Modifiers: STR +2, CON +1, INT +2, -2 DEX</p><p>Cryak Draconians are a rare variant of Dragon-kin created through the machinations of a High Cleric of Light. When the unhatched eggs of a Red Dragon are purified via a complex and closely guarded holy ritual, Cryak Draconians are what emerge from the sanctified eggs.</p><p>With scales of gleaming ruby, Cryak Draconians are unwavering Champions of Virtue and Justice. Bipedal, with an average wingspan of 15'', when not in use their wings curl around their frames, acting like a cloak. Cryak Draconians often stand over 7'' tall, and are often 340lbs of rock hard corded draconic muscle. Natural born Warriors, Cryak Draconians often specialize in Paladin or Avenger sub classes. Cryak''s are partial to Heavy Armor, and intimidating oversized 2-handed Weaponry. A Cryak Avenger in burnished Full Battle Plate Armor wielding a gleaming two-handed sword is a sight to behold. Their innate magical abilities grant them the power of flight despite their weight.</p><p>Racial Benefits: Immune to Fire Damage.  +1 DR.</p><p>Racial Abilities:</p><p>Fearsome Gaze — Once per day a Cryak can opt to use this innate ability to cause fear and panic in its opponents.</p><p>- Level 1: Range 10'', Target 1 Mob or Opponent. If the mob fails its evade check, it becomes rooted in place, unable to act for 1 round.</p><p>- Level 5: Range 20'', Target up to 3 mobs. A failed evade causes the target to flee in panic at their maximum movement speed for 3 rounds.</p><p>- Level 10: Range 50'', Target up to 5 mobs. A failed evade check causes the target to drop their weapons, fall prone, and cower in fear for 3 rounds.</p><p>- Level 15: Range 200'' cone of vision, Target up to 25 mobs. A failed evade check causes the initial mobs to immediately drop their weapons and flee in terror away from the Cryak.</p><p>Flame Breath — Once every 5 rounds a Cryak Draconian can exhale a 10'' cone of flame for 1d8 damage.  This skill ranks up 5/10/15 adding a 1d8 dmg at each upgrade.</p><p>Many Cryak''s join Holy Orders and pledge themselves to the Ideals of Club Vanquisher - the race earns free access to Club Vanquisher.</p><table><tbody><tr><th>Size</th><td>Large (5)</td></tr><tr><th>DR</th><td>1</td></tr><tr><th>Build points</th><td>25</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 STR</li><li>+1 CON</li><li>+2 INT</li></ul><p><strong>Benefits</strong></p><ul><li>unlimited flight <em>(epic)</em></li><li>Immunity to fire <em>(epic)</em></li><li>Fearsome Gaze Skill - see description <em>(major)</em></li><li>Flame Breath 1d8 dmg Upgrades: 5/10/15: +1d8 base dmg / upgrade <em>(major)</em></li><li>+1 DR <em>(moderate)</em></li><li>Club Vanquisher Membership <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>-2 DEX <em>(1 pt)</em></li></ul><hr><p><em>Source: DeaDPaN79. From <a href="https://pointmongo.com/browse/races/cryak-draconian">Point Mongo</a>.</em></p>'
+  size: Large (5)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 464
+    category: races
+    slug: cryak-draconian
+    url: https://pointmongo.com/browse/races/cryak-draconian
+    source: DeaDPaN79
+    tags:
+      - dcc-ccs
+      - races
+    updatedAt: '2026-11-08T19:29:02.8243833Z'
+    needsRestat: false
+    missingFields: []

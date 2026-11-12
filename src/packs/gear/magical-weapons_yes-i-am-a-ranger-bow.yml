@@ -1,0 +1,23 @@
+_id: XCXYwxck9qbuWnwe
+_key: '!items!XCXYwxck9qbuWnwe'
+name: Yes, I Am a Ranger Bow
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A bow that doubles firing speed and range, with +2 magically enhanced arrows.</em></p><p><strong>Type:</strong> Bow · <strong>Damage:</strong> 1d8+2</p><p>Doubles firing speed and range; arrows fired from it gain a +2 magical benefit.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Bow</td></tr><tr><th>Weapon skill</th><td>Bow</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magical-weapons/yes-i-am-a-ranger-bow">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 224
+    category: magical-weapons
+    slug: yes-i-am-a-ranger-bow
+    url: https://pointmongo.com/browse/magical-weapons/yes-i-am-a-ranger-bow
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magical-weapons
+      - bow
+    updatedAt: '2026-09-03T05:54:47.8499007Z'
+    needsRestat: false
+    missingFields:
+      - effects

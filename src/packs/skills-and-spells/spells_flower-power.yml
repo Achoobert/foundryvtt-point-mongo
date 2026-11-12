@@ -1,0 +1,43 @@
+_id: urKkdagCAI5eOK5v
+_key: '!items!urKkdagCAI5eOK5v'
+name: Flower Power
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> base damage</p><p><em>An INT spell that pacifies sentient plants, and on a great roll puts them under your command.</em></p><p>Whenever you interact with a sentient plant mob (such as Vine Creepers, Odious Blossoms, etc), you make an INT-Opposed check. On a success you are able to pacify them. On an Amazing Success or Critical Hit, you are able to command the mob for 2 minutes.</p><table><tbody><tr><th>AI favor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/spells/flower-power">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 30
+  range: 30 ft
+  duration: 2 minutes
+  cooldown: 5 hours
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: 3NDZ3Wew4EFxbcZg
+      rankThreshold: 5
+      description: '<p>Cooldown: 3 hours, Duration: 5 minutes, Range 60'' ft.</p>'
+    - id: bizLamufcuctc98u
+      rankThreshold: 10
+      description: '<p>Cooldown: 1 hours, Duration: 20 minutes, Range 100'' ft.</p>'
+    - id: WnR9bvwETZ2s04Lu
+      rankThreshold: 15
+      description: '<p>Cooldown: 30 minutes, Duration: 30 minutes, Range 200'' ft.</p>'
+flags:
+  point-mongo:
+    id: 996
+    category: spells
+    slug: flower-power
+    url: https://pointmongo.com/browse/spells/flower-power
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-10-29T04:19:44.0321915Z'
+    needsRestat: false
+    missingFields:
+      - base damage

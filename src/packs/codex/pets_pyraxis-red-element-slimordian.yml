@@ -1,0 +1,26 @@
+_id: h40VSeYRJ59ffl6e
+_key: '!journal!h40VSeYRJ59ffl6e'
+name: Pyraxis (Red Element Slimordian)
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: ede35JnAMs8MVxU1
+    _key: '!journal.pages!h40VSeYRJ59ffl6e.ede35JnAMs8MVxU1'
+    name: Pyraxis (Red Element Slimordian)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A fire-type Element Slimordian slime made of molten gel and embers that grows more aggressive the hotter it gets.</em></p><p><strong>Species:</strong> Element Slimordian (Red, Fire)</p><p>A blazing entity of molten gel and living embers, glowing orange and crimson with magma-like veins beneath its surface; flames flicker constantly from its shoulders. Grows larger and more aggressive when exposed to heat, feeding on sparks, lava, and burning materials. Abilities: fire blasts, heat aura, molten body, explosive splitting. Weaknesses: water, cold environments. Personality: aggressive, prideful, impatient.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/pets/pyraxis-red-element-slimordian">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 315
+    category: pets
+    slug: pyraxis-red-element-slimordian
+    url: https://pointmongo.com/browse/pets/pyraxis-red-element-slimordian
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - pets
+      - slime
+    updatedAt: '2026-09-02T04:50:41.7490782Z'
+    needsRestat: false
+    missingFields: []

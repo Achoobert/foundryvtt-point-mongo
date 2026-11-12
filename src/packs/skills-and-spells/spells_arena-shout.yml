@@ -1,0 +1,39 @@
+_id: jSZZVhJ2xqHOPXi5
+_key: '!items!jSZZVhJ2xqHOPXi5'
+name: Arena Shout
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>An Abjuration taunt spell scaling into a stunning, channel-interrupting effect on first-time targets.</em></p><p><strong>School:</strong> Abjuration · <strong>AoE:</strong> Visible · <strong>Duration:</strong> 1 round · <strong>Cost:</strong> 10 MP</p><p>Lv1: taunts up to Charisma-many enemies for 1 round. Lv5/10/15: taunt duration +1 round each. Lv20: first-time-taunted enemies are stunned 1 round, interrupting channeled spells.</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/arena-shout">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 379
+    category: spells
+    slug: arena-shout
+    url: https://pointmongo.com/browse/spells/arena-shout
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+      - abjuration
+    updatedAt: '2026-09-02T04:50:41.8587989Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

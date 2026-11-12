@@ -1,0 +1,19 @@
+_id: 24LiameJ79I9Erqd
+_key: '!items!24LiameJ79I9Erqd'
+name: Enchanted Chainmail Shirt of the Frost Devil
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A gleaming chainmail hauberk that makes its wearer immune to Holy damage and halves Ice damage.</em></p><p>This gleaming chainmail hauberk is enchanted to grant the wearer immunity to holy damage and resistance to Ice Damage.  It also grants +1 DR to the wearer.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Chainmail Shirt</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Immunity to Holy damage</li><li>Resistance to Ice damage</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-chainmail-shirt-of-the-frost-devil">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1033
+    category: magic-items
+    slug: enchanted-chainmail-shirt-of-the-frost-devil
+    url: https://pointmongo.com/browse/magic-items/enchanted-chainmail-shirt-of-the-frost-devil
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-01T19:31:04.6873297Z'
+    needsRestat: false
+    missingFields: []

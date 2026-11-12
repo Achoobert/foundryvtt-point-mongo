@@ -1,0 +1,26 @@
+_id: JZIH3Yf3HEbtVaIU
+_key: '!items!JZIH3Yf3HEbtVaIU'
+name: Firbolg
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>You ever heard of the term ''gentle giant''? It originated from these friendly guys, who might not hurt a fly, but are absolutely willing to hurt you if you tread on the very nature they love so much.</em></p><p>Cowlike giant-kin friend of every mushroom. Big and scary but also very friendly, who wouldn''t like a big cowperson like at that moooo face. +5 Strength, +3 Constitution, +1 DR Buff, Double manage regeneration from mending and resting without a limit. Voice of Gaia: You have the ability to communicate with Nature. Nature can understand the meaning of your words, though you have no special ability to under it in return. +3 "Detect Magic" (Just like Detect trap but with magical effects that are stationery or on mobs), +5 Step, Resistance to damage dealt by the environment (Nature), Nature Talks: You gain Advantage when using the Persuasion while talking with Plants and Beasts. Nature Talks can be raised to 20.</p><table><tbody><tr><th>DR</th><td>1</td></tr><tr><th>Rank 20</th><td>Nature Talks can be raised to Rank 20.</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Strength</li><li>+3 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Detect Magic</li></ul><p><strong>Benefits</strong></p><ul><li>Double Mana regeneration from mending and resting, without a limit.</li><li>Voice of Gaia: you can speak to Nature. It understands you, though you have no special ability to understand it in return.</li><li>+5 Step.</li><li>Resistance to damage dealt by the natural environment.</li><li>Nature Talks: Advantage on Persuasion when talking with Plants and Beasts.</li></ul><hr><p><em>Source: Valdrenik (Crawler #42366). From <a href="https://pointmongo.com/browse/races/firbolg">Point Mongo</a>.</em></p>'
+  size: ''
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 509
+    category: races
+    slug: firbolg
+    url: https://pointmongo.com/browse/races/firbolg
+    source: 'Valdrenik (Crawler #42366)'
+    tags:
+      - race
+      - races
+    updatedAt: '2026-09-02T00:47:05.0201028Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

@@ -1,0 +1,26 @@
+_id: LRow0ELWjoqWjIm1
+_key: '!journal!LRow0ELWjoqWjIm1'
+name: Bramley Coppertun
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: W039DjISskyRlYH3
+    _key: '!journal.pages!LRow0ELWjoqWjIm1.W039DjISskyRlYH3'
+    name: Bramley Coppertun
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A Dwarven distiller hauling his clan''s last cask of ancestral whiskey across the overcity, pursued by thieves and thirsty crawlers.</em></p><p><strong>Level:</strong> 50 · <strong>Race:</strong> Dwarf · <strong>Class:</strong> Distiller · <strong>Tunnel Show Title:</strong> Coppertun Run</p><p>This Dwarven distiller is attempting to cross the overcity with a wagon loaded with casks — the last remaining stock of his dwindling ancestral supply of the Clan''s whiskey distillery. Pursued by thieves, brigands, and thirsty crawlers, Bramley will offer to hire the party to escort him on his travels across the floor.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/npcs/bramley-coppertun">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 465
+    category: npcs
+    slug: bramley-coppertun
+    url: https://pointmongo.com/browse/npcs/bramley-coppertun
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - elite
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-02T04:50:44.728656Z'
+    needsRestat: false
+    missingFields: []

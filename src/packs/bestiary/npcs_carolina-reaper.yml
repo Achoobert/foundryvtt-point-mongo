@@ -1,0 +1,53 @@
+_id: pjoZF5BUI4takDDv
+_key: '!actors!pjoZF5BUI4takDDv'
+name: Carolina Reaper
+type: mob
+img: icons/svg/mystery-man.svg
+folder: qiYCTsz5olch4hb3
+system:
+  biography: '<p><strong>Missing:</strong> Level, Size, stat scores, Move, Floor (sets DR), attacks</p><p><em>A fedora-topped expedition leader who sends crawlers on a decoy mission to distract from her real target: an artifact hidden in a ruined temple.</em></p><p><strong>Tunnel Show Title:</strong> n/a</p><p>The players are out and about in the forest, they''ve entered an area that seems to be populated by primitives of some relevant race. They are fierce fighters and employ a lot of poison. They come across an encampment of "explorers" who have clearly also been in conflict with the primitives. The head of this expedition is a fedora topped lady named Carolina Reaper Lv48 Elite. She''s seeking an artifact that''s hidden in a temple in ruins that these primitives are occupying. the artifact (macguffin) is needed for her people for some reason that I''m not ready to go into you but it''s clearly also something that could be somewhat game breaking that the players would desire for themselves, this is an option to personalize things for the larger campaign/players so it can be left for the GM to fill in. She attempts to enlist the crawlers to help her delve deep into their territory to collect the artifact, what she''s really looking for a distraction, a suicide mission. Should the crawlers agree, they head out and eventually come to realize they''ve been sent to the wrong place as a distraction, If they refuse Carolina triggers a trap that knocks them all unconscious and they wake up half dead and possibly missing some gear having been teleported deep into enemy territory to provide that distraction. Something has also clearly just happened to draw the primitives to their position to fight them. The players also see they''ve lost a whole day of leveling. The Crawler''s best chance to thwart the plot is probably to go stealth rather than picking a big fight and try to beat Carolina to the artifact (because they''re absolutely want the possibly game breaking artifact) so they can be the heroes using the macguffin to do the thing and save the day. Or they can just decide to leave. Either way hopefully the situation has been dangerous enough and resource depleting enough to discourage them from even talking to the Elites when they spot them in the future.</p><table><tbody><tr><th>Elite</th><td>Yes (acts once per crawler)</td></tr></tbody></table><hr><p><em>Source: Community submission — Socks (Crawler #4381). From <a href="https://pointmongo.com/browse/npcs/carolina-reaper">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: ''
+  creatureType: ''
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Carolina Reaper
+  actorLink: false
+flags:
+  point-mongo:
+    id: 467
+    category: npcs
+    slug: carolina-reaper
+    url: https://pointmongo.com/browse/npcs/carolina-reaper
+    source: 'Community submission — Socks (Crawler #4381)'
+    tags:
+      - elite
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-22T05:37:51.1349833Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - Size
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

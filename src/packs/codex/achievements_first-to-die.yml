@@ -1,0 +1,25 @@
+_id: fNZa8nVJxaLH7kB0
+_key: '!journal!fNZa8nVJxaLH7kB0'
+name: First to Die
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: m9I8FYDvGdyVNcYX
+    _key: '!journal.pages!fNZa8nVJxaLH7kB0.m9I8FYDvGdyVNcYX'
+    name: First to Die
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered by the very first crawler death in the dungeon, granting a one-time revival as an undead race.</em></p><p><strong>Trigger:</strong> The first crawler dies in the dungeon.</p><p>The AI notes this is the first and only time a crawler will be revived from certain death.</p><p><strong>Reward:</strong> A Raised From the Dead box — the crawler becomes a randomly selected undead race (zombie, skeleton, vampire, etc.), with the option to choose a new undead race and class on reaching floor 3. They can never be fully alive again, and a second death may be permanent.</p><hr><p><em>Source: Community submission — Grognak the Barbarian (Crawler #32780). From <a href="https://pointmongo.com/browse/achievements/first-to-die">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 292
+    category: achievements
+    slug: first-to-die
+    url: https://pointmongo.com/browse/achievements/first-to-die
+    source: 'Community submission — Grognak the Barbarian (Crawler #32780)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-02T04:50:41.7006213Z'
+    needsRestat: false
+    missingFields: []

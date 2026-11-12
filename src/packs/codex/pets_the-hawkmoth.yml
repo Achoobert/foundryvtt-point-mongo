@@ -1,0 +1,25 @@
+_id: xGyCzmxUGbupmF9h
+_key: '!journal!xGyCzmxUGbupmF9h'
+name: The HawkMoth
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: a0dv11QUvarMfWr6
+    _key: '!journal.pages!xGyCzmxUGbupmF9h.a0dv11QUvarMfWr6'
+    name: The HawkMoth
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A fluffy, 7-foot moth-hawk hybrid pet with mesmerizing wing-eyes, glider capability, and a charisma-boosting cuddle buff.</em></p><p><strong>Suggested Name:</strong> n/a</p><p>This strangely fluffy and adorable lump is more giant moth, little bit hawk. Its fluffy face and furry body are cute even when it grows to its mature 7ft height. Fluttering or walking with you, the HawkMoth is great for a surprisingly good set of abilities. It''s also cuddly AF!</p><p><strong>Abilities:</strong></p><p>Mesmeric gaze from its bright blue aposematic wing ''eyes'' will charm opponents giving them the ''Huh?'' debuff as they stare at the moth.</p><p>"Shrug it off" gives a 50% chance for it and its owner to escape traps and immobilisation effects due to its slough-off-able scales.</p><p>Can be used like a glider to carry its owner across chasms or down from heights.</p><p><strong>Tough:</strong> 50% chance to simply not take damage from attacks</p><p>Tearing damage from its front hawk-like claws</p><p>"Real quiet like" gives the owner, and itself, stealth with near silent movement: requires a roll of a 20 to detect.</p><p>"IT''S SO FLUFFY I''M GONNA DIE!" Buffs anyone who spends time cuddling/petting it with +20% to charisma and removes negative emotional conditions.</p><p>WARNING! Susceptible to fire of all kinds, and must be actively commanded (use an action) by its owner to not be enthralled by light! Will sulk and has a chance to leave the owner if not cuddled sufficiently* *Of COURSE I don''t know how much ''sufficiently'' is! Get to know your own damn pet!</p><hr><p><em>Source: Community submission — K8 (Crawler #71). From <a href="https://pointmongo.com/browse/pets/the-hawkmoth">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 324
+    category: pets
+    slug: the-hawkmoth
+    url: https://pointmongo.com/browse/pets/the-hawkmoth
+    source: 'Community submission — K8 (Crawler #71)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-22T05:38:18.0719771Z'
+    needsRestat: false
+    missingFields: []

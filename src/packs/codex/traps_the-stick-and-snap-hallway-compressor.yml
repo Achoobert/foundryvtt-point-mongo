@@ -1,0 +1,25 @@
+_id: EUFCStuB3hHousJx
+_key: '!journal!EUFCStuB3hHousJx'
+name: The Stick-and-Snap Hallway Compressor
+folder: i4V5JDum8ZGrgq0L
+pages:
+  - _id: nrD1RM6mchgidHQU
+    _key: '!journal.pages!EUFCStuB3hHousJx.nrD1RM6mchgidHQU'
+    name: The Stick-and-Snap Hallway Compressor
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A velocity-triggered gum-sprayer trap that entangles fleeing crawlers in industrial-strength adhesive, complete with abrasive floor grit.</em></p><p>The Setup The trap consists of a series of high-tension, trip-wire-activated pneumatic sprayers concealed behind loose masonry or drywall. These aren''t loaded with poison; they’re loaded with several hundred gallons of "Pre-Chewed Industrial-Strength Bazooka Hubba."</p><p><strong>The Mechanics:</strong> The Velocity Trigger: This uses a Doppler-Effect Sensor. It ignores slow-moving explorers but triggers instantly when it detects anything moving at a frantic, panicked sprint. The Flash-Adhesive Blast: Upon activation, the sprayers erupt in a crossfire. This is a semi-solid, lukewarm, pink sludge with the exact consistency of gum that’s been under a middle school desk since the late eighties. The Elastic Tether: The gum is chemically engineered with Enchanted Rubber Sap. When a target hits the wall of pink goo, they sink in. As they try to pull away, the gum stretches, creating long, spindly tethers that snap back with the force of a bungee cord.</p><p>The Effects (A.K.A. Why it Sucks):</p><p>1. The Muffled Scream: The gum is specifically targeted at chest and head height. It is remarkably hard to maintain any dignity when your face is encased in a substance that smells faintly of artificial strawberry and regret.</p><p>2. The Shoe-Snatcher: Even if the target manages to tear through the first layer, the floor is coated in a Low-Viscosity Saliva Base. Every step results in an agonizing thwack-schluck sound, eventually peeling the soles right off their boots.</p><p>3. The "Student Bodies" Special: In honor of the classics, the trap includes a secondary deployment of Used Paper Clips and Pencil Shavings. These mix into the gum, turning the sticky mess into a gritty, abrasive sandpaper-from-hell.</p><p><strong>SYSTEM NOTE:</strong> Look at that. Stuck to the wall like a fly on a strip of tape. It’s pathetic. It’s sticky. It’s... actually kind of hilarious. Fifty points to the Dungeon Masochist Achievement! By the way, Carl? The AI-consultant who designed this was a twelve-year-old boy from the 1981 beta-trials. He thought it would be ''funny.'' We didn''t even have to delete him; the legal department handled it after he tried to patent the saliva-based floor lubricant. I hope his digital ghost is watching you pull your own.</p><hr><p><em>Source: Community submission — David Brookhart (Crawler #26531). From <a href="https://pointmongo.com/browse/traps/the-stick-and-snap-hallway-compressor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 366
+    category: traps
+    slug: the-stick-and-snap-hallway-compressor
+    url: https://pointmongo.com/browse/traps/the-stick-and-snap-hallway-compressor
+    source: 'Community submission — David Brookhart (Crawler #26531)'
+    tags:
+      - dcc-ccs
+      - traps
+    updatedAt: '2026-09-22T05:27:11.5099071Z'
+    needsRestat: false
+    missingFields: []

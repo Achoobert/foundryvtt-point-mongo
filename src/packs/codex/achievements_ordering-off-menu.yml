@@ -1,0 +1,23 @@
+_id: ELN73Zk0Zh6zUWCw
+_key: '!journal!ELN73Zk0Zh6zUWCw'
+name: Ordering Off-Menu
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: S2UPhfHpCtzgypMh
+    _key: '!journal.pages!ELN73Zk0Zh6zUWCw.S2UPhfHpCtzgypMh'
+    name: Ordering Off-Menu
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler invents a skill, spell or class feature that isn''t in the core book.</em></p><p>Triggered when a crawler makes up and picks a skill, spell or class feature not found in the core book.</p><p>Flavor Text: "You looked at what was offered in the rule book and thought ''I could do better!''"</p><p>Reward: Loot box, depending on how far off-menu the crawler went.</p><p>"Bold move Cotton, let''s see how this plays out..."</p><hr><p><em>Source: Community submission — badwolf.usmc. From <a href="https://pointmongo.com/browse/achievements/ordering-off-menu">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 950
+    category: achievements
+    slug: ordering-off-menu
+    url: https://pointmongo.com/browse/achievements/ordering-off-menu
+    source: Community submission — badwolf.usmc
+    tags: []
+    updatedAt: '2026-10-21T18:46:39.6422376Z'
+    needsRestat: false
+    missingFields: []

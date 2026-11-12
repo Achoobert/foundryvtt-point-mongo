@@ -1,0 +1,38 @@
+_id: Wyb89itPaFwufNEC
+_key: '!items!Wyb89itPaFwufNEC'
+name: Sea Legs
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A passive skill for handling moving, slippery, or underwater terrain with growing ease.</em></p><p><strong>Level 1:</strong> You are able to traverse moving terrain, like a moving train or sailing ship, easier.</p><p><strong>Level 5:</strong> You are now able to traverse over slippery terrain, like ice or grease, easier.</p><p><strong>Level 10:</strong> You are now completely immune to the effects of moving terrain.</p><p><strong>Level 15:</strong> You are now completely immune to the effects of slippery terrain.</p><p><strong>Level 20:</strong> You are able to traverse at normal speed if walking underwater.</p><p><strong>Submitted Back:</strong> JackWreckem (Crawler #36320)</p><p>Shieldbash</p><p><strong>Level 1:</strong> Slams the target with your shield, sending them backwards.</p><p><strong>Level 5:</strong> Deal additional damage.</p><p><strong>Level 10:</strong> Deal additional damage.</p><p><strong>Level 15:</strong> Deal additional damage.</p><p><strong>Level 20:</strong> Stun the target for 1 Round.</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/sea-legs">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 419
+    category: spells
+    slug: sea-legs
+    url: https://pointmongo.com/browse/spells/sea-legs
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+    updatedAt: '2026-09-22T05:46:52.732414Z'
+    needsRestat: false
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

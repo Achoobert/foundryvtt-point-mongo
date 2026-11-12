@@ -1,0 +1,23 @@
+_id: GbmZKyHPqWVllwa5
+_key: '!journal!GbmZKyHPqWVllwa5'
+name: Imptern
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: 1UDdpYEjpO9clLd6
+    _key: '!journal.pages!GbmZKyHPqWVllwa5.1UDdpYEjpO9clLd6'
+    name: Imptern
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A demonic little intern that shares its Mana with whoever needs it and fires off passive-aggressive emails, all for no pay.</em></p><p>This Demonic little Intern will give its all to lighten the load of its master, even though deep down it knows it''s never getting paid.</p><p>Level 15 Benefit:</p><p>Share The Workload: Can donate 1d6 of its own mana to someone else in need. Rank 5 +F to roll, Rank 10 +1d6 base, Rank 15 +1d6. Rank is Floor Number.</p><p>Passive Aggressive Email: 1d4+Int Mod Psychic Damage. Rank 5 +1d4 base, Rank 10 +F Psychic added to roll, Rank 15 +1d6. Rank is Floor Number.</p><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/pets/imptern">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1166
+    category: pets
+    slug: imptern
+    url: https://pointmongo.com/browse/pets/imptern
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.2250314Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,19 @@
+_id: R2I7WTbovRrBhX08
+_key: '!items!R2I7WTbovRrBhX08'
+name: Enchanted Pitchfork of the Humiliated Spinagon
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A Spinagon''s pitchfork, taken as a trophy and handed down to crawlers who humiliate their mobs. It casts Bang Bro.</em></p><p>Let the ass-whooping begin!</p><p>A long time ago, a small group of adventurers was tasked with traveling to a Hell dimension to seek out information. While there, a lowly Spinagon attacked the group, hoping to get the upper hand and have a nice meal. What the Spinagon didn’t know was that these adventurers were NOT as easy a mark as they looked! He got his ass handed to him heartily, and gave up the information they needed after only a few minutes of the best walloping the Nine Hells have ever seen! Even more humiliating? One of the adventurers decided to take the Spinagon’s pitchfork for himself!</p><p>Here before you is that very same pitchfork! Handed down to Crawlers who perform excessively bad-ass acts of humiliation against mobs</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Melee Weapon</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>Weapon skill</th><td>Pitchfork Skill, Javelin Skill</td></tr><tr><th>Damage type</th><td>Piercing</td></tr><tr><th>Cooldown</th><td>15</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Melee Weapon Attack</li><li>+2 to hit</li><li>Reach: 5 ft.</li><li>One target</li><li>Hit: 1d8+STR Piercing damage</li><li>Rank 5 Pitchfork Skill (Polearm skill)</li><li>Rank 5 Javelin Skill</li><li>Inherent Spell: Bang Bro (Rank 5)</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26933. From <a href="https://pointmongo.com/browse/magical-weapons/enchanted-pitchfork-of-the-humiliated-spinagon">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 857
+    category: magical-weapons
+    slug: enchanted-pitchfork-of-the-humiliated-spinagon
+    url: https://pointmongo.com/browse/magical-weapons/enchanted-pitchfork-of-the-humiliated-spinagon
+    source: 'Community submission — BlessedPsycho, Crawler #26933'
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6498638Z'
+    needsRestat: false
+    missingFields: []

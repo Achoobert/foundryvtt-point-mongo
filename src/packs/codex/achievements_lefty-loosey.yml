@@ -1,0 +1,25 @@
+_id: 6gMtbRAXlsrGxv4x
+_key: '!journal!6gMtbRAXlsrGxv4x'
+name: Lefty Loosey!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: JBhAxD6MQ1tPRc6S
+    _key: '!journal.pages!6gMtbRAXlsrGxv4x.JBhAxD6MQ1tPRc6S'
+    name: Lefty Loosey!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler correctly turns a bolt or nut in the right direction on the first try.</em></p><p><strong>Scenario:</strong> Crawler turns a nut/bolt in the correct direction</p><p>You correctly turned a fastener in the correct direction, on the very first try. Your dad would be soooo proud, too bad he''s likely dead, along with the rest of your loved ones, while you''re trapped here in this nightmare Dungeon.</p><p><strong>Suggested Rewards:</strong></p><p>A bronze loot box containing a white singlet (more commonly known in the past as a "wife beater") - +1 permanent buff to your skill rolls with tool / implement based attacks and checks.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/achievements/lefty-loosey">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 289
+    category: achievements
+    slug: lefty-loosey
+    url: https://pointmongo.com/browse/achievements/lefty-loosey
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:38:13.597335Z'
+    needsRestat: false
+    missingFields: []

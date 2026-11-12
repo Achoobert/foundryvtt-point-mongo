@@ -1,0 +1,24 @@
+_id: veocLROyJoi1E5vY
+_key: '!journal!veocLROyJoi1E5vY'
+name: I'll Get That Hedgehog
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: eGXASqrRsxSVN6YU
+    _key: '!journal.pages!veocLROyJoi1E5vY.eGXASqrRsxSVN6YU'
+    name: I'll Get That Hedgehog
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you are the only Crawler who enters the World Dungeon with a Hedgehog.</em></p><p>You are the first Crawler to bring a hedgehog into the dungeon. Why? What sort of tactical advantage do you think a hedgehog will give you? They just curl up into a ball when they feel threatened, like you did until the age of 15. Maybe that''s why you brought this cute little guy in a dangerous place like this, you feel some sort of kinship. Well, either way, it''ll be hilarious watching you try to protect it.</p><p>Reward: Legendary Pet Box</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/i-ll-get-that-hedgehog">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 568
+    category: achievements
+    slug: i-ll-get-that-hedgehog
+    url: https://pointmongo.com/browse/achievements/i-ll-get-that-hedgehog
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9283323Z'
+    needsRestat: false
+    missingFields: []

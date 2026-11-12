@@ -1,0 +1,19 @@
+_id: X6cBpiV5fsGQe5LJ
+_key: '!items!X6cBpiV5fsGQe5LJ'
+name: AMAZE AMAZE AMAZE! Patch
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A fleeting patch of a dancing rock creature in a party hat that plays music on “Amaze!” and makes its wearer nimbler and a better climber.</em></p><p>This is a Fleeting Item.</p><p>Upgrade Patch. Small.</p><p>This is a 3” patch done in a mottled brown thread with hints of green throughout the design. The design is of medium-sized rocky body, with three spider-like rocky legs, and two more hands thrown up in the “jazz hands” fashion, with three ‘fingers’ on each hand. There’s a small party hat on it’s ‘head’ as well. The patch seems to dance before you, and musical tones emit from it any time you say the word “Amaze!”</p><p>If this upgrade patch is affixed to an eligible garment, it will imbue the following upgrades:</p><p>• +3 DEX</p><p>• +2 ranks to Climbing skill</p><p>• Advantage on all DEX-related checks.</p><p>Warning: Upgrade patches are Fleeting Items. You may remove them, but they will be destroyed in the process.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Upgrade Patch</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 DEX</li><li>+2 ranks to Climbing skill</li><li>Advantage on all DEX-related checks.</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/magic-items/amaze-amaze-amaze-patch">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1049
+    category: magic-items
+    slug: amaze-amaze-amaze-patch
+    url: https://pointmongo.com/browse/magic-items/amaze-amaze-amaze-patch
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-11-04T17:26:13.581442Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,51 @@
+_id: mLUTH0maD6jRMI4b
+_key: '!actors!mLUTH0maD6jRMI4b'
+name: Overgrown Whining Carapidae
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> Level, stat scores, Floor (sets DR), attacks</p><p><em>A mutated, dog-sized Carapidae fish City Boss that whines to inflict debuffs and hides inside orifices to ambush crawlers.</em></p><p>2HD /level</p><p>1d10 bite</p><p>Hold on to your pants crawlers because this mutant Carapidae is a doozy! Sometimes evolution can lead to interesting sentient creatures, sometimes it can lead to abominations like the blobfish or this dog sized overgrown Carapidae. This carnivore fish used to love sea cucumbers but now that it''s too big for them, when it doesn''t get attention or feels threatened, it aims for you the crawlers! Unlike the infiltrator race, it can''t take over the body but will crawl up the orifice it can find and hide. And can crawl out and attack. Attacks include bites and whining. Whining can cause debuffs such as stun or dazed. Can spam attack debuffs and bites. Best to ignore. The slimy skin can also be poisonous to the touch, basically toxic and annoying all around. Weak to range. (I also suggest reading up on Carapidae)</p><hr><p><em>Source: Community submission — Otuon (Crawler #1427). From <a href="https://pointmongo.com/browse/bosses/overgrown-whining-carapidae">Point Mongo</a>.</em></p>'
+  mobTier: city
+  level: 1
+  size: Small (2)
+  creatureType: Marine
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 20
+    max: 20
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Overgrown Whining Carapidae
+  actorLink: false
+flags:
+  point-mongo:
+    id: 83
+    category: bosses
+    slug: overgrown-whining-carapidae
+    url: https://pointmongo.com/browse/bosses/overgrown-whining-carapidae
+    source: 'Community submission — Otuon (Crawler #1427)'
+    tags:
+      - dcc-ccs
+      - city-boss
+      - bosses
+    updatedAt: '2026-09-22T05:37:44.385002Z'
+    needsRestat: true
+    missingFields:
+      - Level
+      - stat scores
+      - Floor (sets DR)
+      - attacks

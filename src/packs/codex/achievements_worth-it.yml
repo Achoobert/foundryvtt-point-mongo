@@ -1,0 +1,24 @@
+_id: gZNEp4QvRHH7EuA8
+_key: '!journal!gZNEp4QvRHH7EuA8'
+name: Worth It
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: ZhfymqPeTtKMwOXK
+    _key: '!journal.pages!gZNEp4QvRHH7EuA8.ZhfymqPeTtKMwOXK'
+    name: Worth It
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you take significant damage to accomplish a clearly beneficial objective.</em></p><p>You knowingly suffered significant harm to accomplish something important.</p><p>Was it necessary? Probably not.</p><p>Was it smart? Definitely not.</p><p>Was it worth it?</p><p>The System AI has no idea. But the audience loved it.</p><p>Reward: Gold Survivor''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/worth-it">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 639
+    category: achievements
+    slug: worth-it
+    url: https://pointmongo.com/browse/achievements/worth-it
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9856745Z'
+    needsRestat: false
+    missingFields: []

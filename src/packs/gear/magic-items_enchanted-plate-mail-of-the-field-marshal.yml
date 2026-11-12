@@ -1,0 +1,19 @@
+_id: pFiYrEnJj0g3u1iF
+_key: '!items!pFiYrEnJj0g3u1iF'
+name: Enchanted Plate mail of the Field Marshal
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>The ornate breastplate of a Larracos field marshal, which resizes itself to fit any wearer and toughens them up.</em></p><p>This gleaming, ornate chest piece is part of a full set of Plate mail armor that once belonged to a Field Marshall Commander of the Forces of Larracos.  It magically adjusts its size to fit any wearer, and bestows a +4 Constitution buff, as well as +1 DR.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Platemail</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+4 Constitution</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-plate-mail-of-the-field-marshal">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1009
+    category: magic-items
+    slug: enchanted-plate-mail-of-the-field-marshal
+    url: https://pointmongo.com/browse/magic-items/enchanted-plate-mail-of-the-field-marshal
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-29T18:33:18.9729683Z'
+    needsRestat: false
+    missingFields: []

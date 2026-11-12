@@ -1,0 +1,19 @@
+_id: H7egfnghDaEFlXor
+_key: '!items!H7egfnghDaEFlXor'
+name: Gossip Girl's Drama Dagger
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A Silver dagger that crits more easily on a backstab and shouts one of the victim''s secrets whenever it draws blood.</em></p><p>This dagger just loves to spill the tea!  Don''t let it into your heart... for multiple reasons.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dagger</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr><tr><th>Damage type</th><td>Piercing</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>1d4 + Str damage (+2 backstab damage)</li><li>critical on a 19-20 when backstabbing</li><li>When this dagger causes at least 1 HB of damage, it will loudly exclaim a secret about the creature attacked.</li></ul><hr><p><em>Source: Community submission — Alex W. From <a href="https://pointmongo.com/browse/magical-weapons/gossip-girl-s-drama-dagger">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 768
+    category: magical-weapons
+    slug: gossip-girl-s-drama-dagger
+    url: https://pointmongo.com/browse/magical-weapons/gossip-girl-s-drama-dagger
+    source: Community submission — Alex W
+    tags: []
+    updatedAt: '2026-09-15T21:44:33.7120031Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,25 @@
+_id: EBvdF7I28UMAOdLI
+_key: '!journal!EBvdF7I28UMAOdLI'
+name: Pica-Boo
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 7vSF6Iuw4S60HAGe
+    _key: '!journal.pages!EBvdF7I28UMAOdLI.7vSF6Iuw4S60HAGe'
+    name: Pica-Boo
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler eats a normally inedible item, unlocking the ability to eat more of them.</em></p><p><strong>Scenario:</strong> Crawler eats an inedible item</p><p>Pica-Boo You just ate an inedible item. You took something with zero nutritional value, placed it in your mouth, and swallowed it. You don’t even have a skill that allows this! Reward: You do now! You’ve gained 5 Levels of the Pica skill. You can now eat inedible items as food. Get this skill to level 7 and you can get descriptions of these values when examining items. If you ever survive long enough to get a personal space with a food box, it will prepare non-food meals for you. Will your new skill poison you eventually and kill you? Who Knows! Better get that restroom upgrade because passing some of these things sure will hurt!</p><p><strong>Suggested Rewards:</strong></p><p>A Bronze Adventures box with a roll of 1 ply toilet paper - "Good luck with that!"</p><hr><p><em>Source: Community submission — Charles D. Parrott (Crawler #102365). From <a href="https://pointmongo.com/browse/achievements/pica-boo">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 281
+    category: achievements
+    slug: pica-boo
+    url: https://pointmongo.com/browse/achievements/pica-boo
+    source: 'Community submission — Charles D. Parrott (Crawler #102365)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:38:13.5958653Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: CO9iBGqi3D6QbcIZ
+_key: '!items!CO9iBGqi3D6QbcIZ'
+name: TV Bake Show Host
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Rogue/Bard class for the high-Charisma cook who buffs the party with food and plays to the camera.</em></p><p>This class is for the high-charisma cook who buffs their party with food and provides pithy banter for the camera.</p><table><tbody><tr><th>Prerequisites</th><td>Minimum Charisma: 10</td></tr><tr><th>Crafting table</th><td>Tier 1 Kitchen</td></tr><tr><th>Rank 20</th><td>Cooking</td></tr><tr><th>Bonus box</th><td>Silver Chef''s Kiss Box</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 CHA</li><li>+2 CON</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Cooking</li><li>+2 Iron Stomach</li><li>+1 Alchemy</li><li>+1 Smell What''s Cookin'' - Identify harvestable ingredients and reverse-engineer food buffs and debuffs.</li></ul><p><strong>Benefits</strong></p><ul><li>Hollywood Handshake - Once per scene either Call a Plan using d8''s OR remove all mental/psychic debuffs from a single target. Range: 5ft <em>(moderate)</em></li><li>May use CHA instead of INT for Cooking, Alchemy, Infuse <em>(moderate)</em></li><li>Manager <em>(major)</em></li><li>Immune to Poison <em>(extreme)</em></li></ul><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/classes/tv-bake-show-host">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Rogue/Bard
+  prerequisites: 'Minimum Charisma: 10'
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 547
+    category: classes
+    slug: tv-bake-show-host
+    url: https://pointmongo.com/browse/classes/tv-bake-show-host
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-09-28T03:33:05.8838777Z'
+    needsRestat: false
+    missingFields: []

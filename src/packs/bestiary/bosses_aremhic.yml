@@ -1,0 +1,51 @@
+_id: NuGw7kEYgtHoEMk8
+_key: '!actors!NuGw7kEYgtHoEMk8'
+name: Aremhic
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> Level, stat scores, Floor (sets DR), attacks</p><p><em>A Large Neighborhood Boss with a reptile head atop four merged, independently-controlled torsos (goat, lion, snake, eagle).</em></p><p><strong>Health:</strong> One main track, four sub-tracks. Attacks against it have an equal chance of hitting any one health track unless the attack was a Major Victory, in which case the track may be chosen. [Main body track, each torso has its own track]</p><p><strong>Appearance:</strong> Head and body of an unidentifiable reptile. Unintelligent, vacant eyes. However, body splits at the neck into multiple torsos that seem to maintain physical conformity to themselves but can merge and move through its other torsos like fluids of different densities. Torsos include goat, lion, snake, and eagle. Each torso is controlled by the primary, extremely dim-witted, head, but also each by its own blind and deaf brain. Torsos are attached at the neck and tail, but otherwise has multiple sets of limbs and spines that can co-locate. Attacks with wild, powerful abandon, but is only sometimes accurate.</p><hr><p><em>Source: Community submission — Cameronpants (Crawler #6373). From <a href="https://pointmongo.com/browse/bosses/aremhic">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 1
+  size: Large (5)
+  creatureType: Monstrosity
+  move: '10'
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Aremhic
+  actorLink: false
+flags:
+  point-mongo:
+    id: 88
+    category: bosses
+    slug: aremhic
+    url: https://pointmongo.com/browse/bosses/aremhic
+    source: 'Community submission — Cameronpants (Crawler #6373)'
+    tags:
+      - dcc-ccs
+      - neighborhood-boss
+      - bosses
+    updatedAt: '2026-09-22T05:38:11.3534321Z'
+    needsRestat: true
+    missingFields:
+      - Level
+      - stat scores
+      - Floor (sets DR)
+      - attacks

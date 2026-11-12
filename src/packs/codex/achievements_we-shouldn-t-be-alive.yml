@@ -1,0 +1,25 @@
+_id: IR2jYdTRUGziheQ6
+_key: '!journal!IR2jYdTRUGziheQ6'
+name: We Shouldn't Be Alive
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 98cShHglow2KwIsy
+    _key: '!journal.pages!IR2jYdTRUGziheQ6.98cShHglow2KwIsy'
+    name: We Shouldn't Be Alive
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when an entire party survives a boss fight with everyone down to their last health bar.</em></p><p><strong>Scenario:</strong> Survive a boss fight where everyone is alive, but everyone is at one health bar left.</p><p>You really should be dead right now. You came this close to death... BUT YOU DIDN''T DIE! You know who pulls that off, badasses or dumbasses. I can''t tell which one you are yet.</p><p><strong>Suggested Rewards:</strong></p><p>Everyone in the party receives a Platinum Survivors Box.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/achievements/we-shouldn-t-be-alive">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 297
+    category: achievements
+    slug: we-shouldn-t-be-alive
+    url: https://pointmongo.com/browse/achievements/we-shouldn-t-be-alive
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:38:13.5987362Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: 7uyii64ysluMirWB
+_key: '!items!7uyii64ysluMirWB'
+name: Dog Soldier (Dog Morph)
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A canine morph race.</em></p><p>For Tserendolgor!</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Strength</li><li>+4 Constitution</li><li>+1 Dexterity</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 to one Firearm skill</li><li>+1 Bite</li><li>+1 Endurance</li><li>+1 Running</li><li>+1 Acute Ears</li></ul><p><strong>Benefits</strong></p><ul><li>Advantage on Scent based rolls <em>(minor)</em></li><li>1 DR <em>(moderate)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/dog-soldier-dog-morph">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 522
+    category: races
+    slug: dog-soldier-dog-morph
+    url: https://pointmongo.com/browse/races/dog-soldier-dog-morph
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1534987Z'
+    needsRestat: false
+    missingFields: []

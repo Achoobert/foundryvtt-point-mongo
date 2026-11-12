@@ -1,0 +1,25 @@
+_id: l5tN6uqRWYegJyF3
+_key: '!journal!l5tN6uqRWYegJyF3'
+name: Infernal Skeletal Charger
+folder: rEMOgPJ7utWySMpl
+pages:
+  - _id: dKj5m5n79YJaHX8h
+    _key: '!journal.pages!l5tN6uqRWYegJyF3.dKj5m5n79YJaHX8h'
+    name: Infernal Skeletal Charger
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A high-tier undead, fire-breathing skeletal horse mount that trades stealth and comfort for a devastating breath attack and dread aura.</em></p><p><strong>Type:</strong> Undead / Fire-Aspected · <strong>Size:</strong> Large</p><p>Durability: High. Active — Sulphur Sneeze: blasts white-hot fire from its nasal cavity (high fire, low necrotic damage; risk of melting its own bridle). Passive — Terror Trot: hoofbeats inflict an Aura of Dread within 10 meters on low-level mobs. An elite mount for riders who find "living" horses too structurally sound — undead nature makes it terrible for stealth, and no skin makes long rides uncomfortable for everyone else nearby (it constantly smells like an active fire hazard).</p><hr><p><em>Source: Community submission — David Brookhart (Crawler #26531). From <a href="https://pointmongo.com/browse/mounts/infernal-skeletal-charger">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 270
+    category: mounts
+    slug: infernal-skeletal-charger
+    url: https://pointmongo.com/browse/mounts/infernal-skeletal-charger
+    source: 'Community submission — David Brookhart (Crawler #26531)'
+    tags:
+      - dcc-ccs
+      - mounts
+    updatedAt: '2026-09-02T04:50:41.6762172Z'
+    needsRestat: false
+    missingFields: []

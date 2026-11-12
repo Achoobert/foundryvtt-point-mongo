@@ -1,0 +1,24 @@
+_id: 50PcVQe9G0dRYwxv
+_key: '!journal!50PcVQe9G0dRYwxv'
+name: Avoided An Obvious Trap
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: Xq9rIX895oNlUkux
+    _key: '!journal.pages!50PcVQe9G0dRYwxv.Xq9rIX895oNlUkux'
+    name: Avoided An Obvious Trap
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you ignore a clearly designed obvious trap.</em></p><p>You clever little Crawler you...we placed such a delicious carrot in front of you, only for you to not eat it! I want to say well done, but it would''ve been hilarious to see you fall for such an obvious trap so....fuck you.</p><p>Reward: You''ve received a Bronze Adventurer''s Box.</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/avoided-an-obvious-trap">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 575
+    category: achievements
+    slug: avoided-an-obvious-trap
+    url: https://pointmongo.com/browse/achievements/avoided-an-obvious-trap
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9339757Z'
+    needsRestat: false
+    missingFields: []

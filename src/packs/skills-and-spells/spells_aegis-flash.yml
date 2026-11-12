@@ -1,0 +1,46 @@
+_id: aCGQU8GCDQC2AwAo
+_key: '!items!aCGQU8GCDQC2AwAo'
+name: Aegis Flash
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>An Abjuration spell that flashes light off an equipped shield to disorient enemies, scaling into a full protective shieldwall.</em></p><p><strong>Level 1:</strong> Make a flash of light erupt from your shield. The bright flash temporarily disorients enemies, and you take half damage from the next incoming attack.</p><p><strong>Level 5:</strong> Enemies who see Aegis Flash now become Blinded for 1 Round.</p><p><strong>Level 10:</strong> If an attack fails to connect after Aegis Flash is used, the attacker takes 1d6 Radiant damage.</p><p><strong>Level 15:</strong> Aegis Flash protects you from the next attack hit, absorbing it entirely.</p><p><strong>Level 20:</strong> Aegis Flash erupts to create a shieldwall of Light in front of the caster. This shieldwall will absorb the first 3 attacks, Blinding attackers.</p><table><tbody><tr><th>Base damage</th><td>None</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>You must have a Shield equipped to use this.</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/aegis-flash">Point Mongo</a>.</em></p>'
+  governingStat: con
+  manaCost: 6
+  range: 30 Feet
+  duration: Instant
+  cooldown: 1 Round
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Paladin
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: 4Oxfc9oAaHSvgMSg
+      rankThreshold: 5
+      description: <p>Enemies who are affected by Aegis Flash become Blinded for 1 Round.</p>
+    - id: Zb6j4f8fajhZQ1SW
+      rankThreshold: 10
+      description: <p>If an enemy attack fails to connect after Aegis Flash is used, the attacker takes 1d6 Holy damage.</p>
+    - id: hoBlWwgZmZPkIVnH
+      rankThreshold: 15
+      description: <p>Aegis Flash protects you from the next attack hit, absorbing it entirely. Increase the cooldown of this to 2 Rounds.</p>
+flags:
+  point-mongo:
+    id: 377
+    category: spells
+    slug: aegis-flash
+    url: https://pointmongo.com/browse/spells/aegis-flash
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+      - abjuration
+    updatedAt: '2026-09-22T05:46:52.7309934Z'
+    needsRestat: true
+    missingFields: []

@@ -1,0 +1,52 @@
+_id: CtV7WhIiCGwz1IMD
+_key: '!actors!CtV7WhIiCGwz1IMD'
+name: Virex, the Godwork Golem
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> Level, stat scores, Floor (sets DR), attacks, boss tier</p><p><em>A colossal, 40 HD Neighborhood/City-tier golem fused from shattered god-statues, cycling through six divine ''Aspects'' in combat.</em></p><p><strong>Type:</strong> Golem · <strong>Size:</strong> Colossal (46'') · <strong>HD:</strong> 40 · <strong>AC:</strong> 21 · <strong>Move:</strong> 30''/round · <strong>MP:</strong> 200 · <strong>Found on Floor:</strong> 9+</p><p>STR 28, DEX 8, CON 30, INT 14, WIS 20, CHA 18. Resists radiant/necrotic/force and nonmagical bludgeoning/piercing/slashing; immune to poison and charmed/frightened/poisoned/exhaustion. A colossal golem built from shattered god-statues, continually fusing in new divine fragments. Each round it activates a Living Pantheon aspect — War (extra attack), Sun (radiant aura), Death (damaged creatures can''t heal), Storm (chain lightning), Oracle (advantage on saves), or King (fear aura). At 75/50/25% HP it undergoes Sacred Reconstruction, healing 40 HP and gaining a new aspect (two active at once below 50%). At 0 HP it resets to 200 HP with all aspects active simultaneously. Attacks: Godstone Strike (x3, +16 to hit, 4d10+8 bludgeoning plus 3d6 radiant/necrotic), Cathedral Collapse (40-ft radius, DC23 DEX or 8d12 bludgeoning and restrained), Icon Beam (120-ft line, 10d8 radiant, DC20 CON or blinded).</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/bosses/virex-the-godwork-golem">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: Colossal (7)
+  creatureType: Golem
+  move: '30'
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Virex, the Godwork Golem
+  actorLink: false
+flags:
+  point-mongo:
+    id: 86
+    category: bosses
+    slug: virex-the-godwork-golem
+    url: https://pointmongo.com/browse/bosses/virex-the-godwork-golem
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - boss
+      - bosses
+    updatedAt: '2026-09-03T16:29:38.7310261Z'
+    needsRestat: true
+    missingFields:
+      - Level
+      - stat scores
+      - Floor (sets DR)
+      - attacks
+      - boss tier

@@ -1,0 +1,41 @@
+_id: 6OAD3DWZi2DoRuAJ
+_key: '!items!6OAD3DWZi2DoRuAJ'
+name: Flash Step
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A Passive skill ridden on top of Running that trades disadvantage on the movement check for twice your base speed in under a second.</em></p><p>Passive</p><p>You''ve seen those Japanese cartoons and then everyone started doing it. You step here and step there. It looks and feels like teleportation, it''s actually just running really really fast, without being a speedster.</p><p>Limitation: This skill is used only in Conjunction with the Running Skill. Mark this skill for advancement only when applying its ranks to such movement.</p><p>When making the movement skill check, you can add your Ranks in this skill to your Movement skill check if you choose to make the check with disadvantage.</p><p>You move 2x your base speed in less than a second. You cannot move through objects or over terrain if you could not normally.</p><p>Rank 5: Increase your base speed by +10.</p><p>Rank 10: Limitation now changes to any movement based skill.</p><p>Rank 15: You move 4x your base speed.</p><table><tbody><tr><th>Category</th><td>Passive</td></tr></tbody></table><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/skills/flash-step">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: passive
+  attackType: ''
+  isPassive: true
+  range: ''
+  cooldown: ''
+  limitations: This skill is used only in Conjunction with the Running Skill. Mark this skill for advancement only when applying its ranks to such movement. When making the movement skill check, you can add your Ranks in this skill to your Movement skill check if you choose to make the check with disadvantage.
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: Qt6sBUmRSRLwxrjm
+      rankThreshold: 5
+      description: <p>Increase your base speed by +10.</p>
+    - id: FJSuy01Ofc1LVGkA
+      rankThreshold: 10
+      description: <p>Limitation now changes to any movement based skill.</p>
+    - id: cvoTVnJt0yQiOgX0
+      rankThreshold: 15
+      description: <p>You move 4x your base speed.</p>
+flags:
+  point-mongo:
+    id: 794
+    category: skills
+    slug: flash-step
+    url: https://pointmongo.com/browse/skills/flash-step
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-09-23T01:44:35.6945534Z'
+    needsRestat: false
+    missingFields: []

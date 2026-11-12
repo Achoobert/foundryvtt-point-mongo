@@ -1,0 +1,27 @@
+_id: tS8Dvp6KDTywyVQF
+_key: '!items!tS8Dvp6KDTywyVQF'
+name: Viking Raider
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>Constitution-based Barbarian class built for brutal melee combat, pillaging, and going berserk.</em></p><p>A Constitution-based Barbarian Class</p><p>Con +3 Str +3  Int -2</p><p>The Viking Raider specializes in brutal melee combat. Experts in wielding axes, shields, and other people''s valuables, Viking Raiders are loud boisterous tanks who make their presence known to all within earshot. They''re experts in pillaging all types of environments, and withstanding some harsh temperatures wherever they go. Viking Raiders can go berserk, like your six-year-old brother who was at the peak of his sugar high, making them as lethally dangerous as they are difficult to kill.</p><p><strong>Class Benefits:</strong></p><p>Gains the Berserk spell. (Goes into a frenzy, your strength and movement speed increasing, with dexterity and constitution being halved.)</p><p>Gains the Terrifying Shout spell. (Applies fear to three enemies close to you)</p><p>Gains the Shieldbash skill. (Slams a target with your shield, sending them backwards.)</p><p>Gains the Pillage skill. (Axe-based attack where you steal gold on a successful hit.)</p><p>Gains +3 to all Axe-based skills.</p><p>Gains +3 to all Shield-based skills.</p><p>Becomes resistant to Cold.</p><p>Gains access to the Desperado Club.</p><table><tbody><tr><th>DR</th><td>0</td></tr><tr><th>Crafting table</th><td>None</td></tr><tr><th>Rank 20</th><td>None</td></tr><tr><th>Bonus box</th><td>Silver Earth Box</td></tr><tr><th>Build points</th><td>31</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Constitution (3 Points)</li><li>+3 Strength (3 Points)</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Berserk Spell (6 Points)</li><li>+3 Shield Crash and Pillage Skills (12 Points)</li><li>+2 Terrifying Shout Spell (4 Points)</li></ul><p><strong>Benefits</strong></p><ul><li>Gains access to the Desperado Club (1 Point)</li><li>Resistance to Ice damage (2 Points)</li></ul><p><strong>Detriments</strong></p><ul><li>2 Intelligence (+1 Extra Point)</li></ul><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/classes/viking-raider">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Barbarian
+    - Fighter
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 19
+    category: classes
+    slug: viking-raider
+    url: https://pointmongo.com/browse/classes/viking-raider
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - floor-class
+      - barbarian
+    updatedAt: '2026-11-11T23:34:01.6892735Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

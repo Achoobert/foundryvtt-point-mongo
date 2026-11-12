@@ -1,0 +1,24 @@
+_id: bc2cqsegyrGjabVi
+_key: '!journal!bc2cqsegyrGjabVi'
+name: What’s Behind Door Number Three?
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: MgvGn78cgTkSxhxX
+    _key: '!journal.pages!bc2cqsegyrGjabVi.MgvGn78cgTkSxhxX'
+    name: What’s Behind Door Number Three?
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you open three doors without checking what''s behind them first.</em></p><p>You opened multiple doors without bothering to determine what was on the other side first. Congratulations! Your bravery is matched only by your complete disregard for personal safety.</p><p>Reward: Bronze Lucky Bitch Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/what-s-behind-door-number-three">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 622
+    category: achievements
+    slug: what-s-behind-door-number-three
+    url: https://pointmongo.com/browse/achievements/what-s-behind-door-number-three
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9717263Z'
+    needsRestat: false
+    missingFields: []

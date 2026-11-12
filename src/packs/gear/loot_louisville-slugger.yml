@@ -1,0 +1,19 @@
+_id: kVRKB6xwVpJTiirB
+_key: '!items!kVRKB6xwVpJTiirB'
+name: Louisville Slugger
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>A hand-finished ash baseball bat from the Kentucky tradition, built to the same standard whether it meets a fastball or a skull.</em></p><p>Crafted from Northern white ash in the Kentucky tradition.  This baseball bat is hand inspected, sanded, branded, and finished.  The brand was first introduced in 1894 and endorsed by Honus Wagner in 1905.</p><p>It is a masterful piece of sporting equipment, and it will crack skulls with the same time honoured attention to quality.</p><p>Swing for the fences!</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Baseball Bat</td></tr><tr><th>Tier</th><td>Bronze</td></tr><tr><th>Weapon skill</th><td>Club</td></tr><tr><th>Damage type</th><td>Bludgeoning</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/loot/louisville-slugger">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 894
+    category: loot
+    slug: louisville-slugger
+    url: https://pointmongo.com/browse/loot/louisville-slugger
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-17T18:03:41.9691762Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,39 @@
+_id: K3PNQ51oDp3My40U
+_key: '!items!K3PNQ51oDp3My40U'
+name: Traceur / Hardcore Parkour (or Mirror's Edge)
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A passive-plus-active movement ability that dramatically improves traversal, wall-running, and fall safety.</em></p><dl class="stat-block"><dt>Type</dt><dd>Buff</dd><dt>Area of Effect</dt><dd>Caster</dd><dt>Duration</dt><dd>Constant / 30 + Int x 2 seconds when activated (cooldown: 3 minutes - Int seconds after the active ability ends)</dd><dt>Cost</dt><dd>None passively / 10 x (ability level / 2) mana when activated</dd></dl><p>This is a twofer: a passive class ability that can be activated for additional, temporary bonuses. Your ability to traverse various terrains drastically improves, and your body learns to move in new ways, including the vocabulary and ability to perform parkour vaults.</p><p><strong>Activated:</strong> The height of walls you can scale, distances you can jump, and heights from which you can safely fall are doubled.</p><ul><li>Level 5: Wall run horizontally half as far as vertically; balance and grip strength doubled. Activated: nearby useful terrain glows (visible only to you)</li><li>Level 10: Movement bonuses become permanent. Activated: bonuses triple instead of double</li><li>Level 15: Run speed doubles. Activated: a glowing line shows the most direct traversable path to your destination (NPCs, Crawlers, and Quest goals are not valid destinations)</li><li>Level 20: Bonuses permanently quadruple. Activated: slick surfaces traversed with no difficulty, and no fall damage regardless of height</li></ul><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/spells/traceur-hardcore-parkour-or-mirror-s-edge">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 28
+    category: spells
+    slug: traceur-hardcore-parkour-or-mirror-s-edge
+    url: https://pointmongo.com/browse/spells/traceur-hardcore-parkour-or-mirror-s-edge
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - ability
+      - buff
+      - movement
+    updatedAt: '2026-08-31T17:12:29.7124978Z'
+    needsRestat: false
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

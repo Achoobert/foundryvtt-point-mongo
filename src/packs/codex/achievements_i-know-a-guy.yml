@@ -1,0 +1,24 @@
+_id: oksmTOuxDDTghNGO
+_key: '!journal!oksmTOuxDDTghNGO'
+name: I Know a Guy
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: whAhDW7e4z0O9BAl
+    _key: '!journal.pages!oksmTOuxDDTghNGO.whAhDW7e4z0O9BAl'
+    name: I Know a Guy
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you use a previously encountered NPC or contact to solve a new problem.</em></p><p>You leveraged a previous relationship to solve a current problem.</p><p>Congratulations! You have discovered that NPCs are more useful when you don''t murder them immediately.</p><p>Reward: Silver Friendship Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/i-know-a-guy">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 665
+    category: achievements
+    slug: i-know-a-guy
+    url: https://pointmongo.com/browse/achievements/i-know-a-guy
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0066393Z'
+    needsRestat: false
+    missingFields: []

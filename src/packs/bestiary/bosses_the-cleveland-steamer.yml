@@ -1,0 +1,56 @@
+_id: x6NxNsrxjzay2RaE
+_key: '!actors!x6NxNsrxjzay2RaE'
+name: The Cleveland Steamer
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><em>A carpet-cleaning Neighborhood Boss (from Columbus, not Cleveland) whose acid steamer wand and leaky chemical tank can turn the whole room into a fireball.</em></p><p>Introducing the Cleveland Steamer himself! Bob Miller was a cleaning technician based out of Cleveland, but he wasn’t even from Cleveland - the Cleveland Steamer was from Columbus! Bob specialized in cleaning people’s carpets and drapes, even when they didn’t match!</p><p>Resistance: Acid (protective jumpsuit)</p><p>Notes:  If an attack with piercing damage punctures the chemical tank on his back (enough damage to lose a Health Bar slot), the chemical will begin leaking with a spray and the tank will lose some pressure (reducing his Cone reach to 10ft). Once the tank has leaked for one round, the air in the room will be saturated enough that any fire damage or open flame will ignite the area for 1d8 fire damage to everyone in the room; every additional round that passes will add 1d8 fire damage to any such explosion. The explosion will be 20ft Blast +20ft Splash, centered on him, and everyone caught in the Blast+Splash radius must make Evade check (Blast radius fail=full damage and Burned, success=half damage and not Burned; Splash radius fail=half damage and not Burned, success=damage halved again and not Burned).</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — SuperBob. From <a href="https://pointmongo.com/browse/bosses/the-cleveland-steamer">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 1
+  size: Medium (4)
+  creatureType: Human Cleaning Technician
+  move: '15'
+  hbSlotsOverride: null
+  hb:
+    value: 11
+    max: 11
+  dr: 1
+  stats:
+    str:
+      value: 6
+    dex:
+      value: 20
+    con:
+      value: 10
+    int:
+      value: 7
+    cha:
+      value: 5
+  attacks:
+    - name: Steamer Wand
+      toHit: ''
+      damage: 1d6
+      damageType: acid
+      range: 15ft Cone
+      effect: Cone range reduces to 10ft if his chemical tank is punctured and begins losing pressure.on Evade Major Fail or worse, target(s) is/are Blinded by chemical steam.
+    - name: Tropical-Scented Febreeze Bomb
+      toHit: ''
+      damage: N/A
+      damageType: ''
+      range: 30ft thrown
+      effect: 10ft Blast +10ft Splash from target, all creatures in Blast radius must make CON check vs his INT or gain Woozy Debuff.
+prototypeToken:
+  name: The Cleveland Steamer
+  actorLink: false
+flags:
+  point-mongo:
+    id: 1118
+    category: bosses
+    slug: the-cleveland-steamer
+    url: https://pointmongo.com/browse/bosses/the-cleveland-steamer
+    source: Community submission — SuperBob
+    tags: []
+    updatedAt: '2026-11-10T06:59:48.6908417Z'
+    needsRestat: false
+    missingFields: []

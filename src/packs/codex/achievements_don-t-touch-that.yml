@@ -1,0 +1,24 @@
+_id: XcsC5cXk6vCoeQ3f
+_key: '!journal!XcsC5cXk6vCoeQ3f'
+name: Don't Touch That
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: Lix2GLGaE360C5pl
+    _key: '!journal.pages!XcsC5cXk6vCoeQ3f.Lix2GLGaE360C5pl'
+    name: Don't Touch That
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you warn another crawler not to interact with something dangerous.</em></p><p>You recognized something dangerous and warned another crawler not to touch it.</p><p>The System AI would like to remind everyone that this achievement only applies to the warning.</p><p>It does not apply if you immediately touched it yourself.</p><p>Reward: Bronze Friendship Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/don-t-touch-that">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 653
+    category: achievements
+    slug: don-t-touch-that
+    url: https://pointmongo.com/browse/achievements/don-t-touch-that
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-11-11T20:08:41.5106907Z'
+    needsRestat: false
+    missingFields: []

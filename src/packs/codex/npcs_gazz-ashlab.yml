@@ -1,0 +1,26 @@
+_id: zLaW6MDXcJEAdCvQ
+_key: '!journal!zLaW6MDXcJEAdCvQ'
+name: Gazz Ashlab
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: btCrR0PUkNmzMY94
+    _key: '!journal.pages!zLaW6MDXcJEAdCvQ.btCrR0PUkNmzMY94'
+    name: Gazz Ashlab
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A disheveled, booze-soaked Gnoll lawyer whose entire strategy is bureaucratic delay — and it works.</em></p><p>Gazz graduated from a law school on some backwater planet outside the Center System that no one’s ever heard of, Gazz looks more like a drifter than an attorney. Though he can dress himself properly when needed, he rarely bothers. Reeking constantly of booze and never seen without a flask in hand, he’s dismissed by most courts the moment they hear his thick hick accent.</p><p>Despite that, he claims to get paid top dollar—and somehow, he usually does.</p><p><strong>Gazz specializes in one thing:</strong> delaying tactics. Any courtroom he steps into becomes a bureaucratic nightmare of contradictory system laws, obscure centuries-old legal precedents, procedural loopholes, and repeated interruptions to wake him up mid-hearing. Cases involving Gazz drag on for months, years, sometimes decades, until the opposing side finally caves under the mounting costs and exhaustion.</p><p>Most of his clients walk away satisfied with the concessions he squeezes out of the other side. But for the truly vindictive clients, Gazz can keep a case tied up long enough that the next generation ends up inheriting the lawsuit.</p><hr><p><em>Source: Community submission — Book (Crawler #19340). From <a href="https://pointmongo.com/browse/npcs/gazz-ashlab">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 245
+    category: npcs
+    slug: gazz-ashlab
+    url: https://pointmongo.com/browse/npcs/gazz-ashlab
+    source: 'Community submission — Book (Crawler #19340)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - lawyer
+    updatedAt: '2026-09-22T05:37:55.6360457Z'
+    needsRestat: false
+    missingFields: []

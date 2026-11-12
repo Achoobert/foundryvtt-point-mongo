@@ -1,0 +1,44 @@
+_id: GzB0EsneTev2Ujh4
+_key: '!items!GzB0EsneTev2Ujh4'
+name: Frostbite
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>An icy burst that nips at a foe, dulling their next attack and later sapping their Dexterity and freezing their feet in place.</em></p><p>There''s a nip in the air! Fling an icy burst at your foe and leave them numb in the toes.</p><p>This spell deals a small amount of ice damage and reduces the target''s next attack by 1d6, pending a failed constitution save.</p><table><tbody><tr><th>Base damage</th><td>1d4 + int</td></tr></tbody></table><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/spells/frostbite">Point Mongo</a>.</em></p>'
+  governingStat: con
+  manaCost: 12
+  range: 30 ft
+  duration: Instant
+  cooldown: 1 minute
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses:
+    - Ranger
+    - Druid
+  baseDamage:
+    dice: 1d4
+    stat: int
+    damageType: ice
+  upgrades:
+    - id: 1JRK9IqmcvgJ92Ir
+      rankThreshold: 5
+      description: <p>Reduce target's next attack roll by 2d6</p>
+    - id: U4yF4Mp0rEp0Tl9x
+      rankThreshold: 10
+      description: <p>And reduce target's dexterity by 2d6 for 1 minute.</p>
+    - id: uXTH7ucgd5p49EPX
+      rankThreshold: 15
+      description: <p>Reduce target's next attack roll by 3d6, their dexterity by 2d10 for 1 minute and freeze their feet in place until the next round of combat.</p>
+flags:
+  point-mongo:
+    id: 1131
+    category: spells
+    slug: frostbite
+    url: https://pointmongo.com/browse/spells/frostbite
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.0274623Z'
+    needsRestat: false
+    missingFields: []

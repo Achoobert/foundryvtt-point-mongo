@@ -1,0 +1,41 @@
+_id: Eyx8BdxvjqKsIh4X
+_key: '!items!Eyx8BdxvjqKsIh4X'
+name: Hot Swap Reload
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A passive skill for gunslingers who would rather swap than reload: switch weapons and the empty one comes back loaded, with Bang Bro on top.</em></p><p>For the crawler who can''t be bothered to reload. Aim. Squeeze. Swap. Repeat.</p><p>Once per combat encounter when you swap your currently held ranged weapon with an empty magazine with any weapon on your hot list, the empty weapon will automatically reload with stock ammo once you swap back to it. The ranged weapon is now ready to go and gains the L5 Bang Bro enchant. The enchant lasts until you empty the magazine or after the 5 minute timer expires, whichever occurs first.</p><table><tbody><tr><th>Category</th><td>Passive</td></tr></tbody></table><hr><p><em>Source: Community submission — Chillboswaggins. From <a href="https://pointmongo.com/browse/skills/hot-swap-reload">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: passive
+  attackType: ''
+  isPassive: true
+  range: ''
+  cooldown: ''
+  limitations: Available for Rank up when achieving an amazing success roll while Bang Bro enchant is active.
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: KPYZvL5iLVTs8EfK
+      rankThreshold: 5
+      description: <p>Gain 1 additional weapon swap per combat encounter.</p>
+    - id: nAkPBpKNiQvx6Bbe
+      rankThreshold: 10
+      description: <p>Ranged weapons now reload with whichever ammo type was loaded into the magazine originally. The weapon now gains the L10 Bang Bro enchant after the swap.</p>
+    - id: lnwEVBRxQCjyQshk
+      rankThreshold: 15
+      description: <p>Gain 2 additional weapon swaps per combat encounter and the L10 Bang Bro enchant gains the Shocked debuff on an amazing success role.</p>
+flags:
+  point-mongo:
+    id: 1063
+    category: skills
+    slug: hot-swap-reload
+    url: https://pointmongo.com/browse/skills/hot-swap-reload
+    source: Community submission — Chillboswaggins
+    tags: []
+    updatedAt: '2026-11-06T06:15:09.4418444Z'
+    needsRestat: false
+    missingFields: []

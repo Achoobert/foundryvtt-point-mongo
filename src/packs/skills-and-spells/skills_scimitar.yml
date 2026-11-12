@@ -1,0 +1,41 @@
+_id: vW5inD17da4fnT3b
+_key: '!items!vW5inD17da4fnT3b'
+name: Scimitar
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A DEX melee skill for the curved scimitar, a finesse blade that ends in a better Evade.</em></p><p>This skill governs the use of the single edged, curving swords known as scimitars.  Best known as the favoured weapons of Drow Rangers, and Arabian genies, scimitars are a finesse weapon which rely on dexterity rather than strength for their damage output.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d8+DEX</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/skills/scimitar">Point Mongo</a>.</em></p>'
+  governingStat: dex
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: 5ft
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: 1d8
+    stat: dex
+    damageType: slashing
+  upgrades:
+    - id: AZ1fCRHpfqqBLSAd
+      rankThreshold: 5
+      description: <p>+1d8 base dmg</p>
+    - id: Sb5Z1Ea16iwbdAR9
+      rankThreshold: 10
+      description: <p>+1d8 base dmg</p>
+    - id: S9jpVlmW9iu6gEJB
+      rankThreshold: 15
+      description: <p>+1d8 base dmg, and you gain a +1 Evade Buff</p>
+flags:
+  point-mongo:
+    id: 994
+    category: skills
+    slug: scimitar
+    url: https://pointmongo.com/browse/skills/scimitar
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-29T04:19:43.9411601Z'
+    needsRestat: false
+    missingFields: []

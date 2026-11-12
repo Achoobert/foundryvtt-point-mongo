@@ -1,0 +1,23 @@
+_id: 33aaZgYeGt9rzOyv
+_key: '!items!33aaZgYeGt9rzOyv'
+name: Biker Knight from Mars - Pennsylvania
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter class that trades the knight''s steed for a faithful chopper.</em></p><p>A knight in the streets. You ride no steed. A faithful chopper underneath. I think this rhyming is beneath (me).</p><table><tbody><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Strength</li><li>+2 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Chopper Driving</li><li>+2 Repair</li><li>+2 Lance Skill</li></ul><p><strong>Benefits</strong></p><ul><li>May wield a Lance while driving a 2-wheeled vehicle <em>(minor)</em></li><li>Vehicle size and movement work as a Mount on Lance Skill advancement Ranks <em>(moderate)</em></li><li>Gain Popularity  while performing Combat Driving Stunts <em>(moderate)</em></li><li>Adds 1d4 to Evade checks while Riding/Mounting <em>(major)</em></li><li>Resistance to physical dmg on Ramming action <em>(major)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/biker-knight-from-mars-pennsylvania">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 526
+    category: classes
+    slug: biker-knight-from-mars-pennsylvania
+    url: https://pointmongo.com/browse/classes/biker-knight-from-mars-pennsylvania
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.606855Z'
+    needsRestat: false
+    missingFields: []

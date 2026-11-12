@@ -1,0 +1,24 @@
+_id: NQhXS3kWBfuLojl0
+_key: '!journal!NQhXS3kWBfuLojl0'
+name: Spare Change
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: OBnCcaaGY0jeCjcu
+    _key: '!journal.pages!NQhXS3kWBfuLojl0.OBnCcaaGY0jeCjcu'
+    name: Spare Change
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you give some of your hard-looted gold to another crawler for no strategic reason whatsoever.</em></p><p>You just handed over gold you bled for to someone else, out of the sheer goodness of your heart. Adorable. Financially inexplicable, but adorable. Try to hang onto this one a little longer, would you?</p><p>Reward: Bronze Bleeding Heart Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/spare-change">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 694
+    category: achievements
+    slug: spare-change
+    url: https://pointmongo.com/browse/achievements/spare-change
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0307164Z'
+    needsRestat: false
+    missingFields: []

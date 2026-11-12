@@ -1,0 +1,23 @@
+_id: vLABSWOLMjyuqZYh
+_key: '!items!vLABSWOLMjyuqZYh'
+name: Swinging Vine Bracelets
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A matching bracelet pair that shoots vines to swing through trees, granting a level-5 Tarzan skill.</em></p><p><strong>Type:</strong> Bracelets (matching pair)</p><p>Shoot vines that grasp distant tree limbs, letting the wearer swing through the trees. Grants a level-5 Tarzan skill.</p><table><tbody><tr><th>Type</th><td>Bracelets</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magical-jewelry/swinging-vine-bracelets">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 211
+    category: magical-jewelry
+    slug: swinging-vine-bracelets
+    url: https://pointmongo.com/browse/magical-jewelry/swinging-vine-bracelets
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magical-jewelry
+    updatedAt: '2026-09-03T16:29:38.8977723Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

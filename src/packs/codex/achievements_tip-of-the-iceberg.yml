@@ -1,0 +1,24 @@
+_id: bSlGdYZo5QCBRSe2
+_key: '!journal!bSlGdYZo5QCBRSe2'
+name: Tip of the Iceberg
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: ySIgXKNZ9TZuIyUV
+    _key: '!journal.pages!bSlGdYZo5QCBRSe2.ySIgXKNZ9TZuIyUV'
+    name: Tip of the Iceberg
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you discover a Reward Room.</em></p><p>You found one of the good rooms — the kind with actual choices in it instead of things trying to kill you. Choose wisely. Or don''t. Watching you agonize over it is half the fun. This is as close to a vacation as the Second Floor gets.</p><p>Reward: Silver Finders Keepers Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/tip-of-the-iceberg">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 700
+    category: achievements
+    slug: tip-of-the-iceberg
+    url: https://pointmongo.com/browse/achievements/tip-of-the-iceberg
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0356668Z'
+    needsRestat: false
+    missingFields: []

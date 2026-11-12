@@ -1,0 +1,26 @@
+_id: Xf8siW13Tg64i0IK
+_key: '!journal!Xf8siW13Tg64i0IK'
+name: The Ant Farm
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: fwQqPTav3iMepnIc
+    _key: '!journal.pages!Xf8siW13Tg64i0IK.fwQqPTav3iMepnIc'
+    name: The Ant Farm
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A literal ant farm brought into the dungeon, with hundreds of ants each possibly transformed differently.</em></p><dl class="stat-block"><dt>Species</dt><dd>Ants</dd><dt>Stats</dt><dd>Level 1</dd></dl><p>What would happen if a crawler brought in one of those glass-box ant farms? Breaking up the Legendary Pet Biscuit into crumbs and letting them out could yield hundreds, if not thousands, of different outcomes. Even if only a couple underwent a change, they would be a force to be reckoned with.</p><p><strong>Changes after entering the Dungeon:</strong> Possibilities include massive growth and increased intelligence, including the ability to follow simple commands.</p><hr><p><em>Source: Community submission — Ian O''H (Crawler #4207). From <a href="https://pointmongo.com/browse/pets/the-ant-farm">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 37
+    category: pets
+    slug: the-ant-farm
+    url: https://pointmongo.com/browse/pets/the-ant-farm
+    source: 'Community submission — Ian O''H (Crawler #4207)'
+    tags:
+      - animal-companion
+      - pet
+      - ants
+    updatedAt: '2026-08-31T17:12:29.7286767Z'
+    needsRestat: false
+    missingFields: []

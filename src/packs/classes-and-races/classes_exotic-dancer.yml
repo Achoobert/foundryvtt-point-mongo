@@ -1,0 +1,27 @@
+_id: zrJwszCuyyzjDbGt
+_key: '!items!zrJwszCuyyzjDbGt'
+name: Exotic Dancer
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> benefits</p><p><em>This rather unique class is sure to get their rocks off while knocking a few blocks off.</em></p><p><strong>Type:</strong> Bard/Monk melee and performance class. Stat Bonuses: +2 to DEX, +2 to CHA.  Stat Penalties: -1 to INT, -2 to CON. Class Benefits: Instant access to the Desperado Club, BItches, and Penis Parade. Access to job opportunities in Bitches and Penis Parade. Subclass: Reaching the sixth floor, three paths open for the Exotic Dancer class: 1) Way of the Glass Heal: Provides access to the Dancer''s Studio, grants the "Sturdy" passive which prevents stagger and the "Cat''s Grace" passive, which prevents fall damage and allows the user to land on their feet every time. 2) Way of the Club Waitress: Provides access to the Advanced Apothecary, grants the "Potioneer''s Intuition." passive which grants +1 INT and the "Bartender''s Guide" skill which increases buffs of crafted potions and decreases the toxicity time between potions. 3) Way of the Backroom Whore: Provides access to the Campagne Bedroom, grants the "Venereal Dancer" passive which grants the poison debuff "Triple Enthusiastic Gonorrhea" on hit and the "Babylon''s Bottom Bitch" passive which grants +1 CON. Gear for the Exotic Dancer class include: Tiny cowboy hats, furred crop jackets, bustiers, nylon stockings, chaps, thong undergarments, glass footwear, nipple rings, body glitter kit, collapsible dance pole, and unarmed technique books.</p><p><strong>Stat bonuses</strong></p><ul><li>+2 Dexterity</li><li>+2 Charisma</li></ul><p><strong>Detriments</strong></p><ul><li>-1 Intelligence.</li><li>-2 Constitution.</li></ul><hr><p><em>Source: Sugar Dazzlethighs (Crawler #12765). From <a href="https://pointmongo.com/browse/classes/exotic-dancer">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Bard
+    - Monk
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 480
+    category: classes
+    slug: exotic-dancer
+    url: https://pointmongo.com/browse/classes/exotic-dancer
+    source: 'Sugar Dazzlethighs (Crawler #12765)'
+    tags:
+      - class
+      - classes
+    updatedAt: '2026-09-02T00:47:04.9202116Z'
+    needsRestat: true
+    missingFields:
+      - benefits

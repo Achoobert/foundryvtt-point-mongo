@@ -1,0 +1,24 @@
+_id: fPsbOiTKhor9jjhU
+_key: '!items!fPsbOiTKhor9jjhU'
+name: The Choir of Silent Stars
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A cluster of silently-humming orbiting lights granting passive stealth and a radius-silencing pulse.</em></p><p><strong>Type:</strong> Celestial Accessory</p><p>Tiny orbiting lights that hum without sound. Grants passive stealth — enemies "forget" the wearer exists if they hold still — plus a pulse that silences all abilities in a radius, and dramatically boosts illusion and disguise effects.</p><table><tbody><tr><th>Type</th><td>Accessory</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/loot/the-choir-of-silent-stars">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 143
+    category: loot
+    slug: the-choir-of-silent-stars
+    url: https://pointmongo.com/browse/loot/the-choir-of-silent-stars
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-09-03T16:29:38.8277258Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

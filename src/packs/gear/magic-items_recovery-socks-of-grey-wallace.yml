@@ -1,0 +1,19 @@
+_id: 1lfJdmHAM2k5GGqJ
+_key: '!items!1lfJdmHAM2k5GGqJ'
+name: Recovery Socks of Grey Wallace
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Buttery-soft heritage wool socks that heal you to full once a floor and know their First Aid.</em></p><p>This pair of grey woolen socks is widely recognized for its rugged durability and distinctive heritage look.  The white heel and toe caps are accented by a red band at the ankle.</p><p>These buttery soft foot coverings grant grant the wearer the Recovery Buff (Restores the Crawler to full Health once/ floor).</p><p>They also grant 3x Levels in the First Aid Skill. CRB Pg 192.</p><table><tbody><tr><th>Slot</th><td>Feet</td></tr><tr><th>Type</th><td>Socks</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Cooldown</th><td>1/ Floor</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Grants the Recovery Buff (Restores the wearer to full health once / floor).</li><li>Grants +3 Levels in the First Aid Skill. CRB Pg 192</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/recovery-socks-of-grey-wallace">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 934
+    category: magic-items
+    slug: recovery-socks-of-grey-wallace
+    url: https://pointmongo.com/browse/magic-items/recovery-socks-of-grey-wallace
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-18T05:39:22.9616711Z'
+    needsRestat: false
+    missingFields: []

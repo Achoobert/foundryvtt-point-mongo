@@ -1,0 +1,24 @@
+_id: aiRBeTTCdt1bkBqU
+_key: '!journal!aiRBeTTCdt1bkBqU'
+name: There’s Always Something Under the Bed
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: MkzbrXpjTofW0K4T
+    _key: '!journal.pages!aiRBeTTCdt1bkBqU.MkzbrXpjTofW0K4T'
+    name: There’s Always Something Under the Bed
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you search an obvious hiding place and discover something.</em></p><p>You searched an obvious hiding place and actually found something. Somewhere, a dungeon designer is smiling because you finally checked the damn thing.</p><p>Reward: Bronze Looter Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/there-s-always-something-under-the-bed">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 601
+    category: achievements
+    slug: there-s-always-something-under-the-bed
+    url: https://pointmongo.com/browse/achievements/there-s-always-something-under-the-bed
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9547074Z'
+    needsRestat: false
+    missingFields: []

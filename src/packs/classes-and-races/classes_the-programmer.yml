@@ -1,0 +1,27 @@
+_id: UuFWUTQAJPddntoM
+_key: '!items!UuFWUTQAJPddntoM'
+name: The Programmer
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>Intelligence-based Warlock whose patron is a vast computational intelligence beyond reality.</em></p><dl class="stat-block"><dt>Type</dt><dd>Warlock</dd><dt>Stat Bonus</dt><dd>Int +2</dd></dl><p>An Intelligence-based Warlock class whose patron is not a god, fiend, or cosmic horror — but a vast, incomprehensible computational intelligence beyond reality. Programmers do not pray; they submit requests. Their "magic" manifests as command execution, runtime manipulation, recursive curses, and reality patches issued by entities known only as The System AI, The Source, The Machine God, or The Black Terminal.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/classes/the-programmer">Point Mongo</a>.</em></p>'
+  classTypes: []
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 17
+    category: classes
+    slug: the-programmer
+    url: https://pointmongo.com/browse/classes/the-programmer
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - floor-class
+      - warlock
+    updatedAt: '2026-08-31T17:12:29.6167887Z'
+    needsRestat: false
+    missingFields:
+      - stat bonuses
+      - benefits
+      - Build Point costs

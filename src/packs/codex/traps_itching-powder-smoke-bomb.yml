@@ -1,0 +1,25 @@
+_id: dUb5fI93iQAI6LD1
+_key: '!journal!dUb5fI93iQAI6LD1'
+name: Itching Powder Smoke Bomb
+folder: i4V5JDum8ZGrgq0L
+pages:
+  - _id: cqeuxBgAwxrYa0az
+    _key: '!journal.pages!dUb5fI93iQAI6LD1.cqeuxBgAwxrYa0az'
+    name: Itching Powder Smoke Bomb
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A smoke bomb that deals no damage but inflicts maddening, uncontrollable itching.</em></p><p>Deals no damage, but afflicts the target with itching so severe it can drive them mad.</p><hr><p><em>Source: Community submission — Evilranma42 (Crawler #457). From <a href="https://pointmongo.com/browse/traps/itching-powder-smoke-bomb">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 363
+    category: traps
+    slug: itching-powder-smoke-bomb
+    url: https://pointmongo.com/browse/traps/itching-powder-smoke-bomb
+    source: 'Community submission — Evilranma42 (Crawler #457)'
+    tags:
+      - dcc-ccs
+      - traps
+    updatedAt: '2026-09-02T04:50:41.8280244Z'
+    needsRestat: false
+    missingFields: []

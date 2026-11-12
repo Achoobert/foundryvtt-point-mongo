@@ -1,0 +1,23 @@
+_id: eLtmFh1uQlO8AGxX
+_key: '!items!eLtmFh1uQlO8AGxX'
+name: Swiss Army Knight
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter who refuses to specialise, and hits harder the more weapons they know equally well.</em></p><p>Why corner yourself with one means od mayhem when you can have all (or at least most) of them? Feels good to have options</p><table><tbody><tr><th>Prerequisites</th><td>you must be Rank 5 in at least 3 weapons to take this Class</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Strength</li><li>+3 Constitution</li><li>+3 Dexterity</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Attack of Opportunity</li><li>+1 Double Tap</li><li>+1 Bang Bro</li></ul><p><strong>Benefits</strong></p><ul><li>At the end of each floor, add 1 to your Skill Advancement Checks to all Weapon Skills <em>(major)</em></li><li>Add rank die to all your damage equal to the number of Weapon skills you know at Rank 5 <em>(epic)</em></li><li>You gain +1 to all Weapon Skills you already have at least 1 rank with (6pts) <em>(epic)</em></li></ul><p><strong>Detriments</strong></p><ul><li>You deal F less damage with all Weapon Skills if you have one Weapon Skill at a higher rank than all the others. <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/swiss-army-knight">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter
+  prerequisites: you must be Rank 5 in at least 3 weapons to take this Class
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 824
+    category: classes
+    slug: swiss-army-knight
+    url: https://pointmongo.com/browse/classes/swiss-army-knight
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-28T03:33:05.8806677Z'
+    needsRestat: false
+    missingFields: []

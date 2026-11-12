@@ -1,0 +1,83 @@
+_id: MOCe43T841wQr3Ip
+_key: '!actors!MOCe43T841wQr3Ip'
+name: Talok
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><em>A three-headed demon let out of the Nothing, twice as angry as its clutchmate and untouchable by anything that isn''t magic.</em></p><p>Access to all spells at Level 15</p><p>Released from the Nothing by The Gate of the Feral Gods, Talok is a Feral Chimera Demon. Standing 30'' tall, this heavily muscled, bipedal, bat winged demon has 3 heads like the creature of legend: A flame breathing Lion, a madness inducing Goat, and an acid spitting snake. It walks on cloven hooves, and has two clawed arms which also allows it to wield It''s massive morning star. It''s Feral nature doubles its rage and destructive capability.</p><p>All Chimera Demons are Immune to all Elemental attacks and all non-magical physical attacks.</p><p>I''m Melting Debuff: Crawlers afflicted will suffer 3d4+F dmg /round until the acid is removed, or they are a steaming puddle.</p><p>Talok''s clutchmate Varnath can be found elsewhere in the Dungeon as a City Boss, and if the two were ever to meet, they would attempt to kill each other on sight.</p><table><tbody><tr><th>Floor</th><td>5</td></tr><tr><th>Elite</th><td>Yes (acts once per crawler)</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/bosses/talok">Point Mongo</a>.</em></p>'
+  mobTier: floor
+  level: 60
+  size: Colossal (7)
+  creatureType: Demon
+  move: '40'
+  hbSlotsOverride: null
+  hb:
+    value: 45
+    max: 45
+  dr: 5
+  stats:
+    str:
+      value: 185
+    dex:
+      value: 70
+    con:
+      value: 180
+    int:
+      value: 125
+    cha:
+      value: 65
+  attacks:
+    - name: Lion Flame Breath Weapon
+      toHit: ''
+      damage: 7d6+Fx2
+      damageType: ''
+      range: 30ft cone
+      effect: 18+Fx2 to Evade.
+    - name: Hell Goat's Gaze
+      toHit: ''
+      damage: N/A
+      damageType: ''
+      range: ''
+      effect: 17+F to Evade. Inflicts the Terrified Debuff.
+    - name: Viper's Venom Spray
+      toHit: ''
+      damage: 7d4+Fx2
+      damageType: ''
+      range: ''
+      effect: 18+Fx2 to Evade. Inflicts the "I'm melting" Debuff.
+    - name: Stomp
+      toHit: ''
+      damage: 7d10+Fx2
+      damageType: bludgeoning
+      range: 10ft
+      effect: 18+Fx2 to Evade. Inflicts the Stunned Debuff.
+    - name: Morning Star
+      toHit: ''
+      damage: 7d8+9+Fx2
+      damageType: bludgeoning
+      range: 10ft
+      effect: 18+Fx2 to Evade.
+    - name: Tail Thrash
+      toHit: ''
+      damage: 7d8+9+Fx2
+      damageType: bludgeoning
+      range: 15ft
+      effect: 18+F to Evade. On a Evade major fail or worse, the crawler gains the Take Down Debuff.
+prototypeToken:
+  name: Talok
+  actorLink: false
+flags:
+  point-mongo:
+    id: 87
+    category: bosses
+    slug: talok
+    url: https://pointmongo.com/browse/bosses/talok
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - floor-boss
+      - bosses
+    updatedAt: '2026-10-01T15:03:07.7538479Z'
+    needsRestat: false
+    missingFields: []

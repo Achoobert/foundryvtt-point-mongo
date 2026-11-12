@@ -1,0 +1,25 @@
+_id: ii25Ky3QCcw1UcOX
+_key: '!items!ii25Ky3QCcw1UcOX'
+name: Hat of Hypocrisy
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A stylish top hat that grants +10 to all stats, but drains half your life every time you act against something you''ve criticized.</em></p><p><strong>Type:</strong> Cursed Hat</p><p>A traditional-looking top hat granting +10 to all stats while worn. But every time the wearer does something they''ve moaned about or criticized since entering the dungeon, they lose 50% of their life and can''t heal until they rest — an effect that lingers as long as the hat is merely in their possession, even unworn.</p><table><tbody><tr><th>Type</th><td>Hat</td></tr></tbody></table><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/loot/hat-of-hypocrisy">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 157
+    category: loot
+    slug: hat-of-hypocrisy
+    url: https://pointmongo.com/browse/loot/hat-of-hypocrisy
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - loot
+      - cursed
+      - headwear
+    updatedAt: '2026-09-03T16:29:38.821364Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

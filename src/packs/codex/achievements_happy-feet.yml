@@ -1,0 +1,25 @@
+_id: B8uZ6CTijdpXEOPi
+_key: '!journal!B8uZ6CTijdpXEOPi'
+name: Happy Feet
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: j6xefxmN8jigzvJa
+    _key: '!journal.pages!B8uZ6CTijdpXEOPi.j6xefxmN8jigzvJa'
+    name: Happy Feet
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler enters the dungeon with a liberated waddle of penguins, who immediately slide to their doom.</em></p><p><strong>Scenario:</strong> Crawler enters the Dungeon with a Waddle of Penguins</p><p>Congratulations Crawler - You successfully liberated a Waddle of Penguins from their enclosure at the San Diego Zoo just moments before The Collapse. How brave. Too bad that they all immediately slid directly down the icy steps into the open maw of the Dungeon. Seems like maybe your "good deed" was always more about you, then about the peeeen-quuuins (The last line is Spoken in by Benedict Cumberbatch.)</p><p><strong>Suggested Rewards:</strong></p><p>You get a Bronze Worst Intentions Box.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/achievements/happy-feet">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 282
+    category: achievements
+    slug: happy-feet
+    url: https://pointmongo.com/browse/achievements/happy-feet
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-11-11T20:08:41.5112326Z'
+    needsRestat: false
+    missingFields: []

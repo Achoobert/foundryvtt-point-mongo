@@ -1,0 +1,24 @@
+_id: EEPMVIKGMMwuiebX
+_key: '!journal!EEPMVIKGMMwuiebX'
+name: That Wasn't Supposed to Happen
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: p5J1kiSmRbo1ZlGO
+    _key: '!journal.pages!EEPMVIKGMMwuiebX.p5J1kiSmRbo1ZlGO'
+    name: That Wasn't Supposed to Happen
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you cause an unexpected interaction between two unrelated dungeon elements.</em></p><p>You combined two things that were never intended to interact.</p><p>The resulting effect was completely unexpected.</p><p>The System AI would like to remind you that it is not responsible for what happens next.</p><p>Reward: Gold Chaos Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/that-wasn-t-supposed-to-happen">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 675
+    category: achievements
+    slug: that-wasn-t-supposed-to-happen
+    url: https://pointmongo.com/browse/achievements/that-wasn-t-supposed-to-happen
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.01556Z'
+    needsRestat: false
+    missingFields: []

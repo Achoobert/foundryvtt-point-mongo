@@ -1,0 +1,24 @@
+_id: L8tw71tiOvmzpxmq
+_key: '!journal!L8tw71tiOvmzpxmq'
+name: That's Above My Pay Grade
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: SBQVmpP4PtSXQdMi
+    _key: '!journal.pages!L8tw71tiOvmzpxmq.SBQVmpP4PtSXQdMi'
+    name: That's Above My Pay Grade
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you encounter a threat clearly beyond the party''s current ability and successfully escape.</em></p><p>You correctly determined that fighting something would be a terrible idea.</p><p>Then you left.</p><p>Congratulations! Running away is apparently a survival skill.</p><p>Reward: Silver Survivor''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/that-s-above-my-pay-grade">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 670
+    category: achievements
+    slug: that-s-above-my-pay-grade
+    url: https://pointmongo.com/browse/achievements/that-s-above-my-pay-grade
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.011416Z'
+    needsRestat: false
+    missingFields: []

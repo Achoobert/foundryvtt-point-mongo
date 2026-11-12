@@ -1,0 +1,19 @@
+_id: 1N1E8l8q8eAP6L84
+_key: '!items!1N1E8l8q8eAP6L84'
+name: Enchanted Toe Ring of Seeking
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A resizing toe ring that keeps your Mana flowing with Replenish and helps you track down other crawlers.</em></p><p>This bronze toe ring will magically resize to fit on any crawler.  When equipped it grants Replenish, and +3 to the Find Crawler Skill.  The system AI is intrigued by your blatant attempts to capture its attention you shameless little hussy...time will tell if that is a good thing for you or not.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Replenish Buff</li><li>+3 Find Crawler Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-seeking">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1123
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-seeking
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-seeking
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6426421Z'
+    needsRestat: false
+    missingFields: []

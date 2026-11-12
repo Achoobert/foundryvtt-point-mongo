@@ -1,0 +1,23 @@
+_id: W5lxovdMwIThJBBY
+_key: '!items!W5lxovdMwIThJBBY'
+name: Charm Bracelet of Helpfulness
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A silver bracelet holding 18 removable charms, each transforming into an instantly usable Spell Scroll.</em></p><p>A beautiful charm bracelet made of silver. This beautifully crafted bracelet holds 18 charms: 3 each of 6 different charms. Each charm represents a different Spell Scroll.</p><p>Use an Action to remove one of these charms, which will make the charm transform into an instantly usable Spell Scroll.</p><p>1-Star Charm</p><p>2-Teddy Bear Charm</p><p>3-Key Charm</p><p>4-Crown Charm</p><p>5-Moon Charm</p><p>6-Rainbow Charm</p><p><strong>Note:</strong> And it''s highly customizable, too! You can change what charms are on the bracelet, and which spell scrolls you choose to have each charm represent. You could even have your Crawlers be able to purchase new Spell Scroll Charms at different vendors in your dungeon to replenish the bracelet''s used charms!</p><table><tbody><tr><th>Type</th><td>Bracelet Holds</td></tr></tbody></table><hr><p><em>Source: Community submission — Myles L (Crawler #26933). From <a href="https://pointmongo.com/browse/magical-jewelry/charm-bracelet-of-helpfulness">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 200
+    category: magical-jewelry
+    slug: charm-bracelet-of-helpfulness
+    url: https://pointmongo.com/browse/magical-jewelry/charm-bracelet-of-helpfulness
+    source: 'Community submission — Myles L (Crawler #26933)'
+    tags:
+      - dcc-ccs
+      - magical-jewelry
+    updatedAt: '2026-09-22T05:38:02.3699883Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

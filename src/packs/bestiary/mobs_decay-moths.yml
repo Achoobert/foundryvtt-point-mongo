@@ -1,0 +1,52 @@
+_id: mg9dQTgXdDEWIGF6
+_key: '!actors!mg9dQTgXdDEWIGF6'
+name: Decay Moths
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>Tiny 1-HP moths that eat through armor over time, forcing gear to fall out of inventory once damaged enough.</em></p><p>Ordinary-looking moths that gradually eat through armor if not dealt with (can only be fixed in safe rooms). The <strong>Pocket Full of Holes</strong> debuff causes random inventory items to fall out until armor is re-equipped — dangerous if you’re carrying something volatile.</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — Ian O''H (Crawler #4207). From <a href="https://pointmongo.com/browse/mobs/decay-moths">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: Tiny (1)
+  creatureType: Animal
+  move: '15'
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 1
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 4
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks:
+    - name: Decay
+      toHit: ''
+      damage: 1d2+1
+      damageType: ''
+      range: ''
+      effect: Pocket Full of Holes Debuff - See Description
+prototypeToken:
+  name: Decay Moths
+  actorLink: false
+flags:
+  point-mongo:
+    id: 104
+    category: mobs
+    slug: decay-moths
+    url: https://pointmongo.com/browse/mobs/decay-moths
+    source: 'Community submission — Ian O''H (Crawler #4207)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-22T01:07:36.1058282Z'
+    needsRestat: false
+    missingFields: []

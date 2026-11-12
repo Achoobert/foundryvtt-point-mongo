@@ -1,0 +1,25 @@
+_id: 9KNO7mHCWi0013em
+_key: '!items!9KNO7mHCWi0013em'
+name: Cometshard Shiv
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects, weapon skill</p><p><em>A comet-core blade whose backstabs deal cosmic burn over time and whose critical hits create a brief zero-gravity field.</em></p><p><strong>Type:</strong> Celestial Weapon</p><p>A jagged blade forged from a fallen comet''s core, trailing stardust with every swing. Backstabs deal bonus cosmic burn damage over time; critical hits create a brief zero-gravity field around the target. Can be thrown once per encounter, returning like a meteor strike.</p><table><tbody><tr><th>Type</th><td>Weapon</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/loot/cometshard-shiv">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 128
+    category: loot
+    slug: cometshard-shiv
+    url: https://pointmongo.com/browse/loot/cometshard-shiv
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-09-03T16:29:38.8187713Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects
+      - weapon skill

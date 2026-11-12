@@ -1,0 +1,25 @@
+_id: yC7a8JZs2Jfk4GfG
+_key: '!items!yC7a8JZs2Jfk4GfG'
+name: Stab Vest of HyperMasculinity
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>Immune to non-magical piercing attacks, but the odor takes a serious toll on charisma.</em></p><dl class="stat-block"><dt>Type</dt><dd>Chest Armor</dd><dt>AC Bonus</dt><dd>See Description</dd></dl><p>Wearer''s torso is immune to non-magical piercing attacks. Smells of bad body odor (-5 charisma). 10% chance of causing the wearer to go berserk with every deflected stab.</p><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/loot/stab-vest-of-hypermasculinity">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 51
+    category: loot
+    slug: stab-vest-of-hypermasculinity
+    url: https://pointmongo.com/browse/loot/stab-vest-of-hypermasculinity
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - armor
+      - chest
+      - magical-armor
+    updatedAt: '2026-08-31T17:12:29.7474313Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

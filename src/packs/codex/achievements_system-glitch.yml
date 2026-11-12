@@ -1,0 +1,24 @@
+_id: TuGGRxwFeVLiSbPW
+_key: '!journal!TuGGRxwFeVLiSbPW'
+name: System Glitch
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: jIQd5TGyder7haPY
+    _key: '!journal.pages!TuGGRxwFeVLiSbPW.jIQd5TGyder7haPY'
+    name: System Glitch
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you discover and exploit a genuine oversight in how the dungeon''s rules interact, and get away with it.</em></p><p>You found a hole in the rules that shouldn''t exist and crawled straight through it. The System AI has already filed a very strongly worded internal memo about this. The exploit stays open for now. Someone in accounting says patching it costs too much.</p><p>Reward: Platinum Loophole Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/system-glitch">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 720
+    category: achievements
+    slug: system-glitch
+    url: https://pointmongo.com/browse/achievements/system-glitch
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0518024Z'
+    needsRestat: false
+    missingFields: []

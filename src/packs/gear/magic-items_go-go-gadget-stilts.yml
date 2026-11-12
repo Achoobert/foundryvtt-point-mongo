@@ -1,0 +1,23 @@
+_id: wYalstO7mPccAcGK
+_key: '!items!wYalstO7mPccAcGK'
+name: Go, Go Gadget Stilts
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>Mechanized extendable titanium stilts that add 10'' of height and allow powerful leaps, seemingly built to reach cookie jars.</em></p><p>This mechanized set of spring- loaded extendable / retractable titanium stilts adds 10'' of height to a Crawler, allowing them to reach the metaphorical cookie jar on the top shelf. And the literal cookie jar. Hmmm. For unknown reasons, the creator of this item seems to have been oddly focused on their usefulness in obtaining cookies. Were they 3 small gnomish children in a trench coat? Sadly, we''ll never know. Regardless, the magically imbued stilts are also oddly durable, and seem immune to standard damage. They can also be used up to 3x per day to perform a leap of up to 30'' of distance, either horizontal or vertical.</p><table><tbody><tr><th>Type</th><td>Armor</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/magic-items/go-go-gadget-stilts">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 178
+    category: magic-items
+    slug: go-go-gadget-stilts
+    url: https://pointmongo.com/browse/magic-items/go-go-gadget-stilts
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-22T05:37:57.8741323Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

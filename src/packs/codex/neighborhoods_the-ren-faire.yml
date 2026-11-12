@@ -1,0 +1,25 @@
+_id: ROZSAuNqZXsodVXQ
+_key: '!journal!ROZSAuNqZXsodVXQ'
+name: The Ren Faire
+folder: cWQgUi6OmzYETooo
+pages:
+  - _id: 6BuncBLjkvEs7JNf
+    _key: '!journal.pages!ROZSAuNqZXsodVXQ.6BuncBLjkvEs7JNf'
+    name: The Ren Faire
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Everyone carries swords and bows to protect the community — the real threats here are apathy and screen addiction.</em></p><p>Everyone has swords and bows and we protect our community. Threats are apathy and addiction to screens.</p><hr><p><em>Source: Community submission — Seladriana. From <a href="https://pointmongo.com/browse/neighborhoods/the-ren-faire">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 448
+    category: neighborhoods
+    slug: the-ren-faire
+    url: https://pointmongo.com/browse/neighborhoods/the-ren-faire
+    source: Community submission — Seladriana
+    tags:
+      - dcc-ccs
+      - neighborhoods
+    updatedAt: '2026-08-31T17:12:37.1327348Z'
+    needsRestat: false
+    missingFields: []

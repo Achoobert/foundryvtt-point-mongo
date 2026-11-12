@@ -1,0 +1,46 @@
+_id: 8lYKzv1IF5n0igcx
+_key: '!items!8lYKzv1IF5n0igcx'
+name: Berserk Spell
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>An Abjuration rage spell doubling Strength and Speed while halving Dexterity and Constitution, with kills fueling a growing speed buff.</em></p><p>You enter a berserking state, doubling your Strength and Movement Speed. While berserking, your Dexterity and Constitution are halved. For every Crawler, NPC, or Mob you kill while berserking, your Step is increased by 5 feet during the Berserk state.</p><p>Warning: You must use the Attack Action at least once a Round and are not able to leave Combat while berserking unless there is no one around you remaining, friend or foe. If for any reason you are unable to use the Attack Action, Berserk ends immediately and goes on cooldown.</p><table><tbody><tr><th>Limitations</th><td>This cannot be cancelled early before Rank 5.</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/berserk-spell">Point Mongo</a>.</em></p>'
+  governingStat: con
+  manaCost: 5
+  range: Self
+  duration: 3 Rounds
+  cooldown: 5 Rounds after Berserk ends.
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Barbarian
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: q4oKgpgfNnfN8rLb
+      rankThreshold: 5
+      description: <p>Berserk can now be cancelled early.</p>
+    - id: s61jiBVq9oW1qfuJ
+      rankThreshold: 10
+      description: <p>Your Dexterity is no longer halved.</p>
+    - id: naK7TK6hUkSQjHCj
+      rankThreshold: 15
+      description: <p>Your Constitution is no longer halved.</p>
+flags:
+  point-mongo:
+    id: 1171
+    category: spells
+    slug: berserk-spell
+    url: https://pointmongo.com/browse/spells/berserk-spell
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+      - abjuration
+    updatedAt: '2026-11-11T23:33:57.1226767Z'
+    needsRestat: true
+    missingFields: []

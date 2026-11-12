@@ -1,0 +1,24 @@
+_id: eP8nB7GyNH4drCiZ
+_key: '!journal!eP8nB7GyNH4drCiZ'
+name: I’ve Got Your Back
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: WL7XOCFCZi9MLKH8
+    _key: '!journal.pages!eP8nB7GyNH4drCiZ.WL7XOCFCZi9MLKH8'
+    name: I’ve Got Your Back
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you prevent another crawler from taking damage.</em></p><p>You protected another crawler from harm. Remember this moment. One day they might return the favor. Or they might steal your loot. Probably both.</p><p>Reward: Silver Friendship Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/i-ve-got-your-back">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 610
+    category: achievements
+    slug: i-ve-got-your-back
+    url: https://pointmongo.com/browse/achievements/i-ve-got-your-back
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9619482Z'
+    needsRestat: false
+    missingFields: []

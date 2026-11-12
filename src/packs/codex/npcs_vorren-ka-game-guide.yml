@@ -1,0 +1,26 @@
+_id: evEu2FMiq9tVVg3o
+_key: '!journal!evEu2FMiq9tVVg3o'
+name: Vorren Ka (Game Guide)
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: 7O2bLovGSY0n3p7I
+    _key: '!journal.pages!evEu2FMiq9tVVg3o.7O2bLovGSY0n3p7I'
+    name: Vorren Ka (Game Guide)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A non-combatant level-50 four-armed Veyr Game Guide, once a navigation officer aboard a colony ship that intercepted an alien signal.</em></p><p><strong>Type:</strong> Toyota Mechanic (Game Guide), Non-Combatant · <strong>Level:</strong> 50 · <strong>Race:</strong> Veyr · <strong>Guild:</strong> Mechanics Guild</p><p>A lean, four-armed alien in layered travel cloth and scavenged ship armor, communicating partly through subtle color shifts under translucent skin. Once a navigation officer on a long-range colony vessel that intercepted an unrecognized alien signal; landed and was accidentally entered into the world''s Dungeon Crawl. Survived and took a Floor 10 deal as a Game Guide.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/npcs/vorren-ka-game-guide">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 237
+    category: npcs
+    slug: vorren-ka-game-guide
+    url: https://pointmongo.com/browse/npcs/vorren-ka-game-guide
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - game-guide
+    updatedAt: '2026-09-02T04:50:41.4020672Z'
+    needsRestat: false
+    missingFields: []

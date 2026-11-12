@@ -1,0 +1,19 @@
+_id: 2kH2O9N6epPwgxaF
+_key: '!items!2kH2O9N6epPwgxaF'
+name: Leash of the Reckless Child
+type: item
+img: https://pointmongo.com/img/entries/loot-leash-of-the-reckless-child.png
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>A Platinum harness and leash granting large stat bonuses and Evade advantage, so long as a trusted party member holds the other end.</em></p><p>You just HAD to go and run off, endangering yourself and forcing mommy to come and fight your battles for you. Therefore, you get the leash! This is just a simple harness that fits around the chest, with a d-ring loop on the back and extendable leash to be held by your most trusted party member.</p><p>The Harness grants you an additional +5 to CON, DEX, and INT, and Advantage on all Evade checks. Healing spells and scrolls used while wearing the harness are increased by 30% effectiveness.</p><p>Whomever holds the leash gains +8 to STR, CON, and CHA, as well as Advantage on all Attack rolls and a 10% bonus to damage on all Fire spells.</p><p>All effects are only active for each person while the leash is attached and carried by another member of your party.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Harness &amp; Leash</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>DR</th><td>5</td></tr><tr><th>Limitations</th><td>All effects are only active for each person while the leash is attached and carried by another member of your party.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Harness:</li><li>+5 to CON, DEX, and INT</li><li>Advantage on all Evade checks</li><li>Healing spells and scrolls used while wearing the harness are increased by 30% effectiveness</li><li>Leash:</li><li>+8 to STR, CON, and CHA</li><li>Advantage on all Attack rolls</li><li>10% bonus to damage on all Fire spells.</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Myles L., Crawler #26933. From <a href="https://pointmongo.com/browse/loot/leash-of-the-reckless-child">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 544
+    category: loot
+    slug: leash-of-the-reckless-child
+    url: https://pointmongo.com/browse/loot/leash-of-the-reckless-child
+    source: 'Community submission — BlessedPsycho, Myles L., Crawler #26933'
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.5987704Z'
+    needsRestat: false
+    missingFields: []

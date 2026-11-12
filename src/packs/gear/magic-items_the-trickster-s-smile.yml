@@ -1,0 +1,19 @@
+_id: uYU8riJl0F3cep7s
+_key: '!items!uYU8riJl0F3cep7s'
+name: The Trickster’s Smile
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A divine, way-too-toothy grin of a patch for Monad''s faithful: huge Dexterity and Charisma, climbing, shadow walking, and a daily escape to his shrine.</em></p><p>The Trickster’s Smile.</p><p>Upgrade Patch. Lapel or Skin Patch.</p><p>This is a divine item.</p><p>This is a unique item.</p><p>This is a fleeting item.</p><p>You may only affix two lapel patches at a time. You may equip as many skin patches as possible.</p><p>This patch depicts a toothy grin. Way too toothy. It’s kinda creepy.</p><p>If this upgrade patch is affixed to an eligible garment, it will imbue the following upgrades:</p><p>(Hidden until it is affixed and then worn.)</p><p>Warning: Upgrade patches are fleeting items. You may remove them, but they will be destroyed in the process.</p><p>Warning Numero Deuce! This is a divine item. This means it gains differing abilities, buffs, and possibly debuffs depending on your proximity to certain deities and demons. It makes for new and exciting combinations!</p><p>Warning #3: Hat Trick! This item may be used as a skin patch! Skin patches are like tattoos but voluntary and can be placed at the Crawler’s discretion. Place the patch against the skin for a few seconds and it will fuse into the skin. Once fused, it cannot be removed and must be amputated. The item will be destroyed in the process.</p><p>When equipped:</p><p>You have equipped a divine item.</p><p>There are no deities in the area.</p><p>The Trickster’s Smile Patch has gained the following upgrades:</p><p>(Lapel only) All patch stat point benefits are now doubled.</p><p>(Skin only) All skin patch and tattoos benefits upgrade to the next tier.</p><p>When activated: “The Trickster’s Smile widens.”</p><p>When deactivated: “The Trickster’s Smile sombers.”</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Celestial</td></tr><tr><th>Cooldown</th><td>None</td></tr><tr><th>Charges</th><td>Infinite</td></tr><tr><th>Limitations</th><td>Must worship Monad the Trickster Prince.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+25 points to Dexterity.</li><li>+25 points to Charisma.</li><li>You will receive a notification every time a deity enters the area.</li><li>The Climb benefit. You can climb any surface. Good for you, Spider Monkey!</li><li>The Shadow Walk benefit. When in darkened areas, become Undetectable.</li><li>The Trickster’s Escape benefit. Once per day, you may activate this benefit to be instantly transported to the nearest Shrine of Monad.</li><li>This patch will imbue additional, varying benefits when it is in the presence of divine entities, at the A.I.’s discretion.</li></ul><hr><p><em>Source: Community submission — Moonshadow Dark. From <a href="https://pointmongo.com/browse/magic-items/the-trickster-s-smile">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1066
+    category: magic-items
+    slug: the-trickster-s-smile
+    url: https://pointmongo.com/browse/magic-items/the-trickster-s-smile
+    source: Community submission — Moonshadow Dark
+    tags: []
+    updatedAt: '2026-11-06T19:05:36.7283673Z'
+    needsRestat: false
+    missingFields: []

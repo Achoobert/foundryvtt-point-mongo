@@ -1,0 +1,25 @@
+_id: IGXVEmAwFUsCdNlY
+_key: '!journal!IGXVEmAwFUsCdNlY'
+name: Pádraic McIntyre
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: oADeQYl4yhIK2Phn
+    _key: '!journal.pages!IGXVEmAwFUsCdNlY.oADeQYl4yhIK2Phn'
+    name: Pádraic McIntyre
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A non-combatant level-50 Bopka magic shop owner, an Irish/Scottish dwarf endlessly mistaken for a leprechaun.</em></p><p><strong>Type:</strong> Protector, Non-Combatant · <strong>Level:</strong> 50 · <strong>Race:</strong> Bopka</p><p>An Irish or Scottish dwarf who runs a magic store. His accent got him mistaken for a leprechaun once, and the AI has leaned into the bit ever since — much to Pádraic''s disgust.</p><hr><p><em>Source: Community submission — Ian O''H (Crawler #4207). From <a href="https://pointmongo.com/browse/npcs/p-draic-mcintyre">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 261
+    category: npcs
+    slug: p-draic-mcintyre
+    url: https://pointmongo.com/browse/npcs/p-draic-mcintyre
+    source: 'Community submission — Ian O''H (Crawler #4207)'
+    tags:
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-02T04:50:41.4158947Z'
+    needsRestat: false
+    missingFields: []

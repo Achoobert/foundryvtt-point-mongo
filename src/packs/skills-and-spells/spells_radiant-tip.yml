@@ -1,0 +1,46 @@
+_id: btqq26eY1GxQWGSo
+_key: '!items!btqq26eY1GxQWGSo'
+name: Radiant Tip
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>An Abjuration weapon buff dealing bonus radiant damage, escalating to armor-piercing marks and guaranteed hits.</em></p><p><strong>Level 1:</strong> Imbue a weapon of yours with Radiant magic, allowing it to deal a bonus 1d6 Radiant damage to an Attack Skill.</p><p><strong>Level 5:</strong> The bonus Radiant damage can flash through armor, still dealing damage even though the target may block it.</p><p><strong>Level 10:</strong> The target is marked by a glowing light. An attack by you or your ally is guaranteed to hit this marked target.</p><p><strong>Level 15:</strong> The target struck by this spell now becomes Blind for 1 Round.</p><p><strong>Level 20:</strong> The target struck by this spell becomes Transfixed for 1 Round, reducing its movement and weakening its next Attack or Spell.</p><table><tbody><tr><th>Base damage</th><td>1d6</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>Can only be cast on a weapon that deals Piercing damage.</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/radiant-tip">Point Mongo</a>.</em></p>'
+  governingStat: cha
+  manaCost: 10
+  range: Self
+  duration: 3 Rounds
+  cooldown: None
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Paladin
+  baseDamage:
+    dice: 1d6
+    stat: ''
+    damageType: holy
+  upgrades:
+    - id: 1Tild2Jm8i3C9xmW
+      rankThreshold: 5
+      description: <p>Your weapon now glows, creating a light source for you for the duration. The light source is equal to that of a torch.</p>
+    - id: Rw9N6s7pag0XhSYh
+      rankThreshold: 10
+      description: <p>The bonus Holy damage can flash through armor and guard, still dealing the bonus damage even if the attack will have otherwise been unsuccessful. The bonus damage from this becomes Armor-Piercing.</p>
+    - id: H1BD0LtSkiFrtFHv
+      rankThreshold: 15
+      description: <p>The target struck by this enchantment gains the Blinded debuff for 1 Round.</p>
+flags:
+  point-mongo:
+    id: 417
+    category: spells
+    slug: radiant-tip
+    url: https://pointmongo.com/browse/spells/radiant-tip
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+      - abjuration
+    updatedAt: '2026-09-22T05:46:52.7303633Z'
+    needsRestat: true
+    missingFields: []

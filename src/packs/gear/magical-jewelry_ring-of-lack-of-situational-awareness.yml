@@ -1,0 +1,25 @@
+_id: ftGDVtTKWu9AYslB
+_key: '!items!ftGDVtTKWu9AYslB'
+name: Ring of Lack of Situational Awareness
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A cursed silver band that immediately inflicts the Klutz and Clueless debuffs, removable only by a high-level cleric''s Remove Curse.</em></p><p>Ring, cursed</p><p><strong>Debuffs:</strong> Klutz, Clueless</p><p>This cursed item is a silver band that immediately bestows both the Klutz and Clueless debuffs on the wearer.</p><p><strong>Debuffs:</strong></p><p><strong>Klutz:</strong> All Dex Checks are made at -4 and stealth and hide checks are made at -8. If trying to sneak past drowsing goblin guards, it is inevitable that the crawler will trip over their own feet and fall in a heap, immediately alerting the guards.</p><p><strong>Clueless:</strong> All Chr checks are made at -3 due to the fact that the crawler is simply unable to keep their damn mouth shut. They will overshare at the most inopportune times.</p><p>This item cannot be removed without A Remove Curse Spell cast by a high level cleric.</p><table><tbody><tr><th>Type</th><td>Ring Klutz</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/magical-jewelry/ring-of-lack-of-situational-awareness">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 159
+    category: magical-jewelry
+    slug: ring-of-lack-of-situational-awareness
+    url: https://pointmongo.com/browse/magical-jewelry/ring-of-lack-of-situational-awareness
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - loot
+      - cursed
+      - ring
+    updatedAt: '2026-09-22T05:37:48.8875323Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

@@ -1,0 +1,27 @@
+_id: GOiwxJuBaflJJ2QK
+_key: '!items!GOiwxJuBaflJJ2QK'
+name: Herculean Laborer
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>Strength-based Fighter class built around overwhelming physical force and monstrous stamina.</em></p><dl class="stat-block"><dt>Type</dt><dd>A Strength-based Fighter class</dd><dt>Stat Bonus</dt><dd>Str +4, Con +2</dd><dt>Stat Penalty</dt><dd>Int -3, Dex -2</dd></dl><p>The Herculean Laborer focuses on overwhelming physical force, monstrous stamina, improvised feats of strength, and turning punishment into proof that they are not finished yet. It''s not just about being strong — it''s about being at their best when facing tasks that would give others pause.</p><p><strong>Class Benefits:</strong></p><ul><li>Hero''s Burden spell — steal a physical-based debuff from an ally and give it to yourself</li><li>Hydra Cautery spell — your next attack prevents regeneration for 1 round</li><li>Monster Wrestler skill — grapple Crawlers and Mobs bigger than yourself, as long as their Constitution is not more than double your Strength</li><li>Burden Bearer skill — carry, push, or pull objects up to twice your Strength</li><li>+2 to any hand-to-hand attack skills</li><li>Gain access to Club Vanquisher</li></ul><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/classes/herculean-laborer">Point Mongo</a>.</em></p>'
+  classTypes: []
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 8
+    category: classes
+    slug: herculean-laborer
+    url: https://pointmongo.com/browse/classes/herculean-laborer
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - floor-class
+      - fighter
+    updatedAt: '2026-08-31T17:12:29.6098501Z'
+    needsRestat: false
+    missingFields:
+      - stat bonuses
+      - benefits
+      - Build Point costs

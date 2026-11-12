@@ -1,0 +1,24 @@
+_id: 4yBkdCp3hPKyayeG
+_key: '!journal!4yBkdCp3hPKyayeG'
+name: Stairmaster
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: FNocRq6S6LO13jMR
+    _key: '!journal.pages!4yBkdCp3hPKyayeG.FNocRq6S6LO13jMR'
+    name: Stairmaster
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you stumble across a stairwell to the next floor entirely by accident, out of sheer ignorance rather than skill or planning.</em></p><p>You weren''t looking for the stairwell. You were looking for literally anything else. Even a blind squirrel finds a nut sometimes. Consider this the dungeon''s way of rewarding pure, undiluted luck.</p><p>Reward: Bronze Blind Squirrel Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/stairmaster">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 685
+    category: achievements
+    slug: stairmaster
+    url: https://pointmongo.com/browse/achievements/stairmaster
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.023447Z'
+    needsRestat: false
+    missingFields: []

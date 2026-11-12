@@ -1,0 +1,41 @@
+_id: bHqMSg0BF8kRXlCv
+_key: '!items!bHqMSg0BF8kRXlCv'
+name: Badge Engineering
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>Reading, copying and exploiting anything that tells other people where you are allowed to go.</em></p><p>BADGE ENGINEERING</p><p>Intelligence</p><p>A badge is just a tiny rectangle that tells everyone else where you''re allowed to go.</p><p>Some are laminated. Some are colour-coded. Some have holograms, QR codes, magical runes or the logo of a company nobody has ever heard of.</p><p>And some are permanently burned into your skin by a homicidal intergalactic game show.</p><p>Same principle.</p><p>Badge Engineering represents your ability to understand, reproduce and exploit systems of identification, accreditation and access control.</p><p>When examining a badge, pass, tattoo, wristband, token, uniform marking, credential or similar access device, make a Badge Engineering Check.</p><p>On Success, you determine:</p><p>• Who issued it.</p><p>• What organisation or venue it belongs to.</p><p>• Its approximate level of access.</p><p>• Whether it appears genuine.</p><p>• Whether access is checked visually, physically, magically or by the System.</p><p>• What distinguishes it from credentials immediately above or below it.</p><p>If enough information is available, the GM also tells you the obvious legitimate method of obtaining that credential.</p><p>Badge Engineering does not create magical tattoos, System permissions or actual membership in an organisation.</p><p>RANK 5 — WRONG COLOUR LANYARD</p><p>After examining a genuine physical credential, you may create a convincing mundane copy using appropriate materials.</p><p>The copy can reproduce badges, passes, wristbands, stamps, tickets, identification cards and the visible appearance of access tattoos.</p><p>It fools casual visual inspection.</p><p>If somebody closely examines the credential, make a Badge Engineering Check opposed by their Intelligence or an appropriate Skill.</p><p>Magical effects, System checks and other methods that verify the credential itself automatically reveal that the copy is fake.</p><p>A copied magical tattoo looks right.</p><p>It does absolutely fuck all.</p><p>RANK 10 — EXHIBITOR ACCESS</p><p>You have learned that most security systems are considerably better at checking credentials than they are at designing sensible processes around them.</p><p>When encountering a controlled entrance, restricted area or tiered access system, you may make a Badge Engineering Check after studying how access is being managed.</p><p>On Success, the GM reveals one exploitable access route, if one reasonably exists.</p><p>Examples include:</p><p>• A contractor or exhibitor entrance.</p><p>• A guest or visitor process.</p><p>• An unattended checkpoint.</p><p>• A lower-security staff entrance.</p><p>• A credential that is only visually checked.</p><p>• A permitted escort arrangement.</p><p>• A temporary pass system.</p><p>• A difference between daytime and after-hours security.</p><p>• A way someone with your current access could legitimately reach a more restricted area.</p><p>This does not automatically grant access.</p><p>It tells you how the system can be exploited.</p><p>Getting the required badge, convincing the guard, finding an escort or committing whatever other terrible decision comes next is your problem.</p><p>RANK 15 — ACCESS ALL AREAS</p><p>Once per Floor, after studying the credential system of a venue or organisation you can already legitimately enter, you may attempt to upgrade your apparent access.</p><p>Choose one restricted area within that same venue.</p><p>Make a Badge Engineering Check.</p><p>On Success, you assemble, alter or repurpose your credentials sufficiently to pass ordinary NPC-controlled or visually checked security for that area.</p><p>This cannot:</p><p>• Grant membership in an organisation.</p><p>• Duplicate magical abilities granted by a tattoo.</p><p>• Fool a System-level identity check.</p><p>• Give you access to a separate membership-only organisation or venue.</p><p>• Bypass a magical lock that directly verifies your actual permissions.</p><p>It can get you backstage, upstairs, through the STAFF ONLY door, into the hospitality suite, onto the exhibitor floor before opening time, or into whatever room they really should have put a better lock on.</p><p>On an Amazing Success, your credentials remain convincing for the rest of the current visit unless you do something that gives security a reason to investigate you personally.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — TheSharp. From <a href="https://pointmongo.com/browse/skills/badge-engineering">Point Mongo</a>.</em></p>'
+  governingStat: int
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: hQ81DBrYQhQ8Xb1z
+      rankThreshold: 5
+      description: <p>RANK 5 — WRONG COLOUR LANYARD</p>
+    - id: DlgQrmcoyjn2PPjL
+      rankThreshold: 10
+      description: <p>RANK 10 — EXHIBITOR ACCESS</p>
+    - id: fFI6JYtWOvLKrPBr
+      rankThreshold: 15
+      description: <p>RANK 15 — ACCESS ALL AREAS</p>
+flags:
+  point-mongo:
+    id: 818
+    category: skills
+    slug: badge-engineering
+    url: https://pointmongo.com/browse/skills/badge-engineering
+    source: Community submission — TheSharp
+    tags: []
+    updatedAt: '2026-09-28T03:33:05.8601055Z'
+    needsRestat: false
+    missingFields: []

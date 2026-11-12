@@ -1,0 +1,56 @@
+_id: TRvK6Hfb56FF2rol
+_key: '!actors!TRvK6Hfb56FF2rol'
+name: Tony Monllama
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><em>A Neighborhood boss known as Burnface: drug lord of the Bad Llamas, spitting lava and flanked by chemically unpredictable bodyguards.</em></p><p>This neighborhood boss is also know as Burnface. Tony is the drug lord of the Bad Llamas. He keeps a hoard of his best Bad Llamas around him as he loves testing out the sweetest shit in town.</p><p>Any llama in his boss room is likely to have a random crazy effect attached to them as they are always trying out some cutting edge magical meth.</p><p>Ex: can fly 10 feet off the ground, but has a -5 to hit as they cope with their lack of gravity.</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — PurpleSnorlax. From <a href="https://pointmongo.com/browse/bosses/tony-monllama">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 8
+  size: Large (5)
+  creatureType: Mutated
+  move: '30'
+  hbSlotsOverride: null
+  hb:
+    value: 11
+    max: 11
+  dr: 1
+  stats:
+    str:
+      value: 5
+    dex:
+      value: 3
+    con:
+      value: 5
+    int:
+      value: 3
+    cha:
+      value: 8
+  attacks:
+    - name: Bite
+      toHit: ''
+      damage: 2d6+5
+      damageType: piercing
+      range: 5ft
+      effect: On an Evade Major Fail or worse the target gains the Contact High debuff.
+    - name: Lava Spit
+      toHit: ''
+      damage: 2d8+3
+      damageType: fire
+      range: 60ft
+      effect: On an Evade Major Fail or worse, the target gains the Burning Debuff.
+prototypeToken:
+  name: Tony Monllama
+  actorLink: false
+flags:
+  point-mongo:
+    id: 767
+    category: bosses
+    slug: tony-monllama
+    url: https://pointmongo.com/browse/bosses/tony-monllama
+    source: Community submission — PurpleSnorlax
+    tags: []
+    updatedAt: '2026-09-15T21:44:33.707059Z'
+    needsRestat: false
+    missingFields: []

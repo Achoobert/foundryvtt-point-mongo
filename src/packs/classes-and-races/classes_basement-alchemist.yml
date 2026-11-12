@@ -1,0 +1,27 @@
+_id: dsZYdZGTeR1tVurB
+_key: '!items!dsZYdZGTeR1tVurB'
+name: Basement Alchemist
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>An Intelligence-based Arcanist class specializing in potions, acids, fumes, and improvised explosives.</em></p><p>Do you remember your high school chemistry class when you would mix various questionably colored liquids until they eventually fizzed up and bubbled right over the top? Something about that really screamed at you that you should do this recreationally.</p><p>And by recreationally, we mean making brewing all sorts of drugs in your mom''s basement to achieve that ''ultimate high''. Like, beyond Scooby Doo. You''ve got some work to do still, but goddamn it, you''re determined to synthesize the ultimate recreational pharmaceutical. Nobody is going to want to miss what you''re cooking...</p><table><tbody><tr><th>DR</th><td>0</td></tr><tr><th>Rank 20</th><td>None</td></tr><tr><th>Bonus box</th><td>None</td></tr><tr><th>Build points</th><td>32</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Intelligence (3 Points)</li><li>+3 Constitution (3 Points)</li><li>+2 Charisma (2 Points)</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Volatile Vial, Noxious Fumes, and Unstable Concoction Spells (6 Points)</li><li>+3 Alchemy Skill (6 Points)</li><li>+2 Explosives Handling Skill (4 Points)</li></ul><p><strong>Benefits</strong></p><ul><li>Gain access to the Desperado Club (1 Point)</li><li>You are immune to Poison. (4 Points)</li><li>You have advantage when using the Alchemy Skill. (3 Points)</li></ul><p><strong>Detriments</strong></p><ul><li>2 Strength (+1 Build Point)</li><li>You suffer a -1 penalty when making Skill Advancement Checks with your Explosives Handling Skill at Rank 5+ (+1 Build Point)</li></ul><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/classes/basement-alchemist">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Mage
+    - Arcanist
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1
+    category: classes
+    slug: basement-alchemist
+    url: https://pointmongo.com/browse/classes/basement-alchemist
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - floor-class
+      - arcanist
+    updatedAt: '2026-11-11T20:08:41.6064274Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

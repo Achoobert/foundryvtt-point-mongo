@@ -1,0 +1,24 @@
+_id: rd9Sp7uidkBlAqh3
+_key: '!journal!rd9Sp7uidkBlAqh3'
+name: Trap the Trapper
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: fQvI3H2vEIrKTMBg
+    _key: '!journal.pages!rd9Sp7uidkBlAqh3.fQvI3H2vEIrKTMBg'
+    name: Trap the Trapper
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you turn a trap against the creature that triggered or controls it.</em></p><p>You successfully used a dungeon trap against an enemy.</p><p>Congratulations! You have discovered the revolutionary tactical concept of letting the dungeon do the killing for you.</p><p>Reward: Silver Trapfinder''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/trap-the-trapper">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 634
+    category: achievements
+    slug: trap-the-trapper
+    url: https://pointmongo.com/browse/achievements/trap-the-trapper
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9813554Z'
+    needsRestat: false
+    missingFields: []

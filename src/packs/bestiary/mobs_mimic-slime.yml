@@ -1,0 +1,52 @@
+_id: JRT6zyhxiASxtaPX
+_key: '!actors!JRT6zyhxiASxtaPX'
+name: Mimic Slime
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>A camouflaged, acid-based ooze that grows and splits with each meal, dangerous mainly because you rarely see it coming.</em></p><p>This sneaky little sucker is often used as a janitor mob on the early dungeon levels. Able to blend into their environment with astonishing ease, these unthinking scavengers share the camouflage abilities of earth creatures like the Earth octopus or chameleon. They are drawn by light, heat, and sound on their quest for food. They grow in size with every meal, and upon reaching level 10 they often split into two separate level 5 mobs. If the environment can sustain them, they can reportedly attain vast sizes over time. Their attack is acid based, and can eat through standard leather armor. The real danger is stepping directly into the center of a large mimic slime without ever realizing it was there. Barefoot crawlers are their favourite snack in the dungeon. They can also travel on walls and ceilings to drop from above for an unwelcome surprise.</p><table><tbody><tr><th>Floor</th><td>2</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/mobs/mimic-slime">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 8
+  size: Medium (4)
+  creatureType: Ooze
+  move: '5'
+  hbSlotsOverride: null
+  hb:
+    value: 8
+    max: 8
+  dr: 2
+  stats:
+    str:
+      value: 4
+    dex:
+      value: 2
+    con:
+      value: 20
+    int:
+      value: 1
+    cha:
+      value: 2
+  attacks:
+    - name: Caustic Flail
+      toHit: ''
+      damage: 2d4+2
+      damageType: acid
+      range: ''
+      effect: ''
+prototypeToken:
+  name: Mimic Slime
+  actorLink: false
+flags:
+  point-mongo:
+    id: 109
+    category: mobs
+    slug: mimic-slime
+    url: https://pointmongo.com/browse/mobs/mimic-slime
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-22T01:07:36.1112063Z'
+    needsRestat: false
+    missingFields: []

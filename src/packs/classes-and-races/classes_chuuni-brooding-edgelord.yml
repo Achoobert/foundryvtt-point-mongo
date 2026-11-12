@@ -1,0 +1,24 @@
+_id: MLvqraHkVuOk091L
+_key: '!items!MLvqraHkVuOk091L'
+name: Chuuni Brooding Edgelord
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Mage/Rogue affliction class that stacks debuffs, drains life to sustain itself, and punishes heavily afflicted targets, with a shadow familiar in tow.</em></p><p>You woke up in another world, discovered magic was real, and immediately concluded that what this situation really needed was more black clothing, ominous monologues, sinister familiars, and strongly held opinions about organised religion.</p><p>Other Mages throw fireballs. You prefer poisoning someone''s soul, corrupting their blood, weakening their body, disappearing into their shadow, and then explaining in uncomfortable detail why everything currently happening to them is really their own fault.</p><p>The Chuuni Brooding Edgelord is an affliction-focused Mage/Rogue. Individually, their attacks are not always spectacular. Instead, they stack Debuffs, prevent enemies from escaping those effects, drain life to sustain themselves, and then punish heavily afflicted targets with increasingly devastating attacks.</p><p>They also command a shadow familiar, move through darkness, manifest an ominous magical blade, and project an aura that strengthens allies while making enemies more vulnerable.</p><p>You''re not trying to kill them yet.</p><p>You''re preparing them.</p><table><tbody><tr><th>Bonus box</th><td>Silver Earth Box with guaranteed Earth Hobby Skill Potion</td></tr><tr><th>Build points</th><td>31</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Intelligence</li><li>+2 Charisma</li><li>+1 Dexterity</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Inexorable Doom</li><li>+2 Punition</li><li>+2 Drain Life</li><li>+2 Path of Shadows</li><li>+1 Blade of Doom</li><li>+2 Hegemony Aura</li></ul><p><strong>Benefits</strong></p><ul><li>Shadow Familiar — gain a friendly shadow Pet. It can manifest through several shadowy bodies, but they share one stat block, one Health pool and one set of Actions. <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Cannot worship a deity or gain benefits that require doing so. <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — TheSharp. From <a href="https://pointmongo.com/browse/classes/chuuni-brooding-edgelord">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Mage
+    - Rogue
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 740
+    category: classes
+    slug: chuuni-brooding-edgelord
+    url: https://pointmongo.com/browse/classes/chuuni-brooding-edgelord
+    source: Community submission — TheSharp
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.579015Z'
+    needsRestat: false
+    missingFields: []

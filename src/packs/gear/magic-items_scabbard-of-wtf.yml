@@ -1,0 +1,23 @@
+_id: DrzCwSCAtMKXdfmX
+_key: '!items!DrzCwSCAtMKXdfmX'
+name: Scabbard of WTF
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A scabbard granting regeneration and poison immunity, empowering any sword drawn from it with a level-scaling bonus.</em></p><p><strong>Notes:</strong> See Description</p><p>This is a CELESTIAL ITEM! It is also keeps your precious sword clean and dry.</p><p>Grants +50% regeneration skill. +15% Strength. Grants Immunity to Fear. Any medium to large (scabbard adjusts) Sword drawn from this scabbard gains +1 attack and damage per wielders level. Drawing the sword activates the items most powerful ability.</p><p>The sword wielder will be compelled to say a random (out of 20) catch phrase (with an Austrian accent) after their next kill. All nearby party members will be inspired and receive +20 to their next attack if (and only if) they yell "voi supa." Sword cannot be reinserted into scabbard until catch phrase is spoken.</p><table><tbody><tr><th>Type</th><td>Accessory</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/scabbard-of-wtf">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 188
+    category: magic-items
+    slug: scabbard-of-wtf
+    url: https://pointmongo.com/browse/magic-items/scabbard-of-wtf
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-22T05:37:42.0716759Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

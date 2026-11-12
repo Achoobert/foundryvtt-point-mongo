@@ -1,0 +1,24 @@
+_id: P5tLYDhOabibbhDI
+_key: '!journal!P5tLYDhOabibbhDI'
+name: Nope Rope
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: LEVexVA2CMp47ssP
+    _key: '!journal.pages!P5tLYDhOabibbhDI.LEVexVA2CMp47ssP'
+    name: Nope Rope
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you flee screaming from something snake-shaped — real or, ideally, just a coil of rope.</em></p><p>You saw something long and vaguely serpentine on the floor and left the area at a dead sprint. It was rope. It has always been rope. It will always just be rope. Your survival instincts are technically working, if a little overzealous.</p><p>Reward: Bronze Coward''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/nope-rope">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 692
+    category: achievements
+    slug: nope-rope
+    url: https://pointmongo.com/browse/achievements/nope-rope
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0290306Z'
+    needsRestat: false
+    missingFields: []

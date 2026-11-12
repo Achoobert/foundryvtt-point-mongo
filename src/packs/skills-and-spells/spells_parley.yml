@@ -1,0 +1,38 @@
+_id: 6cDmYNYRvfOnSoDp
+_key: '!items!6cDmYNYRvfOnSoDp'
+name: Parley
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A utility negotiation skill that can end a fight with an intelligent mob and eventually guarantees favorable terms.</em></p><p><strong>Type:</strong> Utility Skill · <strong>AoE:</strong> 1 mob · <strong>Duration:</strong> Instant · <strong>Cost:</strong> 0 MP · <strong>Limitation:</strong> intelligent mobs only, not usable against crawlers</p><p>Lv1: convince a target to pause fighting for 1 round of negotiation (fails against higher-Charisma mobs/bosses). Lv5: can end the fight peacefully in exchange for concessions from one side. Lv10: negotiation window +1 round. Lv15: ending a fight this way without a kill guarantees the caster a reward from the former enemy. Lv20: temporarily doubles Charisma while negotiating.</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/parley">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 412
+    category: spells
+    slug: parley
+    url: https://pointmongo.com/browse/spells/parley
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+    updatedAt: '2026-09-02T04:50:41.8801083Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

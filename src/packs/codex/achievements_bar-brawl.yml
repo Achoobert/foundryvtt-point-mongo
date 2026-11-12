@@ -1,0 +1,23 @@
+_id: F18crP815cJd0cXa
+_key: '!journal!F18crP815cJd0cXa'
+name: Bar Brawl
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: XL4bu33WmQwfxj6U
+    _key: '!journal.pages!F18crP815cJd0cXa.XL4bu33WmQwfxj6U'
+    name: Bar Brawl
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when several Shit Faced crawlers start a fight with each other.</em></p><p>Triggered when multiple people with the shit faced debuff start a fight.</p><p>NEW ACHIEVEMENT: Bar Brawl</p><p>Nothing quite says pure chaos like a Bar Brawl. Congratulations, you started a fight with drunk people while drunk! There are few things I enjoy more than a bunch of stumbling idiots swinging at each other. Extra points if you crack a bottle over someone''s head!</p><p>If you survive this, then you truly are lucky.</p><p>Reward: Bronze lucky bastard box.</p><hr><p><em>Source: Community submission — Sketch. From <a href="https://pointmongo.com/browse/achievements/bar-brawl">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1083
+    category: achievements
+    slug: bar-brawl
+    url: https://pointmongo.com/browse/achievements/bar-brawl
+    source: Community submission — Sketch
+    tags: []
+    updatedAt: '2026-11-08T10:01:17.8481441Z'
+    needsRestat: false
+    missingFields: []

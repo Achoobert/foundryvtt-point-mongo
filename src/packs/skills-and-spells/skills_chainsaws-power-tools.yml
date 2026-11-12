@@ -1,0 +1,41 @@
+_id: FHWUeDqXBUauc1NX
+_key: '!items!FHWUeDqXBUauc1NX'
+name: Chainsaws (Power Tools)
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A Strength-based melee attack skill for chainsaws and other power tools.</em></p><p>A skill to use with Chainsaws and maybe other power tools.</p><p>Obs.: Swinging a chainsaw in the heat of combat is a dumb Idea at best.</p><p>And remember: don''t try to stop your chainsaw using your hands or genitals.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d12 + STR</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/skills/chainsaws-power-tools">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: Requires Fuel. Requires an action to power up. May be used as an Improvised Weapon when powered down. Cannot be used in conjunction with Attack of Opportunity or Zone of Control Skills. Attacks made with this weapon incur in a -2 penalty.
+  aiFavor: 0
+  baseDamage:
+    dice: 1d12
+    stat: str
+    damageType: slashing
+  upgrades:
+    - id: nei58mzMPbEZcJ9O
+      rankThreshold: 5
+      description: <p>+1d12 to base damage</p>
+    - id: ato5StGLHmgk3x65
+      rankThreshold: 10
+      description: <p>+1d12 to base damage and attacks are no longer made at -2</p>
+    - id: BpIlH0SO6tg0oLsL
+      rankThreshold: 15
+      description: <p>+1d12 to base damage and Target gets the Blood Trail debuff</p>
+flags:
+  point-mongo:
+    id: 729
+    category: skills
+    slug: chainsaws-power-tools
+    url: https://pointmongo.com/browse/skills/chainsaws-power-tools
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-15T21:44:33.6935559Z'
+    needsRestat: false
+    missingFields: []

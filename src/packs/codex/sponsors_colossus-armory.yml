@@ -1,0 +1,25 @@
+_id: yz6BPMMC8EWpxux5
+_key: '!journal!yz6BPMMC8EWpxux5'
+name: Colossus Armory
+folder: hvyWwMcQCbDfRsP5
+pages:
+  - _id: EIiR2A6fES3NSLCM
+    _key: '!journal.pages!yz6BPMMC8EWpxux5.EIiR2A6fES3NSLCM'
+    name: Colossus Armory
+    type: text
+    text:
+      format: 1
+      content: '<p><em>An armor manufacturer sponsor whose products are guaranteed to turn your last stand into a drawn-out inconvenience.</em></p><p><strong>Tagline:</strong> "Colossus Armory: Making reckless look strategic since Syndicate Standard Year 3471."</p><p>A juggernaut of the armor manufacturing business, built for bold ideas and poor judgment. 3x Speed Disclaimer: armor not actually guaranteed to save your life.</p><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/sponsors/colossus-armory">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 350
+    category: sponsors
+    slug: colossus-armory
+    url: https://pointmongo.com/browse/sponsors/colossus-armory
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - dcc-ccs
+      - sponsors
+    updatedAt: '2026-09-02T04:50:41.8031295Z'
+    needsRestat: false
+    missingFields: []

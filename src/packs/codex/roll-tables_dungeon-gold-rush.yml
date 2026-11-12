@@ -1,0 +1,23 @@
+_id: 7vc3Vd0AFsN1R1xb
+_key: '!journal!7vc3Vd0AFsN1R1xb'
+name: Dungeon Gold Rush!
+folder: LgXPy7DgMLD2Fvug
+pages:
+  - _id: WT2b5hBWfh6mPsEU
+    _key: '!journal.pages!7vc3Vd0AFsN1R1xb.WT2b5hBWfh6mPsEU'
+    name: Dungeon Gold Rush!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A troll-themed scratch-off ticket whose six spots each change your next attack, from a shower of gold to a mob that splits in two.</em></p><p>Scratch off one spot, and depending on the symbol revealed, your next attack against a mob will have varying effects! Guaranteed laughs! One hour cooldown between scratches.</p><p>The card is a red and green cardboard scratch-off lottery ticket featuring a small graphic of a troll throwing gold coins into the air.</p><p>It has six scratch-off spots which may reveal any of about twenty (20) possible symbols correlating to such outcomes as 5,000 gold coin, double damage, mob splits in two, mob is invulnerable for 30 seconds, and more.</p><p>Crawlers must wait one hour between scratching off spots, and will receive an error if they attempt to use the ticket inside Safe Rooms.</p><table><tbody><tr><th>unique</th><td>false</td></tr></tbody></table><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/roll-tables/dungeon-gold-rush">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 982
+    category: roll-tables
+    slug: dungeon-gold-rush
+    url: https://pointmongo.com/browse/roll-tables/dungeon-gold-rush
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-10-27T18:06:20.6721898Z'
+    needsRestat: false
+    missingFields: []

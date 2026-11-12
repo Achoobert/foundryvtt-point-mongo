@@ -1,0 +1,23 @@
+_id: wm5HwirmYSiz2Dcq
+_key: '!journal!wm5HwirmYSiz2Dcq'
+name: 'Loot Generator: Condition'
+folder: LgXPy7DgMLD2Fvug
+pages:
+  - _id: 98aaoKI5mt1pF9S1
+    _key: '!journal.pages!wm5HwirmYSiz2Dcq.98aaoKI5mt1pF9S1'
+    name: 'Loot Generator: Condition'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>The state an item turns up in, as a starting point for describing it.</em></p><p>Used by the <a href="/loot">Loot Generator</a> as a prompt for item descriptions. It is shown to the GM as inspiration and never written into the description for them.</p><p>Each row says what it suits ("For: clothing, armor"), so the generator only offers linen for a shirt and steel for a breastplate. The groups are weapon, armor, clothing and accessory; a row with no "For:" suits anything.</p><p>Have something to add? Press <strong>+ Suggest a row</strong> above the table, or the pencil beside a row to suggest a change. It comes to us for a quick look, then goes in with your name on it.</p><table><tbody><tr><th>unique</th><td>false</td></tr><tr><th>lootGenerator</th><td>condition</td></tr></tbody></table><hr><p><em>Source: Point Mongo Team. From <a href="https://pointmongo.com/browse/roll-tables/loot-generator-condition">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 920
+    category: roll-tables
+    slug: loot-generator-condition
+    url: https://pointmongo.com/browse/roll-tables/loot-generator-condition
+    source: Point Mongo Team
+    tags: []
+    updatedAt: '2026-10-23T04:28:31.3521396Z'
+    needsRestat: false
+    missingFields: []

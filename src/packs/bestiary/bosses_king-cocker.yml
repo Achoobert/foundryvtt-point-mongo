@@ -1,0 +1,65 @@
+_id: Bw6yG9k56CZFmyBn
+_key: '!actors!Bw6yG9k56CZFmyBn'
+name: King Cocker
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><em>A giant crowned spaniel whose bark is murder on anything feline. He is not bright, and he will chase almost anything you throw.</em></p><p>A gigantic crowned cocker spaniel whose bark shakes the room, dealing bonus damage to all feline classes. His weakness is his intelligence — he''s easily manipulated and a sucker for a game of fetch, as long as it isn''t your arm he''s fetching.</p><table><tbody><tr><th>Floor</th><td>6</td></tr></tbody></table><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/bosses/king-cocker">Point Mongo</a>.</em></p>'
+  mobTier: city
+  level: 55
+  size: Huge (6)
+  creatureType: Beast
+  move: '60'
+  hbSlotsOverride: null
+  hb:
+    value: 26
+    max: 26
+  dr: 6
+  stats:
+    str:
+      value: 100
+    dex:
+      value: 75
+    con:
+      value: 45
+    int:
+      value: 20
+    cha:
+      value: 60
+  attacks:
+    - name: Bite
+      toHit: ''
+      damage: 5d6+7
+      damageType: piercing
+      range: 10 feet
+      effect: ''
+    - name: Maul
+      toHit: ''
+      damage: 5d12+7
+      damageType: ''
+      range: 15 feet
+      effect: ''
+    - name: Paws
+      toHit: ''
+      damage: 1d20+7
+      damageType: bludgeoning
+      range: 30 foot cone
+      effect: Targets are afflicted with the Take Down debuff
+prototypeToken:
+  name: King Cocker
+  actorLink: false
+flags:
+  point-mongo:
+    id: 82
+    category: bosses
+    slug: king-cocker
+    url: https://pointmongo.com/browse/bosses/king-cocker
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - city-boss
+      - bosses
+    updatedAt: '2026-09-30T02:25:41.4234556Z'
+    needsRestat: false
+    missingFields: []

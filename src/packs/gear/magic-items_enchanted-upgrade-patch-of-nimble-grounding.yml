@@ -1,0 +1,19 @@
+_id: yZBuVfH7zVtDAPgx
+_key: '!items!yZBuVfH7zVtDAPgx'
+name: Enchanted Upgrade Patch of Nimble Grounding
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A fleeting patch of a naked man in yellow rain boots that grounds Electric damage and puts a spring in your step.</em></p><p>This is a fleeting Item.  This medium upgrade patch depicts a the backside of a naked human male wearing only pair of yellow rubber wellington rain boots.  When properly sewn onto an eligible garment this upgrade patch bestows the following benefits: Resistance to Electric Damage, +3 Dexterity.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Resistance to Electric damage</li><li>+3 Dexterity</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-upgrade-patch-of-nimble-grounding">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1059
+    category: magic-items
+    slug: enchanted-upgrade-patch-of-nimble-grounding
+    url: https://pointmongo.com/browse/magic-items/enchanted-upgrade-patch-of-nimble-grounding
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-06T06:15:09.3511543Z'
+    needsRestat: false
+    missingFields: []

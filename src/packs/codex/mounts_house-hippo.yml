@@ -1,0 +1,25 @@
+_id: iRNGiKOeEb49su1Z
+_key: '!journal!iRNGiKOeEb49su1Z'
+name: House Hippo
+folder: rEMOgPJ7utWySMpl
+pages:
+  - _id: P2t2Zx7Z6tJWY3kS
+    _key: '!journal.pages!iRNGiKOeEb49su1Z.P2t2Zx7Z6tJWY3kS'
+    name: House Hippo
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A snack-sized pocket pet that grows into a full battle/travel mount when fed chips, capable of both land trampling and underwater diving.</em></p><p>HUNGRY!: Command your House Hippo to bite the closest enemy. If this attack succeeds, you can say goodbye to whatever appendage the hippo gets a hold of.</p><p>This is a Land and Aquatic mount. Diet: Raisins, Grapes, Chips, and Crumbs from Peanut Butter toast…you probably want to have a good stockpile of these.</p><p><strong>Standard Abilities:</strong></p><p><strong>Sleep:</strong> Toss your House hippo your saved Peanut Butter Toast Crumbs to reduce it to its original House Hippo size. A pet carrier is not required for this pet. It will wander around the room looking for lint, mittens, and string to build its nest.</p><p><strong>Mount:</strong> Supply your house hippo with its favourite snack, chips, and it will grow into its mount/battle form.</p><p><strong>Battle/Mount Abilities:</strong></p><p><strong>Trample:</strong> You command your House Hippo to charge into battle, running over any creature in its path dealing 3d6 damage. Increase movement speed by 100% for up to 100 meters. Creatures may roll a DEX save to avoid 50% damage (100% on Crit)</p><p>HUNGRY!: Command your House Hippo to bite the closest enemy. If this attack succeeds, you can say goodbye to whatever appendage the hippo gets a hold of. Mounted Abilities</p><p><strong>Dive:</strong> For 5-10 minutes your House Hippo will dive into any body of water, granting you water breathing for the duration. Remember, you need to make it back to the surface, to keep an eye on your time. Dive duration determined by the number of Raisins fed.</p><p><strong>Swim:</strong> The huge creatures are just as fast on water as they are on land. Ride your mount across any body of water as speed equal to their run speed.</p><hr><p><em>Source: Community submission — Orion Kannan (Crawler #7729). From <a href="https://pointmongo.com/browse/mounts/house-hippo">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 269
+    category: mounts
+    slug: house-hippo
+    url: https://pointmongo.com/browse/mounts/house-hippo
+    source: 'Community submission — Orion Kannan (Crawler #7729)'
+    tags:
+      - dcc-ccs
+      - mounts
+    updatedAt: '2026-09-22T05:38:09.0755316Z'
+    needsRestat: false
+    missingFields: []

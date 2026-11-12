@@ -1,0 +1,19 @@
+_id: dhRlVvi81lr8QUlt
+_key: '!items!dhRlVvi81lr8QUlt'
+name: Double Barreled Shotgun
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>A twelve-gauge break-open boomstick that can fire both barrels at once, then needs an Action to reload.</em></p><p>A twelve-gauge Remington featuring a classic  break-open design with two parallel barrels and a wooden stock.  Don''t point this weapon at anything you don''t want to destroy.</p><p>The dual trigger configuration means that the wielder can choose to fire both barrels as a single action.</p><p>It takes 1 Action to reload both barrels in combat.</p><p>This weapon is found with 6x shells.</p><p>"This...is my Boom-stick!" - Ash</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Shotgun</td></tr><tr><th>Tier</th><td>Bronze</td></tr><tr><th>Weapon skill</th><td>Shotgun</td></tr><tr><th>Damage type</th><td>Piercing</td></tr><tr><th>Limitations</th><td>It takes 1 action to reload both barrels in combat.  Requires two hands to wield. Each Attack requires proper ammunition.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>1d10 piercing dmg / barrel.</li><li>30'' Range.</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/loot/double-barreled-shotgun">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 901
+    category: loot
+    slug: double-barreled-shotgun
+    url: https://pointmongo.com/browse/loot/double-barreled-shotgun
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-17T18:03:42.0272658Z'
+    needsRestat: false
+    missingFields: []

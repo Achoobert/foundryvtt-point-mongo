@@ -1,0 +1,53 @@
+_id: qGMJ76HubDvrWAIK
+_key: '!actors!qGMJ76HubDvrWAIK'
+name: Forlorn Dune
+type: mob
+img: icons/svg/mystery-man.svg
+folder: qiYCTsz5olch4hb3
+system:
+  biography: '<p><strong>Missing:</strong> Level, Size, stat scores, Move, Floor (sets DR), attacks</p><p><em>A bride turned to stone-cursing rage after her groom was petrified on their wedding night — she''s been hunting a cure ever since.</em></p><p><strong>Level:</strong> 60 · <strong>Tunnel Show Title:</strong> Not All Who Wander Are Lost</p><p>Betrayed on the night she was to wed her true love, Infamous Thomas, Forlorna''s jealous bridesmaid pricked him with a poisoned rose, turning him to stone. In her rage, Forlorna tore the bridesmaid apart before learning the secret to reversing the curse, and has been searching for a cure ever since.</p><p><strong>Objective:</strong> Find the only alchemist said to know how to reverse the curse and convince them to help — or track down the bridesmaid''s surviving family (the Cobbler Elves clan) and beat the information out of them. Either way, the party must successfully return Infamous Thomas to his former self.</p><p><strong>Reward:</strong> Gold Quest Box (Alchemy +2 Potion, short shelf life, plus one character-specific reward based on the skills used to complete the quest).</p><table><tbody><tr><th>Elite</th><td>Yes (acts once per crawler)</td></tr></tbody></table><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/npcs/forlorn-dune">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: ''
+  creatureType: ''
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Forlorn Dune
+  actorLink: false
+flags:
+  point-mongo:
+    id: 469
+    category: npcs
+    slug: forlorn-dune
+    url: https://pointmongo.com/browse/npcs/forlorn-dune
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - elite
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-02T04:50:44.7719806Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - Size
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

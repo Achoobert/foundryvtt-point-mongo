@@ -1,0 +1,23 @@
+_id: L7omrCDk0yabUGCX
+_key: '!journal!L7omrCDk0yabUGCX'
+name: Noble Bigot!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: AwwXlxVyFKXAvTcA
+    _key: '!journal.pages!L7omrCDk0yabUGCX.AwwXlxVyFKXAvTcA'
+    name: Noble Bigot!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you brutally, and very colorfully, beat down a bad guy to save an innocent young crawler.</em></p><p>Wow. You really went ham on that guy. I mean, that language was FAR too explicit for Friday Night television. Good thing this isn’t ABC, or else there would have been calls for you to be cancelled for being a no good, racist bigot! I know that guy was from some other racial and/or ethnic group than you, and that younger crawler was all innocent and nearly dead, but did he actually deserve the pummeling you gave him? Probably. But did you actually have to be that brutal? Also probably. At least you were doing the right thing for the right reason. What was it again? I don’t remember. At least the kid is safe and the bad guy is dead!</p><p>REWARD!</p><p>You’ve received a Gold Asshole’s Loot Box</p><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/achievements/noble-bigot">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 974
+    category: achievements
+    slug: noble-bigot
+    url: https://pointmongo.com/browse/achievements/noble-bigot
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-10-27T16:16:13.6579419Z'
+    needsRestat: false
+    missingFields: []

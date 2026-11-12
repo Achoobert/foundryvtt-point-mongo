@@ -1,0 +1,25 @@
+_id: hTocIzlu6C679RL2
+_key: '!journal!hTocIzlu6C679RL2'
+name: Indecisive Asshole
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: eYjBKisafzu0cOKF
+    _key: '!journal.pages!hTocIzlu6C679RL2.eYjBKisafzu0cOKF'
+    name: Indecisive Asshole
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler freezes in place, unable to make up their mind while combat waits.</em></p><p><strong>Scenario:</strong> A crawler can’t make up their mind</p><p>You’re just standing there, doing nothing… like only looking around. Are you ok? Did we break you too soon? Well maybe an achievement will make you move, since that mob did not.</p><p><strong>Suggested Rewards:</strong></p><p>Bronze Dangly keys box. But really all we are just standing around talking, so less talky and more fighty.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/achievements/indecisive-asshole">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 275
+    category: achievements
+    slug: indecisive-asshole
+    url: https://pointmongo.com/browse/achievements/indecisive-asshole
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:38:13.5996589Z'
+    needsRestat: false
+    missingFields: []

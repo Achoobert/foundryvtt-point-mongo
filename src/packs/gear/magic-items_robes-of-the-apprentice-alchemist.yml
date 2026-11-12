@@ -1,0 +1,19 @@
+_id: yXKAsolvjKs18J4l
+_key: '!items!yXKAsolvjKs18J4l'
+name: Robes of the Apprentice Alchemist
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Star-embroidered purple robes for the crawler just starting to dabble in Alchemy.</em></p><p>These flowing dark purple robes are embroidered with subtle yet intricate star-bust patterns in maroon thread.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Robes</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Alchemy Skill Level - CRB Pg 184.</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/robes-of-the-apprentice-alchemist">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 927
+    category: magic-items
+    slug: robes-of-the-apprentice-alchemist
+    url: https://pointmongo.com/browse/magic-items/robes-of-the-apprentice-alchemist
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-18T05:39:22.9560435Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,24 @@
+_id: gnC0yE7UODHkukCP
+_key: '!journal!gnC0yE7UODHkukCP'
+name: Wait, Hear Me Out
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: C0NE5wcoULorU1Xz
+    _key: '!journal.pages!gnC0yE7UODHkukCP.C0NE5wcoULorU1Xz'
+    name: Wait, Hear Me Out
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you convince the party to attempt an initially rejected plan.</em></p><p>You successfully convinced your fellow crawlers to attempt a plan they initially thought was stupid.</p><p>The System AI would like to point out that this is an extremely dangerous social skill.</p><p>Reward: Silver Teamwork Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/wait-hear-me-out">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 659
+    category: achievements
+    slug: wait-hear-me-out
+    url: https://pointmongo.com/browse/achievements/wait-hear-me-out
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0018808Z'
+    needsRestat: false
+    missingFields: []

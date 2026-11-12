@@ -1,0 +1,23 @@
+_id: xJJCh8Bsu24Vkbg2
+_key: '!items!xJJCh8Bsu24Vkbg2'
+name: Slippers of Shhhh
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>Cozy but fragile bedroom slippers that let the wearer move silently.</em></p><p><strong>Type:</strong> Footwear</p><p>Super cozy bedroom slippers that allow the wearer to move silently. Not very durable or protective.</p><table><tbody><tr><th>Type</th><td>Footwear</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/slippers-of-shhhh">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 191
+    category: magic-items
+    slug: slippers-of-shhhh
+    url: https://pointmongo.com/browse/magic-items/slippers-of-shhhh
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-03T16:29:38.8686061Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

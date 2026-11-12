@@ -1,0 +1,52 @@
+_id: ZlkFR4Ygww9WN3BD
+_key: '!actors!ZlkFR4Ygww9WN3BD'
+name: Boom Boxers
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>Medium humanoid mobs shaped like speaker towers who punch hard while listening to their mama.</em></p><p>Square, speaker-tower-shaped mobs who punch hard — “Mama Said Knock You Out” plays on loop in their heads, and they always listen to their mama.</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/mobs/boom-boxers">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 3
+  size: Medium (4)
+  creatureType: Humanoid
+  move: '10'
+  hbSlotsOverride: null
+  hb:
+    value: 3
+    max: 3
+  dr: 1
+  stats:
+    str:
+      value: 6
+    dex:
+      value: 2
+    con:
+      value: 2
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks:
+    - name: Punch
+      toHit: ''
+      damage: 1d6+3
+      damageType: force
+      range: ''
+      effect: ''
+prototypeToken:
+  name: Boom Boxers
+  actorLink: false
+flags:
+  point-mongo:
+    id: 100
+    category: mobs
+    slug: boom-boxers
+    url: https://pointmongo.com/browse/mobs/boom-boxers
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-20T21:48:31.1483569Z'
+    needsRestat: false
+    missingFields: []

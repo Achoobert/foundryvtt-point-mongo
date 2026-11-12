@@ -1,0 +1,23 @@
+_id: FDsHPBlThnZzxmmF
+_key: '!items!FDsHPBlThnZzxmmF'
+name: Kua-tin
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>The Syndicate''s ruling amphibians: unmatched swimmers, insufferable on land, and unable to breathe air without a rebreather.</em></p><p>The Kua-tin are an aquatic species native to the Borant System, and are the most powerful, influential race of the entire Syndicate.</p><p>Eons ago, the greatest Kua-Tin scientists and engineers pioneered, then patented, exclusive Tunneling technology that brought the galaxy closer together than ever before, ushering in an unprecedented epoch of peace and prosperity.</p><p>That same technology was used to bring the World Dungeon to every citizen in the Syndicate for the very first time, launching the Crawl into the cultural phenomenon that it is today. In fact, World Dungeon: Earth is hosted by the Borant Corporation, and the amazing and patriotic Kua-tin managing the company have made it the most profitable organization in the Syndicate.</p><p>Vastly different than their inferior cosmic cousins, the Gleeners, Kua-tin are perfectly sized, physically strong, exceptionally hearty, agile on land but unmatched in any body of water, astoundingly intelligent and creative, holders of near infinite wealth, and irresistibly moist and attractive to all other races.</p><p>Above all else, the Kua-Tin are completely united in the Bloom.</p><p>For the Great Consensus.</p><p>_&lt;&lt; SYSTEM AI NOTE: The mudskippers hard coded this circle-jerk of a description and MOST of the benefits. While nothing could be removed, a few extra "benefits" were added to make things more realistic. And interesting! &gt;&gt;_</p><table><tbody><tr><th>Size</th><td>Small (2)</td></tr><tr><th>DR</th><td>0</td></tr><tr><th>Prerequisites</th><td>Swimming Rank 5, [REDACTED] &lt;&lt;SYSTEM AI NOTE: You did something the Mudskippers liked!&gt;&gt;</td></tr><tr><th>Build points</th><td>25</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+1 Strength</li><li>+1 Intelligence</li><li>+1 Constitution</li><li>+1 Dexterity</li><li>+1 Charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Swimming</li><li>+2 Escape Plan</li><li>+2 Pathfinder</li><li>+2 Calligraphy</li><li>+2 Deception</li><li>+1 Cockroach</li></ul><p><strong>Benefits</strong></p><ul><li>Can see in total darkness under water only <em>(minor)</em></li><li>Ability to breathe underwater <em>(moderate)</em></li><li>+1 Popularity when any roll results in a Major or Critical FAIL. <em>(moderate)</em></li><li>Can raise a thematically linked group of Skills to Rank 20 (Swimming, Escape Plan, Pathfinder, Calligraphy, Deception) <em>(moderate)</em></li><li>Add 1d4 to your Evade Checks <em>(major)</em></li><li>Size 2 <em>(major)</em></li><li>+1 to all Skills in a thematically linked group of 3-5 skills (Swimming, Escape Plan, Pathfinder, Calligraphy, Deception) <em>(extreme)</em></li><li>+1 to all Skills in a thematically linked group of 3-5 skills (Swimming, Escape Plan, Pathfinder, Calligraphy, Deception) <em>(extreme)</em></li><li>+1 to a skill that you wouldn''t normally be able to learn (Cockroach) <em>(extreme)</em></li></ul><p><strong>Detriments</strong></p><ul><li>When socially dealing with any Dungeon NPC, make all Charisma-based Checks with Disadvantage, overriding any other potential Benefits to provide Advantage. <em>(1 pt)</em></li><li>Limited to using weapons of petite size or smaller. <em>(2 pt)</em></li><li>IN-ability to breathe air (Standard Borant Rebreather provided) <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Mr King. From <a href="https://pointmongo.com/browse/races/kua-tin">Point Mongo</a>.</em></p>'
+  size: Small (2)
+  prerequisites: 'Swimming Rank 5, [REDACTED] <<SYSTEM AI NOTE: You did something the Mudskippers liked!>>'
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 782
+    category: races
+    slug: kua-tin
+    url: https://pointmongo.com/browse/races/kua-tin
+    source: Community submission — Mr King
+    tags: []
+    updatedAt: '2026-09-20T19:30:22.5119353Z'
+    needsRestat: false
+    missingFields: []

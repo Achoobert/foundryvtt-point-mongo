@@ -1,0 +1,24 @@
+_id: eiF29n9o7VbzsbiU
+_key: '!journal!eiF29n9o7VbzsbiU'
+name: No Plan Survives Contact
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: ZbcwN1o5g0picSPn
+    _key: '!journal.pages!eiF29n9o7VbzsbiU.ZbcwN1o5g0picSPn'
+    name: No Plan Survives Contact
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you successfully adapt when a carefully prepared plan goes catastrophically wrong.</em></p><p>Your carefully prepared plan failed.</p><p>You improvised.</p><p>Somehow, the improvised version worked better.</p><p>The System AI is beginning to suspect that planning may have been your problem.</p><p>Reward: Gold Lucky Bastard Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/no-plan-survives-contact">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 661
+    category: achievements
+    slug: no-plan-survives-contact
+    url: https://pointmongo.com/browse/achievements/no-plan-survives-contact
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0034685Z'
+    needsRestat: false
+    missingFields: []

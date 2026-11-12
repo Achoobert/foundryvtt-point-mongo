@@ -1,0 +1,36 @@
+_id: fncLXGN8y2g2jt6P
+_key: '!items!fncLXGN8y2g2jt6P'
+name: Cosplay / Reeactor
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>LARP and cosplay experience grants bonuses with weapons, armor, and items matching your prior hobby gear.</em></p><p>Congratulations! You are a mega nerd! Normies don''t care about that awesome set of blackened riveted chainmail you bought from Amazon, but you do, and you will argue with anyone that it isn''t actually called chainmail! You get bonuses to using any weapon, armor, or item in the dungeon that you had used during your time LARPing with your fellow nerds. Bonuses depend on your knowledge and familiarity with your area of nerdity. You nerd!</p><hr><p><em>Source: Community submission — Grognak The Barbarian (Crawler #32780). From <a href="https://pointmongo.com/browse/skills/cosplay-reeactor">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 64
+    category: skills
+    slug: cosplay-reeactor
+    url: https://pointmongo.com/browse/skills/cosplay-reeactor
+    source: 'Community submission — Grognak The Barbarian (Crawler #32780)'
+    tags:
+      - skill
+    updatedAt: '2026-08-31T17:12:29.7716298Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

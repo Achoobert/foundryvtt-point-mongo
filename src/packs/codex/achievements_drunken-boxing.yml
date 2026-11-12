@@ -1,0 +1,23 @@
+_id: V4mvIUM2TjNh21FF
+_key: '!journal!V4mvIUM2TjNh21FF'
+name: Drunken Boxing
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 0PoXzb1EzBrzBvrf
+    _key: '!journal.pages!V4mvIUM2TjNh21FF.0PoXzb1EzBrzBvrf'
+    name: Drunken Boxing
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you kill an enemy with your fist while Shit Faced.</em></p><p>Triggered when a crawler kills an enemy with their fist while suffering the Shit Faced debuff.</p><p>NEW ACHIEVEMENT: Drunken Boxing</p><p>You killed an enemy with your Fist while drunk as a skunk. You''re either a high-functioning alcoholic or lucky as shit. Either way, I like this version of you; keep it up and maybe I''ll get you some top-shelf stuff.</p><p>Reward: Bronze Lucky bastard box</p><hr><p><em>Source: Community submission — Sketch. From <a href="https://pointmongo.com/browse/achievements/drunken-boxing">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1082
+    category: achievements
+    slug: drunken-boxing
+    url: https://pointmongo.com/browse/achievements/drunken-boxing
+    source: Community submission — Sketch
+    tags: []
+    updatedAt: '2026-11-08T10:01:17.8468458Z'
+    needsRestat: false
+    missingFields: []

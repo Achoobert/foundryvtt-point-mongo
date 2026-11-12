@@ -1,0 +1,23 @@
+_id: kudcSh5LRXMJ0Nxg
+_key: '!items!kudcSh5LRXMJ0Nxg'
+name: Liminal Survivor
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Mage class for those who''ve already been Dying once: undead leave you alone and you can keep acting while death closes in.</em></p><p>The dungeon can be a lethal place. And you''ve got to experience it first hand. The bad news? It is probably gonna happen again. The good news? At least you know what to expect.</p><table><tbody><tr><th>Prerequisites</th><td>You must have suffered the Dying debuff at least once.</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Constitution</li><li>+3 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Drain Life</li><li>+1 Cockroach</li><li>+1  Second Chance</li></ul><p><strong>Benefits</strong></p><ul><li>Undead mobs are neutral to you by default. <em>(major)</em></li><li>You and any items you carry are able to affect undead incorporeal mobs (Ghosts, Specters, etc) <em>(moderate)</em></li><li>Doubles the mana regeneration for mending and resting in liminal spaces (Cemeteries, Morgues, Haunted sites, etc) <em>(minor)</em></li><li>Add your Con mod twice to determine how many rounds you have before you die. <em>(major)</em></li><li>You can take actions while under the Dying debuff <em>(extreme)</em></li><li>When the Dying debuff is removed, you gain 1HB and half your mana <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Any healing spells, effects and/or items are locked to you while under the Dying debuff <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/liminal-survivor">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Mage
+  prerequisites: You must have suffered the Dying debuff at least once.
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1156
+    category: classes
+    slug: liminal-survivor
+    url: https://pointmongo.com/browse/classes/liminal-survivor
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1849988Z'
+    needsRestat: false
+    missingFields: []

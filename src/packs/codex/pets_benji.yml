@@ -1,0 +1,26 @@
+_id: vrbmvqyi2mWHhTNw
+_key: '!journal!vrbmvqyi2mWHhTNw'
+name: Benji
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: aDFRJf0uZ79Qmj9w
+    _key: '!journal.pages!vrbmvqyi2mWHhTNw.aDFRJf0uZ79Qmj9w'
+    name: Benji
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A capricious tom cat transformed into a grey/black Tigran, later adopting the Hunter/Killer Assassin class.</em></p><dl class="stat-block"><dt>Species</dt><dd>Tabby Cat</dd><dt>Stats</dt><dd>Level 1</dd><dt>Class</dt><dd>See Description</dd></dl><p>Benji is a capricious tom cat who loves nothing more than to lay in the patches of sunlight on the hardwood floor of his living room. His dark grey/black fur pattern makes him look like a Bengal Tiger, which gave him his name, and he sometimes displays the personality to match. Considered strictly an indoor cat by his family, he has proven to be a wily escape artist. Loyal, vocal, and often hungry, Benji is 50% cuddle monster and 50% little ball of aggression. Do NOT attempt to rub that fuzzy belly when he presents it — it''s a trap!</p><p><strong>Changes after entering the Dungeon:</strong> Transformed into a grey/black Tigran via a Legendary Pet Biscuit. On the 3rd Floor he sticks with his new race, and adopts the Hunter/Killer Assassin Class.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/pets/benji">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 29
+    category: pets
+    slug: benji
+    url: https://pointmongo.com/browse/pets/benji
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - animal-companion
+      - pet
+      - cat
+    updatedAt: '2026-08-31T17:12:29.7222323Z'
+    needsRestat: false
+    missingFields: []

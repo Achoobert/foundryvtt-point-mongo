@@ -1,0 +1,19 @@
+_id: utSgU90cMHUlFw55
+_key: '!items!utSgU90cMHUlFw55'
+name: Enchanted Toe Ring of the Healing Foot
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A footprint-dotted toe ring that adds Charisma and casts Intimate Touches, as long as you heal with your foot.</em></p><p>Oh yeah, daddy needs that healing rub from your foot. Rub it all over daddy.</p><p>A golden ring, with tiny footprints dotting the surface. Grants the wearer the following benefits:</p><p>• +3 CHA</p><p>• Intimate Touches Spell (instead of touching with hands, however, you MUST touch the person with your foot).</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Limitations</th><td>Instead of touching with hands, you MUST touch the person with your foot.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 CHA</li><li>Intimate Touches Spell, cast by touching with your foot</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-healing-foot">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1126
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-the-healing-foot
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-healing-foot
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-11-10T06:59:48.7100463Z'
+    needsRestat: false
+    missingFields: []

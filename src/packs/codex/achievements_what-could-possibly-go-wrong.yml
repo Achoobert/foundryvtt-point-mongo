@@ -1,0 +1,24 @@
+_id: nMIXMbPGuiKYP8hY
+_key: '!journal!nMIXMbPGuiKYP8hY'
+name: What Could Possibly Go Wrong?
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: Gf9cjZIrCrTuGb5M
+    _key: '!journal.pages!nMIXMbPGuiKYP8hY.Gf9cjZIrCrTuGb5M'
+    name: What Could Possibly Go Wrong?
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you say the phrase immediately before something goes catastrophically wrong.</em></p><p>You said the forbidden words immediately before something went horribly wrong. The System AI would like to remind you that it is listening.</p><p>Reward: Bronze Asshole''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/what-could-possibly-go-wrong">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 617
+    category: achievements
+    slug: what-could-possibly-go-wrong
+    url: https://pointmongo.com/browse/achievements/what-could-possibly-go-wrong
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9675685Z'
+    needsRestat: false
+    missingFields: []

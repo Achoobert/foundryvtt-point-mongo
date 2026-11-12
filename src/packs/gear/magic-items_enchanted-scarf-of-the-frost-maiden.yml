@@ -1,0 +1,19 @@
+_id: pIdHqTQwwY2dfSpZ
+_key: '!items!pIdHqTQwwY2dfSpZ'
+name: Enchanted Scarf of the Frost Maiden
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A blue and white cable-knit scarf, the height of dungeon fashion, that shrugs off ice and sharpens the mind.</em></p><p>This enchanted blue and white banded cable knit scarf is simply the height of Dungeon fashion.</p><p>It also bestows Resistance to Ice Damage (50% Damage Reduction) and a large Intelligence Stat bump.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Scarf</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5 Intelligence</li><li>Grants the wearer Resistance to Ice attacks (50% damage reduction)</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-scarf-of-the-frost-maiden">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 937
+    category: magic-items
+    slug: enchanted-scarf-of-the-frost-maiden
+    url: https://pointmongo.com/browse/magic-items/enchanted-scarf-of-the-frost-maiden
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-18T05:39:22.9640753Z'
+    needsRestat: false
+    missingFields: []

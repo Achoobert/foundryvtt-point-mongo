@@ -1,0 +1,26 @@
+_id: 9ePwHMOhsI03oQBQ
+_key: '!journal!9ePwHMOhsI03oQBQ'
+name: 'Bubble #1013 (Floor 5)'
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: qjFRkzlaF8RqmxEF
+    _key: '!journal.pages!9ePwHMOhsI03oQBQ.qjFRkzlaF8RqmxEF'
+    name: 'Bubble #1013 (Floor 5)'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A four-quadrant Floor 5 bubble centered on the fractured Royal Disk artifact, split across a floating court, a survival-marathon biome, a merfolk feast, and warring mole-people factions.</em></p><p><strong>Type:</strong> Floor 5 Bubble</p><p>Air Quadrant: the Royal Disk''s fractured court sits atop a floating mountain reachable only by punishing vine-climbs; reassembling the disk restores its unknown power. Land Quadrant: tiger-like beast-folk run a deadly survival marathon that crawlers are forced to join and win. Water Quadrant: merfolk demand rare delicacies like kraken meat and leviathan eggs for a feast before granting access. Subterranean Quadrant: three warring mole-people factions each want their leader on the (still-incomplete) Royal Disk throne.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/floors/bubble-1013-floor-5">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 225
+    category: floors
+    slug: bubble-1013-floor-5
+    url: https://pointmongo.com/browse/floors/bubble-1013-floor-5
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - floors
+      - bubble
+    updatedAt: '2026-09-02T04:50:41.6544331Z'
+    needsRestat: false
+    missingFields: []

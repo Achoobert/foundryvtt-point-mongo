@@ -1,0 +1,51 @@
+_id: LaE1SprOi9vnO3G0
+_key: '!actors!LaE1SprOi9vnO3G0'
+name: Gigi Bloodmaw
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><strong>Missing:</strong> Level, stat scores, Floor (sets DR), attacks</p><p><em>A Huge, level 25 Giganotosaurus Neighborhood Boss — a failed amusement-park attraction that reclaimed its place atop the food chain.</em></p><p>Giganotosaurus Lv.25 Gigi was one of many groundbreaking experiments done by scientists in the hopes that he would one day become a deeply loved attraction at an amusement park! What the scientists didn''t bet on was that reviving one of the largest terrestrial predators discovered by you meat bags would have consequences. Gigi tore through that park and then some, reclaiming his birthright at the top of the food chain! Way to go, Gigi! Smush Bite Tail Smack/Melee Attack Rush Attack Frenzy-reduces damage but lowers INT Intimidating Roar-taunt skill that lowers attack stats for a short time Passive: Apex: gives user +1 to highest stat for every target with lower same stat, in this case +1 to strength for every strength stat lower than his.</p><hr><p><em>Source: Community submission — MaxAvalon (Crawler #2825). From <a href="https://pointmongo.com/browse/bosses/gigi-bloodmaw">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 1
+  size: Huge (6)
+  creatureType: Dinosaur
+  move: '60'
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Gigi Bloodmaw
+  actorLink: false
+flags:
+  point-mongo:
+    id: 93
+    category: bosses
+    slug: gigi-bloodmaw
+    url: https://pointmongo.com/browse/bosses/gigi-bloodmaw
+    source: 'Community submission — MaxAvalon (Crawler #2825)'
+    tags:
+      - dcc-ccs
+      - neighborhood-boss
+      - bosses
+    updatedAt: '2026-09-22T05:38:11.3524764Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - stat scores
+      - Floor (sets DR)
+      - attacks

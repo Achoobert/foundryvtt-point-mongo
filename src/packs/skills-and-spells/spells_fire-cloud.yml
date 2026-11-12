@@ -1,0 +1,44 @@
+_id: w7utECeRsSVCZ0rT
+_key: '!items!w7utECeRsSVCZ0rT'
+name: Fire Cloud
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Fills a 15-foot square with flame, Burning anything that starts its turn inside it.</em></p><p>Creates a swirling cloud of flames and fiery embers in a 15ftx15ft area. It does not block vision, but inflicts Burned to all that begin its turn within it.</p><table><tbody><tr><th>Base damage</th><td>Inflicts Burning</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/spells/fire-cloud">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 10
+  range: 30ft
+  duration: 2 rounds
+  cooldown: 1 min
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Mage
+    - Druid
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: fire
+  upgrades:
+    - id: hL8T9C6hwBFAIKIj
+      rankThreshold: 5
+      description: <p>+5ft Area</p>
+    - id: pZUvKVCedwTT1Pci
+      rankThreshold: 10
+      description: <p>+5ft area, duration increases to 5 rounds</p>
+    - id: MbQfbFHviGqM33fY
+      rankThreshold: 15
+      description: <p>+5ft area, affected targets are also Fatigued</p>
+flags:
+  point-mongo:
+    id: 520
+    category: spells
+    slug: fire-cloud
+    url: https://pointmongo.com/browse/spells/fire-cloud
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6561526Z'
+    needsRestat: false
+    missingFields: []

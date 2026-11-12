@@ -1,0 +1,24 @@
+_id: nCUzdxuI9ZSKuu4q
+_key: '!journal!nCUzdxuI9ZSKuu4q'
+name: Where the Hell Are We?
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: tHSQhPNtTgoKwVew
+    _key: '!journal.pages!nCUzdxuI9ZSKuu4q.tHSQhPNtTgoKwVew'
+    name: Where the Hell Are We?
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you become genuinely lost, then successfully find your way back.</em></p><p>You got completely lost. Then, somehow, you found your way back. The System AI isn''t sure whether to reward your navigation skills or your ability to become lost in the first place.</p><p>Reward: Bronze Explorer''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/where-the-hell-are-we">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 605
+    category: achievements
+    slug: where-the-hell-are-we
+    url: https://pointmongo.com/browse/achievements/where-the-hell-are-we
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9578703Z'
+    needsRestat: false
+    missingFields: []

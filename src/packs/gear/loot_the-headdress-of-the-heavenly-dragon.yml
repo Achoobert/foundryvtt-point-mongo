@@ -1,0 +1,25 @@
+_id: p82BSqMbfod6uG6b
+_key: '!items!p82BSqMbfod6uG6b'
+name: The Headdress of the Heavenly Dragon
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A unique, fleeting, divine headdress forged from the 12 Crystals of Dragonkind, granting massive stat boosts and draconic spells — with a catch.</em></p><p><strong>Notes:</strong> See Description</p><p>The Headdress of the Heavenly Dragon This is a unique item! This is a fleeting item! This is a divine item! Assembled from the 12 Crystals of Dragonkind this headdress holds the untold power of all dragons. In all of history never has a single individual held the truly immense power contained within this item - I''m excited to see what happens! Put it on already!</p><p>This celestial, divine artifact imparts the user with the following benefits:</p><p>+25% to Constitution</p><p>+25% to Charisma</p><p>Level 15 Intimidating Prowess skill</p><p>Level 15 Fly skill</p><p>Level 15 Draconic Breath (any) spell</p><p>Wearer may cast a level 15 Draconic Rage once every 30 hours</p><p>Wearer may cast a level 15 Dragon Form once every 30 hours</p><p>Warning! Placing this headdress upon your head permanently places you in command of The Chamber - an order of secretive dragons on the 14th floor. These dragons will not appreciate being under the command of some "mortal" and have a very specific ritual they must undertake to prove your capability to lead them - it all has to do with something called the Draconic Prophecy. If you somehow complete this ritual... Well, we probably won''t get to that...</p><table><tbody><tr><th>Type</th><td>Headwear</td></tr></tbody></table><hr><p><em>Source: Community submission — Riley R (Crawler #10268). From <a href="https://pointmongo.com/browse/loot/the-headdress-of-the-heavenly-dragon">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 146
+    category: loot
+    slug: the-headdress-of-the-heavenly-dragon
+    url: https://pointmongo.com/browse/loot/the-headdress-of-the-heavenly-dragon
+    source: 'Community submission — Riley R (Crawler #10268)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+      - headwear
+    updatedAt: '2026-09-22T05:37:42.1303648Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

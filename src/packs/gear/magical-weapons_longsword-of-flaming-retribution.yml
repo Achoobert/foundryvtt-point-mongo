@@ -1,0 +1,19 @@
+_id: r47uYnSqu1YU0kcr
+_key: '!items!r47uYnSqu1YU0kcr'
+name: Longsword of Flaming Retribution
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A silvery blade that never quite cools. It halves the fire thrown at you, and can set itself alight to give some back.</em></p><p>This silvery blade is always warm to the touch.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Longsword</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>Weapon skill</th><td>Longsword</td></tr><tr><th>Cooldown</th><td>3 rounds</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 Longsword Skill levels</li><li>Grants Fire Resistance (50% damage) to Fire based attacks - CRB Pg 93.</li><li>Fire Blade - Spell (Fire Fingers) Level 10 - 3d4+Int Flame dmg + Burned Debuff - CRB Pg 205.</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/longsword-of-flaming-retribution">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 800
+    category: magical-weapons
+    slug: longsword-of-flaming-retribution
+    url: https://pointmongo.com/browse/magical-weapons/longsword-of-flaming-retribution
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-09-24T18:09:50.6343679Z'
+    needsRestat: false
+    missingFields: []

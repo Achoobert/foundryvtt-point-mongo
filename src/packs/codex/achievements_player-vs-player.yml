@@ -1,0 +1,24 @@
+_id: wnwqDXyjVyPbMUR0
+_key: '!journal!wnwqDXyjVyPbMUR0'
+name: Player VS Player
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: WPVBvMyj0BIyRTsQ
+    _key: '!journal.pages!wnwqDXyjVyPbMUR0.WPVBvMyj0BIyRTsQ'
+    name: Player VS Player
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you kill another Crawler.</em></p><p>You re the first member of your Party to kill another Crawler. We''ve got a nice shiny skull to adorn your name with now to let everyone know just how efficiently brutal you are to your own kind. But hey! That experience gain you got from snuffing out someone''s life certainly doesn''t hurt!</p><p>Oh, and we''ve got one more surprise for you.</p><p>Reward: You''ve received a Savage Box.</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/player-vs-player">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 563
+    category: achievements
+    slug: player-vs-player
+    url: https://pointmongo.com/browse/achievements/player-vs-player
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-11-11T20:08:41.5142653Z'
+    needsRestat: false
+    missingFields: []

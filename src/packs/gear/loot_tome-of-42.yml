@@ -1,0 +1,23 @@
+_id: awSuAJmhMYx3hAgg
+_key: '!items!awSuAJmhMYx3hAgg'
+name: Tome of 42
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A locked artifact tome that answers any question its bound crawler asks — for a price it decides, which can be declined.</em></p><p><strong>Notes:</strong> See Description</p><p><strong>Artifact:</strong> Tome of 42 You have questions, we have the answers -- ALL OF THEM…for a price This Tome is locked to the crawler that receives it and will only answer questions of that crawler. This item cannot be stolen and can only be destroyed upon the crawlers’ death. The owner of this Tome may ask it any question. The tome will then decide the cost of the answer; gold, magical item(s), sacrificing a teammate, a toe (the AI will not be happy with this one). Once the Crawler has accepted, and then completed, the terms of The Tome, only then will the question be answered. Upon hearing the terms, the player may decline. At any give time, there can only be 3 active questions. • Knowing the exact weather conditions for they day may only cost a gold piece • Wanting to know the events of the next floor… well, that might cost you more than you are willing to give up.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Book</td></tr></tbody></table><hr><p><em>Source: Community submission — Orion Kannan (Crawler #7729). From <a href="https://pointmongo.com/browse/loot/tome-of-42">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 149
+    category: loot
+    slug: tome-of-42
+    url: https://pointmongo.com/browse/loot/tome-of-42
+    source: 'Community submission — Orion Kannan (Crawler #7729)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-09-30T20:04:01.8843165Z'
+    needsRestat: false
+    missingFields:
+      - effects

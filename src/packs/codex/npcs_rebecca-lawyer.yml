@@ -1,0 +1,26 @@
+_id: ObxhtyBtWOzY3BW8
+_key: '!journal!ObxhtyBtWOzY3BW8'
+name: Rebecca (Lawyer)
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: nKgPa3MXxEGTWIKQ
+    _key: '!journal.pages!ObxhtyBtWOzY3BW8.nKgPa3MXxEGTWIKQ'
+    name: Rebecca (Lawyer)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A bubbly, gushing Moon Elf lawyer at Babbsy Community Law who turns sharp and businesslike the instant work begins.</em></p><p><strong>Type:</strong> Lawyer · <strong>Race:</strong> Moon Elf · <strong>Firm:</strong> Babbsy Community Law</p><p>Bubbly and gushing over her clients right up until legal work needs doing, at which point she snaps to strait-laced professionalism on a dime. A genuinely good lawyer, if you can handle the fawning.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/npcs/rebecca-lawyer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 249
+    category: npcs
+    slug: rebecca-lawyer
+    url: https://pointmongo.com/browse/npcs/rebecca-lawyer
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - lawyer
+    updatedAt: '2026-09-02T04:50:41.4088112Z'
+    needsRestat: false
+    missingFields: []

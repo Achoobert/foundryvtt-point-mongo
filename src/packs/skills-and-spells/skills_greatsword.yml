@@ -1,0 +1,41 @@
+_id: HsMiYlVrQU05G7xY
+_key: '!items!HsMiYlVrQU05G7xY'
+name: Greatsword
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A Strength-based melee attack skill for big two-handed swords.</em></p><p>A skill for BIG, two-handed swords. Overcompensating for something, maybe?</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d10 STR</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/skills/greatsword">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: slashing
+  upgrades:
+    - id: RgwAiAYzJ7blWb7b
+      rankThreshold: 5
+      description: <p>+1d10 dmg</p>
+    - id: bu5qc3zeUXspCMEX
+      rankThreshold: 10
+      description: <p>+1d10 dmg +1 rank in the Double Tap Skill</p>
+    - id: fkVihPBeaXqQDfyL
+      rankThreshold: 15
+      description: <p>+1d10 dmg</p>
+flags:
+  point-mongo:
+    id: 551
+    category: skills
+    slug: greatsword
+    url: https://pointmongo.com/browse/skills/greatsword
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6434445Z'
+    needsRestat: false
+    missingFields: []

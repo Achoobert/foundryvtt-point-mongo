@@ -1,0 +1,19 @@
+_id: b8fpZVGKTnuNbcUk
+_key: '!items!b8fpZVGKTnuNbcUk'
+name: Fuzzy Boots of Ug'gorot
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Ugly enough to loop back around to cute. They belonged to Ug''gorot, and they are cleverer and sturdier than they look.</em></p><p>These fur-lined boots are absolutely ugly, but the kind of ugly where it loops back around to being cute again. They once belonged to the Crawler Ug''gorot from an older season of Dungeon Crawler Worlds, who''s confusing style hid the fact that she was both smart and sturdy. Well, right until she died that is.</p><table><tbody><tr><th>Slot</th><td>Feet</td></tr><tr><th>Type</th><td>Boots</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>0</td></tr><tr><th>Duration</th><td>n/a</td></tr><tr><th>Cooldown</th><td>n/a</td></tr><tr><th>Charges</th><td>n/a</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 Intelligence</li><li>+2 Constitution</li></ul><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/magic-items/fuzzy-boots-of-ug-gorot">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 732
+    category: magic-items
+    slug: fuzzy-boots-of-ug-gorot
+    url: https://pointmongo.com/browse/magic-items/fuzzy-boots-of-ug-gorot
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-24T18:09:52.9495624Z'
+    needsRestat: false
+    missingFields: []

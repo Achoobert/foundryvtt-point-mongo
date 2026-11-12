@@ -1,0 +1,23 @@
+_id: vkPh0YtGCNF7c2x8
+_key: '!items!vkPh0YtGCNF7c2x8'
+name: Rupture Saint
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Barbarian/Paladin class that thrives on pain, getting stronger as it gets hurt and fighting on while Dying, as long as it finds God in time.</em></p><p>Glutton for pain is an understatement. Feeling pain is at least feeling something. It dumbs down the anxiety, the despair, it silences the voices inside your head.</p><p>Or maybe you are just one sick puppy. Either or… Maybe turning to a higher power will help you.</p><table><tbody><tr><th>Prerequisites</th><td>You have until the end of this floor to Find God.(+1)</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+8 Strength</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 to Endurance</li><li>+1 Taunt</li></ul><p><strong>Benefits</strong></p><ul><li>Membership to Club Vanquisher. <em>(minor)</em></li><li>Double mana regeneration while you are Injured. <em>(minor)</em></li><li>When at 50% health or lower, you become Enraged. <em>(minor)</em></li><li>While Enraged, you ignore Fatigue and Injury debuffs penalties. <em>(extreme)</em></li><li>While Enraged you can benefit from Rage <em>(moderate)</em></li><li>While sustaining a Minor Injury, add your Str Mod one more time to melee damage. Add it once again if you have a Major Wound (4pts) <em>(extreme)</em></li><li>Ignore the effects of Sore as Shit (3pts) <em>(major)</em></li><li>Your Con Modifier is doubled to determine the number of rounds you can last while Dying (2pts) <em>(moderate)</em></li><li>You can take actions while Dying (3pts) <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>You must Find God until the end of the 3rd Floor <em>(1 pt)</em></li><li>After this floor, if you are not worshiping a god, you get the Despondent (Vulnerability to all damage from anyone who does worship a god and 10% penalty to all Stats) debuff until you Find God. (+2pts) <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/rupture-saint">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Barbarian / Paladin
+  prerequisites: You have until the end of this floor to Find God.(+1)
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1154
+    category: classes
+    slug: rupture-saint
+    url: https://pointmongo.com/browse/classes/rupture-saint
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1801157Z'
+    needsRestat: false
+    missingFields: []

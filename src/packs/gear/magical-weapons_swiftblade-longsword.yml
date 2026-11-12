@@ -1,0 +1,19 @@
+_id: LqAH1E3MrG2EBlTZ
+_key: '!items!LqAH1E3MrG2EBlTZ'
+name: Swiftblade - Longsword
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A dual-edged blade etched with double chevrons that hums faintly in your grip. You feel quicker just holding it, and you are.</em></p><p>This enchanted Longsword seems to vibrate in your hands.  You feel quicker just holding it.</p><p>It''s dual-edged blade is etched with double chevrons.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Longsword</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Weapon skill</th><td>Longsword</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 Longsword Skill</li><li>+5 Dexterity</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/swiftblade-longsword">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 796
+    category: magical-weapons
+    slug: swiftblade-longsword
+    url: https://pointmongo.com/browse/magical-weapons/swiftblade-longsword
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-09-24T18:09:50.6368726Z'
+    needsRestat: false
+    missingFields: []

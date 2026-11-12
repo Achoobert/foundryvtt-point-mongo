@@ -1,0 +1,19 @@
+_id: 6q3WsgjOakbVFVDy
+_key: '!items!6q3WsgjOakbVFVDy'
+name: Enchanted Cloak of the Night Watchman
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A dark blue Night Watch cloak that helps on the streets, though wearing it back into Larracos may take some explaining.</em></p><p>This enchanted dark blue cloak was once part of the uniform of the Night Watch of the City of Larracos.   It bestows +4 Streetwise Skill, +1 DR, and a +5% Constitution bonus.  Wearers entering the city of Larracos on the 9th Floor of the Dungeon, may have to explain to the origins of the item, or find themselves on the wrong side of the law.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Cloak</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+4 Streetwise Skill</li><li>+5% Constitution</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-cloak-of-the-night-watchman">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1034
+    category: magic-items
+    slug: enchanted-cloak-of-the-night-watchman
+    url: https://pointmongo.com/browse/magic-items/enchanted-cloak-of-the-night-watchman
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-01T19:31:04.6882483Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,25 @@
+_id: 0PQaYftGwdEIuZ5i
+_key: '!items!0PQaYftGwdEIuZ5i'
+name: Parkour Shoes
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>Magical shoes granting a Dexterity boost, wall-walking, and freerunning skills, plus fluent French.</em></p><p><strong>Notes:</strong> See Description</p><p>These are shoes! Jackie Chan was an amateur! These magical shoes, that must be worn by a humanoid with less than perfect feet, imbue the wearer with tricks that would make David Belle jealous. Wearing these black little shoes gives you: 50% Dexterity Boost. Confer Level 10 Walk on Walls skill. Confers Level 10 Freerunner skill. The wearer also knows French and can mimic a French accent perfectly - giving the wearer +25% charisma when speaking like a Frankophile.</p><table><tbody><tr><th>Type</th><td>Footwear</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/loot/parkour-shoes">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 134
+    category: loot
+    slug: parkour-shoes
+    url: https://pointmongo.com/browse/loot/parkour-shoes
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+      - footwear
+    updatedAt: '2026-11-11T20:08:41.6358986Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

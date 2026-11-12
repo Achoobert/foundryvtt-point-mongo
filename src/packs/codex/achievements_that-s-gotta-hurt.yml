@@ -1,0 +1,24 @@
+_id: IIaQrUK7NkHdpueM
+_key: '!journal!IIaQrUK7NkHdpueM'
+name: That's Gotta Hurt
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: pNPdKmpW01W8iemu
+    _key: '!journal.pages!IIaQrUK7NkHdpueM.pNPdKmpW01W8iemu'
+    name: That's Gotta Hurt
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you lose 25% of your Health Bar from a single attack and survive.</em></p><p>You just suffered an absolutely ridiculous amount of damage from a single attack. Good news: you''re still alive. Bad news: the System AI has noticed.</p><p>Reward: Bronze Survivor''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/that-s-gotta-hurt">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 588
+    category: achievements
+    slug: that-s-gotta-hurt
+    url: https://pointmongo.com/browse/achievements/that-s-gotta-hurt
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9444475Z'
+    needsRestat: false
+    missingFields: []

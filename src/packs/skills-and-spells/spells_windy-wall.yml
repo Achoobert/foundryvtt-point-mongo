@@ -1,0 +1,43 @@
+_id: LUnio5vHtWd9uDdB
+_key: '!items!LUnio5vHtWd9uDdB'
+name: Windy Wall
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Raises a wall of wind that turns arrows and bullets, growing into a ring and then a dome as it ranks up.</em></p><p>Creates a 30ft-long × 7ft-high × 2ft-thick wall of wind.</p><p>Evade checks made against projectiles (Arrows, Bolts, Bullets) from behind the wall are made at Advantage</p><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/spells/windy-wall">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 15
+  range: 30ft
+  duration: 2 rounds
+  cooldown: ''
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Druid
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: guBuBL2SaDq2eOIc
+      rankThreshold: 5
+      description: <p>The wall can be turned into a ring of wind. Duration becomes 5 rounds.</p>
+    - id: fOw3SJ9wJzt0zXXm
+      rankThreshold: 10
+      description: <p>Th wall can be turned into a Dome. Duration becomes 10 rounds.</p>
+    - id: bQoO7tPqjkRvnZXY
+      rankThreshold: 15
+      description: <p>Creates a 50ft-long × 10ft-high wall. Enemies moving through the wall take the Blood Trail Debuff.</p>
+flags:
+  point-mongo:
+    id: 860
+    category: spells
+    slug: windy-wall
+    url: https://pointmongo.com/browse/spells/windy-wall
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.7237143Z'
+    needsRestat: false
+    missingFields: []

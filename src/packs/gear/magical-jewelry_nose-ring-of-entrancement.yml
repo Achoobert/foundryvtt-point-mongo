@@ -1,0 +1,23 @@
+_id: 8NZ8ri7buHJWjD0t
+_key: '!items!8NZ8ri7buHJWjD0t'
+name: Nose Ring of Entrancement
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A gold nose ring granting +5 Charisma and a hypnotic mouth-sounds trance ability.</em></p><p><strong>Type:</strong> Nose Ring · <strong>Bonus:</strong> CHA +5</p><p>Grants +5 Charisma and the Just Keep Looking skill: making mouth sounds while worn puts a single target into a hypnotic trance, leaving them unaware of their surroundings for 60 seconds.</p><table><tbody><tr><th>Type</th><td>Nose Ring</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magical-jewelry/nose-ring-of-entrancement">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 203
+    category: magical-jewelry
+    slug: nose-ring-of-entrancement
+    url: https://pointmongo.com/browse/magical-jewelry/nose-ring-of-entrancement
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magical-jewelry
+    updatedAt: '2026-09-03T16:29:38.8938071Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

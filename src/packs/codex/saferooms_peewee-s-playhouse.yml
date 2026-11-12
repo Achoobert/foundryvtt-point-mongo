@@ -1,0 +1,25 @@
+_id: 5Ck91dq1Ap7krsgm
+_key: '!journal!5Ck91dq1Ap7krsgm'
+name: Peewee's Playhouse
+folder: adVwT3zSO8jf77K5
+pages:
+  - _id: wgYIBtyWwY9Qrh64
+    _key: '!journal.pages!5Ck91dq1Ap7krsgm.wgYIBtyWwY9Qrh64'
+    name: Peewee's Playhouse
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Creepy is the secret word of the day.</em></p><p>Creepy is the secret word of the day.</p><hr><p><em>Source: Community submission — evilranma42. From <a href="https://pointmongo.com/browse/saferooms/peewee-s-playhouse">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 431
+    category: saferooms
+    slug: peewee-s-playhouse
+    url: https://pointmongo.com/browse/saferooms/peewee-s-playhouse
+    source: Community submission — evilranma42
+    tags:
+      - dcc-ccs
+      - saferooms
+    updatedAt: '2026-09-05T05:20:41.7939605Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,24 @@
+_id: DuqXTCHF9MBWASMY
+_key: '!items!DuqXTCHF9MBWASMY'
+name: Spetznaz Shovel of Fortification
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A celestial shovel that bonds permanently to one crawler, doubling as a weapon, skillet, and spoon while granting strength and utility skills.</em></p><p><strong>Notes:</strong> See Description</p><p>Perhaps the most useful, multifunctional tool in the entiiiiire dungeon! BEHOLD the CEleStiAL Spetznaz Shovel of Fortification. Da BABY! This unique item bonds to a single crawler, literally. Once grasped the crawler cannot let go of the item or it will disappear forever. But do not fret, this thing is better than a hand! This item is a shovel, magical bladed and bludgeoning weapon, skillet, and spoon.</p><p><strong>It imbues the holder with:</strong></p><p>+1 Strength per floor level.</p><p>Dig trench spell 3x day.</p><p>One-handed buttoning skill level 1</p><p>Find traps skill +5. Tripper skill +1.</p><p>Find Path skill level 5.</p><p>Edifice shield SKILL level 10.</p><p>Converts all edible non-living food items to delectable borscht at will.</p><p>Don''t scratch yourself with your dominant hand.</p><table><tbody><tr><th>Type</th><td>Accessory</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/loot/spetznaz-shovel-of-fortification">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 140
+    category: loot
+    slug: spetznaz-shovel-of-fortification
+    url: https://pointmongo.com/browse/loot/spetznaz-shovel-of-fortification
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-11-11T20:08:41.6364585Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

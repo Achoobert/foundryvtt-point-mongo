@@ -1,0 +1,27 @@
+_id: KhHW7WbEaLeY2PsR
+_key: '!items!KhHW7WbEaLeY2PsR'
+name: Underwater Basket Weaver
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>Utility class that learns skills quickly but shallowly, and can combine skills into new ones.</em></p><dl class="stat-block"><dt>Type</dt><dd>Utility</dd><dt>Stat Bonus</dt><dd>Dex +1, Int +1</dd><dt>Stat Penalty</dt><dd>Str -1, Con -1</dd></dl><p>Gain +1 to 5 crafting skills when class is chosen.</p><p><strong>Passives:</strong></p><ul><li>"You Learned Everything?" — skills are learned faster, but cannot go above level 5</li><li>Patterns — you see patterns in attacks and skills, letting you combine skills together to form new ones (e.g. Throw + Trick Shot = Bullseye)</li></ul><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/classes/underwater-basket-weaver">Point Mongo</a>.</em></p>'
+  classTypes: []
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 18
+    category: classes
+    slug: underwater-basket-weaver
+    url: https://pointmongo.com/browse/classes/underwater-basket-weaver
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - floor-class
+      - utility
+    updatedAt: '2026-08-31T17:12:29.6175465Z'
+    needsRestat: false
+    missingFields:
+      - stat bonuses
+      - benefits
+      - Build Point costs

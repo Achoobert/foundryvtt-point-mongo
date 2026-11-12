@@ -1,0 +1,52 @@
+_id: FTQC8pzhZbSPketp
+_key: '!actors!FTQC8pzhZbSPketp'
+name: The Malevolent Seven
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><strong>Missing:</strong> Level, stat scores, Move, Floor (sets DR), attacks</p><p><em>A Wild West-themed Neighborhood Boss posse of orc and bugbear gunslingers wielding Magic Missile revolvers, led by "Crisp" Adams.</em></p><p><strong>NEW ACHIEVEMENT:</strong> The Magnificent... Meh. You’ve managed to piss off the AI so much that it went on a weekend bender through the ‘Western’ sub-folder of Earth’s cinematic archives. It didn’t just bring back a sheriff; it brought back a whole posse of cinematic tropes with a high-fantasy, high-violence makeover. Say hello to "The Malevolent Seven. The Roster The AI didn’t just find seven drunks in a tavern. It hand-picked the most sociopathic greenskins it could find, slapped leather dusters on them, and gave them magically-enhanced six-shooters that fire Magic Missile rounds.</p><p>The Leader (Orc): "Crisp" Adams. A scarred Orc in a black Stetson who spends more time brooding than breathing. He has a +10 to Dramatic Pacing and a -50 to Giving a Damn about your survival.</p><p>The Muscle (Bugbear): Chico. A Bugbear who carries a gatling-wand that shoots fireballs. He’s sensitive about his height. Don’t mention it.</p><p>The Knife Nut (Orc): Billy the Kidder. He doesn''t use guns. He just throws daggers that teleport back to his hands. It’s annoying as hell and very, very sharp.</p><p><strong>The Rest:</strong> Four more Bugbear mercenaries who mostly exist to provide cover fire and die in slow-motion while a harmonica plays somewhere in the distance.</p><p>The Encounter The Crawler hunkered down behind a pile of jagged debris as a round of enchanted lead whistled overhead, trailing blue sparks and the smell of ozone. "Goddammit," the Crawler hissed, checking the durability on their shield. They’d dealt with goblins, slimes, and sentient floorboards, but O.K. Corral: Green-Skin Edition was a new level of annoying. The Orc leader, Crisp, stepped out into the middle of the dungeon floor. He didn''t run. He just walked. Slowly. He did that thumb-flick thing on his holster—the one that makes the viewers at home go wild—and spat a glob of black ichor onto the cavern floor. "You’re late, Crawler," the Orc rasped, his voice sounding like two tectonic plates grinding together. "The clock strikes noon. And I’ve got seven reasons why you aren''t seeing one past it." The air grew heavy with the "High Noon" debuff. Every time the wind whistled, the Crawler’s dexterity dropped by two points. This wasn''t just a fight; it was a choreographed execution.</p><p>Reward? If you survive, you get a ''Big Iron'' loot box and a sense of crushing existential dread. If you die, you’ll at least look cool in the highlight reel. Good luck, Crawler. Try not to get ''high-nooned'' into a greasy smear.</p><hr><p><em>Source: Community submission — David Brookhart (Crawler #26531). From <a href="https://pointmongo.com/browse/bosses/the-malevolent-seven">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 1
+  size: Medium (4)
+  creatureType: Posse
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: The Malevolent Seven
+  actorLink: false
+flags:
+  point-mongo:
+    id: 96
+    category: bosses
+    slug: the-malevolent-seven
+    url: https://pointmongo.com/browse/bosses/the-malevolent-seven
+    source: 'Community submission — David Brookhart (Crawler #26531)'
+    tags:
+      - dcc-ccs
+      - neighborhood-boss
+      - bosses
+    updatedAt: '2026-09-22T05:27:11.5433296Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

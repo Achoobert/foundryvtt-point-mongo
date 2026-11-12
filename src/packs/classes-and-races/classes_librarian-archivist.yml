@@ -1,0 +1,28 @@
+_id: ZtDTbX63WSKjefF5
+_key: '!items!ZtDTbX63WSKjefF5'
+name: Librarian Archivist
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>Intelligence-based Arcanist that catalogs spells, tracks monster weaknesses, and combines scrolls into spellbooks.</em></p><dl class="stat-block"><dt>Type</dt><dd>Arcanist</dd><dt>Stat Bonus</dt><dd>Int +4</dd><dt>Stat Penalty</dt><dd>Chr -2, Str -1, Dex -1</dd></dl><p>The Librarian Archivist are the keepers of the books, the cataloguers of spells, and those who are anti-social yet still the smartest in the room. Don''t let the name give you any false sense of bravado against them — their spell repertoire is likely much better than yours. This quirky support class excels in combining and cataloguing spell scrolls into books they, or others, can learn. Their meticulous dedication to archiving knowledge also makes them foremost experts on exactly how to take down that ancient monster you''ve never heard of before.</p><p><strong>Class Benefits:</strong></p><ul><li>Monsterpedia skill — learn information about a Monster after killing it for the first time; leveling it up by adding new monsters reveals weaknesses and Mob Family info</li><li>Book Keeper skill — combine three of the same scrolls into a Spellbook to learn the spell permanently (still need all requirements for the spell)</li><li>Exploit Weakness spell — a known weakness on a target Mob takes twice as much damage from your spells</li><li>Doom Scrolling spell — conjure a random Scroll of a spell you don''t know but could cast if you did; you can''t use other Scrolls until the conjured one is used</li><li>Gains access to Club Vanquisher</li></ul><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/classes/librarian-archivist">Point Mongo</a>.</em></p>'
+  classTypes: []
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 12
+    category: classes
+    slug: librarian-archivist
+    url: https://pointmongo.com/browse/classes/librarian-archivist
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - floor-class
+      - arcanist
+      - support
+    updatedAt: '2026-08-31T17:12:29.613165Z'
+    needsRestat: false
+    missingFields:
+      - stat bonuses
+      - benefits
+      - Build Point costs

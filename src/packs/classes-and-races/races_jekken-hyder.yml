@@ -1,0 +1,23 @@
+_id: s7nASfb1O7RBLWr3
+_key: '!items!s7nASfb1O7RBLWr3'
+name: Jekken Hyder
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A split-personality race that swaps between a brainy caster form and a hulking brawler, and doesn''t always choose when.</em></p><p>Afflicted with a supernatural duality. One half is intelligent, charismatic, and calculating. The other is a hulking, violent monstrosity that considers diplomacy something you do after breaking someone''s kneecaps.</p><p>Unlike ordinary shapeshifters, Jekken Hyder don''t just change their appearance. Their entire physiology, personality, and physical capabilities transform.</p><p>Jekken Form: this form swaps stats with its brawler counterpart (Str&gt;Int) and (Con&gt;Cha)</p><p>Can only cast in Jekken Form. Cannot use melee attacks in Jekken Form.</p><p>Hyder Form: this form swaps stats with its caster counterpart (Int&gt;Str) and (Cha&gt;Con)</p><p>Can only use melee in Hyder Form. Cannot cast in Hyder Form.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr><tr><th>Build points</th><td>25</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 Strength</li><li>+2 Constitution</li><li>-2 Intelligence</li><li>-2 Charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Pugilism</li><li>+2 Unarmed Strike</li><li>+2 Arcana</li><li>+1 Alchemy</li></ul><p><strong>Benefits</strong></p><ul><li>Dual Nature: You can voluntarily transform between an intelligent charismatic form, and a hulking brute form once every 10 minutes. Transformation takes 1 action. Int &amp; Cha, are swapped with Str &amp; Con stats. (Int&gt;Str &amp; Cha&gt;Con) <em>(epic)</em></li><li>Shapeshifting (When shifting stats) <em>(epic)</em></li><li>Unarmed Strike can be raised to Rank 20 <em>(minor)</em></li><li>Arcana can be raised to Rank 20 <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Uncontrolled Transformation: Roll a unopposed Intelligence/Strength check 10+Mod+F, when at 20% health or below. Upon failure you will unwillingly transform into the alternate form of which you are currently in. Also triggers on any Critical Failure. <em>(3 pt)</em></li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/races/jekken-hyder">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1148
+    category: races
+    slug: jekken-hyder
+    url: https://pointmongo.com/browse/races/jekken-hyder
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1505779Z'
+    needsRestat: false
+    missingFields: []

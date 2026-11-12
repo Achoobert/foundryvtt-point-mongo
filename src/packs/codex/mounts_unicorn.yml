@@ -1,0 +1,25 @@
+_id: oavzeYqzFp7YF5fT
+_key: '!journal!oavzeYqzFp7YF5fT'
+name: Unicorn
+folder: rEMOgPJ7utWySMpl
+pages:
+  - _id: 7rhC72GM7yamyvtV
+    _key: '!journal.pages!oavzeYqzFp7YF5fT.7rhC72GM7yamyvtV'
+    name: Unicorn
+    type: text
+    text:
+      format: 1
+      content: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>A Large, bondable unicorn mount with healing, shielding, and AC-boosting abilities, immune to poison and mind-affecting conditions.</em></p><p><strong>HOOVES:</strong> reach 5 ft., one target. Hit: 2d6 + 4 Bludgeoning Damage.</p><p><strong>HORN:</strong> reach 5 ft., one target. Hit: 1d8 + 4 Piercing damage.</p><p>Unicorn (Pet/Mount) Requires Bonding (Bonding takes 1 hour spent with the creature in uninterrupted meditation, and a Pet Biscuit)</p><p><strong>Damage Immunities:</strong> Poison</p><p><strong>Condition Immunities:</strong> Charmed, Paralyzed, Poisoned -Senses:</p><p>Dark Vision (60 ft.), Passive Perception 13 -Melee Weapons: Horn, Hooves, +7 to melee attacks Bonded Riders can encourage their Unicorn to use one of their special abilities.</p><p>Special Abilities</p><p><strong>HEALING TOUCH:</strong> Up to 3x per day, the Unicorn can touch another creature with it’s horn. The other creature regains up to 18 HP.</p><p>Additionally, this removes all diseases and neutralizes all poisons afflicting the target.</p><p><strong>SHIMMERING BUBBLE:</strong> The Unicorn creates a magical shield around itself and up to 3 creatures within 10 feet of itself.</p><p>SHIMMERING SHIELD The Unicorn grants increased AC to up to 3 allies it can see within 20 meters of itself. Targets gain +5 to AC for the next 5 minutes.</p><hr><p><em>Source: Community submission — Myles L (Crawler #26933). From <a href="https://pointmongo.com/browse/mounts/unicorn">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 272
+    category: mounts
+    slug: unicorn
+    url: https://pointmongo.com/browse/mounts/unicorn
+    source: 'Community submission — Myles L (Crawler #26933)'
+    tags:
+      - dcc-ccs
+      - mounts
+    updatedAt: '2026-09-22T05:38:09.080677Z'
+    needsRestat: true
+    missingFields: []

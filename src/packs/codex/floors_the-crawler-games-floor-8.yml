@@ -1,0 +1,23 @@
+_id: RaIFXJybLkJeyQds
+_key: '!journal!RaIFXJybLkJeyQds'
+name: The Crawler Games (Floor 8)
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: kMzStLqTIUoY4I82
+    _key: '!journal.pages!RaIFXJybLkJeyQds.kMzStLqTIUoY4I82'
+    name: The Crawler Games (Floor 8)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Floor 8''s bracket tournament: collect three former-crawler champions, fight them for the crown, then race for the only stairwell before it closes.</em></p><p>Set on Floor 8, The Crawler Games is bracket tournament where Crawlers will collect champions and use them to fight for a championship crown and a grand prize for the next level. The Games are divided into three phases. Crawlers will only be informed of the first two phases. Phase three will be announced at the conclusion of the tournament after the winner is crowned.</p><p>Phase One: Collect</p><p>In the first phase, Crawlers choose a region of the world the Crawl is set on and are teleported there. Once they arrive, they are to seek out the nearest Safe Room where they will meet an A.I. representative who will explain the rules and give them three Collection wristbands. The Crawlers will have 21 days until the collapse to find champions in the region, defeat them in combat and place a wristband on their wrist to claim them. The champions are all former Crawlers, living and dead. Formerly deceased Crawlers will be reconstituted as they were at the point of death. Living former Crawlers will have their memories reset to the point of their previous Crawl. They are all unique so no Crawler will have the same team. Crawlers can only use three champions. Crawlers may not barter or trade their wristbands with other Crawlers. When every Crawler has collected their champions or the time limit expires, Phase Two will begin. All Crawlers will be teleported to the Arena, a custom designed battleground made by the A.I., to begin Phase Two. If a Crawler does not have three champions, they will be forced to participate on their own behalf.</p><p>Phase Two: Battle</p><p>Crawlers will be paired up into teams of four. Parties larger than four will be randomly assigned to separate groups. Solo Crawlers will be grouped together as evenly as possible. In the event of uneven parties, Crawlers will have to try their best. When the tournament starts, Crawlers will participate in a randomly assigned bracket tournament. The rules of play are simple: Last Champion standing wins. Crawlers will choose one of their champion roster to fight on their behalf. Winning teams move forward. Losers will be placed in the audience seating. Teams must use each champion at least once in the tournament. When the last team wins, the team will be split up for a final fatal four (or less) battle. Crawlers will select one champion, who will be restored to full, and the finals will begin. Last Champion standing wins. Afterwards, Phase Three begins.</p><p>Phase 3: Royale</p><p>Phase Three begins immediately after the winner of the Crawler Games is crowned. A stairwell will appear in the middle of the Arena. Above the stairwell will be a timer and a counter. The timer will count down from thirty minutes. When the timer hits zero, the floor will collapse, killing anyone and anything left on the floor. The counter will display the number of crawlers that have entered the stairwell. When the counter is filled, the stairwell will close. The counter is set at half of the number of Crawlers currently present in the Games. There is only ONE stairwell down. When the countdown begins, champions will be freed from their wristbands and be considered full crawlers once more. Any crawler that crosses the threshold will be saved. Any left in the arena will die.</p><p>Grand Prize: The winning crawler will receive a hefty gold prize, player space upgrades, a Celestial Grand Champion Lootbox, a guest spot on the talk show of their choosing and a potion to level one skill to 20.</p><hr><p><em>Source: Community submission — MoonshadowDark. From <a href="https://pointmongo.com/browse/floors/the-crawler-games-floor-8">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1093
+    category: floors
+    slug: the-crawler-games-floor-8
+    url: https://pointmongo.com/browse/floors/the-crawler-games-floor-8
+    source: Community submission — MoonshadowDark
+    tags: []
+    updatedAt: '2026-11-08T19:07:04.8193933Z'
+    needsRestat: false
+    missingFields: []

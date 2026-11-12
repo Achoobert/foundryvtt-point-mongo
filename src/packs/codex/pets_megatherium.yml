@@ -1,0 +1,23 @@
+_id: DeKEVcBuO8QyGDaH
+_key: '!journal!DeKEVcBuO8QyGDaH'
+name: Megatherium
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: Gr1eUPtmqk9Dt0FK
+    _key: '!journal.pages!DeKEVcBuO8QyGDaH.Gr1eUPtmqk9Dt0FK'
+    name: Megatherium
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A gentle giant ground sloth that bonds through food and distance, and gains Rage at Level 15.</em></p><p>Also known as the giant Ground Sloth, it was a huge prehistoric mammal, comparable in size to an indian elephant (Size 6). It had a long, cylindrical skull and long arms with scythe like claws. Despite its fearsome visage, Megatherium are usually very gentle herbivores.</p><p>Bonding: Megatherium are usually loners and touching stresses them. Feeding one while giving it space seems to be the best way to gain their trust.</p><p>Level 15 Benefit</p><p>When in combat, Megatherium loose themselves. They gain the Rage benefit.</p><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/pets/megatherium">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 773
+    category: pets
+    slug: megatherium
+    url: https://pointmongo.com/browse/pets/megatherium
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-20T19:30:22.4961213Z'
+    needsRestat: false
+    missingFields: []

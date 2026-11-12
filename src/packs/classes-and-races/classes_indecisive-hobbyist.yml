@@ -1,0 +1,27 @@
+_id: pbBWds7JIg5WcZqu
+_key: '!items!pbBWds7JIg5WcZqu'
+name: Indecisive Hobbyist
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>Utility class that can learn almost any skill, but levels everything slowly and rarely specializes.</em></p><dl class="stat-block"><dt>Type</dt><dd>Utility</dd></dl><p>Never able to pick a single thing to enjoy, you find yourself perfectly mediocre at literally everything! Underwater basket weaving? You got it! Amateur masseuse? Been there! Competitive cardboard box folding? Well... at least you got a participation ribbon. Inspired by Donut''s class.</p><p>Can gain nearly any skill or ability, but levels them up at 1/10th the normal rate. Has slightly more frequent ability gains, but is limited in how often those gains can be spent on something already improved — forcing a spread of mediocre-but-reliable abilities over a niche powerhouse. Likely relegated to a more utility role, and much more likely to die as a result of the lack of specialization.</p><hr><p><em>Source: Community submission — ApocMora. From <a href="https://pointmongo.com/browse/classes/indecisive-hobbyist">Point Mongo</a>.</em></p>'
+  classTypes: []
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 10
+    category: classes
+    slug: indecisive-hobbyist
+    url: https://pointmongo.com/browse/classes/indecisive-hobbyist
+    source: Community submission — ApocMora
+    tags:
+      - floor-class
+      - utility
+    updatedAt: '2026-08-31T17:12:29.6115111Z'
+    needsRestat: false
+    missingFields:
+      - stat bonuses
+      - benefits
+      - Build Point costs

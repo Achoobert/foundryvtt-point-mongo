@@ -1,0 +1,24 @@
+_id: KmX9jk7fhKTEuXYa
+_key: '!journal!KmX9jk7fhKTEuXYa'
+name: Strike One
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: AXjoh8AJQKyaVO8Q
+    _key: '!journal.pages!KmX9jk7fhKTEuXYa.AXjoh8AJQKyaVO8Q'
+    name: Strike One
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you get frozen and publicly labeled NAUGHTY for causing trouble in a saferoom.</em></p><p>You started something in a place specifically designed to have no fighting in it. The floating word NAUGHTY over your head is doing a lot of work right now. Two more of these and you''ll meet some very unhappy Mobs up close.</p><p>Reward: Bronze Naughty List Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/strike-one">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 684
+    category: achievements
+    slug: strike-one
+    url: https://pointmongo.com/browse/achievements/strike-one
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0226702Z'
+    needsRestat: false
+    missingFields: []

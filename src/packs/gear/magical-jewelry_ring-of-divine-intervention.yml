@@ -1,0 +1,23 @@
+_id: acg5C1ZJuy7axIhQ
+_key: '!items!acg5C1ZJuy7axIhQ'
+name: Ring of Divine Intervention
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A bound ring that summons the wearer''s chosen god for random, uncontrollable assistance once per day.</em></p><p>Ring of Divine Intervention Celestial Ring – Bound Description: A rune-covered ring that lets you call on your chosen god for help. The catch? You don’t control what kind of help you get. Active Ability – “Divine Intervention” Summon your deity for immediate assistance. Possible Effects: Helpful buff or healing Massive miracle (or massive problem) Random NPC shows up (power level varies wildly) Something gets smited (target not guaranteed) Useless or humiliating “help” Cooldown: 24 hours Passive: Slightly increases how often you attract divine attention. System Message: Congratulations, Crawler! You’ve put your life in the hands of a being that thinks chaos is funny. Good luck. System Note: WARNING if you do not worship a deity, any deity can respond to your request for divine intervention.</p><table><tbody><tr><th>Type</th><td>Ring</td></tr></tbody></table><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/magical-jewelry/ring-of-divine-intervention">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 205
+    category: magical-jewelry
+    slug: ring-of-divine-intervention
+    url: https://pointmongo.com/browse/magical-jewelry/ring-of-divine-intervention
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - magical-jewelry
+    updatedAt: '2026-09-22T05:38:02.3723537Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

@@ -1,0 +1,26 @@
+_id: GFJsqAmHFmGYo7Lu
+_key: '!items!GFJsqAmHFmGYo7Lu'
+name: Angel
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>Become a champion of the Gods (or their servant, whatever floats your boat) and embrace that holier-than-thou attitude you hide to become one the dungeon''s brightest (literally) races.</em></p><p>You are a holy winged warrior and champion of your god. Congratulations on your new job as a God’s bitch. Lets hope your new boss is nice to you. Membership in Club Vanquisher, Winged Flight: Limited Flight 3 minutes per scene, Holy Wings: Limb Regeneration but only for your Wings, Religious: +1 to the Religion Skill, I Have Talked To Gods: Can replace INT with CHA for Religion Skill Checks, Holy Light: Can produce a magical light from your wings, Ethereal Beauty: +5 CHA, Holy Warrior: +5 STR, Holy Defense: +5 CON, Demonic Hatred: Disadvantage in social situations when dealing with Demons and Devils, Must Worship a Deity.</p><p><strong>Stat bonuses</strong></p><ul><li>+5 Charisma</li><li>+5 Strength</li><li>+5 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Religion</li></ul><p><strong>Benefits</strong></p><ul><li>Membership in Club Vanquisher.</li><li>Winged Flight: limited flight, 3 minutes per scene.</li><li>Holy Wings: limb regeneration, but only for your wings.</li><li>I Have Talked To Gods: you may replace Intelligence with Charisma for Religion Skill Checks.</li><li>Holy Light: you can produce a magical light from your wings.</li></ul><p><strong>Detriments</strong></p><ul><li>Demonic Hatred: Disadvantage in social situations with Demons and Devils.</li><li>Must worship a deity.</li></ul><hr><p><em>Source: Hedgemage. From <a href="https://pointmongo.com/browse/races/angel">Point Mongo</a>.</em></p>'
+  size: ''
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 514
+    category: races
+    slug: angel
+    url: https://pointmongo.com/browse/races/angel
+    source: Hedgemage
+    tags:
+      - race
+      - races
+    updatedAt: '2026-09-02T00:47:05.0231265Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

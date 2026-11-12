@@ -1,0 +1,26 @@
+_id: e4trePUkCyiAEjEu
+_key: '!journal!e4trePUkCyiAEjEu'
+name: Ah'lan
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: K8w4Vx4kYfF7Lj54
+    _key: '!journal.pages!e4trePUkCyiAEjEu.K8w4Vx4kYfF7Lj54'
+    name: Ah'lan
+    type: text
+    text:
+      format: 1
+      content: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>A near-immortal Changeling from Season 9, trapped in the Nothing so long he now acts as an unofficial guide there.</em></p><p><strong>Type:</strong> Feral Resident of the Nothing (Crawler #17, Changeling) · <strong>Size:</strong> Medium · <strong>AC:</strong> 10 · <strong>Move:</strong> 20''</p><p>Sucked into the Nothing during his Season 9 crawl on floor 3, Ah''lan has been blessed (or cursed) with near-immortality there and now considers himself a guide, showing newly arrived gods and crawlers around and introducing them to the Nothing''s residents.</p><hr><p><em>Source: Community submission — Ogrekin (Crawler #30788). From <a href="https://pointmongo.com/browse/npcs/ah-lan">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 116
+    category: npcs
+    slug: ah-lan
+    url: https://pointmongo.com/browse/npcs/ah-lan
+    source: 'Community submission — Ogrekin (Crawler #30788)'
+    tags:
+      - dcc-ccs
+      - the-nothing
+      - npcs
+    updatedAt: '2026-09-02T04:50:41.3925215Z'
+    needsRestat: true
+    missingFields: []

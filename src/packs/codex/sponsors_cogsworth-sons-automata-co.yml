@@ -1,0 +1,25 @@
+_id: g0LnaPAKGbNdGOtU
+_key: '!journal!g0LnaPAKGbNdGOtU'
+name: Cogsworth & Sons Automata Co.
+folder: hvyWwMcQCbDfRsP5
+pages:
+  - _id: CO69lG8bFpXeGWmr
+    _key: '!journal.pages!g0LnaPAKGbNdGOtU.CO69lG8bFpXeGWmr'
+    name: Cogsworth & Sons Automata Co.
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A robotics manufacturer producing overconfident, occasionally unionizing automatons for industry and combat.</em></p><p><strong>Slogan:</strong> "We Think, Therefore You Don''t Have To."</p><p>A leading manufacturer of overly confident robots, questionable automatons, and "absolutely safe this time" mechanical assistants, replacing inconvenient human judgment with carefully calibrated machinery that occasionally develops personality quirks. Produces everything from labor drones to combat frames insisting they are "definitely not malfunctioning," despite frequent lawsuits, mysterious firmware updates, and robots that sometimes unionize.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/sponsors/cogsworth-sons-automata-co">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 349
+    category: sponsors
+    slug: cogsworth-sons-automata-co
+    url: https://pointmongo.com/browse/sponsors/cogsworth-sons-automata-co
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - sponsors
+    updatedAt: '2026-09-02T04:50:41.8024001Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: 2U4nO2tE8dJ9qZ4l
+_key: '!items!2U4nO2tE8dJ9qZ4l'
+name: Jewellery Set of the Sadomasochist
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A matching cursed-adjacent set (necklace, ring, nipple ring, earring, bracelet) that trades HP for bonus damage on demand.</em></p><p><strong>Type:</strong> Set (Necklace/Choker, Ring, Nipple Ring, Earring, Bracelet)</p><p>Rings, chains, and cuffs humming with the promise that pain is pleasure. As an action, sacrifice one full HP block per equipped piece to add 1d6 damage per block to the next damage roll, lasting 2 rounds or until used. Full Set Bonus: adds 10d8 instead of 5d6 to the next damage roll.</p><table><tbody><tr><th>Type</th><td>Set</td></tr></tbody></table><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/magical-jewelry/jewellery-set-of-the-sadomasochist">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 202
+    category: magical-jewelry
+    slug: jewellery-set-of-the-sadomasochist
+    url: https://pointmongo.com/browse/magical-jewelry/jewellery-set-of-the-sadomasochist
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - dcc-ccs
+      - magical-jewelry
+    updatedAt: '2026-09-03T16:29:38.8933349Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

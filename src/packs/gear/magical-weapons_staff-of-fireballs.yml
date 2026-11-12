@@ -1,0 +1,19 @@
+_id: T4F4dJG9FAWPhRsU
+_key: '!items!T4F4dJG9FAWPhRsU'
+name: Staff of Fireballs
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A copper-banded oak staff that hurls a free Fireball once every two hours.</em></p><p>This 6'' tall oaken staff is banded with geometric copper filigree along it''s entire length.  It grants its wielder the ability to cast the Fireball spell at no mana cost, once every two hours.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Staff</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Weapon skill</th><td>Quarterstaff</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Fireball Spell at Rank 1, no Mana cost, 2 hour cooldown</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/staff-of-fireballs">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1029
+    category: magical-weapons
+    slug: staff-of-fireballs
+    url: https://pointmongo.com/browse/magical-weapons/staff-of-fireballs
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-31T19:00:58.3154159Z'
+    needsRestat: false
+    missingFields: []

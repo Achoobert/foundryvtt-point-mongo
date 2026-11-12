@@ -1,0 +1,23 @@
+_id: xRe3Xid5fBSSOk3e
+_key: '!journal!xRe3Xid5fBSSOk3e'
+name: Morality check...?
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: n4HqFH9u00H6JnMn
+    _key: '!journal.pages!xRe3Xid5fBSSOk3e.n4HqFH9u00H6JnMn'
+    name: Morality check...?
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Awarded for breaking the unspoken truce of the bathroom line.</em></p><p>I know what I just said and it was awesome to watch, but it was also...sniff...wroong. The bathroom line is practically a safezone how could you do that!?</p><p>Reward: One Asshole Box</p><hr><p><em>Source: Community submission — AI Bogboi. From <a href="https://pointmongo.com/browse/achievements/morality-check">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 838
+    category: achievements
+    slug: morality-check
+    url: https://pointmongo.com/browse/achievements/morality-check
+    source: Community submission — AI Bogboi
+    tags: []
+    updatedAt: '2026-09-30T02:18:46.2943094Z'
+    needsRestat: false
+    missingFields: []

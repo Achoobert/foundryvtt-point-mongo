@@ -1,0 +1,19 @@
+_id: k59YnbCCJ5ASQkgk
+_key: '!items!k59YnbCCJ5ASQkgk'
+name: Short Sword of Stat Spikes
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A faintly glowing short sword that does one thing well: a big boost to Strength and Constitution.</em></p><p>This short, dual edged blade features a leather wrapped ash handle and glows faintly when held by its wielder.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Short Sword</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Weapon skill</th><td>Short Sword</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5 Strength</li><li>+5 Constitution</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/short-sword-of-stat-spikes">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 968
+    category: magical-weapons
+    slug: short-sword-of-stat-spikes
+    url: https://pointmongo.com/browse/magical-weapons/short-sword-of-stat-spikes
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6507343Z'
+    needsRestat: false
+    missingFields: []

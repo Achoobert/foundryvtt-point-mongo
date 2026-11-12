@@ -1,0 +1,24 @@
+_id: ODQsSW7Imw8coCrj
+_key: '!journal!ODQsSW7Imw8coCrj'
+name: Janitorial Services Terminated
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: wFaXzHXGuXLsYdmf
+    _key: '!journal.pages!ODQsSW7Imw8coCrj.wFaXzHXGuXLsYdmf'
+    name: Janitorial Services Terminated
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you defeat a Janitor Mob.</em></p><p>You picked a fight with the entity responsible for cleaning up the floor, and won. Ironically, you''re now part of the mess it would have cleaned up. HR has been notified. HR does not exist here. Never mind.</p><p>Reward: Silver Union Buster Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/janitorial-services-terminated">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 699
+    category: achievements
+    slug: janitorial-services-terminated
+    url: https://pointmongo.com/browse/achievements/janitorial-services-terminated
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0347735Z'
+    needsRestat: false
+    missingFields: []

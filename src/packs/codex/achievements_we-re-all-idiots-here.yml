@@ -1,0 +1,24 @@
+_id: AX2u20yOZ2kr2UtM
+_key: '!journal!AX2u20yOZ2kr2UtM'
+name: We're All Idiots Here
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: HaMB5Ikfn0q2E2WT
+    _key: '!journal.pages!AX2u20yOZ2kr2UtM.HaMB5Ikfn0q2E2WT'
+    name: We're All Idiots Here
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when the entire party contributes to a single disastrous mistake.</em></p><p>Every member of the party contributed to the same catastrophic mistake.</p><p>No one person can be blamed.</p><p>Congratulations on achieving true equality.</p><p>Reward: Gold Asshole''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/we-re-all-idiots-here">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 674
+    category: achievements
+    slug: we-re-all-idiots-here
+    url: https://pointmongo.com/browse/achievements/we-re-all-idiots-here
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.014749Z'
+    needsRestat: false
+    missingFields: []

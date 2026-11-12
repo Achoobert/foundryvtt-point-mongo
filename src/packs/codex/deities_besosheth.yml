@@ -1,0 +1,23 @@
+_id: qqrcryONgBD1AHpl
+_key: '!journal!qqrcryONgBD1AHpl'
+name: Besosheth
+folder: EC7wotocfEVDG1Mx
+pages:
+  - _id: 2I6U6QIPABS4RdOg
+    _key: '!journal.pages!qqrcryONgBD1AHpl.2I6U6QIPABS4RdOg'
+    name: Besosheth
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A pompous but fair god of chaos and knowledge who trades Intelligence advantage for a secret burned daily.</em></p><p>God of chaos + knowledge</p><p>This god is pompous but fair with his followers.  Grants a boon of advantage on Int based skill checks as long as you are in favor.  And if you keep up your devotion streak (see below) for long enough or do enough favors for him, he may even grant you a bonus spell or skill that you normally don''t have access to.</p><p>Doesn''t have enough power to outright smite a crawler if you fall out of favor but he''ll make your life hell by alternating between stat/ skill debuffs or when you go to activate a spell/ skill he''ll activate a different skill on your character sheet at random with random targets.</p><p>Requires followers to be completely silent in holy places.  A shrine will be installed in your private space and you must write down a secret or piece of knowledge that very few know once per day and burn it on the alter (give to DM).  it can be about anyone/ anything in the dungeon.</p><p>On a later floor gives a quest to memorize a message to bring to a nearby town leader without altering a single word. Can not write it down lest it fall into the wrong hands.</p><hr><p><em>Source: Community submission — Alex W. From <a href="https://pointmongo.com/browse/deities/besosheth">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 792
+    category: deities
+    slug: besosheth
+    url: https://pointmongo.com/browse/deities/besosheth
+    source: Community submission — Alex W
+    tags: []
+    updatedAt: '2026-09-20T19:30:22.5307712Z'
+    needsRestat: false
+    missingFields: []

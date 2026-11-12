@@ -1,0 +1,20 @@
+_id: j3Qc6UvH52k8sC9p
+_key: '!items!j3Qc6UvH52k8sC9p'
+name: Bilqis Blessing
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Become your very own botanist with this wonderfully vibrant blessing. Perhaps the flowers you cultivate will provide some useful benefits for those who drink tea!</em></p><p>A small adorned pot with up to 1d6 pretty purplish flowers growing.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Magic Item</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>If the pot is watered and have access to sunlight, it regrows 1d6 flowers in 7 days.</li><li>The flower can be used to make a naturally sweet tea. Upon drinking the tea, gain +1 to CHA per flower used on the brewing of the tea for 2 hours.</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/magic-items/bilqis-blessing">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 491
+    category: magic-items
+    slug: bilqis-blessing
+    url: https://pointmongo.com/browse/magic-items/bilqis-blessing
+    source: Community submission — Gabe M
+    tags:
+      - magic-items
+    updatedAt: '2026-11-11T20:08:41.6594826Z'
+    needsRestat: false
+    missingFields: []

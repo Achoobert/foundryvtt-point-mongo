@@ -1,0 +1,24 @@
+_id: CdPO8jwDIg9jHwis
+_key: '!journal!CdPO8jwDIg9jHwis'
+name: Who Needs a Door?
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: NRQecWltlBG4ApQI
+    _key: '!journal.pages!CdPO8jwDIg9jHwis.NRQecWltlBG4ApQI'
+    name: Who Needs a Door?
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you enter a room without using the intended entrance.</em></p><p>You have successfully entered a room without using the door specifically designed for entering rooms.</p><p>Congratulations! You have discovered architecture''s greatest weakness: the people who designed it assumed you would respect the walls.</p><p>Reward: Silver Explorer''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/who-needs-a-door">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 630
+    category: achievements
+    slug: who-needs-a-door
+    url: https://pointmongo.com/browse/achievements/who-needs-a-door
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9780927Z'
+    needsRestat: false
+    missingFields: []

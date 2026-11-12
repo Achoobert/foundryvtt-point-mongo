@@ -1,0 +1,41 @@
+_id: NdtZMHJEi1XYp9vN
+_key: '!items!NdtZMHJEi1XYp9vN'
+name: Shield Crash
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A Strength-based melee attack skill that slams a shield into the target and knocks them back ten feet.</em></p><p>You slam your shield into your target, and upon a successful hit, you knock the target back by 10 feet.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d4 + STR</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/skills/shield-crash">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: ''
+  cooldown: None
+  limitations: This may only be used with a Shield equipped
+  aiFavor: 1
+  baseDamage:
+    dice: 1d4
+    stat: str
+    damageType: bludgeoning
+  upgrades:
+    - id: 2TA8js9ZA3SoI7Ll
+      rankThreshold: 5
+      description: <p>+1d4 base damage and if the target hits a wall of any sort, they take an additional +1d4 Bludgeoning damage.</p>
+    - id: AQ3WNSVOsxFK7iLK
+      rankThreshold: 10
+      description: <p>+1d4 base damage and you may add your rank in Shield Block to the total damage you deal.</p>
+    - id: kKHLKRanRuNmOxAm
+      rankThreshold: 15
+      description: <p>+1d4 base damage and you knock your target back an additional 10 feet.</p>
+flags:
+  point-mongo:
+    id: 558
+    category: skills
+    slug: shield-crash
+    url: https://pointmongo.com/browse/skills/shield-crash
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6456845Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: r1DXlSahpvhGXBlY
+_key: '!items!r1DXlSahpvhGXBlY'
+name: Transport Scissors
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>Reality-cutting scissors that teleport the user anywhere they''ve seen in the last 24 hours, with rising odds of side effects from overuse.</em></p><p><strong>Notes:</strong> See Description</p><p>TRANSPORT SCISSORS The Transport Scissors are capable of cutting a hole in reality that can transport the Crawler to any place they have seen in the past 24 hours. The Scissors have Unlimited usage each day. However, after a number of uses (equal to half the player’s Intelligence +4), each additional use gains a 15% chance (stacking) of weird side effects (i.e., cursed objects or creatures coming through the portal). Additionally, the user must always close the portals they open or risk setting off a Plot Hole. The Crawler must have a clear image of the place they want to travel to before using the Scissors, or else they will end up somewhere completely random.</p><p>PLOT HOLE</p><p>You’ve unleashed a Plot Hole! I hope you weren’t tied to this life or anything….</p><p>Any portal that isn’t closed after being used will collapse in on itself and create the Plot Hole - a black void into which anything and everything will be sucked in. The Plot Hole can only be closed using the Transport Scissors, or else it will continue to grow in size. Unchecked, the Plot Hole will continue growing until it has consumed everything in its path. You better make sure you close all your portals.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Item</td></tr></tbody></table><hr><p><em>Source: Community submission — Myles L (Crawler #26933). From <a href="https://pointmongo.com/browse/loot/transport-scissors">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 151
+    category: loot
+    slug: transport-scissors
+    url: https://pointmongo.com/browse/loot/transport-scissors
+    source: 'Community submission — Myles L (Crawler #26933)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-09-30T20:04:01.8854041Z'
+    needsRestat: false
+    missingFields:
+      - effects

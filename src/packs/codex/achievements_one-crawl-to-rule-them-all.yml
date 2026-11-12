@@ -1,0 +1,25 @@
+_id: TSFKdKTPicsBaxMY
+_key: '!journal!TSFKdKTPicsBaxMY'
+name: One Crawl to Rule Them All
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: qmIfTZCn56FmI9P7
+    _key: '!journal.pages!TSFKdKTPicsBaxMY.qmIfTZCn56FmI9P7'
+    name: One Crawl to Rule Them All
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered by successfully removing a cursed, whispering item after enduring its psychological assault far longer than sanity allows.</em></p><p><strong>Scenario:</strong> Successfully removed a cursed item.</p><p>You carried a cursed, whispering item far longer than any sane crawler would tolerate, resisted its constant psychological assault (mostly), and only considered betraying your allies a few times. Honestly? That’s restraint. You’ve walked, crawled, bled, and muttered to yourself like a lunatic across half the dungeon just to get rid of the damn thing. Bonus points for dramatically collapsing at the end.</p><p><strong>Suggested Rewards:</strong></p><p>+10% Resistance to Mental Influence (you’ve heard worse now) Passive Ability: Burdened Will – The more exhausted and overwhelmed you are, the harder it becomes for enemies to control you (because honestly, what more can they do to you?)</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/achievements/one-crawl-to-rule-them-all">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 298
+    category: achievements
+    slug: one-crawl-to-rule-them-all
+    url: https://pointmongo.com/browse/achievements/one-crawl-to-rule-them-all
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:38:13.6006511Z'
+    needsRestat: false
+    missingFields: []

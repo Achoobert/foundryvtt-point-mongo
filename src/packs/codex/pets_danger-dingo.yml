@@ -1,0 +1,23 @@
+_id: Ki9r4XhKkGF2uubn
+_key: '!journal!Ki9r4XhKkGF2uubn'
+name: Danger Dingo
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: SMP3XSqBuvkX9DaK
+    _key: '!journal.pages!Ki9r4XhKkGF2uubn.SMP3XSqBuvkX9DaK'
+    name: Danger Dingo
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A kobold''s mistreated dingo that repays kindness, hitting for an extra 1d6 after a twenty-foot run-up.</em></p><p>Bonding: kobolds do not treat their Dingoes kindly. Danger Puppies will quickly respond to affection.</p><p>Level 15 benefit:</p><p>Ravager: if the Dagger Dingo moved at least 20ft before making an attack, add +1d6 to is base damage.</p><p>This increases by 1d6 every fifth floor.</p><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/pets/danger-dingo">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 778
+    category: pets
+    slug: danger-dingo
+    url: https://pointmongo.com/browse/pets/danger-dingo
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-20T19:30:22.4989931Z'
+    needsRestat: false
+    missingFields: []

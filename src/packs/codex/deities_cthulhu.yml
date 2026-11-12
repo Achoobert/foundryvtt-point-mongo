@@ -1,0 +1,23 @@
+_id: iOFkiPqqUCHJXGYk
+_key: '!journal!iOFkiPqqUCHJXGYk'
+name: Cthulhu
+folder: EC7wotocfEVDG1Mx
+pages:
+  - _id: lPiEDO4hcEqE5bF4
+    _key: '!journal.pages!iOFkiPqqUCHJXGYk.lPiEDO4hcEqE5bF4'
+    name: Cthulhu
+    type: text
+    text:
+      format: 1
+      content: '<p><em>The tentacled cosmic horror, now campaigning for a seat in the Ascendancy: tribute every 30 hours, boons of madness and flight, and smites that leave you as livestock or lunch.</em></p><p>Ahh Cthulhu.. A once cosmic entity akin to a god. Most well know for his cults across the universe. He invades the minds of his followers in order to take his place amongst the Celestial elite in the Ascendancy. Like most gods Cthulhu is immortal, and has strength beyond measure. In addition he has vast telepathic powers that he uses to subjugate the minds of the weak and spread madness. Despite his towering size he is capable of flight, as well as shapeshifting thanks to his form being more of a gelatinous nature. In recent attempts at the ascendancy he has forgone his usual route of invading minds to cause insanity in favor of using those same minds to spread his message to the universe. A vote for Cthulhu is a vote for the greater evil! Join the cult today!</p><p>Boons from Cthulhu can include but are not limited to, and subject at random are:</p><p>An aura of madness, flight. Tentacles, tentacles everywhere! shapeshifting, Hydrokinesis, and Dimensiokinesis.</p><p>Should you cause a smite from Cthulhu you are subject to be driven completely insane retaining none of your former self. Being shapeshifted into livestock. Alternatively you may also be instantly teleported to Cthulhu or have him teleported to you just to be eaten by him.</p><p>Cthulhu requires tribute once every 30 hours of either livestock or monetary value increased based off of which floor you''re on. Running an election campaign isn''t cheap. Animals growing in size from goat up to a whale or gold 100gp x floor level (multiplier and animal size increase starting on floor 6).</p><p>Quests include hanging up posters to spread Cthulhu''s influence (minor). Hunting down mobs or crawlers for sacrifice (moderate to major). Summoning Cthulhu to your plane of existence for a campaign rally (major) maybe he''s there to shake hands, take photos kiss babies or maybe he''s there to cause the Apocalypse.</p><hr><p><em>Source: Community submission — Zerin. From <a href="https://pointmongo.com/browse/deities/cthulhu">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 940
+    category: deities
+    slug: cthulhu
+    url: https://pointmongo.com/browse/deities/cthulhu
+    source: Community submission — Zerin
+    tags: []
+    updatedAt: '2026-10-20T15:14:57.4114547Z'
+    needsRestat: false
+    missingFields: []

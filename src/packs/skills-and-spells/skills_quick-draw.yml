@@ -1,0 +1,41 @@
+_id: immFYTA0FZaiiCDI
+_key: '!items!immFYTA0FZaiiCDI'
+name: Quick Draw
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A DEX skill for gunslingers and archers: Advantage on the first shot of a fight, and extra shots as it ranks up.</em></p><p>Have you always fantasized about being a in the wild wild west? Have you practiced twirling your weapon with your finger? Maybe you want to draw your arrows like a certain fair haired elf boy. Maybe you just want to get a jump on your enemy with your ranged weapon. Greedo shot first, after all!</p><p>Advantage on First Attack of a fight.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — Sarah. From <a href="https://pointmongo.com/browse/skills/quick-draw">Point Mongo</a>.</em></p>'
+  governingStat: dex
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: Can only be used with a ranged weapon
+  aiFavor: 1
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: Q0wwht3TFHUsHxAd
+      rankThreshold: 5
+      description: <p>You may make an 1 additional attack at disadvantage</p>
+    - id: snQ0s8rE1yCIPdUH
+      rankThreshold: 10
+      description: <p>+ You may make 1 additional attack at disadvantage</p>
+    - id: kyg2BN2CxP4pdQ6j
+      rankThreshold: 15
+      description: <p>+ You may make 1 additional attack at disadvantage</p>
+flags:
+  point-mongo:
+    id: 954
+    category: skills
+    slug: quick-draw
+    url: https://pointmongo.com/browse/skills/quick-draw
+    source: Community submission — Sarah
+    tags: []
+    updatedAt: '2026-10-23T19:20:32.0469051Z'
+    needsRestat: false
+    missingFields: []

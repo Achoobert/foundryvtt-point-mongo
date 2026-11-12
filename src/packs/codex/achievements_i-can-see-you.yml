@@ -1,0 +1,24 @@
+_id: rfTJDtFxptsYP5A3
+_key: '!journal!rfTJDtFxptsYP5A3'
+name: I Can See You
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: ytylmsCP1J2IA0lc
+    _key: '!journal.pages!rfTJDtFxptsYP5A3.ytylmsCP1J2IA0lc'
+    name: I Can See You
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you detect a hidden or concealed enemy before it can successfully ambush the party.</em></p><p>You detected an enemy before it could successfully ambush you. Congratulations! You have demonstrated that paranoia can, in fact, be a useful survival strategy.</p><p>Reward: Silver Explorer''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/i-can-see-you">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 607
+    category: achievements
+    slug: i-can-see-you
+    url: https://pointmongo.com/browse/achievements/i-can-see-you
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9595877Z'
+    needsRestat: false
+    missingFields: []

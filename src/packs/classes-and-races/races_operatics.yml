@@ -1,0 +1,23 @@
+_id: RtoZJ1WYngJYN5bA
+_key: '!items!RtoZJ1WYngJYN5bA'
+name: Operatics
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A Syndicate race of thinking blobs that squeeze through gaps, regrow limbs, split off a copy of themselves and merge with their own kind.</em></p><p>One of the Syndicate races, Operatics are highly evolved Cell Masses that can increase over time, join into larger masses, divide into new individuals and manipulate their own body mass in all kinds of ways. It is all very scientific and unique.</p><p>You are also a Blob. Good luck with that.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Intelligence</li><li>+1 Constitution</li></ul><p><strong>Benefits</strong></p><ul><li>Can see in total darkness <em>(minor)</em></li><li>Shapeless: you may move through spaces as if you were Tiny Sized <em>(moderate)</em></li><li>You can Breath underwater <em>(moderate)</em></li><li>Limb Regeneration <em>(epic)</em></li><li>Mithosis: Gain a Friendly Pet (that is yourself... or your child... or both... I don''t know man, s*** is weird). If this "pet" dies you can create another one at the end of a Long rest <em>(extreme)</em></li><li>Collective: You may join with other Operatics to form a single mass. While joined, the collective has +1 to STR, CON and INT and +2 HBs per Operatic in the mass. If the joined mass reaches 10% health, the Collective breaks and each Operatic is left with 1 HB and Staggered. <em>(epic)</em></li><li>Gain popularity whenever your Blob Antics get a significant role in the story <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Minor: Disadvantage on Dexterity-based Skills that require fine manipulation or motor coordination <em>(1 pt)</em></li><li>Minor: Step -5ft <em>(1 pt)</em></li><li>Moderate: Any attacks/effects that would Poison an a Major Failure will Poison on Operatic on Hit <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/operatics">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 849
+    category: races
+    slug: operatics
+    url: https://pointmongo.com/browse/races/operatics
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.1566892Z'
+    needsRestat: false
+    missingFields: []

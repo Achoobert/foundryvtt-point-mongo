@@ -1,0 +1,26 @@
+_id: Fm0CHHGn1xGdMn0K
+_key: '!journal!Fm0CHHGn1xGdMn0K'
+name: Gaul Soodman
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: 8JqLc8UV3xHO69fA
+    _key: '!journal.pages!Fm0CHHGn1xGdMn0K.8JqLc8UV3xHO69fA'
+    name: Gaul Soodman
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A once-idealistic Weasel lawyer who now helps criminals walk free and profit, with mob-worthy connections.</em></p><p><strong>Type:</strong> Lawyer · <strong>Race:</strong> Weasel</p><p>Originally pursued law for positive reasons before getting drawn into the criminal underworld; now operates in a very gray area, helping criminals get off scot-free while turning a profit. Has enough shady contacts to make the mob nervous. Do not cross this man — er, rodent.</p><hr><p><em>Source: Community submission — Mark Harrison (Crawler #5937). From <a href="https://pointmongo.com/browse/npcs/gaul-soodman">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 244
+    category: npcs
+    slug: gaul-soodman
+    url: https://pointmongo.com/browse/npcs/gaul-soodman
+    source: 'Community submission — Mark Harrison (Crawler #5937)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - lawyer
+    updatedAt: '2026-09-02T04:50:41.4060195Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,41 @@
+_id: zYuvGDDeuEV8Eo2k
+_key: '!items!zYuvGDDeuEV8Eo2k'
+name: Commanding Voice
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A Strength-based utility skill for establishing authority over crawlers, NPCs and some mobs by voice alone.</em></p><p>Wow! Now that’s saying it with your chest! You have a loud, booming voice that naturally commands attention. You can use your voice to establish authority over other crawlers, NPCs, and some mobs. The more confident and direct the command, the more effective it is. At level 1, only 1 target may be affected.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — soevil. From <a href="https://pointmongo.com/browse/skills/commanding-voice">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: This is an opposed skill. A crawler can only follow one command at a time until higher ranks. Commands cannot force crawlers, mobs, or NPCs to directly harm themselves. GM discretion advised.
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: uOyaQeJvTqVY2h27
+      rankThreshold: 5
+      description: <p>The crawler can now issue a command to multiple targets, up to 3</p>
+    - id: jpIovlfxeWbSGIbs
+      rankThreshold: 10
+      description: <p>The crawler can now issue multiple (2) or more complex commands to multiple targets, up to 3</p>
+    - id: QlKASKia8G89aw4J
+      rankThreshold: 15
+      description: <p>The crawler can now issue multiple (3) or more complex commands to multiple targets, up to 5. Those who wish to oppose do so with disadvantage.</p>
+flags:
+  point-mongo:
+    id: 529
+    category: skills
+    slug: commanding-voice
+    url: https://pointmongo.com/browse/skills/commanding-voice
+    source: Community submission — soevil
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6430093Z'
+    needsRestat: false
+    missingFields: []

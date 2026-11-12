@@ -1,0 +1,19 @@
+_id: NyUrPnOb9kUtzplI
+_key: '!items!NyUrPnOb9kUtzplI'
+name: Enchanted Amulet of Arm's Length Acuity
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A spearhead-and-sunburst amulet for crawlers who like a long reach and a sharp eye, boosting Perception and Polearm.</em></p><p>This silver amulet features a pendant shaped like a spearhead backed by a sunburst.  It bestows +3 Perception Skill and +2 Polearm skill to the wearer.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Amulet</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 Perception Skill</li><li>+2 Polearm Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-amulet-of-arm-s-length-acuity">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1039
+    category: magical-jewelry
+    slug: enchanted-amulet-of-arm-s-length-acuity
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-amulet-of-arm-s-length-acuity
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-01T19:31:04.7699105Z'
+    needsRestat: false
+    missingFields: []

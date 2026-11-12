@@ -1,0 +1,26 @@
+_id: aEG7PjuPAvhEvg2w
+_key: '!journal!aEG7PjuPAvhEvg2w'
+name: Legal Eagle
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: 8YjjfB8koGO7bpCS
+    _key: '!journal.pages!aEG7PjuPAvhEvg2w.8YjjfB8koGO7bpCS'
+    name: Legal Eagle
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A grumpy, cantankerous Skyfowl lawyer who knows the law inside and out and has a soft spot for the underdog.</em></p><p><strong>Type:</strong> Lawyer · <strong>Race:</strong> Skyfowl</p><p>From the same planet as Mordecai. Grumpy and not particularly fond of his clients — especially those from races he might otherwise eat — but knows the law cold and quietly favors the underdog. A cross between Sam the Eagle and Matlock.</p><hr><p><em>Source: Community submission — Mathew Kerns (Crawler #7562). From <a href="https://pointmongo.com/browse/npcs/legal-eagle">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 248
+    category: npcs
+    slug: legal-eagle
+    url: https://pointmongo.com/browse/npcs/legal-eagle
+    source: 'Community submission — Mathew Kerns (Crawler #7562)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - lawyer
+    updatedAt: '2026-09-02T04:50:41.4082479Z'
+    needsRestat: false
+    missingFields: []

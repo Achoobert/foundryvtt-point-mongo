@@ -1,0 +1,19 @@
+_id: 9bNPgliFMnOST5xH
+_key: '!items!9bNPgliFMnOST5xH'
+name: Patch of the Novice Hunter Tracker
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A fleeting upgrade patch of tangled paw prints; sew it on for a point of Tracking.</em></p><p>This is a fleeting item.  This small round upgrade patch depicts multiple styles of paw prints in a tangled pattern.  When properly sewn onto an eligible garment this patch bestows +1 Tracking Skill.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Tracking Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/patch-of-the-novice-hunter-tracker">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1020
+    category: magic-items
+    slug: patch-of-the-novice-hunter-tracker
+    url: https://pointmongo.com/browse/magic-items/patch-of-the-novice-hunter-tracker
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-31T19:00:58.2183026Z'
+    needsRestat: false
+    missingFields: []

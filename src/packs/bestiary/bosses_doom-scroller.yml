@@ -1,0 +1,51 @@
+_id: eXz59cyDaJe4i6k4
+_key: '!actors!eXz59cyDaJe4i6k4'
+name: Doom Scroller
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> Level, stat scores, Floor (sets DR), attacks</p><p><em>A deliberately easy, low-threat Neighborhood Boss designed as an XP trap: it revives itself for diminishing rewards.</em></p><p><strong>Type:</strong> Creature (Neighborhood Boss) · <strong>Size:</strong> Small · <strong>HD:</strong> 1/level · <strong>AC:</strong> 10 · <strong>Move:</strong> 20''/round · <strong>DMG:</strong> 1</p><p>Low AC, high HP, laughably weak attack — deliberately easy. After each kill a "revive" option appears to farm more XP; first kill grants 1d4 XP, every kill after that is rolled with disadvantage, tempting crawlers to waste time chasing diminishing returns while the floor timer counts down. Boss room: a bedroom or bathroom.</p><hr><p><em>Source: Community submission — Ian O''H (Crawler #4207). From <a href="https://pointmongo.com/browse/bosses/doom-scroller">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 1
+  size: Small (2)
+  creatureType: ''
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Doom Scroller
+  actorLink: false
+flags:
+  point-mongo:
+    id: 90
+    category: bosses
+    slug: doom-scroller
+    url: https://pointmongo.com/browse/bosses/doom-scroller
+    source: 'Community submission — Ian O''H (Crawler #4207)'
+    tags:
+      - dcc-ccs
+      - neighborhood-boss
+      - bosses
+    updatedAt: '2026-09-03T16:29:38.7245058Z'
+    needsRestat: true
+    missingFields:
+      - Level
+      - stat scores
+      - Floor (sets DR)
+      - attacks

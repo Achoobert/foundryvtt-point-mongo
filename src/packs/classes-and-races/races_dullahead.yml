@@ -1,0 +1,23 @@
+_id: 3io2psQAuXWgrkQ4
+_key: '!items!3io2psQAuXWgrkQ4'
+name: Dullahead
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Undead fey who carry their own heads, and collect other people''s.</em></p><p>Created by King Oberon to fight against his wife''s, Queen Titania, army without looking at her. The Dullahead race are Undead Fairies. They tend to have 2 personalities: either very strict and aggressive who lose their minds when others beneath them oppose their point of views, or quippy fools who lose their head because they forgot where they put it.</p><p>These undead fey have embraced the ancient art of decapitation, eternal existence, and aggressive head collecting. Dullaheads are notoriously difficult to kill, mostly because they’ve already figured out how to live without the important bits. Their greatest cultural tradition is collecting the heads of worthy foes—and occasionally friends, family members, and strangers who simply looked interesting. Now you get to deal with the spiritual quandary of are you your memories or your heart and body. Pro Tip: If a Dullahead asks you to “hold onto this for a second,” DO NOT accept the head. You are now responsible for it.</p><table><tbody><tr><th>Size</th><td>Medium</td></tr><tr><th>Rank 20</th><td>Riding, Tracking, Intimidation</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Intelligence</li><li>+4 Constitution</li><li>+3 Dexterity</li><li>2 Charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Intimidate</li><li>+1 Bluespark Head</li></ul><p><strong>Benefits</strong></p><ul><li>Heatless Neckfire: a passive torch spell always active on your neck produces dim light like a candle, spending mana on it increases the brightness. <em>(minor)</em></li><li>Bluespark Head: You connect a head to your body by holding it above your neckfire for a few seconds. Connected heads have extremely limited mobility with disadvantage on any movement check when not on the body. <em>(epic)</em></li><li>When headless: the body cant see but it can get a general echolocation perception off of the flickering of your Neckflames. <em>(minor)</em></li><li>When Headless: bodies don''t need to breathe <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Vulnerability to Holy Damage <em>(2 pt)</em></li><li>Restless sleep, Unless you can Lay a connected head down you cannot gain full benefits from sleep. <em>(1 pt)</em></li><li>Neckless: You cannot equip neck slot items. <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/races/dullahead">Point Mongo</a>.</em></p>'
+  size: Medium
+  prerequisites: ''
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 833
+    category: races
+    slug: dullahead
+    url: https://pointmongo.com/browse/races/dullahead
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6934575Z'
+    needsRestat: false
+    missingFields: []

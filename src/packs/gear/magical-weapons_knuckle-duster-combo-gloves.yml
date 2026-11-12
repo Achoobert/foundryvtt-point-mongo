@@ -1,0 +1,23 @@
+_id: 2X0uSfy65OxwgRtx
+_key: '!items!2X0uSfy65OxwgRtx'
+name: Knuckle Duster Combo Gloves
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>Studded fingerless gloves with unbreakable fists and a stacking combo bonus for alternating punches.</em></p><p><strong>Type:</strong> Blunt · <strong>Damage:</strong> 1d6+1</p><p>Studded, reinforced-knuckle fingerless gloves. Grants +1 STR, +2 DEX, +1 Iron Punch, 0% stun chance; counts toward the Iron Fist skill. Unbreakable Fists: hands can''t be broken while clenched and wearing these. Combo: landing multiple alternating-fist punches builds a stacking +1% damage and stun chance per successive hit.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Knuckle Dusters</td></tr><tr><th>Weapon skill</th><td>Pugilism</td></tr></tbody></table><hr><p><em>Source: Community submission — Socks (Crawler #4381). From <a href="https://pointmongo.com/browse/magical-weapons/knuckle-duster-combo-gloves">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 215
+    category: magical-weapons
+    slug: knuckle-duster-combo-gloves
+    url: https://pointmongo.com/browse/magical-weapons/knuckle-duster-combo-gloves
+    source: 'Community submission — Socks (Crawler #4381)'
+    tags:
+      - dcc-ccs
+      - magical-weapons
+      - fist
+    updatedAt: '2026-09-03T05:54:47.845885Z'
+    needsRestat: false
+    missingFields:
+      - effects

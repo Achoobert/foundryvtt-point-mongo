@@ -1,0 +1,24 @@
+_id: liqC9fnnL6JnVNYx
+_key: '!journal!liqC9fnnL6JnVNYx'
+name: I Would Like to Speak to Your Manager
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: r3ffyGfracci9bzJ
+    _key: '!journal.pages!liqC9fnnL6JnVNYx.r3ffyGfracci9bzJ'
+    name: I Would Like to Speak to Your Manager
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you complain to an NPC or authority figure and successfully get what you want.</em></p><p>You complained loudly and effectively enough to an NPC that you actually got what you wanted. Congratulations! Bureaucracy has claimed another victim.</p><p>Reward: Bronze Asshole''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/i-would-like-to-speak-to-your-manager">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 626
+    category: achievements
+    slug: i-would-like-to-speak-to-your-manager
+    url: https://pointmongo.com/browse/achievements/i-would-like-to-speak-to-your-manager
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9749526Z'
+    needsRestat: false
+    missingFields: []

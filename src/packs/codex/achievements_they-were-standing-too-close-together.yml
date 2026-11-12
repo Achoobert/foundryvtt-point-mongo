@@ -1,0 +1,24 @@
+_id: Uia5vLDIOF9XZf12
+_key: '!journal!Uia5vLDIOF9XZf12'
+name: They Were Standing Too Close Together
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 77V9cKEmSBkXrLbl
+    _key: '!journal.pages!Uia5vLDIOF9XZf12.77V9cKEmSBkXrLbl'
+    name: They Were Standing Too Close Together
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you hit three or more enemies with one attack or effect.</em></p><p>You struck multiple enemies at once because they were foolish enough to stand together. Remember, children: social distancing saves lives. Unfortunately for them, it didn''t save theirs.</p><p>Reward: Silver Goblin Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/they-were-standing-too-close-together">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 593
+    category: achievements
+    slug: they-were-standing-too-close-together
+    url: https://pointmongo.com/browse/achievements/they-were-standing-too-close-together
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9483541Z'
+    needsRestat: false
+    missingFields: []

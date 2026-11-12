@@ -1,0 +1,41 @@
+_id: ZKdiW6WvVQPxrJk9
+_key: '!items!ZKdiW6WvVQPxrJk9'
+name: Master Builder
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A passive crafting skill that cuts the time and the Misc. Junk each item costs.</em></p><p>When crafting items you reduce the time it takes and the amount of Misc. Junk you use is reduced by 25%.</p><table><tbody><tr><th>Category</th><td>Passive</td></tr></tbody></table><hr><p><em>Source: Community submission — UpDogCity. From <a href="https://pointmongo.com/browse/skills/master-builder">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: passive
+  attackType: ''
+  isPassive: true
+  range: ''
+  cooldown: ''
+  limitations: This limited Skill can only be learned via Race, Class, or Item.
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: jFHc0UsymerpQAUQ
+      rankThreshold: 5
+      description: <p>The time and amount of Misc. Junk you use is reduced by 50%.</p>
+    - id: AkZzmlJU78poPaoB
+      rankThreshold: 10
+      description: <p>Treat all crafting tables as 1-tier higher for the purposes of crafting.</p>
+    - id: yTYAR66V4T9mVE9M
+      rankThreshold: 15
+      description: <p>The time and amount of Misc. Junk you use is reduced by 75%.</p>
+flags:
+  point-mongo:
+    id: 760
+    category: skills
+    slug: master-builder
+    url: https://pointmongo.com/browse/skills/master-builder
+    source: Community submission — UpDogCity
+    tags: []
+    updatedAt: '2026-09-15T21:44:33.6940935Z'
+    needsRestat: false
+    missingFields: []

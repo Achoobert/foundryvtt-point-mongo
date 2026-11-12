@@ -1,0 +1,19 @@
+_id: k80EmdWPuiNF4lrQ
+_key: '!items!k80EmdWPuiNF4lrQ'
+name: Enchanted Patch of the Spry Snow Sprite
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A fleeting pin-up snow sprite patch that adds Dexterity and casts a free Frost Scar every six hours.</em></p><p>This is a fleeting item.  This medium sized embroidered patch depicts a young and buxom winged snow sprite posed in a pin-up pose, winking at the viewer.  The sprite is surrounded by swirls of frost and snow on a light blue background.</p><p>When properly sewn onto an eligible garment, this upgrade patch bestows the following benefits: +5 Dexterity, Frost Scar Spell at Rank 3, at no mana cost, on a 6 hour cool down.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Frost Scar Spell at Rank 3, no Mana cost, 6 hour cooldown</li><li>+5 Dexterity</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-patch-of-the-spry-snow-sprite">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1077
+    category: magic-items
+    slug: enchanted-patch-of-the-spry-snow-sprite
+    url: https://pointmongo.com/browse/magic-items/enchanted-patch-of-the-spry-snow-sprite
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-07T06:46:04.7496205Z'
+    needsRestat: false
+    missingFields: []

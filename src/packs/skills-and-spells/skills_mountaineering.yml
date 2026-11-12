@@ -1,0 +1,38 @@
+_id: gODLJfJBrjW319sd
+_key: '!items!gODLJfJBrjW319sd'
+name: Mountaineering
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>Childhood rock-climbing experience grants a scaling bonus to climbing checks.</em></p><p>A passing familiarity with the gear and theory of climbing.</p><p>Level 1: You took a few rock climbing classes as a tween, and now you have a solid understanding of how to ascend a 15'' wall with irregular handholds, while the nearest "adult" looks on holding your belaying rope. +1 to climbing checks. This scales with additional level gains.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/skills/mountaineering">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 77
+    category: skills
+    slug: mountaineering
+    url: https://pointmongo.com/browse/skills/mountaineering
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - skill
+      - earth-skill
+      - exploration
+    updatedAt: '2026-08-31T17:12:29.779415Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

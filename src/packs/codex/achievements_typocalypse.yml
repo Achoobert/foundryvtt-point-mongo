@@ -1,0 +1,25 @@
+_id: Y0diKPSANeSJXklC
+_key: '!journal!Y0diKPSANeSJXklC'
+name: Typocalypse
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: r4LvR4W61H9l0dZh
+    _key: '!journal.pages!Y0diKPSANeSJXklC.r4LvR4W61H9l0dZh'
+    name: Typocalypse
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered by posting a chat message so riddled with typos it looks like the keyboard was trampled by livestock.</em></p><p><strong>Scenario:</strong> Typing mistake in chat</p><p>You posted a wall of text so riddled with errors that it looks like your keyboard was run over by the Ball of Swine.</p><p><strong>Suggested Rewards:</strong> Try harder.</p><hr><p><em>Source: Community submission — Rickles (Crawler #27220). From <a href="https://pointmongo.com/browse/achievements/typocalypse">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 299
+    category: achievements
+    slug: typocalypse
+    url: https://pointmongo.com/browse/achievements/typocalypse
+    source: 'Community submission — Rickles (Crawler #27220)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:38:13.5991735Z'
+    needsRestat: false
+    missingFields: []

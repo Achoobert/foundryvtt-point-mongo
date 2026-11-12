@@ -1,0 +1,25 @@
+_id: E05uPRFq3ndZpLSR
+_key: '!items!E05uPRFq3ndZpLSR'
+name: Bracers of Deflection
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>Stylish leather bracers that grant a chance to deflect incoming ranged attacks.</em></p><p>This snazzy helmet also provides immunity to unwanted brain worm contamination. This stunning stainless steel former kitchen utensil has been fitting with a leather chin strap, and imbued with the power to protect your grey matter from all sorts of psychic nastiness. A true upgrade from the common "Tin Foil Hat" that can be found on display in most inner city neighbourhoods pre-crawl, the Charming Colander of Protection is a true must for the fashion forward crawler that rightfully fears brain worm infestation.</p><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/loot/bracers-of-deflection">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 40
+    category: loot
+    slug: bracers-of-deflection
+    url: https://pointmongo.com/browse/loot/bracers-of-deflection
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - armor
+      - bracers
+      - magical-armor
+    updatedAt: '2026-09-22T05:27:11.4332451Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

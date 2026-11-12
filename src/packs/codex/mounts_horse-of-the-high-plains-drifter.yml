@@ -1,0 +1,25 @@
+_id: ajQqPKTxI6rwykMy
+_key: '!journal!ajQqPKTxI6rwykMy'
+name: Horse of the High Plains Drifter
+folder: rEMOgPJ7utWySMpl
+pages:
+  - _id: cJLevKy2t4ce6ptm
+    _key: '!journal.pages!ajQqPKTxI6rwykMy.cJLevKy2t4ce6ptm'
+    name: Horse of the High Plains Drifter
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A soul-crystal-powered automaton horse from Dr. Ratchet''s crafting guide, unleashing a level-10 fire globe once per day.</em></p><p><strong>Species:</strong> Automaton Horse ("Stranger") · <strong>Size:</strong> Large</p><p>Attacks: Level 10 Magic Missile. Built per Dr. Ratchet''s Guide to Building Automatons for Fun and Profit — no hay needed, just drop in a soul crystal. Max speed 90 mph, max jump 50'', level-3 armor, immune to psychic/gaseous/non-physical attacks, responds to voice and touch. Its soul crystal contains 1000 vengeful spirits; once per day it can unleash a level-10 globe of fire, with the rider immune to fire damage while riding. Requires a Tier 3 Automaton Table and 1,000,000 gold in supplies to build.</p><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/mounts/horse-of-the-high-plains-drifter">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 268
+    category: mounts
+    slug: horse-of-the-high-plains-drifter
+    url: https://pointmongo.com/browse/mounts/horse-of-the-high-plains-drifter
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - mounts
+    updatedAt: '2026-09-02T04:50:41.6751911Z'
+    needsRestat: false
+    missingFields: []

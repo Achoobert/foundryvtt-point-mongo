@@ -1,0 +1,44 @@
+_id: yVxISuTOdHzhfoV0
+_key: '!items!yVxISuTOdHzhfoV0'
+name: Fang Bang
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>A melee bite that poisons the target.</em></p><p>You bite your target, poisoning them.</p><p>Note: this is part of a group of spells I am calling Afflictions, intended to apply debuffs. If you are interested in the other ones, check out Fire Cloud and Paper Cuts</p><table><tbody><tr><th>Base damage</th><td>1d2+STR and target is Poisoned</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/spells/fang-bang">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 10
+  range: Melee
+  duration: Instant
+  cooldown: ''
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses:
+    - Mage
+    - Druid
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: piercing
+  upgrades:
+    - id: YnFvyWd3DDQci0sM
+      rankThreshold: 5
+      description: <p>you can spit the venom at 10ft range</p>
+    - id: Zrbow2MpPvRZkC5S
+      rankThreshold: 10
+      description: <p>target is also Queasy when hit</p>
+    - id: SJBkrLWaMYGCwxCc
+      rankThreshold: 15
+      description: <p>Target is also inflicted with The Taint when hit</p>
+flags:
+  point-mongo:
+    id: 553
+    category: spells
+    slug: fang-bang
+    url: https://pointmongo.com/browse/spells/fang-bang
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6557216Z'
+    needsRestat: false
+    missingFields: []

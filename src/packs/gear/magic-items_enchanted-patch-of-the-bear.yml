@@ -1,0 +1,19 @@
+_id: CYLzmB93c7er6270
+_key: '!items!CYLzmB93c7er6270'
+name: Enchanted Patch of the Bear
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A teal diamond patch from a four-piece set that toughens Constitution and helps with catching and finding crawlers.</em></p><p>This is a fleeting item.</p><p>This item is part of a set. (1 of 4)</p><p>This is a 2", teal, diamond shaped patch with a gold border and the face of a bear prominently stitched upon it.</p><p>There were nine types of bears on your planet before the Collapse:</p><p>American black bears, Asiatic black bears, brown bears, giant pandas, polar bears, sloth bears, spectacled bears, and sun bears.</p><p>And, yes, of course, the LGBTQIA+ ones, the only one of the nine that would ever be caught dead with an otter.</p><p>Mortal enemies, bears and otters. Seriously.</p><p>If all four patches are properly stitched into a diamond pattern onto an eligible piece of equipment, their enhancements double.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Platinum</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5% Constitution</li><li>+3 Catcher Skill</li><li>+2 Find Crawler Skill</li></ul><hr><p><em>Source: Community submission — Mr King. From <a href="https://pointmongo.com/browse/magic-items/enchanted-patch-of-the-bear">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1069
+    category: magic-items
+    slug: enchanted-patch-of-the-bear
+    url: https://pointmongo.com/browse/magic-items/enchanted-patch-of-the-bear
+    source: Community submission — Mr King
+    tags: []
+    updatedAt: '2026-11-06T19:05:36.7862069Z'
+    needsRestat: false
+    missingFields: []

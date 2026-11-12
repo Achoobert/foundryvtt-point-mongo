@@ -1,0 +1,23 @@
+_id: o6q6nOcu2NvskaR6
+_key: '!journal!o6q6nOcu2NvskaR6'
+name: Nutcracker
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: eU2PK5xyFRz6gSi7
+    _key: '!journal.pages!o6q6nOcu2NvskaR6.eU2PK5xyFRz6gSi7'
+    name: Nutcracker
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you kill an opponent with a blow straight to the groin.</em></p><p>NEW ACHIEVEMENT: Nutcracker</p><p>HOLY SHIT! You killed that guy by with a blow straight to the BALLS! Odds are if you did this, the dude was either a real asshole, or you just take flirting to a whole different level. Either way, pretty fucked up.</p><p>Reward: Silver Asshole''s Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/nutcracker">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 542
+    category: achievements
+    slug: nutcracker
+    url: https://pointmongo.com/browse/achievements/nutcracker
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.4983389Z'
+    needsRestat: false
+    missingFields: []

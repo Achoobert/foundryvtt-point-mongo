@@ -1,0 +1,23 @@
+_id: s1weh4NYRlhpa48s
+_key: '!items!s1weh4NYRlhpa48s'
+name: Boring Ol' Warlock
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Charisma-heavy Warlock class bound to one of the Crawl''s sponsors, healing itself on Bad Faith damage and resisting whatever its patron resists.</em></p><p>In the Dungeon, being a warlock usually means defending the interest of one of the sponsors working in and around the Crawl</p><table><tbody><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Intelligence</li><li>+5 Charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 to either Arcane or Religion, depending on your Patron</li><li>+3 to Bad Faith Spell</li><li>+2 to Corrupt Offering Skill (it is just Power Strike, but for Spells)</li></ul><p><strong>Benefits</strong></p><ul><li>You may heal 1HB if you damage or kill a Creature with Bad faith (up to 5HB per combat or scene) <em>(moderate)</em></li><li>Choose a Patron <em>(moderate)</em></li><li>Resistance to a Common damage type (Related to Patron) <em>(extreme)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/boring-ol-warlock">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Warlock
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 762
+    category: classes
+    slug: boring-ol-warlock
+    url: https://pointmongo.com/browse/classes/boring-ol-warlock
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-15T21:44:33.6986725Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,52 @@
+_id: LFUa28nm3xLZGVGD
+_key: '!actors!LFUa28nm3xLZGVGD'
+name: Ivan
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><strong>Missing:</strong> Level, Size, stat scores, Floor (sets DR), attacks</p><p><em>A moody, level-70 teenage rage elemental grounded in the Nothing for bad behavior — cordial when fed, dangerous when hangry.</em></p><p><strong>Type:</strong> Feral Elemental (Level 70) · <strong>Move:</strong> 30''</p><p>Ivan the incensed teenage demi-god is more annoyed than angry — a newcomer to the Nothing, grounded there for doing something naughty. When well-fed he''s cordial, tells jokes, and wants affirmation, and might even make a good ally (or mount). Not picky — any flesh satisfies his hunger. Stats: 3/4 of a standard rage elemental.</p><hr><p><em>Source: Community submission — jay (Crawler #221). From <a href="https://pointmongo.com/browse/mobs/ivan">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: ''
+  creatureType: Feral Elemental
+  move: '30'
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Ivan
+  actorLink: false
+flags:
+  point-mongo:
+    id: 120
+    category: mobs
+    slug: ivan
+    url: https://pointmongo.com/browse/mobs/ivan
+    source: 'Community submission — jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - mobs
+      - the-nothing
+    updatedAt: '2026-09-03T16:29:38.9173557Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - Size
+      - stat scores
+      - Floor (sets DR)
+      - attacks

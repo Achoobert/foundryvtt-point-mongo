@@ -1,0 +1,19 @@
+_id: vvXFIF45Lv5NVeU1
+_key: '!items!vvXFIF45Lv5NVeU1'
+name: Emergency Nut-Huggers
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A snug fit, and a brief one, but they will heal you unprompted the moment a fight turns against you.</em></p><p>A ''brief'' description: These handy-dandy tighty-whiteys sure may be a snug fit, but they just might be a life-saver for you.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Underwear</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>DR</th><td>0</td></tr><tr><th>Duration</th><td>n/a</td></tr><tr><th>Cooldown</th><td>n/a</td></tr><tr><th>Charges</th><td>n/a</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Casts Heal on you automatically when your health gets to 50% or below during combat. This can only occur once per combat.</li></ul><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/magic-items/emergency-nut-huggers">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 735
+    category: magic-items
+    slug: emergency-nut-huggers
+    url: https://pointmongo.com/browse/magic-items/emergency-nut-huggers
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-24T18:09:52.9479369Z'
+    needsRestat: false
+    missingFields: []

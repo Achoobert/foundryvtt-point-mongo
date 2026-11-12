@@ -1,0 +1,24 @@
+_id: 5JCOmSn9dRHXDcXk
+_key: '!journal!5JCOmSn9dRHXDcXk'
+name: Nope
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: p3vwJkXCw2QEtD6p
+    _key: '!journal.pages!5JCOmSn9dRHXDcXk.p3vwJkXCw2QEtD6p'
+    name: Nope
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you successfully escape a dangerous encounter rather than fighting it.</em></p><p>You have wisely determined that whatever is happening in front of you is someone else''s problem. Congratulations on possessing the survival instinct that so many crawlers seem to lack.</p><p>Reward: Silver Survivor''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/nope">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 589
+    category: achievements
+    slug: nope
+    url: https://pointmongo.com/browse/achievements/nope
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9452229Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: fN3ol2yMPs6A5rWU
+_key: '!items!fN3ol2yMPs6A5rWU'
+name: Capoeirista
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter class built on the martial art disguised as dance: kicks, acrobatics, and a Performance check that doubles as Dodge.</em></p><p>This is an African descendant martial art that were disguised by slaves as dance, so they could prepare themselves. It is almost exclusively fought with feet, occasionally with machetes. But most capoeiristas ended up with horrible, horrible feet.</p><table><tbody><tr><th>Prerequisites</th><td>must have earned the Podophilia! Achievement.</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Dexterity</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Foot soldier</li><li>+2 Smush</li><li>+2 Jumping</li><li>+2 Performance</li><li>+2 Double Tap</li><li>+1 Air Buddy Spell</li></ul><p><strong>Benefits</strong></p><ul><li>On an amazing success with a foot attack, gains +5 step for that round <em>(moderate)</em></li><li>You can make a Performance check during combat. On a success, you gain the Dodge skill at the same rank as Performance until the end of the next round. Add an additional round for each degree of success <em>(extreme)</em></li></ul><p><strong>Detriments</strong></p><ul><li>You loose the 5foot benefit and the ability to use Performance as Dodge if you are wielding any weapon besides a Dagger (or a Longsword, representing Machetes) <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/capoeirista">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter
+  prerequisites: must have earned the Podophilia! Achievement.
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1110
+    category: classes
+    slug: capoeirista
+    url: https://pointmongo.com/browse/classes/capoeirista
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6072656Z'
+    needsRestat: false
+    missingFields: []

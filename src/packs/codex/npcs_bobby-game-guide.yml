@@ -1,0 +1,26 @@
+_id: TV0TB8YhbjNrb8DU
+_key: '!journal!TV0TB8YhbjNrb8DU'
+name: Bobby (Game Guide)
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: okl4VPgY1BvJKInG
+    _key: '!journal.pages!TV0TB8YhbjNrb8DU.okl4VPgY1BvJKInG'
+    name: Bobby (Game Guide)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A level-40 Naga cleric Game Guide who despises the Desperado Club and steers crawlers toward Club Vanquisher instead.</em></p><p><strong>Type:</strong> Game Guide · <strong>Level:</strong> 40 · <strong>Race:</strong> Naga · <strong>Class:</strong> Cleric · <strong>Guild:</strong> Club Vanquisher</p><p>A 10er who hates the Desperado Club and will steer crawlers toward joining Club Vanquisher instead, but otherwise helps as much as possible — as long as they don''t get a Club Vanquisher tattoo.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/npcs/bobby-game-guide">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 233
+    category: npcs
+    slug: bobby-game-guide
+    url: https://pointmongo.com/browse/npcs/bobby-game-guide
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - npcs
+      - game-guide
+    updatedAt: '2026-09-02T04:50:41.3996906Z'
+    needsRestat: false
+    missingFields: []

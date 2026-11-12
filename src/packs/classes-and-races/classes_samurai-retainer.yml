@@ -1,0 +1,26 @@
+_id: SPgZVwwYuaIIACSQ
+_key: '!items!SPgZVwwYuaIIACSQ'
+name: Samurai Retainer
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>Dexterity-based Fighter focused on precision swordsmanship, counterattacks, and controlled movement.</em></p><p>A Dexterity-based Fighter class</p><p>Dex +2  Con +1  Str +1</p><p>The Samurai Retainer is disciplined, focusing on precision, duty, and decisive action. Retainers specialize in swordsmanship, counterattacks, and controlled movement. They''re not for people who enjoy wild brawlers or battlefield showoffs. The Samurai Retainer is most effective when calm, focused, and bound to a purpose.</p><p><strong>Class Benefits:</strong></p><p>Gains the Iaijutsu Draw skill. (A first-strike Attack Skill that can only be used by your sheathed sword.)</p><p>Gains the Perfect Cut skill. (A slashing Attack Skill that lets you pinpoint a target on your opponent and cut there, delivering different debuffs depending on where hit)</p><p>Gains the Counterstroke skill. (A dodging Attack Skill that lets you reposition yourself to slash at your target.)</p><p>Gains +3 to all Sword-based skills.</p><p>Gains access to Club Vanquisher.</p><table><tbody><tr><th>DR</th><td>2</td></tr><tr><th>Prerequisites</th><td>You must have +5 in any Edged Weapon Skill, and higher Dexterity than your Strength by the time you reach Floor 3.</td></tr><tr><th>Rank 20</th><td>Sword-based Skills</td></tr><tr><th>Bonus box</th><td>Silver Earth Box</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Dexterity (3 Points)</li><li>+2 Constitution (2 Points)</li><li>+2 Strength (2 Point)</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Iaijutsu Draw and Perfect Cut Skills (8 Points)</li><li>+2 Counterstroke Spell (4 Points)</li></ul><p><strong>Benefits</strong></p><ul><li>+2 DR Buff (4 Points)</li><li>You can swap CON with DEX for determining your Health bar values (3 Points)</li><li>At the end of each floor, add 1 to your Skill Advancement Checks for any Sword-based Skills (2 Points)</li><li>All Sword-based Skills may be raised to Rank 20 (2 Points)</li></ul><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/classes/samurai-retainer">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter
+  prerequisites: You must have +5 in any Edged Weapon Skill, and higher Dexterity than your Strength by the time you reach Floor 3.
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 14
+    category: classes
+    slug: samurai-retainer
+    url: https://pointmongo.com/browse/classes/samurai-retainer
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - floor-class
+      - fighter
+    updatedAt: '2026-09-22T05:37:46.6389348Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

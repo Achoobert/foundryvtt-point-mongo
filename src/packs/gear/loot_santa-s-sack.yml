@@ -1,0 +1,24 @@
+_id: PndsI2uijoHyWznN
+_key: '!items!PndsI2uijoHyWznN'
+name: Santa's Sack
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A once-per-crawler magic sack that dispenses a mystery reward suited to the recipient — plus chimney travel and universal goodwill from elves and deer.</em></p><p><strong>Notes:</strong> NEW ACHIEVEMENT: HO HO HO!</p><p>Congratulations, Crawler! As an actor of the famous Christmas character, you get to spread your jolly tidings amongst the dungeon! Just don''t let naughty mobs gain access to your sack!</p><p><strong>Reward:</strong> You''ve received a Celestial Gift Box!</p><p>You''ve heard of a Bag of Holding, right? This is similar...and not the same at all. Once per crawler, you can reach into the bag to pull something out that they deserve. Will it be a pair of shoes? A lump of coal? A tiara? A bomb? Nobody knows until you pull it out! Will it be useful or useless? That''s up to the person, and how good they''ve been! You''ll never have any idea. Even when you grasp the item, you can''t tell what it is. Each item will be locked to be given to the crawler it is intended for. Any attempt to give the item to a different crawler will give you one strike. At three strikes, the bag explodes, raining tinsel and lights down. Sadly, you won''t be alive to see it. Y''know. Because it exploded. In addition, you may rub your finger on your nose and travel vertically through chimneys. ONLY through chimneys. Trying to travel vertically in an elevator shaft, for example, will result in no movement. Or the elevator will crash down on you. Try it and see, I guess. Finally, all short races of elves, as well as all members of the Cervidae family--deer, reindeer, and all their elk....errrr, ilk--will be automatically friendly with you. WARNING: This item is locked to Crawler Mark H. If this crawler dies, the item will disappear. Anyone who attempts to steal this from the crawler automatically ends up on the Naughty list for life, causing parts of their body to turn to coal at random intervals. Anyone who tries to reach into the bag besides the owner will find themselves pulled into the bag and subsequently transported into a separate dimension, where they will be wrapped and regifted to a crawler at random. Maybe they will become a toy, or a tool, or maybe they will still be a crawler. Again, you may test these assumptions at your convenience.</p><table><tbody><tr><th>Type</th><td>Item</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — Mark Harrison (Crawler #5937). From <a href="https://pointmongo.com/browse/loot/santa-s-sack">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 136
+    category: loot
+    slug: santa-s-sack
+    url: https://pointmongo.com/browse/loot/santa-s-sack
+    source: 'Community submission — Mark Harrison (Crawler #5937)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-09-22T05:27:11.4370735Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

@@ -1,0 +1,24 @@
+_id: 1Nxqt6Y7szrMasfO
+_key: '!journal!1Nxqt6Y7szrMasfO'
+name: Viewership Spike
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: J730KOnictC0VclB
+    _key: '!journal.pages!1Nxqt6Y7szrMasfO.J730KOnictC0VclB'
+    name: Viewership Spike
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you do something so unexpected or wild that it causes a massive, galaxy-wide spike in your Popularity.</em></p><p>Somewhere out there, on a hundred different alien worlds, someone just spit out their drink watching that. You didn''t just entertain the room. You trended. Sponsors don''t kick in until the Fourth Floor, but they''re already circling.</p><p>Reward: Platinum Viral Moment Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/viewership-spike">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 722
+    category: achievements
+    slug: viewership-spike
+    url: https://pointmongo.com/browse/achievements/viewership-spike
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0533901Z'
+    needsRestat: false
+    missingFields: []

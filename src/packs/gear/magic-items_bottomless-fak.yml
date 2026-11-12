@@ -1,0 +1,22 @@
+_id: o0gktTnsaA6aF9gr
+_key: '!items!o0gktTnsaA6aF9gr'
+name: Bottomless FAK
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>An endlessly restocking first-aid kit of bandages, splints, and basic wound-management supplies.</em></p><p><strong>Type:</strong> Item</p><p>Bandages, splints, and other supplies for basic first aid and wound management — never runs out.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Medical Kit</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/bottomless-fak">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 170
+    category: magic-items
+    slug: bottomless-fak
+    url: https://pointmongo.com/browse/magic-items/bottomless-fak
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-30T20:04:01.9626077Z'
+    needsRestat: false
+    missingFields:
+      - effects

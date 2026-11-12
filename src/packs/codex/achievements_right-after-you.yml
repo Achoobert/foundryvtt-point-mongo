@@ -1,0 +1,24 @@
+_id: Ma8q7S6MCasqllaK
+_key: '!journal!Ma8q7S6MCasqllaK'
+name: Right After You
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: R6Kb1f6XJqkeL4S2
+    _key: '!journal.pages!Ma8q7S6MCasqllaK.R6Kb1f6XJqkeL4S2'
+    name: Right After You
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you convince an enemy or NPC to enter a dangerous area before you do.</em></p><p>You convinced someone else to investigate an obviously dangerous location before you volunteered yourself.</p><p>The System AI sees nothing wrong with this.</p><p>In fact, the System AI considers it extremely efficient.</p><p>Reward: Silver Lucky Bastard Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/right-after-you">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 635
+    category: achievements
+    slug: right-after-you
+    url: https://pointmongo.com/browse/achievements/right-after-you
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9821567Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,41 @@
+_id: PvN5ohbNHQHXePyV
+_key: '!items!PvN5ohbNHQHXePyV'
+name: Singing
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>Weaponise your voice: a 25-foot Sonic cone off Charisma, optionally carrying a Style Skill''s effect.</em></p><p>Weaponize your voice.</p><p>Range: 25 ft Cone, +10ft Splash</p><p>Optional: Choose a Style* Skill to apply</p><p>* Style Skill is a cool way of saying "Singing Damage Effects Skills", which would equate to Hand-to-Hand Damage Effect Skills for the Hand-to-Hand Combat Skills. My profile will post 3 examples that I have made up already, however literally any style of singing could be used to create a new Style with its own effects or enhancements.</p><table><tbody><tr><th>Category</th><td>Ranged Attack</td></tr><tr><th>Base damage</th><td>1d2 + CHA</td></tr></tbody></table><hr><p><em>Source: Community submission — Mr King. From <a href="https://pointmongo.com/browse/skills/singing">Point Mongo</a>.</em></p>'
+  governingStat: cha
+  category: attack
+  attackType: ranged
+  isPassive: false
+  range: 25 ft Cone, +10ft Splash
+  cooldown: ''
+  limitations: Requires a voice amplifier (microphone, headset). Disadvantage if within melee reach.
+  aiFavor: 1
+  baseDamage:
+    dice: 1d2
+    stat: cha
+    damageType: ''
+  upgrades:
+    - id: FVaOtgXvQq3vC4is
+      rankThreshold: 5
+      description: <p>1d2 base damage, +25ft Cone, +10ft Splash</p>
+    - id: SnrEg3AQWsEKMKWv
+      rankThreshold: 10
+      description: <p>+1d4 base damage, +25ft Cone, +10ft Splash</p>
+    - id: RKVVuHmIQVrw7E3B
+      rankThreshold: 15
+      description: <p>+2d4 base damage, +25ft Cone, +10ft Splash</p>
+flags:
+  point-mongo:
+    id: 789
+    category: skills
+    slug: singing
+    url: https://pointmongo.com/browse/skills/singing
+    source: Community submission — Mr King
+    tags: []
+    updatedAt: '2026-09-22T20:25:04.2080016Z'
+    needsRestat: false
+    missingFields: []

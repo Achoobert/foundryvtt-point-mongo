@@ -1,0 +1,37 @@
+_id: BUHsBslsQrcmxmVa
+_key: '!items!BUHsBslsQrcmxmVa'
+name: Knitting
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>A crafting skill that scales from simple scarves to socks and sweaters — including a risky, party-splitting cursed sweater.</em></p><p>Every time you knit, there''s a 10% chance of dropping a stitch, and a 5% chance of messing up the project entirely.</p><ul><li>Level 1: You know how to Knit and Purl, and can knit a simple scarf.</li><li>Level 5: You now know how to kfb, k2tog, Tink Back, k1tbl, and k2togtbl, and more! You can now make shawls that could look like they were made by a little old grandma!</li><li>Level 10: You now have the skills to make socks and sweaters. The real question: do you dare risk the dreaded Curse of the Boyfriend Sweater? (There is a 15% chance of invoking the Curse of the Boyfriend Sweater.)</li></ul><p><strong>Spell: Curse of the Boyfriend Sweater</strong> — It''s okay, breakups are hard, it just wasn''t meant to be. Upon completion of the sweater, everyone in your party is immediately teleported to a different location within the local city. Good luck trying to get back together!</p><p><em>Stitch glossary from the submitter: K = Knit stitch (creates a bumpy texture across a row); P = Purl stitch (the knit stitch, but backwards — alternating rows create fabric bumpy on one side, smooth on the other); kfb = Knit Front and Back (1 stitch becomes 2); k2tog = Knit 2 Together (2 stitches become 1); Tink Back = undo/work backwards; k1tbl / k2togtbl = through the back loop, twisting the stitch for texture.</em></p><hr><p><em>Source: Community submission — Myles L. (Crawler #26933). From <a href="https://pointmongo.com/browse/skills/knitting">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 76
+    category: skills
+    slug: knitting
+    url: https://pointmongo.com/browse/skills/knitting
+    source: 'Community submission — Myles L. (Crawler #26933)'
+    tags:
+      - skill
+      - crafting
+    updatedAt: '2026-08-31T17:12:29.7787555Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

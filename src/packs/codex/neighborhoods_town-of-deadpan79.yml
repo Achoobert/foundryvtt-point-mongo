@@ -1,0 +1,25 @@
+_id: MADmiVQ8ocafgJRe
+_key: '!journal!MADmiVQ8ocafgJRe'
+name: Town of DeaDPaN79
+folder: cWQgUi6OmzYETooo
+pages:
+  - _id: IXb3gm0cs6y7EFEf
+    _key: '!journal.pages!MADmiVQ8ocafgJRe.IXb3gm0cs6y7EFEf'
+    name: Town of DeaDPaN79
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A tiny settlement of blue-skinned, Gaelic warlock folk living in cozy mushroom houses, kilted and armed with massive claymores.</em></p><p><strong>Population:</strong> Savage, warlock people of Gaelic descent, skin dyed blue.</p><p>Small settlement, only 3 apples high. Cozy mushroom houses, with chimney''s wafting pleasant woodsmoke into the air. Residents are dressed in kilts, carrying massive Claymore swords and spoiling for a chance to use them. The music of fife and bagpipes drift lazily through the air.</p><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/neighborhoods/town-of-deadpan79">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 438
+    category: neighborhoods
+    slug: town-of-deadpan79
+    url: https://pointmongo.com/browse/neighborhoods/town-of-deadpan79
+    source: Community submission — DeaDPaN79
+    tags:
+      - dcc-ccs
+      - neighborhoods
+    updatedAt: '2026-08-31T17:12:37.1263375Z'
+    needsRestat: false
+    missingFields: []

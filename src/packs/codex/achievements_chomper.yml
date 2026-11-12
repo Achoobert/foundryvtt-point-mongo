@@ -1,0 +1,25 @@
+_id: Y0j4BLwycH7pr46t
+_key: '!journal!Y0j4BLwycH7pr46t'
+name: Chomper
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: yoAFX6pGCjiAUOD1
+    _key: '!journal.pages!Y0j4BLwycH7pr46t.yoAFX6pGCjiAUOD1'
+    name: Chomper
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler bites into a mob to see what it tastes like.</em></p><p><strong>Scenario:</strong> Crawler bites another mob</p><p>You have taken a bite out of a mob; does the taste of uncooked flesh, slime, or any other type of viscera make you drool, or are you just that hungry? anyway you now know what taking a bite out of a mob that means to kill you tastes like.</p><p><strong>Reward:</strong></p><p>A bronze Oral hygiene Box</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/achievements/chomper">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 280
+    category: achievements
+    slug: chomper
+    url: https://pointmongo.com/browse/achievements/chomper
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:27:11.5148264Z'
+    needsRestat: false
+    missingFields: []

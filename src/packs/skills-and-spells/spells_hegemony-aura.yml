@@ -1,0 +1,44 @@
+_id: 1PX9RNuACPJncEBH
+_key: '!items!1PX9RNuACPJncEBH'
+name: Hegemony Aura
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>An aura granting nearby allies +1 DR while stripping 1 DR from nearby enemies.</em></p><p>You exert your magical presence over the surrounding area.</p><p>All allies within the aura gain +1 DR.</p><p>All enemies within the aura suffer -1 DR, to a minimum of 0.</p><p>The effect ends immediately for a creature that leaves the aura and resumes if it enters the aura again while the Spell remains active.</p><hr><p><em>Source: Community submission — TheSharp. From <a href="https://pointmongo.com/browse/spells/hegemony-aura">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 6
+  range: 10 feet burst, self
+  duration: 2 rounds
+  cooldown: 5 minutes
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Mage
+    - Rogue
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: MKIxct9R8mewHNuk
+      rankThreshold: 5
+      description: <p>Radius increases to 15 feet.</p>
+    - id: WykpZ0Rg6XJAO2za
+      rankThreshold: 10
+      description: <p>Allies within the aura also gain +1 on Checks made to resist Fear, Mind Control and similar effects.</p>
+    - id: AomdWfrVNxQThfg6
+      rankThreshold: 15
+      description: <p>Radius increases to 25 feet. Enemies within the aura suffer -2 DR instead of -1 DR, to a minimum of 0.</p>
+flags:
+  point-mongo:
+    id: 745
+    category: spells
+    slug: hegemony-aura
+    url: https://pointmongo.com/browse/spells/hegemony-aura
+    source: Community submission — TheSharp
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6571027Z'
+    needsRestat: false
+    missingFields: []

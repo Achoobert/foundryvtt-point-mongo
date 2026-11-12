@@ -1,0 +1,24 @@
+_id: a60pMJlc3uXT0STP
+_key: '!items!a60pMJlc3uXT0STP'
+name: SD.Kfz.2 Dreadnaughty
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter/Arcanist for crawlers who stayed disabled, turning their chair into a mount that can carry siege weapons.</em></p><p>You chose to stay a disabled being during this selection, i doubt you will make it far but lets see if that stubbornness can become explosive. This choice will give your chair/or movement device into an almost militarized mount that even a dirigible gnome would be fascinated by. if you follow the context clues maybe you can make everyone else disabled, or dead.</p><table><tbody><tr><th>Prerequisites</th><td>chose to stay a disabled Humanoid. at least 3 Ranks in tactics, and 3 Ranks in a ranged weapon.</td></tr><tr><th>Rank 20</th><td>Driving</td></tr><tr><th>Build points</th><td>32</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Dexterity</li><li>+3 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Aiming</li><li>+1 Driving</li><li>+1 Explosive Handling</li><li>+1 Gear Head</li><li>+1 Tactics</li></ul><p><strong>Benefits</strong></p><ul><li>either; Transform your current disability transport or Gain a Mechanical Mount that has no will or intellect of its own. (I.E. Tank Chair) Can use Driving skill instead of movement skill depending on current movement type of mount <em>(epic)</em></li><li>Use 10 Mana with an hour cool down to change your mounts movement type. <em>(epic)</em></li><li>Can attach ranged weaponry to your mount, making it a Siege Mount. (at Engineering or Metalworking Tables) <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Cannot drive vehicles of any kind. <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/classes/sd-kfz-2-dreadnaughty">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Arcanist
+    - Fighter
+  prerequisites: chose to stay a disabled Humanoid. at least 3 Ranks in tactics, and 3 Ranks in a ranged weapon.
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 843
+    category: classes
+    slug: sd-kfz-2-dreadnaughty
+    url: https://pointmongo.com/browse/classes/sd-kfz-2-dreadnaughty
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.1390074Z'
+    needsRestat: false
+    missingFields: []

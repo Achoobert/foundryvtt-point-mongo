@@ -1,0 +1,23 @@
+_id: aQ5D2FC03wEReyMl
+_key: '!journal!aQ5D2FC03wEReyMl'
+name: Entangled (Debuff)
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: x0TsbBNkQ1hQ4fiQ
+    _key: '!journal.pages!aQ5D2FC03wEReyMl.x0TsbBNkQ1hQ4fiQ'
+    name: Entangled (Debuff)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Caught in vines: you can''t move, you''re easier to hit, and every failed escape costs piercing damage.</em></p><p>You become caught in vines! You cannot use you Move or Step actions, but may attempt and Evade check. Attacks made against Crawlers with the Entangled Debuff are made with Advantage.</p><p>At the start of each round, Entangled crawlers make a STR-Opposed Escape Artist Skill Check. On a Fail, take 3d6+F Piercing damage. On a success, the debuff ends and you’re able to fight your way out.</p><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/buffs-debuffs/entangled-debuff">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1002
+    category: buffs-debuffs
+    slug: entangled-debuff
+    url: https://pointmongo.com/browse/buffs-debuffs/entangled-debuff
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6031649Z'
+    needsRestat: false
+    missingFields: []

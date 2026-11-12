@@ -1,0 +1,25 @@
+_id: IkxopKGP7KRE8dxe
+_key: '!journal!IkxopKGP7KRE8dxe'
+name: Carthay Circle Bar & Lounge
+folder: adVwT3zSO8jf77K5
+pages:
+  - _id: 0ZUSOXofRvohUkLK
+    _key: '!journal.pages!IkxopKGP7KRE8dxe.0ZUSOXofRvohUkLK'
+    name: Carthay Circle Bar & Lounge
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Plucked right from Disney California Adventure — classy and stylish with great drinks and food.</em></p><p>Plucked right from Disney California Adventure, it''s classy and stylish with great drinks &amp; food.</p><hr><p><em>Source: Community submission — Myles L. From <a href="https://pointmongo.com/browse/saferooms/carthay-circle-bar-lounge">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 433
+    category: saferooms
+    slug: carthay-circle-bar-lounge
+    url: https://pointmongo.com/browse/saferooms/carthay-circle-bar-lounge
+    source: Community submission — Myles L
+    tags:
+      - dcc-ccs
+      - saferooms
+    updatedAt: '2026-09-05T05:20:41.7950617Z'
+    needsRestat: false
+    missingFields: []

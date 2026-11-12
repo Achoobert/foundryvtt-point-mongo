@@ -1,0 +1,19 @@
+_id: F3vINcAxZA2Tnygc
+_key: '!items!F3vINcAxZA2Tnygc'
+name: Legendary Enchanted Patch of the First Mate
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A fleeting skull-and-crossbones patch in poison green that makes its wearer a strong swimmer, hard to poison and easy to like.</em></p><p>This is a fleeting item.  This Legendary embroidered patch features the  skull and crossbones symbol of both the Jolly Roger and the Poison MSDS symbol, combined to create something similar, but new.</p><p>Embroidered in a bright green thread, the artwork is quite striking.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Legendary</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5 Swimming Skill</li><li>+10% Constitution</li><li>Immunity to Poison damage</li><li>+10% Charisma</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/legendary-enchanted-patch-of-the-first-mate">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 957
+    category: magic-items
+    slug: legendary-enchanted-patch-of-the-first-mate
+    url: https://pointmongo.com/browse/magic-items/legendary-enchanted-patch-of-the-first-mate
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-23T19:20:32.1717926Z'
+    needsRestat: false
+    missingFields: []

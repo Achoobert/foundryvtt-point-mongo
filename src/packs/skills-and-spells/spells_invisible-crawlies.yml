@@ -1,0 +1,39 @@
+_id: 1JReW0LgfTXzYfBE
+_key: '!items!1JReW0LgfTXzYfBE'
+name: Invisible Crawlies
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A Conjuration debuff that makes a target unbearably itchy, potentially disarming them.</em></p><p><strong>School:</strong> Conjuration · <strong>AoE:</strong> 1 creature/level · <strong>Duration:</strong> 1 round/level · <strong>Cost:</strong> 2 MP</p><p>From palms to toes, the only thing the target can focus on is scratching — can be used to disarm them, dropping held items. Especially effective on short- or no-armed mobs.</p><hr><p><em>Source: Community submission — Otuon (Crawler #1427). From <a href="https://pointmongo.com/browse/spells/invisible-crawlies">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 403
+    category: spells
+    slug: invisible-crawlies
+    url: https://pointmongo.com/browse/spells/invisible-crawlies
+    source: 'Community submission — Otuon (Crawler #1427)'
+    tags:
+      - dcc-ccs
+      - spells
+      - conjuration
+    updatedAt: '2026-09-02T04:50:41.8745122Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

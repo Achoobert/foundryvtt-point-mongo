@@ -1,0 +1,23 @@
+_id: ufSsBtFPEroxJB8u
+_key: '!items!ufSsBtFPEroxJB8u'
+name: Megaphone of Doom
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A megaphone that enhances all voice and sonic performances and attacks by 50%.</em></p><p><strong>Type:</strong> Item</p><p>Enhances all voice and sonic performances and attacks by 50%.</p><table><tbody><tr><th>Type</th><td>Item</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/megaphone-of-doom">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 183
+    category: magic-items
+    slug: megaphone-of-doom
+    url: https://pointmongo.com/browse/magic-items/megaphone-of-doom
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-03T16:29:38.8647641Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

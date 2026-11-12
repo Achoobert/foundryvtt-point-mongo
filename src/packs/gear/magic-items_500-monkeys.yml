@@ -1,0 +1,19 @@
+_id: VmSwilV32jYW5KTb
+_key: '!items!VmSwilV32jYW5KTb'
+name: 500 Monkeys
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>An old typewriter that spits out a page a day. Roll five hundreds on 5d100 and the page is a magical scroll instead. Good luck.</em></p><p>AI: Well, there''s this saying involving monkeys, typewriters and an author that has been pushed by an empire into the world as the most brilliant playwright ever... Let''s put that to the test.</p><p>This old style typewriter will spill out one page of... "writing" once a day, after a long rest.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Held</td></tr><tr><th>Tier</th><td>Bronze</td></tr><tr><th>Cooldown</th><td>30hours</td></tr><tr><th>Limitations</th><td>Note: This item is a joke. Don''t waste a Box giving this to your players. But... can you imagine?</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Roll 5d100. If you get 100 in all of them, the page is a random magical scroll of ANY rarity.</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/magic-items/500-monkeys">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 550
+    category: magic-items
+    slug: 500-monkeys
+    url: https://pointmongo.com/browse/magic-items/500-monkeys
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-24T18:09:52.9443513Z'
+    needsRestat: false
+    missingFields: []

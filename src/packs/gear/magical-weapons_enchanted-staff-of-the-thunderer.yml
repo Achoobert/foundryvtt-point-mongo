@@ -1,0 +1,19 @@
+_id: glsPkCmXRICX191H
+_key: '!items!glsPkCmXRICX191H'
+name: Enchanted Staff of the Thunderer
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>Six feet of ebony inlaid with copper lightning. Three times a day it delivers the thunder that follows.</em></p><p>This ornate 6'' tall ebony staff is inlaid with a lightning pattern etched in burnished copper.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Staff</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>Weapon skill</th><td>Quarterstaff</td></tr><tr><th>Charges</th><td>3 charges / day</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 Quarterstaff Skill Rank</li><li>+5% Intelligence</li><li>Thunderlash - Spell - Rank 10 (3d10+INT Sonic dmg) - CRB Pg 212</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/enchanted-staff-of-the-thunderer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 797
+    category: magical-weapons
+    slug: enchanted-staff-of-the-thunderer
+    url: https://pointmongo.com/browse/magical-weapons/enchanted-staff-of-the-thunderer
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-09-24T18:09:50.6306709Z'
+    needsRestat: false
+    missingFields: []

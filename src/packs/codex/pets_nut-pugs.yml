@@ -1,0 +1,23 @@
+_id: pGNbxKI03Y3rskcf
+_key: '!journal!pGNbxKI03Y3rskcf'
+name: Nut Pugs
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: fJ0ua60wYEw9jCJE
+    _key: '!journal.pages!pGNbxKI03Y3rskcf.fJ0ua60wYEw9jCJE'
+    name: Nut Pugs
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Nut-shelled pug hybrids that grow into Nut Danes and roll through enemy lines like a wrecking ball.</em></p><p>Note: based on Dimension 20''s Cloudward Ho!</p><p>Nut Pugs are Tiny (Size 1) vegetable/dog hybrids. They appear to be oversized nuts, but a small pug head can be seen peeking from the inside, its small, stubby legs propelling them forward in janky movements.</p><p>what people does not know is that this cute little puppies can grow quite large, becoming Nut Danes (Medium Size - 4).</p><p>Bonding: Nut pugs are happy and friendly and will bond easily with anyone who offers them even a modicum of affection.</p><p>Level 15 Benefit:</p><p>Wrecking Ball (As per the Tummy Acher benefit) The now fully grown Nut Dane recoils inside its nut and rolls over a line of enemies.</p><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/pets/nut-pugs">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 776
+    category: pets
+    slug: nut-pugs
+    url: https://pointmongo.com/browse/pets/nut-pugs
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6893255Z'
+    needsRestat: false
+    missingFields: []

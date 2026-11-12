@@ -1,0 +1,19 @@
+_id: xi5rMXRTw6gwZc9B
+_key: '!items!xi5rMXRTw6gwZc9B'
+name: Enchanted Upgrade Patch of the Forest Protector
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A fleeting sequoia patch that makes its wearer fireproof, halves Force damage, and roots them to the spot when it counts.</em></p><p>This is a fleeting item.  This medium sized embroidered patch depicts a massive Sequoia Tree.  Both its full canopy and vast root network are on display spreading deep underground on a light blue background.   When properly sewn onto an eligible garment it bestows the following buffs: Immunity to Fire, Damage Resistance to Force, and the Rooted in Place Buff.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Platinum</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Immunity to Fire damage</li><li>Resistance to Force damage</li><li>Rooted in Place Buff</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-upgrade-patch-of-the-forest-protector">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1042
+    category: magic-items
+    slug: enchanted-upgrade-patch-of-the-forest-protector
+    url: https://pointmongo.com/browse/magic-items/enchanted-upgrade-patch-of-the-forest-protector
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-02T19:09:47.8291633Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,26 @@
+_id: zIM21i3CPxS1PJVz
+_key: '!journal!zIM21i3CPxS1PJVz'
+name: Suzaku
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: QsbqwbKPDrznZshA
+    _key: '!journal.pages!zIM21i3CPxS1PJVz.QsbqwbKPDrznZshA'
+    name: Suzaku
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A trained Harris Hawk whose crawler earned some of the first bird-related World Dungeon achievements.</em></p><dl class="stat-block"><dt>Species</dt><dd>Harris Hawk</dd><dt>Stats</dt><dd>Level 1</dd><dt>Class</dt><dd>Not Yet Assigned</dd></dl><p><strong>Youth Skill:</strong> Born Natural, Light on Your Feet + Escape Artist.</p><p><strong>Training Skills:</strong> Pack Mentality &gt; Well-Trained. Tactics + Persuasion or Catcher + Performance.</p><p><strong>Adult Skills:</strong> Working — Endurance + Perception.</p><p><strong>Quirk Skills:</strong> Hunter — Tracking + Stealth.</p><p><strong>Achievements earned:</strong> Bird Up! (entered the World Dungeon with a bird — Bronze Pet Box); Trailblazing Bird in Hand Specialist (first crawler with a trained raptor — Legendary Pet Box); Trailblazing Bird of Prey (first hawk/eagle/falcon crawler — Legendary Feathered Box); My Special Eyes (used bird-eyes to find something — Bronze Adventurer''s Box); Winged Warrior (killed an enemy with talons — Bronze Weapon Box).</p><hr><p><em>Source: Community submission — Chazori (Crawler #38451), Crawler #582576. From <a href="https://pointmongo.com/browse/pets/suzaku">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 30
+    category: pets
+    slug: suzaku
+    url: https://pointmongo.com/browse/pets/suzaku
+    source: 'Community submission — Chazori (Crawler #38451), Crawler #582576'
+    tags:
+      - animal-companion
+      - pet
+      - bird
+    updatedAt: '2026-08-31T17:12:29.7235921Z'
+    needsRestat: false
+    missingFields: []

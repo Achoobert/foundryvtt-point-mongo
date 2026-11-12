@@ -1,0 +1,45 @@
+_id: 4tYBjWWiwdEWgtU5
+_key: '!items!4tYBjWWiwdEWgtU5'
+name: Magical Stove
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Summons a walking one-burner stove that follows you for ninety minutes. Lighting it is your problem.</em></p><p>“Don''t challenge the Bobcas to a cook off, Or do, what ever brings more viewers.”</p><p>Passive</p><p>Mana Cost: 12</p><p>Range: 5 feet</p><p>Duration: 90minutes</p><p>Summon a quadruped walking stove with 1 burner, it will stay within arms reach for the duration of the spell.</p><p>Limitation: You still need to light the fire to cook things.</p><p>Upgrades</p><p>Rank 5: Stove is summoned with 2 Burners, reducing cooking time in half.</p><p>Rank 10: Stove is summoned with 4 Burners, Reducing the cooking time to a quarter of what it would have been.</p><p>Rank 15: Spell gains “Spend Multiples of mana cost for more Stoves”, and Can assign stoves to others.</p><table><tbody><tr><th>Limitations</th><td>You still need to light the burner to use them.</td></tr></tbody></table><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/spells/magical-stove">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 12
+  range: '5'
+  duration: 90 Minutes
+  cooldown: ''
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Arcanist
+    - Mage
+    - Rogue
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: lXHZ3LBwYpcp91Tc
+      rankThreshold: 5
+      description: <p>Stove is summoned with 2 Burners, reducing cooking time in half.</p>
+    - id: AjBmn5M7olhGMszc
+      rankThreshold: 10
+      description: <p>Stove is summoned with 4 Burners, Reducing the cooking time to a quarter of what it would have been.</p>
+    - id: UXR6k6La7LDeHw6n
+      rankThreshold: 15
+      description: <p>Spell gains “Spend Multiples of mana cost for more Stoves”, and Can assign stoves to others.</p>
+flags:
+  point-mongo:
+    id: 814
+    category: spells
+    slug: magical-stove
+    url: https://pointmongo.com/browse/spells/magical-stove
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.7219094Z'
+    needsRestat: false
+    missingFields: []

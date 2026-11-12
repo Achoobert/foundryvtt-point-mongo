@@ -1,0 +1,19 @@
+_id: F3mFww9S2D0Fw1ST
+_key: '!items!F3mFww9S2D0Fw1ST'
+name: Electric Bow of Shock Value
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A carved bow that, once every two hours, looses a free Lightning Bolt shaped like an arrow of pure electricity.</em></p><p>This ornately carved wooden bow is imbued with a heavy enchantment.  Once every two hours it allows it''s wielder to cast a Level 1 Lightning Bolt.  The Bolt manifests as an arrow made of electricity, and appears to be fired from the bow when cast.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Bow</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Weapon skill</th><td>Bow</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Lightning Bolt Spell at Rank 1, no Mana cost, 2 hour cooldown</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/electric-bow-of-shock-value">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1027
+    category: magical-weapons
+    slug: electric-bow-of-shock-value
+    url: https://pointmongo.com/browse/magical-weapons/electric-bow-of-shock-value
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-31T19:00:58.3136498Z'
+    needsRestat: false
+    missingFields: []

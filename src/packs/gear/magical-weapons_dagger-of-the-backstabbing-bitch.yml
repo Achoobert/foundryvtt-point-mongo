@@ -1,0 +1,21 @@
+_id: 9ZB5l6hs0mxq2hgI
+_key: '!items!9ZB5l6hs0mxq2hgI'
+name: Dagger of the Backstabbing Bitch
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>Crawlers giving you a hard time? Check out this Crawler-killing dagger and find yourselves a quick solution! Permanently!</em></p><p>A slightly curved dagger with a black handle and a green glint on the blade.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Weapon</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr><tr><th>Limitations</th><td>Note: This is an excellent prize for a Savage Box.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 to the Dagger Skill</li><li>Advantage if attacking a Crawler</li><li>Deals an additional 1d8 damage to Crawlers.</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/magical-weapons/dagger-of-the-backstabbing-bitch">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 476
+    category: magical-weapons
+    slug: dagger-of-the-backstabbing-bitch
+    url: https://pointmongo.com/browse/magical-weapons/dagger-of-the-backstabbing-bitch
+    source: Community submission — Gabe M
+    tags:
+      - magical-weapons
+      - dagger
+    updatedAt: '2026-09-04T04:25:22.6783218Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,24 @@
+_id: 02JCIi1Ppcuj275m
+_key: '!journal!02JCIi1Ppcuj275m'
+name: Pocket Change
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: QRDbrBBnAdVq80LQ
+    _key: '!journal.pages!02JCIi1Ppcuj275m.QRDbrBBnAdVq80LQ'
+    name: Pocket Change
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you loot gold off a dead Mob for the first time.</em></p><p>You just rifled through a corpse''s pockets for spare change like a raccoon at a campsite. Welcome to the Second Floor, where the loot finally has monetary value. Try not to spend it all on one Bopca.</p><p>Reward: Bronze Grave Robber''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/pocket-change">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 649
+    category: achievements
+    slug: pocket-change
+    url: https://pointmongo.com/browse/achievements/pocket-change
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9939563Z'
+    needsRestat: false
+    missingFields: []

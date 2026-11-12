@@ -1,0 +1,46 @@
+_id: IXGAVWqNkGocoME9
+_key: '!items!IXGAVWqNkGocoME9'
+name: Mutiny Sense
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> Mana cost, range</p><p><em>A passive skill that senses incoming betrayal from mobs and minions, eventually preventing it outright against weak-willed foes.</em></p><p><strong>Type:</strong> Passive Skill</p><p>Lv1: sense a mob or minion''s betrayal seconds before it happens. Lv5: also sense mobs/minions betraying their own allies. Lv10: if the caster''s Charisma is more than double an enemy minion''s, it becomes much more likely to betray its master. Lv15: allied minions with less than half the caster''s Charisma cannot betray them. Lv20: instantly tell by observation whether any minion is capable of betrayal.</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/mutiny-sense">Point Mongo</a>.</em></p>'
+  governingStat: cha
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: kdwtcEom8NEbQNtD
+      rankThreshold: 5
+      description: '<p>Lv5: also sense mobs/minions betraying their own allies</p>'
+    - id: nfc12ww8ivHFX7ea
+      rankThreshold: 10
+      description: '<p>Lv10: if the caster''s Charisma is more than double an enemy minion''s, it becomes much more likely to betray its master.</p>'
+    - id: bpU0P29FVJaUFEKZ
+      rankThreshold: 15
+      description: '<p>Lv15: allied minions with less than half the caster''s Charisma cannot betray them.</p>'
+flags:
+  point-mongo:
+    id: 408
+    category: spells
+    slug: mutiny-sense
+    url: https://pointmongo.com/browse/spells/mutiny-sense
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+    updatedAt: '2026-09-08T02:59:11.8301631Z'
+    needsRestat: false
+    missingFields:
+      - Mana cost
+      - range

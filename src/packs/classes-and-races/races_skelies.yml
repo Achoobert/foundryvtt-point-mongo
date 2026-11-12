@@ -1,0 +1,23 @@
+_id: w2gn2W0cRXPgbdpH
+_key: '!items!w2gn2W0cRXPgbdpH'
+name: Skelies
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>The humble skeleton as a playable race: no need to breathe or eat, healed by necrotic magic, and in real trouble against anything blunt.</em></p><p>Ah, the undead! Mysterious and powerful. The cunning Lich. The seductive Vampire. The imposing Flesh Golems. You... well, you are none of that.</p><p>You decided on the crack cocaine of the necromancy world: the humble skeleton. Usually what is left AFTER the fun part of necromancy takes place.</p><p>Maybe you should take some time to think about your self-esteem issues.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Dexterity</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Regeneration skill. (2pts)</li></ul><p><strong>Benefits</strong></p><ul><li>Collapse: Once per day you can collapse into a pile of bones, negating all damage from a single attack. <em>(major)</em></li><li>Resistance to Piercing damage <em>(extreme)</em></li><li>Undead: You don’t need to breath <em>(major)</em></li><li>you don''t need to eat or drink <em>(major)</em></li><li>Immunity to Poison and all diseases <em>(epic)</em></li><li>Necrotic magic Heals you <em>(extreme)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Major: Vulnerability to Bludgeoning damage <em>(3 pt)</em></li><li>Moderate: Healing magic (including potions) actually damage you <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/skelies">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 848
+    category: races
+    slug: skelies
+    url: https://pointmongo.com/browse/races/skelies
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.1558039Z'
+    needsRestat: false
+    missingFields: []

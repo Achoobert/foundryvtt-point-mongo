@@ -1,0 +1,25 @@
+_id: opeW9AvN5jKLVInA
+_key: '!journal!opeW9AvN5jKLVInA'
+name: Late Night with David Leatherman
+folder: 60wNl7vBu4R8G6qF
+pages:
+  - _id: rFN1cNTsF7ukR2Y3
+    _key: '!journal.pages!opeW9AvN5jKLVInA.rFN1cNTsF7ukR2Y3'
+    name: Late Night with David Leatherman
+    type: text
+    text:
+      format: 1
+      content: '<p><em>An old-school late-night talk show format with awkward interviews, a house band, and a mystery musical guest.</em></p><p><strong>Host:</strong> David Leatherman</p><p>Old-school late-night format — awkward interviews, a house band, and a musical guest (donut?!). "Tonight we have two of the top ten and a surprise musical guest!"</p><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/interview-shows/late-night-with-david-leatherman">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 371
+    category: interview-shows
+    slug: late-night-with-david-leatherman
+    url: https://pointmongo.com/browse/interview-shows/late-night-with-david-leatherman
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - tunnel-shows
+    updatedAt: '2026-09-02T04:50:41.8466759Z'
+    needsRestat: false
+    missingFields: []

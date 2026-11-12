@@ -1,0 +1,41 @@
+_id: nCYoJPLGXGSG10f6
+_key: '!items!nCYoJPLGXGSG10f6'
+name: Saber
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A STR melee skill for curved cavalry blades, which can take a limb when swung from the saddle.</em></p><p>This skill reflects the mastery of curved, single sided blades, most commonly used by mounted cavalry.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d8 + STR</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/skills/saber">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: 5ft
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: 1d8
+    stat: str
+    damageType: slashing
+  upgrades:
+    - id: xuWttbKwsYfzpJuu
+      rankThreshold: 5
+      description: <p>+1d8 base dmg</p>
+    - id: UrC42ETMI0IVtOEP
+      rankThreshold: 10
+      description: <p>+1d8 base dmg</p>
+    - id: OoA90VkqCGWIC8bB
+      rankThreshold: 15
+      description: <p>+1d8 base dmg, and if used from a mounted position - on an Amazing Success or better, sever an arm (or similar) of your foe (which disarms anyone with a two-handed weapon).</p>
+flags:
+  point-mongo:
+    id: 992
+    category: skills
+    slug: saber
+    url: https://pointmongo.com/browse/skills/saber
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-29T04:19:43.9390172Z'
+    needsRestat: false
+    missingFields: []

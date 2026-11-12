@@ -1,0 +1,19 @@
+_id: Y4sIJP2NI5mCcIgH
+_key: '!items!Y4sIJP2NI5mCcIgH'
+name: Compound Crossbow
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>A sleek black compound crossbow with a fast crank that cuts reload time to once a round, found with a dozen bolts.</em></p><p>A modern compound crossbow in a sleek, compact black design.  This model features integrated cord tensioners and a fast action crank that dramatically decreases reload time.</p><p>This weapon is initially found with 12 bolts.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Crossbow</td></tr><tr><th>Tier</th><td>Bronze</td></tr><tr><th>Weapon skill</th><td>Crossbow</td></tr><tr><th>Damage type</th><td>Piercing</td></tr><tr><th>Cooldown</th><td>Once per round</td></tr><tr><th>Limitations</th><td>Requires two hands to wield. Each Attack requires proper ammunition.</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/loot/compound-crossbow">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 910
+    category: loot
+    slug: compound-crossbow
+    url: https://pointmongo.com/browse/loot/compound-crossbow
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-17T18:03:42.0350063Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,41 @@
+_id: RM6BeduVxOvcdmRo
+_key: '!items!RM6BeduVxOvcdmRo'
+name: Short Sword
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A STR melee skill for the shorter blades of rogues, pit fighters and petite races, ending in a better Evade.</em></p><p>This skill covers mastery of shorter blades favoured by Rogues, Pit Fighters, and Petite Races across the Syndicate.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d6 + STR</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/skills/short-sword">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: 5ft
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: 1d6
+    stat: str
+    damageType: slashing
+  upgrades:
+    - id: ZU25d8vXqb9twmw2
+      rankThreshold: 5
+      description: <p>+1d6 base damage</p>
+    - id: cGHTNQIGhZSYzsi9
+      rankThreshold: 10
+      description: <p>+1d6 base damage</p>
+    - id: iVVcUzUj1SXXKmOk
+      rankThreshold: 15
+      description: <p>+1d6 base damage, and you gain a +1 Evade Buff</p>
+flags:
+  point-mongo:
+    id: 991
+    category: skills
+    slug: short-sword
+    url: https://pointmongo.com/browse/skills/short-sword
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-29T04:19:43.9380916Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: avsY8INEZMiQghfU
+_key: '!items!avsY8INEZMiQghfU'
+name: Baba Yaga
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A retired legend brought back by the end of the world and the death of a dog.</em></p><p>You are a legend. A creature of nightmares. The fairy tale that is told to keep all the little criminals behaving. You were actually retired. Then, some outer space fish went and collapse the world, killing your dog. They should have known better...</p><p><strong>Stat bonuses</strong></p><ul><li>+2 Strength</li><li>+2 Dexterity</li><li>+2 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 to Improvised Weapons</li><li>+1 to one Hand-to-hand damage effect skill of your choice</li><li>+1 to another Hand-to-hand damage effect skill of your choice</li><li>+1 to Handguns</li><li>+1 Dodge</li></ul><p><strong>Benefits</strong></p><ul><li>Rage Benefit <em>(major)</em></li><li>You may apply Rank Damage Die to Improvised Weapons. If you do so, it does not grant AI favor. <em>(major)</em></li><li>+1 to all Hand-to-hand Skills <em>(extreme)</em></li><li>+2 DR (while unarmed or wielding only handguns) <em>(extreme)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/baba-yaga">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Barbarian
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 825
+    category: classes
+    slug: baba-yaga
+    url: https://pointmongo.com/browse/classes/baba-yaga
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-10T06:59:48.5211443Z'
+    needsRestat: false
+    missingFields: []

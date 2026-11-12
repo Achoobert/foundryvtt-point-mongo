@@ -1,0 +1,19 @@
+_id: XCsM51dWxC5b2RS2
+_key: '!items!XCsM51dWxC5b2RS2'
+name: Hide Armor of the Sluggalo
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>Basic leather armor first worn by the Sluggalos, half giant slug and half Juggalo.</em></p><p>Leather armor that was first used by the Slugglo (obviously a mix between a real big slug and the famous Earth human Juggalo)</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Hide Armor</td></tr><tr><th>Tier</th><td>Bronze</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — scottw. From <a href="https://pointmongo.com/browse/loot/hide-armor-of-the-sluggalo">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1001
+    category: loot
+    slug: hide-armor-of-the-sluggalo
+    url: https://pointmongo.com/browse/loot/hide-armor-of-the-sluggalo
+    source: Community submission — scottw
+    tags: []
+    updatedAt: '2026-10-29T04:19:44.0543486Z'
+    needsRestat: false
+    missingFields: []

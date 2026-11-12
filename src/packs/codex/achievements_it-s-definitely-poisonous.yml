@@ -1,0 +1,24 @@
+_id: Y5iR9eiICsTofztK
+_key: '!journal!Y5iR9eiICsTofztK'
+name: It's Definitely Poisonous
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: MfZLXyaWRhQL4LMM
+    _key: '!journal.pages!Y5iR9eiICsTofztK.MfZLXyaWRhQL4LMM'
+    name: It's Definitely Poisonous
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you identify poison after someone has already consumed it.</em></p><p>You correctly identified a poison after someone had already consumed it.</p><p>Technically, this is useful information.</p><p>Unfortunately, it would have been significantly more useful thirty seconds earlier.</p><p>Reward: Silver Crafter''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/it-s-definitely-poisonous">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 652
+    category: achievements
+    slug: it-s-definitely-poisonous
+    url: https://pointmongo.com/browse/achievements/it-s-definitely-poisonous
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9963226Z'
+    needsRestat: false
+    missingFields: []

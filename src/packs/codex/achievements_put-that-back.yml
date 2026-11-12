@@ -1,0 +1,24 @@
+_id: 2dc12OunT05Nfga9
+_key: '!journal!2dc12OunT05Nfga9'
+name: Put That Back
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: ErGoJrfdL0I5scyT
+    _key: '!journal.pages!2dc12OunT05Nfga9.ErGoJrfdL0I5scyT'
+    name: Put That Back
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you take something from an NPC, creature, or location and then return it voluntarily.</em></p><p>You voluntarily returned something you had already taken.</p><p>This is called morality.</p><p>The System AI understands that this may be an unfamiliar concept.</p><p>Reward: Silver Diplomat''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/put-that-back">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 648
+    category: achievements
+    slug: put-that-back
+    url: https://pointmongo.com/browse/achievements/put-that-back
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9931689Z'
+    needsRestat: false
+    missingFields: []

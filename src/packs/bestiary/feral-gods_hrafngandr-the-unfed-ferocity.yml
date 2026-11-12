@@ -1,0 +1,53 @@
+_id: lHE0P6eVTa2KemXi
+_key: '!actors!lHE0P6eVTa2KemXi'
+name: Hrafngandr, the Unfed Ferocity
+type: mob
+img: icons/svg/mystery-man.svg
+folder: DNiM1ASMkD2zTphd
+system:
+  biography: '<p><strong>Missing:</strong> Level, stat scores, Move, Floor (sets DR), attacks</p><p><em>A Huge, Chaotic Neutral raven-shaped Feral God that heals off nearby deaths and attacks with psychic/necrotic multiattacks.</em></p><p><strong>Alignment:</strong> Chaotic Neutral Floor: STR 10 DEX 30 CON 28 INT 32 CHA 18</p><p><strong>Hunger Instinct:</strong> Immune to fear, charm, stunned, and sleep</p><p>When a creature dies within 60 ft of Hrafngandr: It regains a portion of HP equal to the creature’s CR or level equivalent It gains +1 to attack rolls until the end of its next turn.</p><p><strong>Predatory Logic:</strong> +10 initiative</p><p>Cannot be surprised</p><p>Rending Thought (Multiattack)</p><p><strong>Melee Spell Attack:</strong> +17 to hit On hit: 6d10 psychic + 6d10 slashing damage Target must succeed on WIS save (DC 24) or lose reaction and bonus action for 1 round Raven Dive 30 ft radius AoE Enemies take 8d8 necrotic + 8d8 piercing damage Area becomes difficult terrain (visually filled with shifting raven shadows)</p><p>In the Norse shadow-myths that were never fully sung aloud, there is a name that does not belong to any proper god-slate: Hrafngandr—“Raven-Hunger.” Not a god of ravens. Nor a god of war. A god of what happens when hunger learns to think. Seen as a raven-shaped maw suspended in stormclouds that are always opening.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/feral-gods/hrafngandr-the-unfed-ferocity">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: Huge (6)
+  creatureType: Feral God
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Hrafngandr, the Unfed Ferocity
+  actorLink: false
+flags:
+  point-mongo:
+    id: 119
+    category: feral-gods
+    slug: hrafngandr-the-unfed-ferocity
+    url: https://pointmongo.com/browse/feral-gods/hrafngandr-the-unfed-ferocity
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - the-nothing
+      - feral-god
+      - feral-gods
+    updatedAt: '2026-09-22T05:37:53.3836999Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

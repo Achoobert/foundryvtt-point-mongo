@@ -1,0 +1,51 @@
+_id: 04GXvreVeCEEgXBI
+_key: '!actors!04GXvreVeCEEgXBI'
+name: Snow Stomper
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> Level, stat scores, Floor (sets DR), attacks</p><p><em>A Large yeti-ogre hybrid Neighborhood Boss that crushes enemies underfoot to grind their bones into paste.</em></p><p><strong>Type:</strong> Humanoid (Neighborhood Boss) · <strong>Size:</strong> Large · <strong>HD:</strong> 4/level · <strong>AC:</strong> 4 · <strong>Move:</strong> 20''/round</p><p>Attacks: Melee 1d8, Bite 1d4, Smush 1d12. A 12'', 1200-lb cross between a yeti and an ogre, covered in shaggy white fur and pure rage. A favorite of the AI, it delights in crushing enemies under its oversized feet for easier consumption.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/mobs/snow-stomper">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: Large (5)
+  creatureType: Humanoid
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Snow Stomper
+  actorLink: false
+flags:
+  point-mongo:
+    id: 95
+    category: mobs
+    slug: snow-stomper
+    url: https://pointmongo.com/browse/mobs/snow-stomper
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - mobs
+      - neighborhood-boss
+    updatedAt: '2026-09-03T16:29:38.9213824Z'
+    needsRestat: true
+    missingFields:
+      - Level
+      - stat scores
+      - Floor (sets DR)
+      - attacks

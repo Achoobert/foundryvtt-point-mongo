@@ -1,0 +1,19 @@
+_id: I3LpfreWl37V51Bv
+_key: '!items!I3LpfreWl37V51Bv'
+name: Wedding Rings of Eternal Trust
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A god''s wedding present to two crawlers: shared inventory at any distance, rings that never come off, and one life between them.</em></p><p>This Celestial Tier Item is a pair of wedding rings,</p><p>Given by a God with one MAJOR downside.</p><p>Is it worth the risk? Let''s hope so.</p><p>Two crawlers put on a ring each, they are now married, the rings can never be removed by any means, even if the finger or hand is removed, the ring magically stays in the crawler''s inventory unable to be removed.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Rings</td></tr><tr><th>Tier</th><td>Celestial</td></tr><tr><th>Limitations</th><td>If one crawler dies, so does the other</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+20% Con</li><li>+20% Dex</li><li>The Newly Married Crawlers can at all times see into each other''s inventory and access items as if looking in their own, from any distance.</li></ul><hr><p><em>Source: Community submission — AgentDingo. From <a href="https://pointmongo.com/browse/magical-jewelry/wedding-rings-of-eternal-trust">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 836
+    category: magical-jewelry
+    slug: wedding-rings-of-eternal-trust
+    url: https://pointmongo.com/browse/magical-jewelry/wedding-rings-of-eternal-trust
+    source: Community submission — AgentDingo
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6438715Z'
+    needsRestat: false
+    missingFields: []

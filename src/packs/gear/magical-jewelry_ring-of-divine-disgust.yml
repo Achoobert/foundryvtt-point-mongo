@@ -1,0 +1,19 @@
+_id: 7cMUsH5dMdWDtcoQ
+_key: '!items!7cMUsH5dMdWDtcoQ'
+name: Ring of Divine Disgust
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>Marks a target for emotional damage, and by its highest levels has them dry heaving, then worse.</em></p><p>Casting Time: 30 Seconds</p><p>Range/Area: 1 Target Creature</p><p>Components: M</p><p>Duration: 2d12 seconds per Caster Level</p><p>Attack/Save: None</p><p>Damage/Effect: 1d10+CON Emotional Damage</p><p>You mark one Target Creature. Each mark takes 30 seconds. Marked Creature takes an additional 1d10+CON Emotional Damage for the next 2d12 seconds per Caster Level. At every 5th level, damage increases by an additional 1d10+CON and duration extends by 1d12+CON. Starting at Level 10, you may also mark up to 1d4 additional Creatures. At level 15, Marked Creatures also gain the Nauseated Debuff for the duration and must make a DC 18 CON Saving Throw to end the condition. While Nauseated, Marked Creatures feel sick to their stomach and begin dry heaving. At Level 20, creatures with the Nauseated Debuff who fail their Saving Throw also begin to puke uncontrollably for the duration.</p><p>Value: 50,000 Gold</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Ring</td></tr><tr><th>Tier</th><td>Legendary</td></tr><tr><th>Damage type</th><td>Psychic</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>You mark one Target Creature.</li><li>Each mark takes 30 seconds.</li><li>Marked Creature takes an additional 1d10+CON Emotional Damage for the next 2d12 seconds per Caster Level.</li><li>At every 5th level, damage increases by an additional 1d10+CON and duration extends by 1d12+CON.</li><li>Starting at Level 10, you may also mark up to 1d4 additional Creatures.</li><li>At level 15, Marked Creatures also gain the Nauseated Debuff for the duration and must make a DC 18 CON Saving Throw to end the condition.</li><li>While Nauseated, Marked Creatures feel sick to their stomach and begin dry heaving.</li><li>At Level 20, creatures with the Nauseated Debuff who fail their Saving Throw also begin to puke uncontrollably for the duration.</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26933. From <a href="https://pointmongo.com/browse/magical-jewelry/ring-of-divine-disgust">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 859
+    category: magical-jewelry
+    slug: ring-of-divine-disgust
+    url: https://pointmongo.com/browse/magical-jewelry/ring-of-divine-disgust
+    source: 'Community submission — BlessedPsycho, Crawler #26933'
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.182853Z'
+    needsRestat: false
+    missingFields: []

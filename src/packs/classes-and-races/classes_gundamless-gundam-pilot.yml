@@ -1,0 +1,25 @@
+_id: ymj52UcAxNMxIr1P
+_key: '!items!ymj52UcAxNMxIr1P'
+name: Gundamless Gundam Pilot
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>An Arcanist/Fighter/Rogue class with all of a mech pilot''s training, tactics and trauma, and no mech.</em></p><p>The term ‘Gundam’ was created for the hit 70s Japanese animated show… Gundam. It was a story about a child soldier who was forced to drive a brand spanking new human presenting robot and he was really good at it. This kid killed around a hundred people, and he would wine, cry, hide, and run away, but the officers, the adults, always found him and put him back in that ten ton killing machine and commanded him to, “go kill more people.” You are like that kid, with all the elite piloting skill, the tactical mind, the repair training, and the immense trauma! Only, without said Gundam. So basically just an overqualified twitchy teenager with enough damage to make your therapist a billionaire.</p><table><tbody><tr><th>Prerequisites</th><td>This limited class is only available to crawlers who have Rank 5+ in the Driving and Tactics Skill</td></tr><tr><th>Crafting table</th><td>Tier-1 Engineering Table with an Engine Stand Attachment</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 to Dexterity</li><li>+3 to Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Driving and Tactics Skills</li><li>+2 Gear Head and Pathfinder Skills</li><li>+1 to two Weapon Skill of your choice</li></ul><p><strong>Benefits</strong></p><ul><li>You have advantage on all Driving and Gear Head Skill Checks when it involves gundams, mechs, and other robot like vehicles. <em>(minor)</em></li><li>Accesses to all Vehicle &amp; Engineering Training Guilds <em>(moderate)</em></li><li>You can traverse all types of terrain without a Skill Check, but only while you are driving a vehicle. <em>(moderate)</em></li><li>When you attack with a weapon mounted on or wielded by a vehicle you can roll an Unopposed Tactics Skill check. On a success you gain +Tactic Rank to your Attack Skill Check and Damage. You can only attempt this once per combat. <em>(major)</em></li></ul><hr><p><em>Source: Community submission — UpDogCity. From <a href="https://pointmongo.com/browse/classes/gundamless-gundam-pilot">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Arcanist
+    - Fighter
+    - Rogue
+  prerequisites: This limited class is only available to crawlers who have Rank 5+ in the Driving and Tactics Skill
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 763
+    category: classes
+    slug: gundamless-gundam-pilot
+    url: https://pointmongo.com/browse/classes/gundamless-gundam-pilot
+    source: Community submission — UpDogCity
+    tags: []
+    updatedAt: '2026-09-15T21:44:33.6991791Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,19 @@
+_id: 1FAxNQbnmz4IAUR9
+_key: '!items!1FAxNQbnmz4IAUR9'
+name: Enchanted Upgrade Patch of the Thunderstruck
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A fleeting rock-band patch split by a lightning bolt that boosts Performance, Strength and Intelligence and casts a free Thunderlash.</em></p><p>This is a fleeting item.  This medium embroidered upgrade patch features the classic red and yellow logo from a popular Aussie pre-collapse Earth Rock Band with a jagged yellow lightening bolt splitting the center.  When properly sewn onto an eligible garment, it bestows the following benefits: +5 Performance Skill, +10% Strength, +10% Intelligence, and the ability to cast the Thunderlash spell at Rank 5 with no mana cost on a 10 hour cooldown.  For Those About to Rock, We Salute You.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Patch</td></tr><tr><th>Tier</th><td>Legendary</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5 Performance Skill</li><li>Thunderlash Spell at Rank 5, no Mana cost, 10 hour cooldown</li><li>+10% Strength</li><li>+10% Intelligence</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-upgrade-patch-of-the-thunderstruck">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1072
+    category: magic-items
+    slug: enchanted-upgrade-patch-of-the-thunderstruck
+    url: https://pointmongo.com/browse/magic-items/enchanted-upgrade-patch-of-the-thunderstruck
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-06T19:05:36.7889186Z'
+    needsRestat: false
+    missingFields: []

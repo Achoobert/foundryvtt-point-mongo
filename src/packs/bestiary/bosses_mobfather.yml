@@ -1,0 +1,56 @@
+_id: 9yTsU9pl61JnRS17
+_key: '!actors!9yTsU9pl61JnRS17'
+name: Mobfather
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><em>A suit-wearing goblin crime boss who leads the Moblins, wields Tommy the Gun, and uses his own minions as shields.</em></p><p>The Mobfather is a surprisingly large goblin, and run the Moblins and their war against the Yakuza. He is dressed in a fine three-piece pinstriped suit, and wields Tommy the Gun, an automatic weapon. He is always accompanied by moblins and can use them as meat-shields: he has a Interrupt Action that forces the Catcher ability on the nearest Moblin. A good tactic would to be to waste all nearby Moblins before attacking the Mobfather directly.</p><p>He desperately loves Fermented Yak Milk, and will negotiate for it.</p><table><tbody><tr><th>Floor</th><td>2</td></tr></tbody></table><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/bosses/mobfather">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 9
+  size: Medium (4)
+  creatureType: Beast (Goblin)
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 12
+    max: 12
+  dr: 2
+  stats:
+    str:
+      value: 15
+    dex:
+      value: 15
+    con:
+      value: 20
+    int:
+      value: 15
+    cha:
+      value: 15
+  attacks:
+    - name: Hose a Target
+      toHit: ''
+      damage: 2d6+F
+      damageType: piercing
+      range: 50ft
+      effect: 1d4 bullets hit the target, roll damage separately
+    - name: Suppressive Fire
+      toHit: ''
+      damage: 2d6+F
+      damageType: piercing
+      range: cone
+      effect: 1 bullet hits each target in the cone
+prototypeToken:
+  name: Mobfather
+  actorLink: false
+flags:
+  point-mongo:
+    id: 535
+    category: bosses
+    slug: mobfather
+    url: https://pointmongo.com/browse/bosses/mobfather
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.5921265Z'
+    needsRestat: false
+    missingFields: []

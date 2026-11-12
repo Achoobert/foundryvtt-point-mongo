@@ -1,0 +1,41 @@
+_id: NcLuus0XWIYdhjLK
+_key: '!items!NcLuus0XWIYdhjLK'
+name: Two Weapon Fighting Style
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A weapon in each hand, with the off-hand''s dice folding into the main hit as it ranks up.</em></p><p>The classical fighting style of one weapon in each hand.</p><p>This works as a Damage Effect skill</p><p>Adds +1 to evade checks against non-magical attacks and +2 damage to main weapons</p><table><tbody><tr><th>Category</th><td>Passive</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/skills/two-weapon-fighting-style">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: passive
+  attackType: ''
+  isPassive: true
+  range: ''
+  cooldown: ''
+  limitations: off hand weapon must be at least one die size smaller than the main weapon. Requires both hands.
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: jZbhpA7TVTCxLCOs
+      rankThreshold: 5
+      description: <p>+1 to Evade</p>
+    - id: gDV14Uz2dgPZ9SjG
+      rankThreshold: 10
+      description: <p>adds off hand damage die to main hand damage.</p>
+    - id: jhTJGQmtbjXhpZFo
+      rankThreshold: 15
+      description: <p>adds off hand rank die to main hand damage. Off hand die size may be the same as main hand.</p>
+flags:
+  point-mongo:
+    id: 855
+    category: skills
+    slug: two-weapon-fighting-style
+    url: https://pointmongo.com/browse/skills/two-weapon-fighting-style
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.1732602Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,26 @@
+_id: 7V4Uak1OWRSKVbLo
+_key: '!journal!7V4Uak1OWRSKVbLo'
+name: 'Bubble #968 (Floor 5)'
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: UCCxdGEkZf1aOyEf
+    _key: '!journal.pages!7V4Uak1OWRSKVbLo.UCCxdGEkZf1aOyEf'
+    name: 'Bubble #968 (Floor 5)'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A four-quadrant Hollywood-parody Floor 5 bubble — Holly-Weird — hiding corrupted celebrities, ash-crumbling city blocks, a coastal sea horror, and a forbidden underworld market.</em></p><p><strong>Type:</strong> Floor 5 Bubble</p><p>Air — Birdbank: mountain-perched bird-folk city given complimentary flight cloaks; prominent citizens have been kidnapped by a group called the Cytols and returned with changed personalities. Land — Holly-Weird proper: a rocky desert metropolis of blurred-together cities, now crumbling to ash from unchecked corruption and increasingly corrupt city guards. Water — Venison Beach: a coastal village terrorized nightly by something rising from ruins beneath the sea. Subterranean: Prohibition-era gambling halls turned into a sprawling, unsustainable black market for forbidden spells and outlawed potions, one bad night from destroying the whole bubble.</p><hr><p><em>Source: Community submission — Myles L (Crawler #26933). From <a href="https://pointmongo.com/browse/floors/bubble-968-floor-5">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 231
+    category: floors
+    slug: bubble-968-floor-5
+    url: https://pointmongo.com/browse/floors/bubble-968-floor-5
+    source: 'Community submission — Myles L (Crawler #26933)'
+    tags:
+      - dcc-ccs
+      - floors
+      - bubble
+    updatedAt: '2026-09-02T04:50:41.6578932Z'
+    needsRestat: false
+    missingFields: []

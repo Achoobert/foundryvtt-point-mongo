@@ -1,0 +1,24 @@
+_id: tDoto78tirzSTjoF
+_key: '!journal!tDoto78tirzSTjoF'
+name: Ooh, Shiny!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 9TDpJINFxe89iZxG
+    _key: '!journal.pages!tDoto78tirzSTjoF.9TDpJINFxe89iZxG'
+    name: Ooh, Shiny!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you notice a hidden item without being directly told that it exists.</em></p><p>You noticed something hidden that everyone else overlooked. The System AI rewards your excellent observational skills. Or your unhealthy obsession with shiny objects. Either way, enjoy!</p><p>Reward: Silver Looter Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/ooh-shiny">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 603
+    category: achievements
+    slug: ooh-shiny
+    url: https://pointmongo.com/browse/achievements/ooh-shiny
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9562955Z'
+    needsRestat: false
+    missingFields: []

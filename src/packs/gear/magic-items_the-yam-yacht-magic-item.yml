@@ -1,0 +1,22 @@
+_id: 7jW8HSye12pHCoEv
+_key: '!items!7jW8HSye12pHCoEv'
+name: The Yam Yacht (Magic Item)
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A yam-sized figurine that transforms into a full pleasure craft on command, complete with a glitter-hating NPC captain.</em></p><p><strong>Type:</strong> Figurine of Wondrous Power</p><p>Speaking its trigger word (ZELDAAUTIST) transforms this yam-sized item into a full-size pleasure craft, letting the party sail the seas before the level collapses. Comes with an NPC captain who has a rational disdain for glitter. Rumors persist of an upgraded Sparkle Yam Yacht variant — don''t mention it to the captain.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Figurine</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/magic-items/the-yam-yacht-magic-item">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 195
+    category: magic-items
+    slug: the-yam-yacht-magic-item
+    url: https://pointmongo.com/browse/magic-items/the-yam-yacht-magic-item
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-30T20:04:01.9651788Z'
+    needsRestat: false
+    missingFields:
+      - effects

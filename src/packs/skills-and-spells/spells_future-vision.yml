@@ -1,0 +1,39 @@
+_id: wSCqdG1kjF32QzxL
+_key: '!items!wSCqdG1kjF32QzxL'
+name: Future Vision
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>Perceive two seconds into the future at the cost of nausea, with scaling benefits to initiative and reactions.</em></p><dl class="stat-block"><dt>Type</dt><dd>Mental / Perception</dd><dt>Area of Effect</dt><dd>Caster</dd><dt>Duration</dt><dd>Concentration, up to 1 minute / level</dd><dt>Cost</dt><dd>5 mana</dd></dl><p>The caster can perceive 2 seconds into the immediate future, seeing events as they begin to unfold while remaining aware of the present. The strain of holding these simultaneous visions can cause nausea in the caster (DC 12 Constitution save to avoid).</p><ul><li>Level 5: Nausea risk unchanged, but the caster gains advantage on Initiative rolls</li><li>Level 10: Nausea affects the caster less severely (only 1 round if failed save); may take one additional reaction per round</li><li>Level 15: Nausea occurs only on a critical failure; may take two reactions per round and automatically dodge the first attack targeting them each round</li></ul><p><em>Notes: powerful but risky — overuse can incapacitate the caster with nausea.</em></p><hr><p><em>Source: Community submission — faceless2u (Crawler #9231). From <a href="https://pointmongo.com/browse/spells/future-vision">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 23
+    category: spells
+    slug: future-vision
+    url: https://pointmongo.com/browse/spells/future-vision
+    source: 'Community submission — faceless2u (Crawler #9231)'
+    tags:
+      - ability
+      - mental
+      - perception
+    updatedAt: '2026-08-31T17:12:29.7081889Z'
+    needsRestat: false
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

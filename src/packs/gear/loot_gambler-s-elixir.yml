@@ -1,0 +1,24 @@
+_id: 28PfXVUDddgpeg5R
+_key: '!items!28PfXVUDddgpeg5R'
+name: Gambler's Elixir
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A cursed potion that doubles half your stats and halves the other half, randomly and outside your control.</em></p><p><strong>Type:</strong> Cursed Potion</p><p>Doubles half of the drinker''s stats and halves the other half for 24 hours — which half gets which is entirely random, so it helps to have been nice to the AI (not that the AI controls RNG, of course).</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Potion</td></tr></tbody></table><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/loot/gambler-s-elixir">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 156
+    category: loot
+    slug: gambler-s-elixir
+    url: https://pointmongo.com/browse/loot/gambler-s-elixir
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - loot
+      - cursed
+      - potion
+    updatedAt: '2026-09-30T20:04:01.8816182Z'
+    needsRestat: false
+    missingFields:
+      - effects

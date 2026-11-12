@@ -1,0 +1,23 @@
+_id: lMiyD5mmR5YaO0Kh
+_key: '!journal!lMiyD5mmR5YaO0Kh'
+name: 'Loot Generator: Clothing & Armor'
+folder: LgXPy7DgMLD2Fvug
+pages:
+  - _id: 25Q4sVYwP4gxHxd4
+    _key: '!journal.pages!lMiyD5mmR5YaO0Kh.25Q4sVYwP4gxHxd4'
+    name: 'Loot Generator: Clothing & Armor'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Hats, boots, breastplates and everything between, each with the gear slot it occupies.</em></p><p>Used by the <a href="/loot">Loot Generator</a>, which picks one at random for every piece of enchanted clothing it rolls. Each row notes the gear slot it occupies. Rows marked Armor get armor materials (steel, chitin, hardened leather) in the description ideas; the rest get cloth ones.</p><p>Have something to add? Press <strong>+ Suggest a row</strong> above the table, or the pencil beside a row to suggest a change. It comes to us for a quick look, then goes in with your name on it.</p><table><tbody><tr><th>unique</th><td>false</td></tr><tr><th>lootGenerator</th><td>clothing</td></tr><tr><th>category</th><td>magic-items</td></tr></tbody></table><hr><p><em>Source: Point Mongo Team. From <a href="https://pointmongo.com/browse/roll-tables/loot-generator-clothing-armor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 916
+    category: roll-tables
+    slug: loot-generator-clothing-armor
+    url: https://pointmongo.com/browse/roll-tables/loot-generator-clothing-armor
+    source: Point Mongo Team
+    tags: []
+    updatedAt: '2026-10-29T04:19:44.0817816Z'
+    needsRestat: false
+    missingFields: []

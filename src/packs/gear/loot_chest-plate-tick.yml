@@ -1,0 +1,25 @@
+_id: uXWDwSupcobIrFUF
+_key: '!items!uXWDwSupcobIrFUF'
+name: Chest Plate Tick
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>A symbiotic tick that attaches to your torso, growing armor for five days before bloating off.</em></p><dl class="stat-block"><dt>Type</dt><dd>Armor</dd><dt>AC Bonus</dt><dd>See Description</dd></dl><p>Make friends with a symbiotic tick. This arachnid attaches to your body and provides +20 armor to the torso, increasing by +10 per day. The tick bloats and drops off after 5 days to digest. Reduces charisma by 5, +1/day. Very slim chance of a random tick-borne disease; might explode in a shower of blood. May wear more than one tick in multiple locations.</p><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/loot/chest-plate-tick">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 42
+    category: loot
+    slug: chest-plate-tick
+    url: https://pointmongo.com/browse/loot/chest-plate-tick
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - armor
+      - magical-armor
+      - curious
+    updatedAt: '2026-08-31T17:12:29.7414029Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

@@ -1,0 +1,24 @@
+_id: N34P7q5mjD166h7M
+_key: '!journal!N34P7q5mjD166h7M'
+name: Not Today
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: VHlZVmFrHXKCb7Yu
+    _key: '!journal.pages!N34P7q5mjD166h7M.VHlZVmFrHXKCb7Yu'
+    name: Not Today
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you prevent an enemy from reducing a crawler to zero Health when the crawler would otherwise fall.</em></p><p>You prevented another crawler from being taken out at the exact moment they needed you.</p><p>The System AI appreciates your heroic intervention.</p><p>It also appreciates that someone else gets to suffer for another five minutes.</p><p>Reward: Gold Guardian Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/not-today">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 671
+    category: achievements
+    slug: not-today
+    url: https://pointmongo.com/browse/achievements/not-today
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0122916Z'
+    needsRestat: false
+    missingFields: []

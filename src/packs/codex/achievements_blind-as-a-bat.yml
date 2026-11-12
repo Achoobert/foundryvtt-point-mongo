@@ -1,0 +1,25 @@
+_id: R1xyagWJ5uStNOE1
+_key: '!journal!R1xyagWJ5uStNOE1'
+name: Blind as a Bat!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: sdy2yxJTQlFU1kfN
+    _key: '!journal.pages!R1xyagWJ5uStNOE1.sdy2yxJTQlFU1kfN'
+    name: Blind as a Bat!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler enters the dungeon without their required glasses.</em></p><p><strong>Trigger:</strong> A crawler enters the dungeon without their glasses, which they need to see.</p><p><strong>Reward:</strong> If they survive their first mob encounter, a Healing Potion that improves eyesight.</p><hr><p><em>Source: Community submission — Jessica Fates (Crawler #2067). From <a href="https://pointmongo.com/browse/achievements/blind-as-a-bat">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 291
+    category: achievements
+    slug: blind-as-a-bat
+    url: https://pointmongo.com/browse/achievements/blind-as-a-bat
+    source: 'Community submission — Jessica Fates (Crawler #2067)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-02T04:50:41.7001128Z'
+    needsRestat: false
+    missingFields: []

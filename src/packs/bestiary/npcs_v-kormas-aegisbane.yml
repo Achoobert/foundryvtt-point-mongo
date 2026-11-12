@@ -1,0 +1,53 @@
+_id: eJ1OkWtTu3U9GaVS
+_key: '!actors!eJ1OkWtTu3U9GaVS'
+name: V'Kormas Aegisbane
+type: mob
+img: icons/svg/mystery-man.svg
+folder: qiYCTsz5olch4hb3
+system:
+  biography: '<p><strong>Missing:</strong> Level, Size, stat scores, Move, Floor (sets DR), attacks</p><p><em>A once-mighty barbarian humbled by the God of Magic, now a terrible mage seeking to become powerful enough to reunite with his banished love.</em></p><p><strong>Level:</strong> 90 · <strong>Race:</strong> Orc · <strong>Class:</strong> Barbarian · <strong>Tunnel Show Title:</strong> The Ugly Mirror</p><p>He hates mages. And anyone named Andrew. And he ESPECIALLY hates mages named Andrew. Once a mighty barbarian capable of barreling into armies of mobs and toppling anything in his path with a single swing of his great axe, this aged orc is a shadow of his former self. In his hubris, V''Kormas challenged the God of Magic itself and suffered his first defeat — and a grave one. His body was broken and his strength diminished, never fully restored; his faithful war mastiff was slain; and his love, the halfling Tamuril, who fought beside him that day, was banished to the Nothing.</p><p>With his former strength gone (though still plenty strong enough to crush a skull to paste), he''s been forced to study magic and become what he hates most — though he''s a terrible mage, so he casts everything from scrolls. His skeletal mastiff, Pocephalus (Poe for short), accompanies him everywhere; large enough for a small character to ride, though it''s not recommended.</p><p><strong>Part 1 Objective:</strong> Teach him a powerful offensive spell, or supply him with enough scrolls to aid his search for Tamuril. <strong>Reward:</strong> Move on to Part 2.</p><p><strong>Part 2 Objective:</strong> Reunite V''Kormas with Tamuril. Optional: kill the God of Magic. <strong>Reward:</strong> Celestial Quest Box, plus a Celestial Pandora''s Box for completing the optional objective.</p><table><tbody><tr><th>Elite</th><td>Yes (acts once per crawler)</td></tr></tbody></table><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/npcs/v-kormas-aegisbane">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: ''
+  creatureType: ''
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: V'Kormas Aegisbane
+  actorLink: false
+flags:
+  point-mongo:
+    id: 472
+    category: npcs
+    slug: v-kormas-aegisbane
+    url: https://pointmongo.com/browse/npcs/v-kormas-aegisbane
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - elite
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-02T04:50:44.7740567Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - Size
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

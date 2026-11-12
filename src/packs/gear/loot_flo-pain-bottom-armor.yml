@@ -1,0 +1,25 @@
+_id: rpJQlT5gy36lEknd
+_key: '!items!rpJQlT5gy36lEknd'
+name: Flo Pain Bottom Armor
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, item type, effects</p><p><em>A combo shoes-and-pants armor piece that can distract enemies away from allies, styled like apple-patched jeans.</em></p><dl class="stat-block"><dt>Type</dt><dd>Legs</dd><dt>AC Bonus</dt><dd>-1 AC</dd></dl><p>A combo item of shoes and pant armor. The wearer can use this armor piece''s ability to distract enemy attention toward themselves and away from other party members. These jeans weirdly have patches of apples on them, and removing the patches will make you lose the item completely. The boots, lined with fur, provide great comfort alongside an awkward, outdated fashion style, add +3 damage to all kick attacks, give +15% to balance and stability (can''t be knocked over), and can boost jump height depending on how low you can crouch.</p><hr><p><em>Source: Community submission — Otuon (Crawler #1427). From <a href="https://pointmongo.com/browse/loot/flo-pain-bottom-armor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 44
+    category: loot
+    slug: flo-pain-bottom-armor
+    url: https://pointmongo.com/browse/loot/flo-pain-bottom-armor
+    source: 'Community submission — Otuon (Crawler #1427)'
+    tags:
+      - armor
+      - legs
+      - magical-armor
+    updatedAt: '2026-08-31T17:12:29.7426287Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - item type
+      - effects

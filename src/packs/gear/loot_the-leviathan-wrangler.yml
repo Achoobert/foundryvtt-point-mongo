@@ -1,0 +1,24 @@
+_id: 0lKBykutzRMdEg3Z
+_key: '!items!0lKBykutzRMdEg3Z'
+name: The Leviathan Wrangler
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A unique fishing rod/spear that multiplies the wielder''s Strength tenfold for grappling and catching creatures.</em></p><p><strong>Notes:</strong> See Description</p><p>This is a Unique item. Anglers are famous for telling tall tales about huge fish and the one that "got away." In human culture, the term "fish story" is a euphemism for exaggeration or downright lying - but the tales told by those who have wielded this legendary fishing rod are very likely all true! While this item appears as a simple wooden fishing rod, it grants its wielder many benefits: * The Wrangler can be transformed into a simple fishing spear with a simple mental command. The spear form of this item still has the same benefits, and has several serrated edges that make it appear more like a harpoon than a spear. If thrown, a magical and indestructible rope appears in your hands, connected to the end of the spear. * +25 points to Charisma * Level 15 Boasting skill * Level 15 Swim skill * The Breathe Underwater Benefit * When taking an action with the Wrangler for the purposes of grappling, catching, or otherwise restraining a creature, multiply your Strength value by 1000% (yes you read that correctly, by 10x) for that action. * Any creature grappled, caught, or otherwise restrained by the Wrangler must roll twice and take the worse result when attempting to escape. Allegedly, each of the above abilities were added to this item when the angler boasted about their exploits - manifesting the capability in the Wrangler for all future wielders. Perhaps you could find a way to further improve this item for those who come after you...</p><table><tbody><tr><th>Type</th><td>Rod</td></tr></tbody></table><hr><p><em>Source: Community submission — Riley R (Crawler #10268). From <a href="https://pointmongo.com/browse/loot/the-leviathan-wrangler">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 147
+    category: loot
+    slug: the-leviathan-wrangler
+    url: https://pointmongo.com/browse/loot/the-leviathan-wrangler
+    source: 'Community submission — Riley R (Crawler #10268)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+    updatedAt: '2026-09-22T05:27:11.4382644Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

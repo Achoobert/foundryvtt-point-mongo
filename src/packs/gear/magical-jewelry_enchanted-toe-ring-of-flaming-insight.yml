@@ -1,0 +1,19 @@
+_id: OuO5KiyCzuFvSlt7
+_key: '!items!OuO5KiyCzuFvSlt7'
+name: Enchanted Toe Ring of Flaming Insight
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>An amber toe ring that makes you smarter and lets you cast Fire Fingers for free. Hot stuff.</em></p><p>This toe ring is carved from a block of pure amber.  When equipped, it bestows the following benefits: +5 Intelligence, Fire Fingers Spell at Rank 1, with a 2 hour cooldown.  This toe ring makes you hot stuff, just try and survive long enough for the AI to take notice.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5 Intelligence</li><li>Fire Fingers Spell at Rank 1, no Mana cost, 2 hour cooldown</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-flaming-insight">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1144
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-flaming-insight
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-flaming-insight
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1251443Z'
+    needsRestat: false
+    missingFields: []

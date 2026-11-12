@@ -1,0 +1,24 @@
+_id: ez3kOmeoGEdUYRq8
+_key: '!journal!ez3kOmeoGEdUYRq8'
+name: Death, Postponed (Indefinitely)
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: H5DoPitbhDTvuu0V
+    _key: '!journal.pages!ez3kOmeoGEdUYRq8.H5DoPitbhDTvuu0V'
+    name: Death, Postponed (Indefinitely)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you cheat what should have been certain death through an absurd, near-impossible combination of luck and skill.</em></p><p>By every rule the System AI understands, you should be dead. Several times over, in fact. Instead you''re standing here, somehow, against odds nobody bothered to calculate because they seemed pointless to calculate. The Reaper filed a complaint. It was denied on a technicality. That technicality was you.</p><p>Reward: Legendary Grim Reaper''s Rain Check Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/death-postponed-indefinitely">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 724
+    category: achievements
+    slug: death-postponed-indefinitely
+    url: https://pointmongo.com/browse/achievements/death-postponed-indefinitely
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0549844Z'
+    needsRestat: false
+    missingFields: []

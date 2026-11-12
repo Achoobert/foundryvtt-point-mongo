@@ -1,0 +1,25 @@
+_id: 5xAyMTK80T7fxYQ0
+_key: '!journal!5xAyMTK80T7fxYQ0'
+name: Bubblegum Boulevard
+folder: i4V5JDum8ZGrgq0L
+pages:
+  - _id: e0CQ2DtzoGTnZL4z
+    _key: '!journal.pages!5xAyMTK80T7fxYQ0.e0CQ2DtzoGTnZL4z'
+    name: Bubblegum Boulevard
+    type: text
+    text:
+      format: 1
+      content: '<p><em>An invisible, alchemically enhanced wad of gum that permanently sticks to a crawler''s boot, cutting Dexterity and broadcasting their every step.</em></p><p>Bubblegum Boulevard You spot it on the ground. All innocent. It looks harmless. A sad little wad of chewed gum, abandoned by some troglodyte with no respect for public spaces or basic human decency. You think, “Gross.” And you move on. Unless you missed it, you know, cause you it''s invisible until you step on it, obviously, it is a trap after all. The moment your boot makes contact, reality itself seems to hesitate. There’s a soft, wet— SCHLURP!! —and just like that, your fate is sealed. This is no ordinary gum. Oh no. This is an alchemically enhanced, dungeon-grade, adhesive horror. The kind of substance that laughs in the face of physics, dignity, and your rapidly declining mobility. You try to lift your foot. You cannot. You try harder. SCHLURRRRRP. Your foot comes free—but now the gum comes with you, stretching obscenely like it’s trying to maintain a long-distance relationship with the floor. It snaps back, but every step is now the same, every step from here on out is accompanied by that same wet, mocking sound: schlurp… schlurp… schlurp… But don''t worry, it only gets a little worse. Your Dexterity? Reduced. Dramatically so. Embarrassingly so. Now you’re just… aggressively shuffling. With sound effects. Meanwhile, the dungeon watches. The monsters listen. Somewhere, something with too many teeth is turning its head toward the rhythmic schlrrp… schlrrp… schlrrp… And the best part? You can’t scrape it off. Not on stone. Not on grass. Not on your enemy’s face—though, points for creativity. The gum clings with desperate intensity, like that dirty old sock under your bed, you know which one, it clings to your stained bedroom floor.</p><hr><p><em>Source: Community submission — Ian O''H (Crawler #4207). From <a href="https://pointmongo.com/browse/traps/bubblegum-boulevard">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 358
+    category: traps
+    slug: bubblegum-boulevard
+    url: https://pointmongo.com/browse/traps/bubblegum-boulevard
+    source: 'Community submission — Ian O''H (Crawler #4207)'
+    tags:
+      - dcc-ccs
+      - traps
+    updatedAt: '2026-09-22T05:27:11.5087496Z'
+    needsRestat: false
+    missingFields: []

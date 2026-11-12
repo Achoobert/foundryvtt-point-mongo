@@ -1,0 +1,28 @@
+_id: qSzE0oc62d0IsbQF
+_key: '!items!qSzE0oc62d0IsbQF'
+name: High School Teacher
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>Bard/Barbarian hybrid that debuffs and damages enemies through teaching, lecturing, and rage.</em></p><dl class="stat-block"><dt>Type</dt><dd>Bard / Barbarian Hybrid</dd><dt>Stat Bonus</dt><dd>Int +2, Cha +3</dd><dt>Stat Penalty</dt><dd>Con -1</dd></dl><p>Gain +2 to Teaching, Discipline, and Lecture.</p><p><strong>Spells:</strong></p><ul><li>"I Know More" — inflicts "I Feel Stupid" on a single target, decreasing their intelligence and charisma by 15% for 1 minute</li><li>"Throw the Book" — a magical book comes from the teacher''s grasp and hits the target; damage is random based on the book''s genre</li></ul><p><strong>Active: Teacher Rage</strong> — go into a rage, increasing Strength by +2 but decreasing Wisdom -2, and increasing damage done by books, rulers, or other teaching equipment by +2.</p><p><strong>Passive: Lecture</strong> — perform bard spells by lecturing at your target; the more unique the content, the better the effect.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/classes/high-school-teacher">Point Mongo</a>.</em></p>'
+  classTypes: []
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 9
+    category: classes
+    slug: high-school-teacher
+    url: https://pointmongo.com/browse/classes/high-school-teacher
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - floor-class
+      - bard
+      - barbarian
+    updatedAt: '2026-08-31T17:12:29.6108631Z'
+    needsRestat: false
+    missingFields:
+      - stat bonuses
+      - benefits
+      - Build Point costs

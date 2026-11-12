@@ -1,0 +1,25 @@
+_id: 7tTqjYqgIf2DzrTf
+_key: '!journal!7tTqjYqgIf2DzrTf'
+name: Comic-Con Floor
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: GnFNMMKXKgDx0yNC
+    _key: '!journal.pages!7tTqjYqgIf2DzrTf.GnFNMMKXKgDx0yNC'
+    name: Comic-Con Floor
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A convention-floor showdown against mobs dressed head to toe in cosplay.</em></p><p>At Comic-Con, Crawlers can face off against mobs dressed in cosplay.</p><hr><p><em>Source: Community submission — Quentin Rushing, Crawler #9425. From <a href="https://pointmongo.com/browse/floors/comic-con-floor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 461
+    category: floors
+    slug: comic-con-floor
+    url: https://pointmongo.com/browse/floors/comic-con-floor
+    source: 'Community submission — Quentin Rushing, Crawler #9425'
+    tags:
+      - dcc-ccs
+      - floors
+    updatedAt: '2026-08-31T17:12:39.439413Z'
+    needsRestat: false
+    missingFields: []

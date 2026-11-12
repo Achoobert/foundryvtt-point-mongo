@@ -1,0 +1,25 @@
+_id: jsGUhlye5egxR3VZ
+_key: '!journal!jsGUhlye5egxR3VZ'
+name: Nikolav
+folder: itvvlpVkvm7BV1DM
+pages:
+  - _id: pV405cZcW0Xtk3Es
+    _key: '!journal.pages!jsGUhlye5egxR3VZ.pV405cZcW0Xtk3Es'
+    name: Nikolav
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A non-combatant level-50 Bopka who has run a soup-kitchen safe room for 50 seasons, famously feared for his strict no-cutting-in-line policy.</em></p><p>This is a non-combatant NPC. Nikolav has run a soup kitchen safe room in the Dungeon for the last 50 seasons. Known for his dour attitude and his strict policies regarding cutting in line, Nikolav has a long running and well deserved reputation of being feared by the Crawler community. Many Crawlers have been turned away from his counter, still hungry to his shrill shrieks of "No soup for you!".</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/npcs/nikolav">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 260
+    category: npcs
+    slug: nikolav
+    url: https://pointmongo.com/browse/npcs/nikolav
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-22T05:38:15.8425321Z'
+    needsRestat: false
+    missingFields: []

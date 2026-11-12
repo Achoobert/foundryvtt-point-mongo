@@ -1,0 +1,26 @@
+_id: fxBqQdR79oqfrTGz
+_key: '!items!fxBqQdR79oqfrTGz'
+name: High Goblin
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>Elves aren''t the only race limited to a superior-above-all-other versions of their race. The High Goblin is not quite a Hobgoblin, but definitely is far superior to the smaller, feeble-minded regular Goblins.</em></p><p>High Goblins are the elite ruling class of goblin society. They might not look any different than other goblins but they are smarter and more cunning. They specialize in bombs, traps, giving orders to lower class goblins, and strapping bombs on these goblins to make them blow up on their enemies. Not as powerful as Hobgoblins but a bit better looking. Prerequisites: This exclusive race is only offered to Crawlers who have the Goblin Pass Tattoo. Size: Medium, +3 to Explosive Skills, At the end of each floor add 1 to your Skill Advancement Checks to Explosives Skills, Can raise Explosive Skills to Rank 20, Regular Goblins will obey your orders, even if it goes against their best interest, Gain a friendly Goblin as a pet, minion, or whatever you want to do to it, +1 Grand Illusion Spell, -2 Charisma, +3 Intelligence, +3 Dexterity.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr><tr><th>Prerequisites</th><td>Only offered to crawlers who have the Goblin Pass Tattoo.</td></tr><tr><th>Rank 20</th><td>Explosive Skills can be raised to Rank 20.</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Intelligence</li><li>+3 Dexterity</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Explosives Skills</li><li>+1 Grand Illusion Spell</li></ul><p><strong>Benefits</strong></p><ul><li>At the end of each floor, add 1 to your Skill Advancement Checks for Explosives Skills.</li><li>Regular Goblins obey your orders, even against their own interests.</li><li>Gain a friendly Goblin as a pet or minion.</li></ul><p><strong>Detriments</strong></p><ul><li>-2 Charisma.</li></ul><hr><p><em>Source: FrenchAlabamian. From <a href="https://pointmongo.com/browse/races/high-goblin">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: Only offered to crawlers who have the Goblin Pass Tattoo.
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 516
+    category: races
+    slug: high-goblin
+    url: https://pointmongo.com/browse/races/high-goblin
+    source: FrenchAlabamian
+    tags:
+      - race
+      - races
+    updatedAt: '2026-11-11T20:08:41.6949099Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

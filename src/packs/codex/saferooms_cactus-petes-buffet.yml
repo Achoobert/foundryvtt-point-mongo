@@ -1,0 +1,25 @@
+_id: KAMOZkEKvgLBY7zE
+_key: '!journal!KAMOZkEKvgLBY7zE'
+name: Cactus Petes Buffet
+folder: adVwT3zSO8jf77K5
+pages:
+  - _id: aIICbzVpOod82C0J
+    _key: '!journal.pages!KAMOZkEKvgLBY7zE.aIICbzVpOod82C0J'
+    name: Cactus Petes Buffet
+    type: text
+    text:
+      format: 1
+      content: '<p><em>No casino out the door, but an all-you-can-eat spread of prime rib, lobster mac &amp; cheese, and creme brulee.</em></p><p>With no Casino right out the door, there IS an all you can eat Prime Rib, Lobster Mac &amp; Cheese, and Creme Brulee available to make you feel better about the lack of close gambling.</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/saferooms/cactus-petes-buffet">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 432
+    category: saferooms
+    slug: cactus-petes-buffet
+    url: https://pointmongo.com/browse/saferooms/cactus-petes-buffet
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - saferooms
+    updatedAt: '2026-10-02T23:02:05.1659375Z'
+    needsRestat: false
+    missingFields: []

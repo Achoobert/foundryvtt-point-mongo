@@ -1,0 +1,24 @@
+_id: nvIAqvs0fKUS8HAK
+_key: '!journal!nvIAqvs0fKUS8HAK'
+name: Plan B
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: L0aiWa6JAn8Ft8Gr
+    _key: '!journal.pages!nvIAqvs0fKUS8HAK.L0aiWa6JAn8Ft8Gr'
+    name: Plan B
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you abandon a failed plan and successfully improvise.</em></p><p>Your carefully constructed plan failed. Rather than dying, you improvised and succeeded anyway. Congratulations! You have discovered the secret to dungeon survival: make it up as you go.</p><p>Reward: Silver Lucky Bastard Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/plan-b">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 616
+    category: achievements
+    slug: plan-b
+    url: https://pointmongo.com/browse/achievements/plan-b
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9667188Z'
+    needsRestat: false
+    missingFields: []

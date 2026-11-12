@@ -1,0 +1,23 @@
+_id: oyPHk7UpFtZFd9k8
+_key: '!items!oyPHk7UpFtZFd9k8'
+name: Televangelist
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Bard who works a crowd for love and labour, no deity required.</em></p><p>This class is known for speaking to the masses. Whether its in a custom auditorium or on late-night television, you talk to the People, encouraging them to work for you, making them feel loved. Everything you do is for them, so they can help you. Is it strange that this class does not require worshiping a deity?</p><table><tbody><tr><th>Prerequisites</th><td>Minimum Charisma: 10</td></tr><tr><th>Rank 20</th><td>Leadership</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 INT</li><li>+3 CHA</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Good First Impression</li><li>+2 Leadership</li><li>+2 Love Vampire</li><li>+1 All Eyes On Me</li><li>+1 Diplomacy</li><li>+1 Negotiate</li></ul><p><strong>Benefits</strong></p><ul><li>Membership in Club Vanquisher <em>(minor)</em></li><li>Leadership may be raised to 20 <em>(minor)</em></li><li>Once per day, remove Charm from all party members <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Not allowed in Desperado Club <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/classes/televangelist">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Bard
+  prerequisites: 'Minimum Charisma: 10'
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 823
+    category: classes
+    slug: televangelist
+    url: https://pointmongo.com/browse/classes/televangelist
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-09-28T03:33:05.879702Z'
+    needsRestat: false
+    missingFields: []

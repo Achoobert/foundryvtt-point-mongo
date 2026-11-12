@@ -1,0 +1,39 @@
+_id: 9yLJ5D3pB3sd2qt3
+_key: '!items!9yLJ5D3pB3sd2qt3'
+name: Pop Your Cork
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>An Enchantment crowd-control blast that stuns enemies with overwhelming sensory ecstasy before leaving them staggering.</em></p><p>You blast out a big, sloppy cone of pure, System-grade ecstasy right in their stupid faces. Bam—most of these assholes get hit with the best orgasm of their sad little lives and just freeze up like they forgot how legs work. Stunned for one glorious round, then they spend the rest of the spell staggering around like drunk toddlers who just discovered their own junk. Fail the resistance check and it''s a party. Oh, and the viewers are eating this shit up. "Pop Your Cork" they call it. Real classy, crawler. Try not to aim it at your own party unless you want to be labeled as the party perve. Weird as hell, but damn if it isn''t hilarious watching a pack of murder hobos pop their corks and flop around like fish.</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/spells/pop-your-cork">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 416
+    category: spells
+    slug: pop-your-cork
+    url: https://pointmongo.com/browse/spells/pop-your-cork
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - spells
+      - enchantment
+    updatedAt: '2026-10-02T23:02:05.1659375Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

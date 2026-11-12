@@ -1,0 +1,23 @@
+_id: G6XYwBugVbSXCtq2
+_key: '!items!G6XYwBugVbSXCtq2'
+name: Pack Alpha
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter/Druid class built on shared pack leadership rather than a single dominant wolf.</em></p><p>Did you know that there''s no such thing as an alpha wolf? David Mech, author the study that popularized the term later reviewed his data and added new studies that show that there''s no absolute leader of packs. Wolves in your planet used to share leadership, with the most experienced ones in that specific situation would be taking the leading role.</p><p>His corrections work never got much traction though. Something about the idea of being an Alpha really sounded appealing for a very specific kind of assh... personality.</p><p>Anyway, you are the Alpha, the unquestionable leader, the lord of the pack! Your foes tremble at your sight, etc etc.</p><table><tbody><tr><th>Prerequisites</th><td>You must already have a bound pet to choose this class</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Cha</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Animal Handling (4pts)</li><li>+1 Intimidation (2pts)</li></ul><p><strong>Benefits</strong></p><ul><li>At the end of each floor, add 1 to your Skill Advancement Checks for Animal Handling <em>(minor)</em></li><li>You gain Advantage on Intimidation checks while you have at least 2 of your pets within 10ft of you <em>(minor)</em></li><li>You may have a number of bounded pets equal to your CHA (Your pets combined levels may never exceed your own. When your pet would level up, choose one of your Bound Pets to level). <em>(epic)</em></li><li>You gain a Friendly Pet <em>(major)</em></li><li>At level 50, when you Command one of your pets, they all follow suit <em>(major)</em></li><li>Beyond the regular pet action, your pets may Intervene in each other''s actions if commanded to. <em>(major)</em></li><li>Your pack creates such chaos at the battlefield that once a day you may completely negate all the damage from a single attack <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Minor: Delay the Command all pets bonus til level 50 <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/pack-alpha">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter/Druid
+  prerequisites: You must already have a bound pet to choose this class
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 525
+    category: classes
+    slug: pack-alpha
+    url: https://pointmongo.com/browse/classes/pack-alpha
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-09T01:39:27.1089785Z'
+    needsRestat: false
+    missingFields: []

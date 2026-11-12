@@ -1,0 +1,23 @@
+_id: HiGGfbmwCG78fTCY
+_key: '!items!HiGGfbmwCG78fTCY'
+name: Scree / Infiltrator
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Parasitic aliens that take over living bodies while the owner watches from inside, and that the System still reports as the host.</em></p><p>The Scree, more commonly called Infiltrators, are parasitic aliens that take control of living bodies while leaving their owners conscious inside them. Once possession is complete, the Scree controls the body while its original occupant watches, unable to intervene. This makes patience and discretion valuable: a familiar face and a convincing explanation can carry an infiltrator further than violence. Establishing control also commits the parasite to its host, giving it good reason to protect the person whose life it has stolen.</p><p>Their galactic reputation is built around the terrifying possibility that someone you trust is still standing in front of you, correctly identified by every system, but no longer making their own decisions. Scree consequently embody the public nightmare of infiltration, coercion and betrayal. Stories about them turn ordinary changes in behavior into warning signs, and familiarity offers little reassurance when the body itself is genuine. An individual Scree might seek a willing partnership or negotiate with its host, but overcoming that reputation would be difficult. To a suspicious stranger, even a cooperative arrangement could look like a captive being forced to say that everything is fine.</p><table><tbody><tr><th>Size</th><td>Tiny (1) Unhosted/Variable (1-6) Hosted</td></tr><tr><th>Prerequisites</th><td>Deception Rank 5 before Race/Class selection</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 Charisma</li><li>+1 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Deception</li></ul><p><strong>Benefits</strong></p><ul><li>A Body Required - Start as a Tiny (1) worm with 1HB and no host. Occupy eligible living hosts, using their anatomy but your own Stats, Class and Skills. You gain no host memories or Skill Ranks. <em>(epic)</em></li><li>Restorative Takeover - First occupation fills the host’s ten HB slots. <em>(moderate)</em></li><li>Quietly or Violently - 2 options for taking over a new host: Covert - Once per day, emit a numbing agent to attempt to slowly burrow into a body you are in physical contact with over the course of 3 minutes. Make an Int Opposed Stealth Check to avoid detection. Aggressive - Once per day while hostless spend an action to make an Attack using Dex + F. On Evade fail target gains a Minor Injury for 1 minute. At the end of one minute, immediately before this Minor Injury expires, the target becomes fully possessed unless the injury has been cured in which case you are ejected to an adjacent unoccupied space. <em>(epic)</em></li><li>The System Says It’s Them - Examinations and HUDs report the host’s identity, with party displays showing its actual hosted health. Suspicious behavior and specialized parasite detection can still expose possession. <em>(epic)</em></li><li>Roommate - Communicate mentally with the conscious host, who may cooperate, refuse or lie. <em>(minor)</em></li><li>The Body Dies First - When the host’s Dying countdown expires, emerge with one HB unless the parasite itself was killed or independently Dying. Lose remaining Actions that round. <em>(moderate)</em></li><li>Your Public - Once per scene, gain +1 Popularity for passing a hostile identity checkpoint or obtaining hostile information through the stolen identity. <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>-2 Constitution <em>(1 pt)</em></li><li>Exposed - When hostless you have 1 max HB, Move/Step are 5ft each. You cannot use equipment, attacks, or Spells. <em>(2 pt)</em></li><li>Committed Occupancy - Cannot voluntarily leave an established living host. Separation requires host death. <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Kron. From <a href="https://pointmongo.com/browse/races/scree-infiltrator">Point Mongo</a>.</em></p>'
+  size: Tiny (1) Unhosted/Variable (1-6) Hosted
+  prerequisites: Deception Rank 5 before Race/Class selection
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1053
+    category: races
+    slug: scree-infiltrator
+    url: https://pointmongo.com/browse/races/scree-infiltrator
+    source: Community submission — Kron
+    tags: []
+    updatedAt: '2026-11-04T17:26:13.5980274Z'
+    needsRestat: false
+    missingFields: []

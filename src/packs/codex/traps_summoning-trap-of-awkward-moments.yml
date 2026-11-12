@@ -1,0 +1,25 @@
+_id: JCdAmZYrSPeCC2iT
+_key: '!journal!JCdAmZYrSPeCC2iT'
+name: Summoning Trap of Awkward Moments
+folder: i4V5JDum8ZGrgq0L
+pages:
+  - _id: ZkAWuR72wJe0m94I
+    _key: '!journal.pages!JCdAmZYrSPeCC2iT.ZkAWuR72wJe0m94I'
+    name: Summoning Trap of Awkward Moments
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A trap that summons a chosen being at the most inconvenient possible moment for them, without warning.</em></p><p>Summoning Trap. This trap summons a specific being selected by the trap maker. Unfortunately for the targeted being, they are not informed or alerted when this trap is set. Somehow the trap summons the being in an inconvenient moment.</p><p><strong>Examples include:</strong></p><p>- Trap of I''m secretly a pacifist</p><p>- Trap of I''m on the last chapter of my book g********</p><p>- Trap of I''m really into picking my nose</p><p>- Trap of that was the best joke I''ve ever heard and can''t stop laughing and milk is spilling out of my nose</p><p>- Trap of I was in a car moving 60 miles an hour</p><p>- Trap of private bathroom moment</p><p>- Trap of I forgot my emesis bag</p><p>- Trap of smoke break</p><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/traps/summoning-trap-of-awkward-moments">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 368
+    category: traps
+    slug: summoning-trap-of-awkward-moments
+    url: https://pointmongo.com/browse/traps/summoning-trap-of-awkward-moments
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - traps
+    updatedAt: '2026-11-11T20:08:41.7328587Z'
+    needsRestat: false
+    missingFields: []

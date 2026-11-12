@@ -1,0 +1,24 @@
+_id: DbvJkhjoqYSEAdFf
+_key: '!journal!DbvJkhjoqYSEAdFf'
+name: Last One Standing
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: vFpKMNYCTdocULIV
+    _key: '!journal.pages!DbvJkhjoqYSEAdFf.vFpKMNYCTdocULIV'
+    name: Last One Standing
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you are the sole survivor of a party wipe and go on to complete the objective anyway.</em></p><p>Everyone else went down. You didn''t just survive — you finished what you all started. That''s the kind of moment they replay during the recap episodes for years. We''re sorry about your friends. We are, genuinely, extremely entertained.</p><p>Reward: Platinum Sole Survivor Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/last-one-standing">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 719
+    category: achievements
+    slug: last-one-standing
+    url: https://pointmongo.com/browse/achievements/last-one-standing
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0510212Z'
+    needsRestat: false
+    missingFields: []

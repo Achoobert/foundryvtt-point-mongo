@@ -1,0 +1,22 @@
+_id: E9dtf0Z8wQEbjpnS
+_key: '!items!E9dtf0Z8wQEbjpnS'
+name: Potion of Psychic Manipulation
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A potion letting the drinker control a single target''s perception of reality, switchable but instantly voided by a break in concentration.</em></p><p><strong>Type:</strong> Buff</p><p>Allows control of what a single target perceives as reality for 300 seconds. The target can be switched mid-duration, but effects end instantly if concentration breaks or the target changes.</p><table><tbody><tr><th>Type</th><td>Buff</td></tr></tbody></table><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/potions/potion-of-psychic-manipulation">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 337
+    category: potions
+    slug: potion-of-psychic-manipulation
+    url: https://pointmongo.com/browse/potions/potion-of-psychic-manipulation
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-03T16:29:38.9504951Z'
+    needsRestat: false
+    missingFields:
+      - effects

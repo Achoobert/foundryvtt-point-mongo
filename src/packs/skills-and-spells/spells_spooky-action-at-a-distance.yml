@@ -1,0 +1,44 @@
+_id: TkP8CwMS2H16K6J2
+_key: '!items!TkP8CwMS2H16K6J2'
+name: Spooky Action at a Distance
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> base damage</p><p><em>Move a distant object by moving a similar one in your hand: a pebble for a boulder, a doll for a mob. It does no damage itself, so get creative.</em></p><p>Manipulating a local object can affect a distant object. These objects must be similar, like using a small rock to manipulate a boulder, or a doll to manipulate a mob. The caster must have line of sight to the target object. The target has a maximum size of 4, but a living target with STR 10 can resist. This does not do direct damage to the target, so get creative.</p><table><tbody><tr><th>Limitations</th><td>Line of sight, size 4 or less, STR 10 to resist</td></tr></tbody></table><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/spells/spooky-action-at-a-distance">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 20
+  range: 90 feet
+  duration: INT mod rounds
+  cooldown: 10 minutes
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses:
+    - Mage
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: GW1uX921wn7oCQ6r
+      rankThreshold: 5
+      description: <p>range 120 feet, size 5, STR 20 to resist</p>
+    - id: Evvrjh0mhpFOuStA
+      rankThreshold: 10
+      description: <p>range 500 feet, size 6, STR 50 to resist</p>
+    - id: xHXA2IdJ1U6qJ10l
+      rankThreshold: 15
+      description: <p>No longer requires line of sight, size 7, STR 100 to resist</p>
+flags:
+  point-mongo:
+    id: 1099
+    category: spells
+    slug: spooky-action-at-a-distance
+    url: https://pointmongo.com/browse/spells/spooky-action-at-a-distance
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-11-09T03:03:17.3945762Z'
+    needsRestat: false
+    missingFields:
+      - base damage

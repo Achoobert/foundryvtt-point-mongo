@@ -1,0 +1,23 @@
+_id: osQiWmvIN8dT4ldu
+_key: '!items!osQiWmvIN8dT4ldu'
+name: Toon
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>An Earth race of cartoon physics: squeeze through tiny gaps, shrug off one hit a day, and never quite hide what you''re feeling.</em></p><p>Some creatures defy logic and laws of physics. Which does not mean they are eternal, just a bit... complex. And besides that, they can have enemies and even be framed for crimes they did not perpetrate.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr><tr><th>DR</th><td>3</td></tr><tr><th>Prerequisites</th><td>Oonce you take this Race, you become a "Toonified" version of yourself</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Constitution</li><li>+3 Charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Cockroach</li><li>+2 Escape Artist</li></ul><p><strong>Benefits</strong></p><ul><li>You may move through spaces as if you were Tiny Sized <em>(moderate)</em></li><li>Toon Physics: once per day you may negate all damage from a single attack <em>(major)</em></li><li>Resistance to Bludgeoning damage. <em>(extreme)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Minor: Disadvantage in all checks to hide your emotions (kind of hard to do so when your eyes are popping out of your sockets or your nose is literally growing as your lie</li><li>Minor: Vulnerability to Acid</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/toon">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: Oonce you take this Race, you become a "Toonified" version of yourself
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1074
+    category: races
+    slug: toon
+    url: https://pointmongo.com/browse/races/toon
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-06T19:05:36.8724254Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,20 @@
+_id: jGUvj62rHvL7p3yK
+_key: '!items!jGUvj62rHvL7p3yK'
+name: Thoughts and Prayers
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>The Sacred Cow''s paired brass knuckles, adding psychic and holy damage when both are worn.</em></p><p>This is a pair of brass knuckles worn by the Sacred Cow, leader of the Yakuza. If only one is worn, there is no special bonus. Both must be worn for full effect, and they will occupy three rings slots on each hand.</p><p>One knuckle duster adds 1d6 psychic damage to its punch (Thoughts), the other adds 1d6 holy damage (Prayers).</p><p>If the crawler worships a deity, they will add an additional 1d4 per worship rank (+1d4 Acolyte, +2d4 Devotee, etc)</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Knuckle Dusters</td></tr><tr><th>Weapon skill</th><td>Pugilism</td></tr></tbody></table><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/magical-weapons/thoughts-and-prayers">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 530
+    category: magical-weapons
+    slug: thoughts-and-prayers
+    url: https://pointmongo.com/browse/magical-weapons/thoughts-and-prayers
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6145689Z'
+    needsRestat: false
+    missingFields:
+      - effects

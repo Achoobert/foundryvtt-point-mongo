@@ -1,0 +1,23 @@
+_id: BBzupj72S4EfocwT
+_key: '!journal!BBzupj72S4EfocwT'
+name: 1000 Hobbies
+folder: LgXPy7DgMLD2Fvug
+pages:
+  - _id: 25ek2PI7oVgQJ3zs
+    _key: '!journal.pages!BBzupj72S4EfocwT.25ek2PI7oVgQJ3zs'
+    name: 1000 Hobbies
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A thousand Earth hobbies to hang on a crawler, or on whatever the potion decides they are now.</em></p><p>A thousand hobbies from back home, collected by Chorus of Sanctuary. Draw as many as you need; the same hobby never comes up twice in one draw.</p><p>A handful appear under two names, because they have two. Cycling is also biking, draughts is also checkers.</p><hr><p><em>Source: Chorus of Sanctuary. From <a href="https://pointmongo.com/browse/roll-tables/1000-hobbies">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 809
+    category: roll-tables
+    slug: 1000-hobbies
+    url: https://pointmongo.com/browse/roll-tables/1000-hobbies
+    source: Chorus of Sanctuary
+    tags: []
+    updatedAt: '2026-09-25T04:04:04.4491451Z'
+    needsRestat: false
+    missingFields: []

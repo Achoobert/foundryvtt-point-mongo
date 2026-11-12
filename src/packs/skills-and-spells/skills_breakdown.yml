@@ -1,0 +1,41 @@
+_id: dWZBG7n4TjczHK1F
+_key: '!items!dWZBG7n4TjczHK1F'
+name: Breakdown
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A Singing Style that lays the Take Down debuff across everything in Burst range, once per combat.</em></p><p>Singing Style Skill*</p><p>Range: Singing Rank’s Ranges as Burst + Splash</p><p>Applies the Take Down Debuff to targets in Burst Range.</p><p>* See "Singing Skill"</p><table><tbody><tr><th>Category</th><td>Passive</td></tr></tbody></table><hr><p><em>Source: Community submission — Mr King. From <a href="https://pointmongo.com/browse/skills/breakdown">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: passive
+  attackType: ''
+  isPassive: true
+  range: Singing Rank’s Ranges as Burst + Splash
+  cooldown: Once Per Combat
+  limitations: This Skill is used only in conjunction with the Singing attack Skill. Mark this Skill for Advancement only when applying its Ranks to such an attack. Other Style Skills that have a Burst Range can’t be used in successive combat rounds.
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: Xjxjkl9aH4ejRa4g
+      rankThreshold: 5
+      description: <p>Applies the Staggered Debuff to targets in Burst Range. Applies the Take Down Debuff to targets in Splash Range.</p>
+    - id: qXcn8sgDAncZFY0m
+      rankThreshold: 10
+      description: <p>Applies the Paralyzed Debuff to targets in Burst Range. Applies the Staggered Debuff to targets in Splash Range.</p>
+    - id: gP5qJMOMmPcKc2ki
+      rankThreshold: 15
+      description: <p>Can be used twice per combat. Applies the Paralyzed Debuff to targets in Splash Range.</p>
+flags:
+  point-mongo:
+    id: 786
+    category: skills
+    slug: breakdown
+    url: https://pointmongo.com/browse/skills/breakdown
+    source: Community submission — Mr King
+    tags: []
+    updatedAt: '2026-09-22T20:25:04.2041921Z'
+    needsRestat: false
+    missingFields: []

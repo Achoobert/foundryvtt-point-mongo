@@ -1,0 +1,43 @@
+_id: 2tFxxF3Ril9demSY
+_key: '!items!2tFxxF3Ril9demSY'
+name: Flea
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Leap your Strength in hexes in any direction, and land from any height unhurt.</em></p><p>Caster gains the ability to leap long distances and great heights. Sucking blood not required. Leap STR inches/hexes across or up as an Action. Also grants immunity to Falling damage.</p><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/spells/flea">Point Mongo</a>.</em></p>'
+  governingStat: str
+  manaCost: 20
+  range: STR
+  duration: 3 Rounds
+  cooldown: 1 Hour
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Mage
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: vMB4V43ypJmFHaQH
+      rankThreshold: 5
+      description: <p>Cooldown reduced to 30 minutes.</p>
+    - id: l4CUjm9lHT4MOqrU
+      rankThreshold: 10
+      description: <p>Cooldown reduced to 10 minutes. Distance increased to STR * 2</p>
+    - id: 8Q0oAeOGMzzEfXIO
+      rankThreshold: 15
+      description: <p>Cooldown reduced to 4 Rounds</p>
+flags:
+  point-mongo:
+    id: 812
+    category: spells
+    slug: flea
+    url: https://pointmongo.com/browse/spells/flea
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-09-28T03:33:05.7770664Z'
+    needsRestat: false
+    missingFields: []

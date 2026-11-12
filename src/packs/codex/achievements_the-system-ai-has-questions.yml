@@ -1,0 +1,24 @@
+_id: 4WAb9sBUed9UvOM1
+_key: '!journal!4WAb9sBUed9UvOM1'
+name: The System AI Has Questions
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: OKsBqmHMTeKmwldi
+    _key: '!journal.pages!4WAb9sBUed9UvOM1.OKsBqmHMTeKmwldi'
+    name: The System AI Has Questions
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you accomplish something so strange that the GM cannot immediately explain how the situation occurred.</em></p><p>You have done something that the System AI did not anticipate.</p><p>The System AI has reviewed the relevant dungeon parameters.</p><p>The System AI has reviewed them again.</p><p>The System AI has determined that what you just did was technically legal.</p><p>Congratulations, crawler. You have become a problem.</p><p>Reward: Platinum "WHAT THE HELL?" Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/the-system-ai-has-questions">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 677
+    category: achievements
+    slug: the-system-ai-has-questions
+    url: https://pointmongo.com/browse/achievements/the-system-ai-has-questions
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.017203Z'
+    needsRestat: false
+    missingFields: []

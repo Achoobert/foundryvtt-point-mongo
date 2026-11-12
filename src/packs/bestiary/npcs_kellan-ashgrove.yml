@@ -1,0 +1,53 @@
+_id: TQCfln4XoPljsSu6
+_key: '!actors!TQCfln4XoPljsSu6'
+name: Kellan Ashgrove
+type: mob
+img: icons/svg/mystery-man.svg
+folder: qiYCTsz5olch4hb3
+system:
+  biography: '<p><strong>Missing:</strong> Level, Size, stat scores, Move, Floor (sets DR), attacks</p><p><em>A once-renowned half-elf bard fallen from favor, blaming a broken lute for his troubles and using Charm magic to rope crawlers into retrieving a fabled replacement.</em></p><p><strong>Level:</strong> 50 · <strong>Race:</strong> Half-Elf · <strong>Class:</strong> Bard · <strong>Tunnel Show Title:</strong> The Price of a Song</p><p>A once-renowned half-elf bard who has fallen out of favor with the elven high court, Kellan has fallen on hard times, relegated to performing in small and medium settlements after a misstep at court. He blames all his troubles on his current instrument: a badly damaged, un-tuneable lute. Kellan''s bardic magic leans heavily on Charm spells, which he''ll use to coerce the party into venturing into dangerous territory to retrieve a fabled musical instrument of great power.</p><table><tbody><tr><th>Elite</th><td>Yes (acts once per crawler)</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/npcs/kellan-ashgrove">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: ''
+  creatureType: ''
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Kellan Ashgrove
+  actorLink: false
+flags:
+  point-mongo:
+    id: 470
+    category: npcs
+    slug: kellan-ashgrove
+    url: https://pointmongo.com/browse/npcs/kellan-ashgrove
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - elite
+      - dcc-ccs
+      - npcs
+    updatedAt: '2026-09-02T04:50:44.7728999Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - Size
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

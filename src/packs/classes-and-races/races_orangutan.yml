@@ -1,0 +1,23 @@
+_id: TlyiuJgSHgwZfUnZ
+_key: '!items!TlyiuJgSHgwZfUnZ'
+name: Orangutan
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A forest ape that''s smarter and harder to kill than it looks, with heavy Dexterity and the knack of swinging from vines without slowing down.</em></p><p>Malay for "people of the forest", these hairy bastards are surprisingly smart and surprisingly hard to kill. Sure, they look like dumb dirty apes, but this unassuming simian will show you filthy fucking humans who''s boss.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 strength</li><li>+4 dexterity</li><li>+2 constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+4 climb</li><li>+2 balance</li><li>+2 hide in shadows</li></ul><p><strong>Benefits</strong></p><ul><li>Brachiation - can swing from branches, vines, etc without impairing movement <em>(minor)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/races/orangutan">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1106
+    category: races
+    slug: orangutan
+    url: https://pointmongo.com/browse/races/orangutan
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-09T03:03:17.4400853Z'
+    needsRestat: false
+    missingFields: []

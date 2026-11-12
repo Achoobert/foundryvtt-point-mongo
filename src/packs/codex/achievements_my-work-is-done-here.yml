@@ -1,0 +1,23 @@
+_id: m5jbqQlqaoYQTaog
+_key: '!journal!m5jbqQlqaoYQTaog'
+name: My work is done here…
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: GdTo0B2mok8kmGR7
+    _key: '!journal.pages!m5jbqQlqaoYQTaog.GdTo0B2mok8kmGR7'
+    name: My work is done here…
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you finish a battle without taking a scratch.</em></p><p>You finished a battle and walked away without a scratch. You lucky son of a bitch, you!</p><hr><p><em>Source: Community submission — BlessedPsycho, Myles L., Crawler #26933. From <a href="https://pointmongo.com/browse/achievements/my-work-is-done-here">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 537
+    category: achievements
+    slug: my-work-is-done-here
+    url: https://pointmongo.com/browse/achievements/my-work-is-done-here
+    source: 'Community submission — BlessedPsycho, Myles L., Crawler #26933'
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.4974022Z'
+    needsRestat: false
+    missingFields: []

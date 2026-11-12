@@ -1,0 +1,25 @@
+_id: aSpg0XxFe4Fg08Ue
+_key: '!journal!aSpg0XxFe4Fg08Ue'
+name: Armageddon Antiquities Roadshow
+folder: 60wNl7vBu4R8G6qF
+pages:
+  - _id: DEqBKMQeuy3HyjUN
+    _key: '!journal.pages!aSpg0XxFe4Fg08Ue.DEqBKMQeuy3HyjUN'
+    name: Armageddon Antiquities Roadshow
+    type: text
+    text:
+      format: 1
+      content: '<p><em>An Antiques Roadshow parody where crawlers bluff a value for a random piece of junk presented to them.</em></p><p><strong>Host:</strong> TBD · <strong>Sponsor:</strong> TBD</p><p>Very reminiscent of everyone''s favorite antiques roadshow. The host presents a crawler with a random piece of junk; the crawler must invent a plausible backstory to make it sound valuable and give a price estimate.</p><hr><p><em>Source: Community submission — SweePea (Crawler #25658). From <a href="https://pointmongo.com/browse/interview-shows/armageddon-antiquities-roadshow">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 369
+    category: interview-shows
+    slug: armageddon-antiquities-roadshow
+    url: https://pointmongo.com/browse/interview-shows/armageddon-antiquities-roadshow
+    source: 'Community submission — SweePea (Crawler #25658)'
+    tags:
+      - dcc-ccs
+      - tunnel-shows
+    updatedAt: '2026-09-02T04:50:41.8454117Z'
+    needsRestat: false
+    missingFields: []

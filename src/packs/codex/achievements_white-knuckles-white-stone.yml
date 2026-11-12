@@ -1,0 +1,24 @@
+_id: bHV6rxVJNGQJszHH
+_key: '!journal!bHV6rxVJNGQJszHH'
+name: White Knuckles, White Stone
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: AXJzTCG0GDHxh9V0
+    _key: '!journal.pages!bHV6rxVJNGQJszHH.AXJzTCG0GDHxh9V0'
+    name: White Knuckles, White Stone
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you survive a hallway combat encounter while sitting at just one Health Bar slot remaining.</em></p><p>One more hit and this achievement would''ve had a very different tone. You made it out standing on that pretty white stone floor, barely, but standing. The viewers were on the edge of their seats. So were you, presumably.</p><p>Reward: Silver Close Call Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/white-knuckles-white-stone">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 706
+    category: achievements
+    slug: white-knuckles-white-stone
+    url: https://pointmongo.com/browse/achievements/white-knuckles-white-stone
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0404033Z'
+    needsRestat: false
+    missingFields: []

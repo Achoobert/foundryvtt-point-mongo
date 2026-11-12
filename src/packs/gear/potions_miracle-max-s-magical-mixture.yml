@@ -1,0 +1,22 @@
+_id: BXTDcaVinRq23mCC
+_key: '!items!BXTDcaVinRq23mCC'
+name: Miracle Max's Magical Mixture
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A one-time-use healing potion that slowly restores a ''mostly dead'' crawler back to life over four dungeon days.</em></p><p><strong>Type:</strong> Healing</p><p>Restores a "mostly" dead crawler to life (at the AI''s discretion as to who counts), with recovery taking 4 dungeon days. A crawler may only benefit from this potion once.</p><table><tbody><tr><th>Type</th><td>Healing</td></tr></tbody></table><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/potions/miracle-max-s-magical-mixture">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 329
+    category: potions
+    slug: miracle-max-s-magical-mixture
+    url: https://pointmongo.com/browse/potions/miracle-max-s-magical-mixture
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-03T16:29:38.9470368Z'
+    needsRestat: false
+    missingFields:
+      - effects

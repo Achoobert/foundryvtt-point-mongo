@@ -1,0 +1,37 @@
+_id: vNIhpmr6Owt2Mqyc
+_key: '!items!vNIhpmr6Owt2Mqyc'
+name: Hypocrisy Tourist
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>The ability to belittle others for doing the exact thing you then do, but worse.</em></p><p>Ability to belittle others for doing the exact thing they proceed to do but worse. Crawler gains the inability to see their own actions for what they are, and continues to live the rest of their days in ignorant bliss — but probably with fewer friends.</p><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/skills/hypocrisy-tourist">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 73
+    category: skills
+    slug: hypocrisy-tourist
+    url: https://pointmongo.com/browse/skills/hypocrisy-tourist
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - skill
+      - social
+    updatedAt: '2026-08-31T17:12:29.7767454Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

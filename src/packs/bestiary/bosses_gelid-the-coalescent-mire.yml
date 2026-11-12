@@ -1,0 +1,51 @@
+_id: cQs5brsN1TVfyEck
+_key: '!actors!cQs5brsN1TVfyEck'
+name: Gelid, The Coalescent Mire
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> Level, stat scores, Floor (sets DR), attacks</p><p><em>A Huge, 12 HD slime Neighborhood Boss that splits into progressively smaller, faster copies of itself as it loses HP.</em></p><p>A massive, semi-sentient volatile slime boss that destabilizes as it takes damage, constantly dividing into smaller, more aggressive fragments that threaten to overwhelm the battlefield.</p><p><strong>Immunities:</strong> Poison Weakness: Cold</p><p><strong>Abilities:</strong> Split Personality At 70% HP, Gelid splits into 2 large copies of itself. Increase each copy''s speed by 5ft and armor by 1. (total speed: 20ft, armor 16) At 40% HP, Gelid splits into 2 medium copies of itself. The copies also get an extra attack as noted below. Increase each copy''s speed by an additional 5ft and armor by an additional 1. (total speed: 25ft, armor 17) At 10% HP, Gelid splits into 3 small copies of itself. Increase each copy''s speed by an additional 10ft and armor by an additional 1. (total speed: 35ft, armor 18)</p><p><strong>Pack Tactics:</strong> Gelid has advantage on attacks if it is within 5ft of another Gelid.</p><p><strong>Corrosive Slam range:</strong> self AoE: 10ft Damage: 2d12 acid dmg, dc 12 con save or be poisoned. S</p><p>lime Slap (medium or smaller only) range: melee target: single target</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/bosses/gelid-the-coalescent-mire">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 1
+  size: Huge (6)
+  creatureType: Slime
+  move: '15'
+  hbSlotsOverride: null
+  hb:
+    value: 10
+    max: 10
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Gelid, The Coalescent Mire
+  actorLink: false
+flags:
+  point-mongo:
+    id: 91
+    category: bosses
+    slug: gelid-the-coalescent-mire
+    url: https://pointmongo.com/browse/bosses/gelid-the-coalescent-mire
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - neighborhood-boss
+      - bosses
+    updatedAt: '2026-09-22T05:38:11.3519662Z'
+    needsRestat: true
+    missingFields:
+      - Level
+      - stat scores
+      - Floor (sets DR)
+      - attacks

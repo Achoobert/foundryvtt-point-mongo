@@ -1,0 +1,23 @@
+_id: S8PVlYHcTlbxi3SE
+_key: '!journal!S8PVlYHcTlbxi3SE'
+name: 'Loot Generator: Accessories'
+folder: LgXPy7DgMLD2Fvug
+pages:
+  - _id: bgUVx9im9BP6Szi2
+    _key: '!journal.pages!S8PVlYHcTlbxi3SE.bgUVx9im9BP6Szi2'
+    name: 'Loot Generator: Accessories'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Rings, belts, patches, tattoos and other things worn in an Accessory slot.</em></p><p>Used by the <a href="/loot">Loot Generator</a>, which picks one at random for every enchanted accessory it rolls. Rows marked Jewelry are filed under Magical Jewelry, the rest under Magic Items.</p><p>Have something to add? Press <strong>+ Suggest a row</strong> above the table, or the pencil beside a row to suggest a change. It comes to us for a quick look, then goes in with your name on it.</p><table><tbody><tr><th>unique</th><td>false</td></tr><tr><th>lootGenerator</th><td>accessory</td></tr><tr><th>category</th><td>magic-items</td></tr></tbody></table><hr><p><em>Source: Point Mongo Team. From <a href="https://pointmongo.com/browse/roll-tables/loot-generator-accessories">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 917
+    category: roll-tables
+    slug: loot-generator-accessories
+    url: https://pointmongo.com/browse/roll-tables/loot-generator-accessories
+    source: Point Mongo Team
+    tags: []
+    updatedAt: '2026-11-04T17:26:13.611783Z'
+    needsRestat: false
+    missingFields: []

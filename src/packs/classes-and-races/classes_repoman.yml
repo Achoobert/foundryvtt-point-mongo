@@ -1,0 +1,24 @@
+_id: sMvHYeVwZAEAk3BD
+_key: '!items!sMvHYeVwZAEAk3BD'
+name: Repoman
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Fighter/Rogue on a corporate payroll who collects unpaid organs, preferably while the owner is still using them.</em></p><p>This class totally wasn''t bought and paid for by a company outside of the crawl to help boost their own sales,</p><p>but this gorefest of a corporate paid vigilante, will come knocking down your door to take what he needs or his overlords wants. but if you choose this class that will be you! paid to rip out other peoples organs mostly while they still live, kind of. Mostly. nah. just make sure your cuts are clean.</p><table><tbody><tr><th>DR</th><td>2</td></tr><tr><th>Crafting table</th><td>Tier 1 Medical Table</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Constitution</li><li>+4 Strength</li><li>+4 Intelligence</li><li>4 Charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Ambush, Find crawler, Stealth, Tracking, Butchering</li><li>+1 Confusing fog, Fear, Rootfoot</li></ul><p><strong>Benefits</strong></p><ul><li>can access club Vanquisher. its strange but you are supposed to be a crawler for a god. <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Must worship (Gene Co sponsored) God <em>(1 pt)</em></li><li>You don''t make many friends by talking about what you do, disadvantage in all social situations <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/classes/repoman">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter
+    - Rogue
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 867
+    category: classes
+    slug: repoman
+    url: https://pointmongo.com/browse/classes/repoman
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6130614Z'
+    needsRestat: false
+    missingFields: []

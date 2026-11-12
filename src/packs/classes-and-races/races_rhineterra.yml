@@ -1,0 +1,26 @@
+_id: AhdG85AMb6RhGYnw
+_key: '!items!AhdG85AMb6RhGYnw'
+name: Rhineterra
+type: race
+img: https://pointmongo.com/img/entries/races-rhineterra.png
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><strong>Missing:</strong> benefits</p><p><em>The last thing you want to do is have one a charging rhinoceros come barreling down at you in a hallway with no turns. However, choosing this Race and doing the same thing to a poor Mob...now that sounds like fun.</em></p><p>These big guys are known for their ridiculously big muscles. When their planet was conquered by the syndicate, a large number of them were captured and used for manual labor. If you ever see one charging towards you, maybe step to the side so you don’t get run over. Prerequisites: This exclusive race is only offered to Crawlers who have more than 30 Strength (Enhanced) at the time of race selection. Size: Medium, +2 Rush Skill, +3 Horns Skill, +1 Noggin Nocker Skill, +1 to Reach Weapons Skill, +5 Strength, +2 Dexterity, +2 Constitution</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr><tr><th>Prerequisites</th><td>Only offered to crawlers with more than 30 Strength (Enhanced) at the time of race selection.</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Strength</li><li>+2 Dexterity</li><li>+2 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Rush</li><li>+3 Horns</li><li>+1 Noggin Nocker</li><li>+1 Reach Weapons</li></ul><hr><p><em>Source: FrenchAlabamian. From <a href="https://pointmongo.com/browse/races/rhineterra">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: Only offered to crawlers with more than 30 Strength (Enhanced) at the time of race selection.
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 515
+    category: races
+    slug: rhineterra
+    url: https://pointmongo.com/browse/races/rhineterra
+    source: FrenchAlabamian
+    tags:
+      - race
+      - races
+    updatedAt: '2026-11-11T20:08:41.6990863Z'
+    needsRestat: false
+    missingFields:
+      - benefits

@@ -1,0 +1,19 @@
+_id: V7vhSUkyLgUM4oNs
+_key: '!items!V7vhSUkyLgUM4oNs'
+name: Tattoo of Restoration
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A ring of five linked circles that brands itself onto your bicep the moment the box opens, and refills your Mana once a floor.</em></p><p>This magical brand affixes itself to the crawler as soon as the loot box is opened.</p><p>The Tattoo itself is a small image of 5 interconnected circles that form a ring.</p><p>If space is available it will affix itself to the left bicep of the recipient</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Tattoo</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Cooldown</th><td>1/Floor</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Grants the Restore Buff (Refills Mana) once per floor.</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/tattoo-of-restoration">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 929
+    category: magic-items
+    slug: tattoo-of-restoration
+    url: https://pointmongo.com/browse/magic-items/tattoo-of-restoration
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-18T05:39:22.9576617Z'
+    needsRestat: false
+    missingFields: []

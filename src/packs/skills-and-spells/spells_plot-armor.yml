@@ -1,0 +1,39 @@
+_id: 0pGRjszvmCLDLWp6
+_key: '!items!0pGRjszvmCLDLWp6'
+name: Plot Armor
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>An Abjuration passive that increases the caster''s evade chance the lower their health drops.</em></p><p><strong>School:</strong> Abjuration · <strong>AoE:</strong> Caster · <strong>Duration:</strong> Instant (persists until activated/dispelled) · <strong>Cost:</strong> 5 MP</p><p>When hit by a projectile or melee attack, the caster gains an increased chance for the attack to miraculously miss, scaling with remaining health — +2 to evade roll per level.</p><hr><p><em>Source: Community submission — Austen (Crawler #12048). From <a href="https://pointmongo.com/browse/spells/plot-armor">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 415
+    category: spells
+    slug: plot-armor
+    url: https://pointmongo.com/browse/spells/plot-armor
+    source: 'Community submission — Austen (Crawler #12048)'
+    tags:
+      - dcc-ccs
+      - spells
+      - abjuration
+    updatedAt: '2026-09-02T04:50:41.8822221Z'
+    needsRestat: true
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

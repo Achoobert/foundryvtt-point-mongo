@@ -1,0 +1,58 @@
+_id: rnZe4YZ41wBB67BG
+_key: '!actors!rnZe4YZ41wBB67BG'
+name: Centaminotaurtaur
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>A Large mob that''s 50% centaur, 50% minotaur, and 100% problematic for any party in its way.</em></p><p>A bull-headed, horse-bodied behemoth, pissed at the world and anything that moves. No one’s sure how it happened — maybe two creatures defied the odds, maybe the Dungeon AI got bored — but seeing one means a bad day is coming.</p><table><tbody><tr><th>Floor</th><td>2</td></tr></tbody></table><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/mobs/centaminotaurtaur">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 6
+  size: Large (5)
+  creatureType: Creature
+  move: '30'
+  hbSlotsOverride: null
+  hb:
+    value: 6
+    max: 6
+  dr: 2
+  stats:
+    str:
+      value: 9
+    dex:
+      value: 1
+    con:
+      value: 6
+    int:
+      value: 3
+    cha:
+      value: 2
+  attacks:
+    - name: Punch
+      toHit: ''
+      damage: 2d8+3
+      damageType: bludgeoning
+      range: ''
+      effect: ''
+    - name: Bull Rush Charge
+      toHit: ''
+      damage: 2d10+3
+      damageType: force
+      range: 30' line
+      effect: ''
+prototypeToken:
+  name: Centaminotaurtaur
+  actorLink: false
+flags:
+  point-mongo:
+    id: 101
+    category: mobs
+    slug: centaminotaurtaur
+    url: https://pointmongo.com/browse/mobs/centaminotaurtaur
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-10-02T23:02:05.1659375Z'
+    needsRestat: false
+    missingFields: []

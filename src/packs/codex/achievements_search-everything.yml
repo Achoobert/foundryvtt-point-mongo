@@ -1,0 +1,24 @@
+_id: Q1GpajG89unpE3bI
+_key: '!journal!Q1GpajG89unpE3bI'
+name: Search Everything
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: GGQkh9512Z995sxG
+    _key: '!journal.pages!Q1GpajG89unpE3bI.GGQkh9512Z995sxG'
+    name: Search Everything
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you thoroughly search a room or area, including something the party initially ignored.</em></p><p>You thoroughly searched an area instead of assuming it was empty. Congratulations! Loot is frequently hidden in places that sensible people would never bother checking.</p><p>Reward: Silver Looter Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/search-everything">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 602
+    category: achievements
+    slug: search-everything
+    url: https://pointmongo.com/browse/achievements/search-everything
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9555058Z'
+    needsRestat: false
+    missingFields: []

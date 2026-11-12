@@ -1,0 +1,36 @@
+_id: 2GFCo1zVDHMiJ1Kh
+_key: '!items!2GFCo1zVDHMiJ1Kh'
+name: Animal Mimicry
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>Convincingly imitate animal sounds and mannerisms; higher levels allow understanding and communicating with animals.</em></p><p>You can convincingly imitate animal sounds and mannerisms (but not appearance — that''s a different skill). Higher skill levels may allow you to both understand and communicate simple messages with animals.</p><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/skills/animal-mimicry">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 57
+    category: skills
+    slug: animal-mimicry
+    url: https://pointmongo.com/browse/skills/animal-mimicry
+    source: 'Community submission — Rijken (Crawler #17193)'
+    tags:
+      - skill
+    updatedAt: '2026-08-31T17:12:29.7669992Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

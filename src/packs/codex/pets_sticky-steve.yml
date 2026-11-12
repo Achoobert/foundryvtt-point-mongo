@@ -1,0 +1,25 @@
+_id: P9vRxfFsg8JoFIjp
+_key: '!journal!P9vRxfFsg8JoFIjp'
+name: Sticky Steve
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: FJkAky1Yb6pKq4LD
+    _key: '!journal.pages!P9vRxfFsg8JoFIjp.FJkAky1Yb6pKq4LD'
+    name: Sticky Steve
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A nearly unkillable Honey Badger pet with a vice-like bite grip and a serious drinking problem.</em></p><p><strong>Species:</strong> Honey Badger · <strong>STR:</strong> 12 (perceives itself as 20, functionally counts as 20)</p><p>Properties: nearly unkillable — kick him, crush him, set him on fire, he doesn''t care as long as he hurts you more. Jaws lock on like a vice and don''t let go, gets back up no matter how many times he''s knocked down. Weakness: alcohol of any kind ruins his mood and temperament, giving him the Pissed the Night Away debuff — a chuckleheaded ball of pure asshole, even by his own standards.</p><hr><p><em>Source: Community submission — Julian Hayley (Crawler #—). From <a href="https://pointmongo.com/browse/pets/sticky-steve">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 306
+    category: pets
+    slug: sticky-steve
+    url: https://pointmongo.com/browse/pets/sticky-steve
+    source: 'Community submission — Julian Hayley (Crawler #—)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.742681Z'
+    needsRestat: false
+    missingFields: []

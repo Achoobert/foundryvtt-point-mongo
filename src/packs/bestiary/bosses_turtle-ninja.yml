@@ -1,0 +1,56 @@
+_id: 2WVutAJw1SX1WXIL
+_key: '!actors!2WVutAJw1SX1WXIL'
+name: Turtle Ninja
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><em>A pizza-loving mutant turtle who bowls through crawlers in its shell and vanishes in a puff of smoke.</em></p><p>Deep beneath the city, four baby turtles and their rat minder were drenched in a toxic ooze that mutated them and transformed them into humanoid beasts capable of incredible acts of strength and dexterity. So what do these mutated reptiles do? Eat pizza and protect the city from the shadow, of course!</p><p>Weapon Skills: Bō Staff (Quarterstaff), Katana (Longsword), Sai (Dagger), Nunchaku (Improvised Weapons)</p><p>Skills: Balance, Catcher, Dodge, Double Tap, Driving, Dumpster Diving, Endurance, Escape Artist, Fabricate, Gear Head, Hide In Shadows, Light On Your Feet, Perception, Stealth, Tactics, Throwing, Taunt (Rank 5 in each)</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/bosses/turtle-ninja">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 10
+  size: Medium (4)
+  creatureType: Beastly
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 11
+    max: 11
+  dr: 1
+  stats:
+    str:
+      value: 11
+    dex:
+      value: 14
+    con:
+      value: 10
+    int:
+      value: 10
+    cha:
+      value: 10
+  attacks:
+    - name: Bowling Shell
+      toHit: ''
+      damage: 3d6+4
+      damageType: bludgeoning
+      range: Melee
+      effect: The Turtle Ninja pulls its limbs into its shell and spins across the room like a heavy, shelled bowling ball.
+    - name: Smoke Bomb
+      toHit: ''
+      damage: N/A
+      damageType: ''
+      range: ''
+      effect: Grants the boss temporary Invisibility until its next turn. Its next attack coming out of Stealth is rolled with Advantage and triggers a Surprise Check against the target's Evade.
+prototypeToken:
+  name: Turtle Ninja
+  actorLink: false
+flags:
+  point-mongo:
+    id: 973
+    category: bosses
+    slug: turtle-ninja
+    url: https://pointmongo.com/browse/bosses/turtle-ninja
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-10-27T16:16:13.6485181Z'
+    needsRestat: false
+    missingFields: []

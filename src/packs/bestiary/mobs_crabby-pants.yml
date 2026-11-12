@@ -1,0 +1,52 @@
+_id: WOyzyL782jQ3TW6D
+_key: '!actors!WOyzyL782jQ3TW6D'
+name: Crabby Pants
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>Dog-sized crabs whose claws can literally give you crabs — The Taint debuff, which stops you being healed at all.</em></p><p>Hard-shelled, prickly, dog-sized crabs of dubious lifestyle.</p><p>On an Evade Major Fail or worse, the crawler is hit with <strong>The Taint</strong>: you cannot be healed, for five minutes or until the end of combat.</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — Otoun (Crawler #1427). From <a href="https://pointmongo.com/browse/mobs/crabby-pants">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 3
+  size: Small (2)
+  creatureType: Animal
+  move: '10'
+  hbSlotsOverride: null
+  hb:
+    value: 3
+    max: 3
+  dr: 1
+  stats:
+    str:
+      value: 2
+    dex:
+      value: 2
+    con:
+      value: 6
+    int:
+      value: 2
+    cha:
+      value: 2
+  attacks:
+    - name: Claw
+      toHit: ''
+      damage: 1d4+1
+      damageType: ''
+      range: ''
+      effect: On a Evade Major Fail or worse, the crawler is inflicted with The Taint Debuff.
+prototypeToken:
+  name: Crabby Pants
+  actorLink: false
+flags:
+  point-mongo:
+    id: 103
+    category: mobs
+    slug: crabby-pants
+    url: https://pointmongo.com/browse/mobs/crabby-pants
+    source: 'Community submission — Otoun (Crawler #1427)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-20T21:48:31.1530301Z'
+    needsRestat: false
+    missingFields: []

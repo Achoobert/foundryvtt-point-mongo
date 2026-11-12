@@ -1,0 +1,51 @@
+_id: vEnv7z4Z3jcoISzn
+_key: '!actors!vEnv7z4Z3jcoISzn'
+name: Old Mad Steve
+type: mob
+img: icons/svg/mystery-man.svg
+folder: qiYCTsz5olch4hb3
+system:
+  biography: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> Level, stat scores, Floor (sets DR), attacks</p><p><em>A once-refined language professor, sucked into the Nothing 250 cycles ago after a hot streak at the Desperado Club casino, now a raving, fleeing wreck.</em></p><p>Poor old mad Steve. He was just a regular guy, sucked into the World Dungeon during the last Naga Crawl, over 250 cycles ago (600 human years). Before the Dungeon, Old Mad Steve was once a polite, polished and refined older professor of languages, who happened to hit a 3 day hot streak in the Desperado Club Casino on the 6th Floor of his crawl. Steve was up a lot. Like A LOT, a lot. The financially struggling Naga were all ready going to have trouble covering all his winnings when his hot streak came to a sudden end at The Wheel of Fortune. Sucked into the nothing by one bad spin, Old Mad Steve has been lost in the Nothing Ever since. While he doesn''t seem to age in the Nothing, Old Mad Steve is no longer recognizable as the once dapper gentleman he once was. Hunched and dressed in rags, his sanity left him ages ago. Now he howls obscenities and utters prophecies of doom in dead alien languages whenever he is approached.</p><p>Always in a state of perpetual agitation, his instinct will always be to flee from a party of crawlers.</p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/npcs/old-mad-steve">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: Medium (4)
+  creatureType: Human
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: Old Mad Steve
+  actorLink: false
+flags:
+  point-mongo:
+    id: 122
+    category: npcs
+    slug: old-mad-steve
+    url: https://pointmongo.com/browse/npcs/old-mad-steve
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - the-nothing
+      - npcs
+    updatedAt: '2026-09-22T05:37:53.4508763Z'
+    needsRestat: true
+    missingFields:
+      - Level
+      - stat scores
+      - Floor (sets DR)
+      - attacks

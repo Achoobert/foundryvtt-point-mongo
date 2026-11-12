@@ -1,0 +1,23 @@
+_id: HAueDLhGHw29PdkG
+_key: '!items!HAueDLhGHw29PdkG'
+name: Neanderthal
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>The original caveman, back for its dungeon debut: strong, tough, good with a club, and not much for book learning.</em></p><p>Not to be confused with all those other early sapient humanoid races, the Neanderthal cuts the prototypical caveman. Having missed a few thousand years of existence before making a comeback in Geico commercials, the Neanderthal now makes it''s dungeon debut to show the rest of you damn dirty apes what it''s made of.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr><tr><th>DR</th><td>2</td></tr><tr><th>Prerequisites</th><td>15 strength and constitution</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 strength</li><li>+3 constitution</li><li>-3 intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Endurance</li><li>+2 Club</li><li>+3 Bash</li><li>+2 Thrown Weapon</li></ul><p><strong>Benefits</strong></p><ul><li>cold resistance <em>(minor)</em></li><li>simple weapon skills progress faster <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>intelligence capped at 20 <em>(5 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/races/neanderthal">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: 15 strength and constitution
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1089
+    category: races
+    slug: neanderthal
+    url: https://pointmongo.com/browse/races/neanderthal
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-08T10:01:17.9432979Z'
+    needsRestat: false
+    missingFields: []

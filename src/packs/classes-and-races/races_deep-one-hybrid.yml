@@ -1,0 +1,23 @@
+_id: g7KOXtZBXsJo7Zfz
+_key: '!items!g7KOXtZBXsJo7Zfz'
+name: Deep One Hybrid
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Half human, half eldritch fish-folk: hardy, at home underwater, and about as charming as a sea bass.</em></p><p>The bastard products of when the eldritch beasts that lurk in Y''ha-nthlei take shore leave, these human/deep one hybrids possess all of the charm of a sea bass with none of the deliciousness. They are, however, quite hardy and at home in the water.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 Strength</li><li>+6 constitution</li><li>-4 charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Swim</li><li>+2 to a spear or hammer skill</li><li>+2 Thick Skinned</li></ul><p><strong>Benefits</strong></p><ul><li>swim speed equal to movement speed <em>(minor)</em></li><li>underwater vision <em>(minor)</em></li><li>Sticky Hold benefit (50% more difficult to disarm) <em>(major)</em></li><li>can hold breath constitution x3 minutes in water (1/4th that in other settings) <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>lose 3% strength and constitution if not submerged in water for at least 1 hour every 30 hours <em>(4 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/races/deep-one-hybrid">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1088
+    category: races
+    slug: deep-one-hybrid
+    url: https://pointmongo.com/browse/races/deep-one-hybrid
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-08T10:01:17.9423665Z'
+    needsRestat: false
+    missingFields: []

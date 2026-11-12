@@ -1,0 +1,42 @@
+_id: DaNKRpp4LKN0B0Pu
+_key: '!items!DaNKRpp4LKN0B0Pu'
+name: Instant Brazilian Wax
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Rips every hair off the target at once. The hairless are immune; the very hairy suffer more.</em></p><p>When this spell is cast, the target instantly has all of his or her hair removed by being yanked out. Targets with no hair are immune to this spell.</p><p>((Note: these are inspired by the Tik-Tok animator Punky Doodles. Only the names of the "spells" are taken from his animatics. All mechanics and rules applied are mine. There is a 5E version of these spells floating around the internet. That''s mine too.))</p><table><tbody><tr><th>Base damage</th><td>1d8+Int</td></tr><tr><th>Limitations</th><td>Beings with A LOT of hair take 1d10+INT damage</td></tr></tbody></table><hr><p><em>Source: Community submission — Riksheare. From <a href="https://pointmongo.com/browse/spells/instant-brazilian-wax">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 10
+  range: 50 feet
+  duration: Instant
+  cooldown: ''
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses: []
+  baseDamage:
+    dice: 1d8
+    stat: int
+    damageType: force
+  upgrades:
+    - id: BIR5Ynt99ZFM7CTe
+      rankThreshold: 5
+      description: <p>+1 dice of damage (whatever base damage is for the target) and a CON save or be stunned for one round.</p>
+    - id: w06cEpcmczD0neYQ
+      rankThreshold: 10
+      description: <p>+1 Dice of Damage. Stun lasts for D4 rounds.</p>
+    - id: K8ojnrKWgMfFUNTH
+      rankThreshold: 15
+      description: <p>+1 Dice of Damage. Stun lasts for D4 rounds. Hair will never grow on this target again.</p>
+flags:
+  point-mongo:
+    id: 810
+    category: spells
+    slug: instant-brazilian-wax
+    url: https://pointmongo.com/browse/spells/instant-brazilian-wax
+    source: Community submission — Riksheare
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.7213471Z'
+    needsRestat: false
+    missingFields: []

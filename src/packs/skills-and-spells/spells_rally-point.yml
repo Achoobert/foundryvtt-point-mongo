@@ -1,0 +1,39 @@
+_id: 0v3YOqWCml1EjdMx
+_key: '!items!0v3YOqWCml1EjdMx'
+name: Rally Point
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>Marks a zone that speeds up and protects allies who stand in it, scaling into healing and debuff cleanse.</em></p><dl class="stat-block"><dt>Type</dt><dd>Support / Control</dd><dt>Area of Effect</dt><dd>Self: Range 10''</dd><dt>Duration</dt><dd>3 rounds (concentration)</dd><dt>Cost</dt><dd>10 mana</dd></dl><p>You mark your position as a focal point of resolve, drawing allies toward it and strengthening them when they arrive.</p><ul><li>Level 1: Places a rally zone at your feet. Allies (including you) who enter it or start their turn in it gain 5ft of movement speed and resistance to non-magical damage</li><li>Level 5: Allies and you also gain health regeneration (1 HP bar) per turn while inside the zone</li><li>Level 10: Allies and you also gain Temp HP (2 HP bars) for the duration</li><li>Level 15: Duration increases to 5 rounds; resistances now include magical bludgeoning, piercing, and slashing damage</li><li>Level 20: Zone AoE increases to 15ft; allies and you also cleanse one debuff (once per ally, not per turn)</li></ul><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/spells/rally-point">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  manaCost: 1
+  range: ''
+  duration: ''
+  cooldown: ''
+  isPassive: false
+  castingKeywords: []
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 26
+    category: spells
+    slug: rally-point
+    url: https://pointmongo.com/browse/spells/rally-point
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - ability
+      - support
+      - control
+    updatedAt: '2026-08-31T17:12:29.7106788Z'
+    needsRestat: false
+    missingFields:
+      - type (Attack or Passive)
+      - governing stat
+      - range
+      - Rank 5/10/15 upgrades

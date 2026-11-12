@@ -1,0 +1,24 @@
+_id: PX61FSKPicUjzLiU
+_key: '!journal!PX61FSKPicUjzLiU'
+name: Last Man Standing
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: qlc0mRpkO0NasaCc
+    _key: '!journal.pages!PX61FSKPicUjzLiU.qlc0mRpkO0NasaCc'
+    name: Last Man Standing
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you are the only crawler still conscious at the end of a combat encounter.</em></p><p>Everyone else went down. You didn''t. Congratulations! You are either the most capable crawler here or the one everyone else is now blaming.</p><p>Reward: Silver Survivor''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/last-man-standing">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 599
+    category: achievements
+    slug: last-man-standing
+    url: https://pointmongo.com/browse/achievements/last-man-standing
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9531423Z'
+    needsRestat: false
+    missingFields: []

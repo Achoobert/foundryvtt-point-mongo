@@ -1,0 +1,25 @@
+_id: te9WCQ60CBe3It8V
+_key: '!journal!te9WCQ60CBe3It8V'
+name: Smelty
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: ng5uQet3x8vT4T94
+    _key: '!journal.pages!te9WCQ60CBe3It8V.ng5uQet3x8vT4T94'
+    name: Smelty
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A fire-backed sloth pet that helps with crafting by heating to melting temperatures.</em></p><p><strong>Species:</strong> Smelty</p><p>Like a sloth, but with fire coming off its back — hot enough to melt almost anything, making it useful for crafting. Can grow to prehistoric-ground-sloth size, so it can reduce its own heat for its crawler''s benefit, though oven mitts are still recommended.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/pets/smelty">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 323
+    category: pets
+    slug: smelty
+    url: https://pointmongo.com/browse/pets/smelty
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-02T04:50:41.7542266Z'
+    needsRestat: false
+    missingFields: []

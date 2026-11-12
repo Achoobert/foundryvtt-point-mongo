@@ -1,0 +1,19 @@
+_id: 9XKJir2eMznCv4IN
+_key: '!items!9XKJir2eMznCv4IN'
+name: Necklace of Restoration
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A silver pendant stamped with the arcane sign for Mana that tops your Mana back up to full once a floor.</em></p><p>This silver necklace features a small pendant embossed with the arcane symbol for "Mana"</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Necklace</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Once per floor: Restore (full Mana)</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/necklace-of-restoration">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1023
+    category: magical-jewelry
+    slug: necklace-of-restoration
+    url: https://pointmongo.com/browse/magical-jewelry/necklace-of-restoration
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-31T19:00:58.301005Z'
+    needsRestat: false
+    missingFields: []

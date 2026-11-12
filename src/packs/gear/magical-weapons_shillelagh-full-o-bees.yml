@@ -1,0 +1,23 @@
+_id: OjR9P3er12UhSu4B
+_key: '!items!OjR9P3er12UhSu4B'
+name: Shillelagh Full o' Bees
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A blackthorn club that summons killer bees on a successful strike, up to four times per combat.</em></p><p><strong>Type:</strong> Blunt · <strong>Damage:</strong> 1d6 + bees</p><p>Summons a small swarm of Africanized killer bees on a successful strike, dealing an extra 1d4 bee damage; can be triggered up to 4x per combat. A critical hit also coats the target in honey (Slowed debuff), which can draw local wildlife.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Club</td></tr><tr><th>Weapon skill</th><td>Club</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/magical-weapons/shillelagh-full-o-bees">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 220
+    category: magical-weapons
+    slug: shillelagh-full-o-bees
+    url: https://pointmongo.com/browse/magical-weapons/shillelagh-full-o-bees
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - magical-weapons
+      - club
+    updatedAt: '2026-09-03T05:54:47.8482523Z'
+    needsRestat: false
+    missingFields:
+      - effects

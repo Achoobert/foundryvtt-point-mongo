@@ -1,0 +1,24 @@
+_id: Nf1bNplifJUI4UW1
+_key: '!journal!Nf1bNplifJUI4UW1'
+name: Critical Existential Error
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: byzquPSiyW9FS4r7
+    _key: '!journal.pages!Nf1bNplifJUI4UW1.byzquPSiyW9FS4r7'
+    name: Critical Existential Error
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you roll a critical failure at an especially disastrous moment.</em></p><p>You have experienced a catastrophic failure at precisely the worst possible moment.</p><p>Your timing is impeccable.</p><p>Your competence is less so.</p><p>Reward: Silver Survivor''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/critical-existential-error">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 643
+    category: achievements
+    slug: critical-existential-error
+    url: https://pointmongo.com/browse/achievements/critical-existential-error
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9889715Z'
+    needsRestat: false
+    missingFields: []

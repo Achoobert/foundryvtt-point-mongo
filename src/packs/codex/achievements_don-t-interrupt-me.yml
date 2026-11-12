@@ -1,0 +1,24 @@
+_id: OVhpaGGnogcThIIz
+_key: '!journal!OVhpaGGnogcThIIz'
+name: Don't Interrupt Me
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: QGxmzSFCHa9QjPzr
+    _key: '!journal.pages!OVhpaGGnogcThIIz.QGxmzSFCHa9QjPzr'
+    name: Don't Interrupt Me
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when an enemy interrupts the Crawler''s action or activity, and the Crawler immediately kills the enemy.</em></p><p>Someone interrupted you. You responded by immediately killing them. The System AI applauds your commitment to finishing what you started.</p><p>Reward: Silver Assassin''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/don-t-interrupt-me">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 594
+    category: achievements
+    slug: don-t-interrupt-me
+    url: https://pointmongo.com/browse/achievements/don-t-interrupt-me
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9491296Z'
+    needsRestat: false
+    missingFields: []

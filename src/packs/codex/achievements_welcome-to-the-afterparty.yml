@@ -1,0 +1,23 @@
+_id: J0ZyeWgo6fVFddl0
+_key: '!journal!J0ZyeWgo6fVFddl0'
+name: Welcome to the afterparty
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 4HOuU2GoPMVPUVM1
+    _key: '!journal.pages!J0ZyeWgo6fVFddl0.4HOuU2GoPMVPUVM1'
+    name: Welcome to the afterparty
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you enter the dungeon drunk.</em></p><p>Triggered when entering the dungeon drunk.</p><p>NEW ACHIEVEMENT: Welcome to the afterparty</p><p>You entered the dungeon drunk. Lucky you, you were out drinking once again when the dungeon collapsed. Your ex-girlfriend Becky hated when you drank, hence the ex part. But look at you now, you''re alive, and she''s squished. Now the real fun begins; welcome to the afterparty.</p><p>Reward: You''ve received a Bronze asshole box</p><hr><p><em>Source: Community submission — Sketch. From <a href="https://pointmongo.com/browse/achievements/welcome-to-the-afterparty">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1081
+    category: achievements
+    slug: welcome-to-the-afterparty
+    url: https://pointmongo.com/browse/achievements/welcome-to-the-afterparty
+    source: Community submission — Sketch
+    tags: []
+    updatedAt: '2026-11-08T10:01:17.7938204Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,24 @@
+_id: VCoRqkt5JguBqW1Y
+_key: '!journal!VCoRqkt5JguBqW1Y'
+name: I Didn’t See That
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: iwtleAogShztFNha
+    _key: '!journal.pages!VCoRqkt5JguBqW1Y.iwtleAogShztFNha'
+    name: I Didn’t See That
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you trigger a trap that another crawler warned you about.</em></p><p>You triggered a trap after another crawler explicitly warned you that the trap was there.</p><p>This is an important lesson about teamwork.</p><p>Specifically, the lesson is that some of you aren''t listening</p><p>Reward: Bronze Asshole''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/i-didn-t-see-that">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 633
+    category: achievements
+    slug: i-didn-t-see-that
+    url: https://pointmongo.com/browse/achievements/i-didn-t-see-that
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.980483Z'
+    needsRestat: false
+    missingFields: []

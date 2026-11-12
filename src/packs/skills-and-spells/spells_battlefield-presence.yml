@@ -1,0 +1,44 @@
+_id: ckJw2jEYN1QLWzDu
+_key: '!items!ckJw2jEYN1QLWzDu'
+name: Battlefield Presence
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>A free utility aura granting allies bonus damage and eventually fear immunity and passive healing.</em></p><p><strong>Level 1:</strong> Turn on an Aura of Battlefield Presence. Allies will deal +1d4 more damage to enemies, and you are more likely to be targeted by enemies. It can be turned off at will.</p><p><strong>Level 5:</strong> Allies in your aura gain half their normal movement speed extra while in your aura.</p><p><strong>Level 10:</strong> Increase your Constitution by +5 while this aura is active.</p><p><strong>Level 15:</strong> You and your allies become immune to Fear effects while your aura is active.</p><p><strong>Level 20:</strong> Allies in your aura heal 10% of their max health each Round they end in your aura.</p><table><tbody><tr><th>Base damage</th><td>n/a</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>None.</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/battlefield-presence">Point Mongo</a>.</em></p>'
+  governingStat: cha
+  manaCost: 0
+  range: 60 Foot Radius
+  duration: At Will
+  cooldown: None
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: IHFLKyFbBabw0wmi
+      rankThreshold: 5
+      description: <p>Allies in your aura gain twice their Step while in your aura.</p>
+    - id: G9rqBwvy1q4CMyn0
+      rankThreshold: 10
+      description: <p>Increase your Constitution by 5% while this Aura is active.</p>
+    - id: T4DbCxl6INBfj69i
+      rankThreshold: 15
+      description: <p>You and your allies become immune to the Terrified debuff while your aura is active.</p>
+flags:
+  point-mongo:
+    id: 380
+    category: spells
+    slug: battlefield-presence
+    url: https://pointmongo.com/browse/spells/battlefield-presence
+    source: 'Community submission — JackWreckem (Crawler #36320)'
+    tags:
+      - dcc-ccs
+      - spells
+    updatedAt: '2026-09-22T05:46:52.7360548Z'
+    needsRestat: true
+    missingFields: []

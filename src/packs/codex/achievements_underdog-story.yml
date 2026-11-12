@@ -1,0 +1,24 @@
+_id: yCQkBQdF3YNLJWO4
+_key: '!journal!yCQkBQdF3YNLJWO4'
+name: Underdog Story
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: yZY8NvvV9VviveNd
+    _key: '!journal.pages!yCQkBQdF3YNLJWO4.yZY8NvvV9VviveNd'
+    name: Underdog Story
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you win a fight against a Mob or hazard considerably above your current level or capability.</em></p><p>By every reasonable metric, that thing should have flattened you. It did not. Nobody can explain exactly how you pulled that off, including you. The viewers are already calling it the upset of the week.</p><p>Reward: Gold Cinderella Story Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/underdog-story">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 713
+    category: achievements
+    slug: underdog-story
+    url: https://pointmongo.com/browse/achievements/underdog-story
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0461155Z'
+    needsRestat: false
+    missingFields: []

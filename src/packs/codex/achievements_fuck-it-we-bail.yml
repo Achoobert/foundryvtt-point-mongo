@@ -1,0 +1,24 @@
+_id: SHRGNp48MFwOu6BW
+_key: '!journal!SHRGNp48MFwOu6BW'
+name: Fuck It, We Bail
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: yPW65hf2kk1lJVuW
+    _key: '!journal.pages!SHRGNp48MFwOu6BW.yPW65hf2kk1lJVuW'
+    name: Fuck It, We Bail
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you attempt a wildly stupid plan that requires the GM to pause and actually figure out how it might work—and somehow succeed.</em></p><p>You attempted an idea so stupid that the System AI wasn''t entirely certain whether to classify it as bravery, insanity, or performance art. Somehow, it worked</p><p>Reward: Silver Lucky Bastard Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/fuck-it-we-bail">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 618
+    category: achievements
+    slug: fuck-it-we-bail
+    url: https://pointmongo.com/browse/achievements/fuck-it-we-bail
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9685489Z'
+    needsRestat: false
+    missingFields: []

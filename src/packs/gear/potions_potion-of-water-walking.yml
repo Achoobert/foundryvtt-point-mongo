@@ -1,0 +1,22 @@
+_id: dcsTmBZI6DwWm3cM
+_key: '!items!dcsTmBZI6DwWm3cM'
+name: Potion of Water Walking
+type: item
+img: icons/svg/item-bag.svg
+folder: 7UV7PbEPSkb0XNJr
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>A dark blue potion granting the ability to walk on water for a few hours.</em></p><p><strong>Type:</strong> Buff (Ability)</p><p>Grants the ability to walk on water for 1d6 hours.</p><table><tbody><tr><th>Type</th><td>Buff</td></tr></tbody></table><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/potions/potion-of-water-walking">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 340
+    category: potions
+    slug: potion-of-water-walking
+    url: https://pointmongo.com/browse/potions/potion-of-water-walking
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - dcc-ccs
+      - potions
+    updatedAt: '2026-09-03T16:29:38.9519563Z'
+    needsRestat: false
+    missingFields:
+      - effects

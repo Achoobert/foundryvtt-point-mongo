@@ -1,0 +1,23 @@
+_id: SJXxP3QT55xBb73d
+_key: '!items!SJXxP3QT55xBb73d'
+name: Orc
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A muscular, boar-like race built like a tank, kin to tusklings but darker and covered in bristles.</em></p><p>Orcs are muscular, about six and a half feet tall and built like a tanks. They resembles a tuskling but is clearly a different type of the same species; where tuskling skin is bright pink and pig-like, Orc''s flesh is dark and covered in black, bristly hair, giving them the look of a wild boar</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr><tr><th>Build points</th><td>25</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>Str +6</li><li>Con +5</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 to an attack skill of your choice</li></ul><p><strong>Benefits</strong></p><ul><li>Darkvision <em>(minor)</em></li><li>Advantage on Advancement for the Attack Skill you have chosen with this Race <em>(moderate)</em></li><li>Rage Benefit <em>(major)</em></li><li>+5ft step <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Minor: Int -2 (+1pts) <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/orc">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 521
+    category: races
+    slug: orc
+    url: https://pointmongo.com/browse/races/orc
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-15T15:11:11.6361712Z'
+    needsRestat: false
+    missingFields: []

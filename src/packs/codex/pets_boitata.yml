@@ -1,0 +1,23 @@
+_id: Pl3yOWwOTf9PxgH4
+_key: '!journal!Pl3yOWwOTf9PxgH4'
+name: Boitata
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: H3pJxivXitXSb37X
+    _key: '!journal.pages!Pl3yOWwOTf9PxgH4.H3pJxivXitXSb37X'
+    name: Boitata
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A fire snake with a bull''s head that grows Huge, resists fire and sets enemies alight on an Amazing Success.</em></p><p>This legendary fire snake is known for being the protector of wild places. The lvl 1 pet is a Small (Size 2) snake with scales in warm colors, but its head is one of a tiny calf. A fully grown Boitata is Huge (Size 6), the head of an angry bull, its eyes and scales on fire.</p><p>Bonding: Boitatas, like any snake, are very sensitive to strong smells. If the wannabe tutor approaches it clean, it will accept both being petted and fed.</p><p>Level 15 Benefit:</p><p>Fully grown Boitatas are resistant to fire. All its attacks can set enemies aflame on an Amazing Success and it can set fire to flammable objects by touching them.</p><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/pets/boitata">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 774
+    category: pets
+    slug: boitata
+    url: https://pointmongo.com/browse/pets/boitata
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-11T20:08:41.6888238Z'
+    needsRestat: false
+    missingFields: []

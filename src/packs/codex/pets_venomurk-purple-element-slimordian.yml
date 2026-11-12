@@ -1,0 +1,26 @@
+_id: 6S9K5hAH4NN118Vj
+_key: '!journal!6S9K5hAH4NN118Vj'
+name: Venomurk (Purple Element Slimordian)
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: 835cTcU8pedeWmNc
+    _key: '!journal.pages!6S9K5hAH4NN118Vj.835cTcU8pedeWmNc'
+    name: Venomurk (Purple Element Slimordian)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A poison-type Element Slimordian slime that grows limbs and intelligence as it levels, oozing toxic vapor and spores.</em></p><p><strong>Species:</strong> Element Slimordian (Purple, Poison)</p><p>A dark purple slime emitting glowing toxic vapor, with mushrooms and spores growing inside its gelatinous core; victims exposed to it experience hallucinations and paralysis. Abilities: toxic gas, paralysis venom, hallucination spores, infection. Weaknesses: purification magic, wind. Personality: sneaky, manipulative, intelligent. Like all Element Slimordians, it starts as a small blob, growing arms by level 5, legs by level 10, and intelligence by level 15.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/pets/venomurk-purple-element-slimordian">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 310
+    category: pets
+    slug: venomurk-purple-element-slimordian
+    url: https://pointmongo.com/browse/pets/venomurk-purple-element-slimordian
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - pets
+      - slime
+    updatedAt: '2026-09-02T04:50:41.7458755Z'
+    needsRestat: false
+    missingFields: []

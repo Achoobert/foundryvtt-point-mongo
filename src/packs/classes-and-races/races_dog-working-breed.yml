@@ -1,0 +1,23 @@
+_id: JzUGY0xhrpr6yyhE
+_key: '!items!JzUGY0xhrpr6yyhE'
+name: 'Dog: Working Breed'
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A Dog-only race for the strong, smart working breeds, with extra Strength, a faster stride and an edge when hunting prey.</em></p><p>Working breeds are strong, smart and resilient. basically, hell to deal with in regular life. But in the dungeon, those might actually save their (and yours) life.</p><table><tbody><tr><th>Size</th><td>Petite (3)</td></tr><tr><th>DR</th><td>1</td></tr><tr><th>Prerequisites</th><td>This limited Race is only available to crawlers who are already a Dog</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Strength</li><li>+3 Constitution</li><li>+1 Dexterity</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Bite Attack</li><li>+2 Endurance</li><li>+1 Running</li><li>+1 Acute Ears</li></ul><p><strong>Benefits</strong></p><ul><li>+5ft Movement <em>(major)</em></li><li>Advantage when attacking Prey <em>(minor)</em></li><li>Advantage on Scent based rolls <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Minor: Disadvantage on all Social Skills to hide its emotions</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/dog-working-breed">Point Mongo</a>.</em></p>'
+  size: Petite (3)
+  prerequisites: This limited Race is only available to crawlers who are already a Dog
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1102
+    category: races
+    slug: dog-working-breed
+    url: https://pointmongo.com/browse/races/dog-working-breed
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-09T03:03:17.4350201Z'
+    needsRestat: false
+    missingFields: []

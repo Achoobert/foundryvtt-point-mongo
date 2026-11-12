@@ -1,0 +1,27 @@
+_id: TZZPTo3GeaFEocfi
+_key: '!items!TZZPTo3GeaFEocfi'
+name: Grease Monkey
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>Mechanic-based Utility Combatant proficient with wrenches and thrown tools.</em></p><dl class="stat-block"><dt>Type</dt><dd>Utility Combatant</dd><dt>Stat Bonus</dt><dd>Con +1, Int +2</dd></dl><p>Mechanic based Combatant class. Gain +2 to Mechanical Perception based Skill checks. Proficient with wrenches and other environmental tool-associated weapons. +1 to attack rolls with thrown tools.</p><p><em>"If you can dodge a wrench, I have 3 more where that came from."</em></p><hr><p><em>Source: Community submission — DeaDPaN79 (Crawler #1945). From <a href="https://pointmongo.com/browse/classes/grease-monkey">Point Mongo</a>.</em></p>'
+  classTypes: []
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 7
+    category: classes
+    slug: grease-monkey
+    url: https://pointmongo.com/browse/classes/grease-monkey
+    source: 'Community submission — DeaDPaN79 (Crawler #1945)'
+    tags:
+      - floor-class
+      - utility
+    updatedAt: '2026-08-31T17:12:29.6091439Z'
+    needsRestat: false
+    missingFields:
+      - stat bonuses
+      - benefits
+      - Build Point costs

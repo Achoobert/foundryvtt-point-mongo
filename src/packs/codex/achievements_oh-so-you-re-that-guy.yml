@@ -1,0 +1,23 @@
+_id: JI1plyVFE0c173jg
+_key: '!journal!JI1plyVFE0c173jg'
+name: Oh So You’re THAT Guy!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: SZoOhB5tPayrQNjb
+    _key: '!journal.pages!JI1plyVFE0c173jg.SZoOhB5tPayrQNjb'
+    name: Oh So You’re THAT Guy!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler points out that the AI has reused a room or battle map.</em></p><p>Trigger: A crawler notes that the A.I. has reused an asset or battle map.</p><p>A.I. Response: “NEEEEEEEW ACHIEVEMENT!”</p><p>OH SO YOU’RE THAT GUY!</p><p>“Well, look at you! Mister Eye for Detail! You noticed that I reused a room you previously encountered! The [Insert slur for corporate overlords here] only gave me a certain amount of resources to use and I thought that previous room was pretty good, you guys wouldn’t mind a second romp through! But you remembered and you informed me of my error! Thank you. Truly. I absolutely love constructive criticism about this massive world dungeon crawl that took me decades of your planet’s existence to design with the organic matter of your civilization. Allow me to reward you appropriately to convey my feelings.”</p><p>You receive a Bronze Red Shirt Guy Lootbox.</p><p>Reward: A patch of grass with a sign that says “Touch me!” sticking out of it.</p><hr><p><em>Source: Community submission — MoonshadowDark. From <a href="https://pointmongo.com/browse/achievements/oh-so-you-re-that-guy">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1092
+    category: achievements
+    slug: oh-so-you-re-that-guy
+    url: https://pointmongo.com/browse/achievements/oh-so-you-re-that-guy
+    source: Community submission — MoonshadowDark
+    tags: []
+    updatedAt: '2026-11-08T19:07:04.6973997Z'
+    needsRestat: false
+    missingFields: []

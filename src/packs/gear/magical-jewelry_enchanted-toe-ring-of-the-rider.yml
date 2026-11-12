@@ -1,0 +1,19 @@
+_id: Inm26pQt5KYB0Zbs
+_key: '!items!Inm26pQt5KYB0Zbs'
+name: Enchanted Toe Ring of the Rider
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A singed nickel toe ring from a ghostly rider''s skeletal foot, sharpening your mind and your Chopper piloting.</em></p><p>This burnished nickel toe ring appears slightly singed.  When equipped it bestows the following benefits: +3 Intelligence, and +1 Chopper Pilot Skill.  Legend tells of a ghostly rider whose skeletal feet once captivated the attention of the system ai.  Now this toe ring belongs to you...and the AI takes notice.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 Intelligence</li><li>+1 Chopper Pilot Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-rider">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1137
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-the-rider
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-rider
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1184846Z'
+    needsRestat: false
+    missingFields: []

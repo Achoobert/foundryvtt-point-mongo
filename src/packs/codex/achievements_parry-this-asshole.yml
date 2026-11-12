@@ -1,0 +1,24 @@
+_id: ljOQ0byuz2Lsr9A7
+_key: '!journal!ljOQ0byuz2Lsr9A7'
+name: Parry This, Asshole
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: QDiObOYdWe0RD6yU
+    _key: '!journal.pages!ljOQ0byuz2Lsr9A7.QDiObOYdWe0RD6yU'
+    name: Parry This, Asshole
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you successfully defend against an attack and immediately counterattack.</em></p><p>You successfully defended against an attack and immediately turned that defense into an offensive opportunity. That''s called style. The System AI approves.</p><p>Reward: Silver Combat Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/parry-this-asshole">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 595
+    category: achievements
+    slug: parry-this-asshole
+    url: https://pointmongo.com/browse/achievements/parry-this-asshole
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-11-11T20:08:41.5134512Z'
+    needsRestat: false
+    missingFields: []

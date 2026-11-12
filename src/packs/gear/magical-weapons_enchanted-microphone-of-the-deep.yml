@@ -1,0 +1,19 @@
+_id: Gn682NErvMl74mWJ
+_key: '!items!Gn682NErvMl74mWJ'
+name: Enchanted Microphone of the Deep
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A mic that makes you louder, far more charming, and strangely likely to turn up more gear from The Deep. Best not to ask where The Deep is.</em></p><p>What is “The Deep?” Is it a place where no light can penetrate? One where you dare not go? Somewhere so mysterious that people go mad just pondering its existence? Sounds like your mom’s ass, but it’s just a theme!</p><p>Blah, blah, water something, blah. Who cares. It’s a microphone, and historically they are the most discarded enchanted items in Dungeon Crawler World. Nobody wants them! Especially if they don’t have the Golden Throat Benefit, which just so happens to be your mom’s nickname.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Microphone / Voice Amplifier</td></tr><tr><th>Tier</th><td>Legendary</td></tr><tr><th>Weapon skill</th><td>Singing</td></tr><tr><th>Cooldown</th><td>30 Hours</td></tr><tr><th>Limitations</th><td>Only one microphone can be equipped at a time. If the Deep Shield Spell is found on another item, they share the same cooldown.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+10 Charisma</li><li>+3 Lower Range Skill</li><li>Wielder may cast a Rank 15 Deep Shield Spell once every 30 hours</li><li>If this item is equipped or in your Hotlist, the odds of you coming across more items from your mom’s ass, I mean “The Deep”, increases</li></ul><hr><p><em>Source: Community submission — Mr King. From <a href="https://pointmongo.com/browse/magical-weapons/enchanted-microphone-of-the-deep">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 770
+    category: magical-weapons
+    slug: enchanted-microphone-of-the-deep
+    url: https://pointmongo.com/browse/magical-weapons/enchanted-microphone-of-the-deep
+    source: Community submission — Mr King
+    tags: []
+    updatedAt: '2026-09-24T18:09:50.6300796Z'
+    needsRestat: false
+    missingFields: []

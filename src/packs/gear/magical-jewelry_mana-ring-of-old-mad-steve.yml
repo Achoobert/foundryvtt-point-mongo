@@ -1,0 +1,19 @@
+_id: vmDMxSFEGQsVEIOi
+_key: '!items!vmDMxSFEGQsVEIOi'
+name: Mana Ring of Old Mad Steve
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A fire-blackened iron ring that tops up your Mana once a floor.</em></p><p>This black iron ring is darkened as if by fire.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Ring</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Cooldown</th><td>1 / floor</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Once per floor: Restore (full Mana)</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/mana-ring-of-old-mad-steve">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 925
+    category: magical-jewelry
+    slug: mana-ring-of-old-mad-steve
+    url: https://pointmongo.com/browse/magical-jewelry/mana-ring-of-old-mad-steve
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-18T05:39:22.9526162Z'
+    needsRestat: false
+    missingFields: []

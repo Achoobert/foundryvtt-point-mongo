@@ -1,0 +1,26 @@
+_id: ZkNl5zZODtkpq43v
+_key: '!items!ZkNl5zZODtkpq43v'
+name: Concierge Protocol Chassis
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>With this mechanical chassis class, you''ll be able to charm those mudskippers into thinking maybe perhaps you were just an NPC all along, a reoccurring one to help the other Crawlers.</em></p><p><strong>Class Type:</strong> Bard (Face). Prerequisite: Only available to Chip Race Crawlers. Description: You were built to smooth over the awkward silences of first contact, corporate boardrooms, and hostage negotiations, roughly in that order of frequency. You have never once raised your voice; as you have never once needed to. Everyone in the room already knows what you could tell the sponsors about them. +6 Charisma, +2 Intelligence, +3 First Contact Protocol (Good First Impression) Skill, +2 Diplomatic Subroutine (Negotiation) Skill, Access to any guild of a particular type, Membership in the Dungeon Book of the Floor Club, Ability to gain Popularity with specific actions and attacks (Her, C3PO, WALL-E, Bicentennial Man as examples), Patron Benefit (flavoured as an old dungeon AI companion chip or something) - provides advice and assistance re: communicating with/appearing NPCs, First Contact Protocol (Good First Impression) Skill can be raised to Rank 20, Membership in all professional and social clubs</p><table><tbody><tr><th>Prerequisites</th><td>Only available to Chip-race crawlers.</td></tr><tr><th>Rank 20</th><td>First Contact Protocol (Good First Impression) can be raised to Rank 20.</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+6 Charisma</li><li>+2 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 First Contact Protocol (Good First Impression)</li><li>+2 Diplomatic Subroutine (Negotiation)</li></ul><p><strong>Benefits</strong></p><ul><li>Access to any guild of a particular type.</li><li>Membership in the Dungeon Book of the Floor Club, and in all professional and social clubs.</li><li>Gain Popularity with specific actions and attacks.</li><li>Patron Benefit: an old dungeon AI companion chip that advises you on dealing with NPCs.</li></ul><hr><p><em>Source: Crawler Raph. From <a href="https://pointmongo.com/browse/classes/concierge-protocol-chassis">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Bard (Face)
+  prerequisites: Only available to Chip-race crawlers.
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 486
+    category: classes
+    slug: concierge-protocol-chassis
+    url: https://pointmongo.com/browse/classes/concierge-protocol-chassis
+    source: Crawler Raph
+    tags:
+      - class
+      - classes
+    updatedAt: '2026-11-11T20:08:41.6077783Z'
+    needsRestat: false
+    missingFields:
+      - Build Point tiers on each benefit

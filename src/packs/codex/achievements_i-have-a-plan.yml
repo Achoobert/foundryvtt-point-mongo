@@ -1,0 +1,24 @@
+_id: gA2xhrmnN4hSX8zy
+_key: '!journal!gA2xhrmnN4hSX8zy'
+name: I Have a Plan
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: eUDb4ruY8n96jnfy
+    _key: '!journal.pages!gA2xhrmnN4hSX8zy.eUDb4ruY8n96jnfy'
+    name: I Have a Plan
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you create a complicated plan that immediately goes horribly wrong.</em></p><p>You created an elaborate plan. It immediately went horribly wrong. The System has determined that planning is still important, provided you understand that plans are mostly decorative.</p><p>Reward: Bronze Asshole''s Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/i-have-a-plan">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 615
+    category: achievements
+    slug: i-have-a-plan
+    url: https://pointmongo.com/browse/achievements/i-have-a-plan
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9659319Z'
+    needsRestat: false
+    missingFields: []

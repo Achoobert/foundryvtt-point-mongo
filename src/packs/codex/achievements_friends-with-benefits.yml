@@ -1,0 +1,24 @@
+_id: sXaxA3AztnegmgEv
+_key: '!journal!sXaxA3AztnegmgEv'
+name: Friends With Benefits
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: glrTFq3SQC4gcM7L
+    _key: '!journal.pages!sXaxA3AztnegmgEv.glrTFq3SQC4gcM7L'
+    name: Friends With Benefits
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you use an Action specifically to help another crawler succeed.</em></p><p>You helped another crawler accomplish something they couldn''t have done alone. Congratulations! Friendship is apparently useful even in a death dungeon.</p><p>Reward: Bronze Friendship Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/friends-with-benefits">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 609
+    category: achievements
+    slug: friends-with-benefits
+    url: https://pointmongo.com/browse/achievements/friends-with-benefits
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9611663Z'
+    needsRestat: false
+    missingFields: []

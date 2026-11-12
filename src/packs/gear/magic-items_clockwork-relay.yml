@@ -1,0 +1,23 @@
+_id: eZsQA0lNVdiBZo8N
+_key: '!items!eZsQA0lNVdiBZo8N'
+name: Clockwork Relay
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>A brass insignia that impersonates a machine empire''s authority, letting the wearer command and override constructs.</em></p><p>A brass insignia stamped with rotating gears that subtly realign themselves when observed. It carries the authority signature of an unknown machine empire. It quietly broadcasts authority signals into anything mechanical. +3 to hacking, + 3 to automaton crafting, +3 to automaton control</p><p>Authority Override As an action, you may target one construct or mechanical device within 60 ft. It must succeed on a INT save or obey a simple command for 1 minute.</p><p>Override Pulse (1/Day) Emit a 300 ft command signal. All Constructs must obey your next command or be stunned.</p><p>Authorized User Simple machines treat you as authorized. Doors, drones, and security systems are more likely to comply or hesitate before acting against you.</p><p><strong>Flavor Text:</strong> “The difference between a servant and a weapon is usually authorization.”</p><table><tbody><tr><th>Type</th><td>Interface</td></tr></tbody></table><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/magic-items/clockwork-relay">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 171
+    category: magic-items
+    slug: clockwork-relay
+    url: https://pointmongo.com/browse/magic-items/clockwork-relay
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-22T05:37:57.8718691Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

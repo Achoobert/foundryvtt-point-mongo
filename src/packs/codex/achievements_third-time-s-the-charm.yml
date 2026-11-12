@@ -1,0 +1,24 @@
+_id: h0bEje2vN8qKX131
+_key: '!journal!h0bEje2vN8qKX131'
+name: Third Time's the Charm
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: PJnPAn4UBM8wl1Kc
+    _key: '!journal.pages!h0bEje2vN8qKX131.PJnPAn4UBM8wl1Kc'
+    name: Third Time's the Charm
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you fail at the same task twice and then succeed spectacularly on the third attempt.</em></p><p>You failed twice and succeeded on the third attempt.</p><p>Statistically, this proves absolutely nothing.</p><p>Emotionally, however, it feels fantastic.</p><p>The System AI would also like to point out that most competent crawlers call this "getting it right the first time."</p><p>Reward: Silver Lucky Bastard Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/third-time-s-the-charm">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 644
+    category: achievements
+    slug: third-time-s-the-charm
+    url: https://pointmongo.com/browse/achievements/third-time-s-the-charm
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9897859Z'
+    needsRestat: false
+    missingFields: []

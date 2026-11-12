@@ -1,0 +1,24 @@
+_id: 3RjVZJKW9AcObZrR
+_key: '!journal!3RjVZJKW9AcObZrR'
+name: Two Left Feet
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: LnZ1LMcmVs7UVlnw
+    _key: '!journal.pages!3RjVZJKW9AcObZrR.LnZ1LMcmVs7UVlnw'
+    name: Two Left Feet
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you trip and fall flat during a combat encounter without taking any actual damage from it.</em></p><p>You went down like a sack of crawler biscuits, mid-fight, for no reason anyone could identify. The Mob you were fighting seemed genuinely confused. Ten out of ten, would replay for the highlight reel.</p><p>Reward: Bronze Pratfall Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/two-left-feet">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 688
+    category: achievements
+    slug: two-left-feet
+    url: https://pointmongo.com/browse/achievements/two-left-feet
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.025801Z'
+    needsRestat: false
+    missingFields: []

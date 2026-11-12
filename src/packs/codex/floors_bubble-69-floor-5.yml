@@ -1,0 +1,26 @@
+_id: B8XbPPgzGKYyW4Ky
+_key: '!journal!B8XbPPgzGKYyW4Ky'
+name: 'Bubble #69 (Floor 5)'
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: llDN3BTTeLq9VvZj
+    _key: '!journal.pages!B8XbPPgzGKYyW4Ky.llDN3BTTeLq9VvZj'
+    name: 'Bubble #69 (Floor 5)'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A four-quadrant rainforest Floor 5 bubble with a pterodactyl-controlled eagle''s nest castle, a bug-infested tree-stump castle, a sunken river temple, and a cannibal tunnel tribe.</em></p><p><strong>Type:</strong> Floor 5 Bubble</p><p>Air: Sky Fowl citizens whose "castle" — a giant eagle''s nest high in the trees — has been seized by a giant pterodactyl. Land: rainforest yurts home to cat-folk, sloth-folk, serpents, and more; their hollow-tree-stump castle has been overrun by giant bugs. Water: an ancient ruin hidden in the winding, piranha-infested rivers holds a sealed chest with a vessel-key needed to destroy the Land Quadrant''s temple. Subterranean: a millennia-old cannibal tribe hunts humanoid meat via surface-tunneling traps, appeasable only through an unspecified (and unpleasant) sacrifice.</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/floors/bubble-69-floor-5">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 229
+    category: floors
+    slug: bubble-69-floor-5
+    url: https://pointmongo.com/browse/floors/bubble-69-floor-5
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - floors
+      - bubble
+    updatedAt: '2026-10-02T23:02:05.1659375Z'
+    needsRestat: false
+    missingFields: []

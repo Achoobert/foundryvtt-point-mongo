@@ -1,0 +1,23 @@
+_id: 3Hsg7m2TjB7SZDJA
+_key: '!items!3Hsg7m2TjB7SZDJA'
+name: Deep Scarab
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Deep-sea isopod folk, ugly and delicious, who breathe water, eat the dead and are hunted as a delicacy across the galaxy.</em></p><p>Deep Scarabs are analogous to the deep sea isopods of earth, that is if those isopods had their own rudimentary society and opposable thumbs. With segmented bodies, prawn-like tails, compound eyes, and two to four scrawny, human-like arms, you would not want one of these things grabbing your foot as you skinny dip.</p><p>Adapted for the murky estuarine environments and abyssal waters of their home world, they do possess a dozen small, segmented legs for scrambling along the sea floor. They tend to swim only when hunting prey and fleeing predators. The Deep Scarabs have been naturalized across the galaxy as they have been found to be wonderful garbage disposals and a delicacy for the nobility of the Skull Empire.</p><p>While sapient, these creatures are so ugly and delicious that Syndicate races have largely turned a blind eye to their exploitation.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr><tr><th>DR</th><td>2</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 constitution</li><li>+2 dexterity</li><li>-3 intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 iron stomach</li><li>+3 scavenge</li><li>+2 swim</li></ul><p><strong>Benefits</strong></p><ul><li>resist poison and disease <em>(major)</em></li><li>water breathing <em>(moderate)</em></li><li>swim speed matches movement speed <em>(minor)</em></li><li>enhanced vision and sense of smell underwater <em>(minor)</em></li><li>Necrophage - can consume dead mobs to recover HP and boost constitution temporarily <em>(extreme)</em></li></ul><p><strong>Detriments</strong></p><ul><li>reduced vision in bright light <em>(2 pt)</em></li><li>Delicacy - 10% increased damage from mobs that are large or bigger <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/races/deep-scarab">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1149
+    category: races
+    slug: deep-scarab
+    url: https://pointmongo.com/browse/races/deep-scarab
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-11T19:51:26.1516126Z'
+    needsRestat: false
+    missingFields: []

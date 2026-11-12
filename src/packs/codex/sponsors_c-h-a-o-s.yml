@@ -1,0 +1,25 @@
+_id: BNpeAbZpo8h24tBf
+_key: '!journal!BNpeAbZpo8h24tBf'
+name: C.H.A.O.S.
+folder: hvyWwMcQCbDfRsP5
+pages:
+  - _id: aJPQUR3jou5fuffh
+    _key: '!journal.pages!BNpeAbZpo8h24tBf.aJPQUR3jou5fuffh'
+    name: C.H.A.O.S.
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Chaotic Hazard Allocation &amp; Outcome Systems — sponsors items that randomize combat outcomes, stats, and abilities.</em></p><p><strong>Motto:</strong> "Predictability is for losers."</p><p>Bestows items that randomize combat outcomes, stats, and abilities on the fly. High reward potential, but completely unstable and often dangerous to everyone nearby.</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/sponsors/c-h-a-o-s">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 347
+    category: sponsors
+    slug: c-h-a-o-s
+    url: https://pointmongo.com/browse/sponsors/c-h-a-o-s
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - sponsors
+    updatedAt: '2026-10-02T23:02:05.1659375Z'
+    needsRestat: false
+    missingFields: []

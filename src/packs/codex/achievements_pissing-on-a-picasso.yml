@@ -1,0 +1,23 @@
+_id: 5HYVvSfkGLSnyDeM
+_key: '!journal!5HYVvSfkGLSnyDeM'
+name: Pissing on a Picasso
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: HifQqZugdJkzXO50
+    _key: '!journal.pages!5HYVvSfkGLSnyDeM.HifQqZugdJkzXO50'
+    name: Pissing on a Picasso
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you desecrate something in the dungeon purely because it was beautiful.</em></p><p>Oh yeah, we''ve all done it. Seen something beautiful and want to just destroy it. Stomp a flower, write your name in fresh concrete, beat the ever loving shit out of a Mercedes.</p><p>And now you''ve gone and done it. This dungeon was created by thousands of individuals over hundreds of solars. It is literally someone''s magnum opus. And you just whipped your dick out and pissed all over it. Bravo. Encore.</p><hr><p><em>Source: Community submission — Barry, Crawler #3779. From <a href="https://pointmongo.com/browse/achievements/pissing-on-a-picasso">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 766
+    category: achievements
+    slug: pissing-on-a-picasso
+    url: https://pointmongo.com/browse/achievements/pissing-on-a-picasso
+    source: 'Community submission — Barry, Crawler #3779'
+    tags: []
+    updatedAt: '2026-09-15T21:44:33.7042541Z'
+    needsRestat: false
+    missingFields: []

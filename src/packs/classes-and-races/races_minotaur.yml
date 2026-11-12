@@ -1,0 +1,23 @@
+_id: 6b27dl85opgWKj9H
+_key: '!items!6b27dl85opgWKj9H'
+name: Minotaur
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A bull-headed race built for strength and mazes: it gores, it endures, and it never gets lost.</em></p><p>Mess with the bull? Get the... you know?</p><table><tbody><tr><th>Size</th><td>Large (5)</td></tr><tr><th>DR</th><td>2</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Strength</li><li>+5 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Gore</li><li>+1 Skullcracker</li></ul><p><strong>Benefits</strong></p><ul><li>+1 Cartography, Endurance, Escape Plan, Path Finder and Find Crawler <em>(extreme)</em></li><li>+5ft Movement <em>(major)</em></li><li>Add Intelligence mod twice to checks made trying to find paths and avoiding getting lost. <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Major: Charisma capped at 10 <em>(3 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/minotaur">Point Mongo</a>.</em></p>'
+  size: Large (5)
+  prerequisites: ''
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 847
+    category: races
+    slug: minotaur
+    url: https://pointmongo.com/browse/races/minotaur
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.1549408Z'
+    needsRestat: false
+    missingFields: []

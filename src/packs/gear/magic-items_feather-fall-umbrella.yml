@@ -1,0 +1,23 @@
+_id: uINSpbFMBgYl8TqB
+_key: '!items!uINSpbFMBgYl8TqB'
+name: Feather Fall Umbrella
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><strong>Missing:</strong> slot, effects</p><p><em>An umbrella that negates fall damage from any height when deployed.</em></p><p><strong>Type:</strong> Item</p><p>"I''m Mary Poppins, y''all" — deploying this umbrella negates falling damage from any height.</p><table><tbody><tr><th>Type</th><td>Item</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/magic-items/feather-fall-umbrella">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 176
+    category: magic-items
+    slug: feather-fall-umbrella
+    url: https://pointmongo.com/browse/magic-items/feather-fall-umbrella
+    source: 'Community submission — Jay (Crawler #221)'
+    tags:
+      - dcc-ccs
+      - magic-items
+    updatedAt: '2026-09-03T16:29:38.8623277Z'
+    needsRestat: false
+    missingFields:
+      - slot
+      - effects

@@ -1,0 +1,24 @@
+_id: Zb8VTRGTyROTcoQN
+_key: '!journal!Zb8VTRGTyROTcoQN'
+name: This Is A Stickup
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 7fWYvacOomVEadaV
+    _key: '!journal.pages!Zb8VTRGTyROTcoQN.7fWYvacOomVEadaV'
+    name: This Is A Stickup
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you enter the World Dungeon with a gun.</em></p><p>You have entered the World Dungeon with one of the strongest common weapon all Humans on Earth can find access to: a gun. I mean, it just makes sense to bring a firearm and use it to defend yourself. Kinetic projectiles will make short work of pretty much anything you come across here on the early floors. I just hope you''ve managed to bring enough ammo...</p><p>Reward: Bronze Armed and Dangerous Box</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/this-is-a-stickup">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 573
+    category: achievements
+    slug: this-is-a-stickup
+    url: https://pointmongo.com/browse/achievements/this-is-a-stickup
+    source: JackWreckem
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9323612Z'
+    needsRestat: false
+    missingFields: []

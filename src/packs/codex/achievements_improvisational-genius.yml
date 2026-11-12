@@ -1,0 +1,24 @@
+_id: sQ5ehPxFOVA6RFNl
+_key: '!journal!sQ5ehPxFOVA6RFNl'
+name: Improvisational Genius
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 3HWwiVnXFV9XpRC5
+    _key: '!journal.pages!sQ5ehPxFOVA6RFNl.3HWwiVnXFV9XpRC5'
+    name: Improvisational Genius
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you complete a major objective with zero help or advice from your Game Guide.</em></p><p>No hand-holding, no hints, no Tutorial Guild wisdom — just you, figuring it out under pressure. That''s the kind of self-sufficiency that outlives the tutorial floors. You might not need that Game Guide much longer. Don''t tell them we said that.</p><p>Reward: Gold No Guide Needed Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/improvisational-genius">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 711
+    category: achievements
+    slug: improvisational-genius
+    url: https://pointmongo.com/browse/achievements/improvisational-genius
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.044477Z'
+    needsRestat: false
+    missingFields: []

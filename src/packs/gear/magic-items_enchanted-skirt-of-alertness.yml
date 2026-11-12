@@ -1,0 +1,19 @@
+_id: ZIFpUPgqq99qlH0T
+_key: '!items!ZIFpUPgqq99qlH0T'
+name: Enchanted Skirt of Alertness
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A reinforced leather battle skirt (not a kilt, let''s be honest) that sharpens your eye for traps and turns a little damage.</em></p><p>Situational Awareness cannot be taught, but here in the Dungeon it can be bestowed by magic.  This supple, reinforced brown leather battle skirt grants its wearer +2 Ranks in the Detect Traps Skill, and +1 DR.  Some men might  balk and call it a kilt, but let''s be honest.  It''s a skirt.  Wear it with pride, it may just save your life Indiana.</p><table><tbody><tr><th>Slot</th><td>Legs</td></tr><tr><th>Type</th><td>Skirt</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Detect Trap Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-skirt-of-alertness">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 948
+    category: magic-items
+    slug: enchanted-skirt-of-alertness
+    url: https://pointmongo.com/browse/magic-items/enchanted-skirt-of-alertness
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-10-21T18:46:39.5986065Z'
+    needsRestat: false
+    missingFields: []

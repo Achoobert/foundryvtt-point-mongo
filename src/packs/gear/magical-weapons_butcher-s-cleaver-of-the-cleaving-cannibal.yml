@@ -1,0 +1,19 @@
+_id: HaILMBdNEB2ZfC1d
+_key: '!items!HaILMBdNEB2ZfC1d'
+name: Butcher's Cleaver of the Cleaving Cannibal
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>This cleaver develops an appetite once it tastes blood, and every swing after the first in a round lands harder than the one before.</em></p><p>This item uses the Axe Skill. This magical cleaver gains strength after tasting blood for the first time, allowing you to deal more damage on following attacks to opponents unlucky enough to stand near you.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Edged Weapon</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Weapon skill</th><td>Axe</td></tr><tr><th>DR</th><td>0</td></tr><tr><th>Duration</th><td>n/a</td></tr><tr><th>Cooldown</th><td>n/a</td></tr><tr><th>Charges</th><td>n/a</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Axe Skill</li><li>Upon your second (or more) Attack Action in a single Round with this weapon, you may add your Axe Rank Skill to the To Hit and Damage of this weapon.</li></ul><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/magical-weapons/butcher-s-cleaver-of-the-cleaving-cannibal">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 754
+    category: magical-weapons
+    slug: butcher-s-cleaver-of-the-cleaving-cannibal
+    url: https://pointmongo.com/browse/magical-weapons/butcher-s-cleaver-of-the-cleaving-cannibal
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-09-24T18:09:50.6267563Z'
+    needsRestat: false
+    missingFields: []

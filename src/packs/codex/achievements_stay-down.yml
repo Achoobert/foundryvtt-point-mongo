@@ -1,0 +1,24 @@
+_id: cklD3NDI9jCUghYs
+_key: '!journal!cklD3NDI9jCUghYs'
+name: Stay Down!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: JMxFNsmoajwqYDlA
+    _key: '!journal.pages!cklD3NDI9jCUghYs.JMxFNsmoajwqYDlA'
+    name: Stay Down!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you attack an enemy after it has already been defeated.</em></p><p>You attacked an enemy that was already incapacitated.</p><p>The System AI understands.</p><p>Sometimes you simply need to be absolutely certain the corpse is finished being a problem.</p><p>Reward: Bronze Combat Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/stay-down">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 641
+    category: achievements
+    slug: stay-down
+    url: https://pointmongo.com/browse/achievements/stay-down
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9872784Z'
+    needsRestat: false
+    missingFields: []

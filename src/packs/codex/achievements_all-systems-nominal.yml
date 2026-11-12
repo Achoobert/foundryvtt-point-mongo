@@ -1,0 +1,24 @@
+_id: RzxuNLScVACVikWo
+_key: '!journal!RzxuNLScVACVikWo'
+name: All Systems Nominal
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: VhJmtuXSKZQHbDCU
+    _key: '!journal.pages!RzxuNLScVACVikWo.VhJmtuXSKZQHbDCU'
+    name: All Systems Nominal
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you successfully use a dungeon bathroom without incident.</em></p><p>You went in, did your business, and came out alive and unbothered. On this floor, that counts as a personal victory. We''re proud of you. Genuinely. It''s a low bar, but you cleared it.</p><p>Reward: Bronze No News Is Good News Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/all-systems-nominal">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 683
+    category: achievements
+    slug: all-systems-nominal
+    url: https://pointmongo.com/browse/achievements/all-systems-nominal
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0218953Z'
+    needsRestat: false
+    missingFields: []

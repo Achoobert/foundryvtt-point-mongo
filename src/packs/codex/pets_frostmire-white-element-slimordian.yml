@@ -1,0 +1,26 @@
+_id: 15vs7p9CKNDMcG1L
+_key: '!journal!15vs7p9CKNDMcG1L'
+name: Frostmire (White Element Slimordian)
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: 7UvsCo7ZVYy2bcTU
+    _key: '!journal.pages!15vs7p9CKNDMcG1L.7UvsCo7ZVYy2bcTU'
+    name: Frostmire (White Element Slimordian)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>An ice-type Element Slimordian slime that freezes the ground beneath it and can harden into spiked armor.</em></p><p><strong>Species:</strong> Element Slimordian (White, Ice)</p><p>A pale cyan slime with frozen crystals suspended inside, constantly forming frost around its movements. Can harden into sharp ice armor or burst into freezing shards when threatened. Abilities: ice spikes, freezing touch, snowstorm generation, defensive armor. Weaknesses: fire, sustained heat. Personality: quiet, patient, emotionless.</p><hr><p><em>Source: Community submission — Kyton786 (Crawler #11890). From <a href="https://pointmongo.com/browse/pets/frostmire-white-element-slimordian">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 311
+    category: pets
+    slug: frostmire-white-element-slimordian
+    url: https://pointmongo.com/browse/pets/frostmire-white-element-slimordian
+    source: 'Community submission — Kyton786 (Crawler #11890)'
+    tags:
+      - dcc-ccs
+      - pets
+      - slime
+    updatedAt: '2026-09-02T04:50:41.7464233Z'
+    needsRestat: false
+    missingFields: []

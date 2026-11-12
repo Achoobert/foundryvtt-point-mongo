@@ -1,0 +1,24 @@
+_id: prnk6A0uaFja1XCm
+_key: '!journal!prnk6A0uaFja1XCm'
+name: Remember My Face?
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: ovFyvUAUfbrtU6Dj
+    _key: '!journal.pages!prnk6A0uaFja1XCm.ovFyvUAUfbrtU6Dj'
+    name: Remember My Face?
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you have an NPC recognize the crawler from an earlier encounter.</em></p><p>Someone remembered you.</p><p>This means you have successfully established a reputation.</p><p>Reward: Silver Popularity Box</p><p>Whether that reputation is positive is not currently relevant.</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/remember-my-face">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 667
+    category: achievements
+    slug: remember-my-face
+    url: https://pointmongo.com/browse/achievements/remember-my-face
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0087207Z'
+    needsRestat: false
+    missingFields: []

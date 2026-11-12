@@ -1,0 +1,24 @@
+_id: 7MLw9kwBBhpsoSik
+_key: '!journal!7MLw9kwBBhpsoSik'
+name: Get Behind Me
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 2YsyqUendsnSigVL
+    _key: '!journal.pages!7MLw9kwBBhpsoSik.2YsyqUendsnSigVL'
+    name: Get Behind Me
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you position yourself between an ally and an incoming threat.</em></p><p>You deliberately placed yourself between another crawler and danger.</p><p>Congratulations.</p><p>You have volunteered to become the dungeon''s newest piece of cover.</p><p>Reward: Silver Guardian Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/get-behind-me">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 672
+    category: achievements
+    slug: get-behind-me
+    url: https://pointmongo.com/browse/achievements/get-behind-me
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.013148Z'
+    needsRestat: false
+    missingFields: []

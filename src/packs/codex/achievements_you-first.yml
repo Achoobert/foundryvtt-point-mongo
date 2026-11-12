@@ -1,0 +1,24 @@
+_id: 1iGn1rezBMphqZJX
+_key: '!journal!1iGn1rezBMphqZJX'
+name: You First
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 4dcCN4WeWhDtbUBp
+    _key: '!journal.pages!1iGn1rezBMphqZJX.4dcCN4WeWhDtbUBp'
+    name: You First
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you give another crawler a healing or survival resource that you could have used yourself.</em></p><p>You gave another crawler a resource that could have saved you instead. Congratulations on demonstrating selflessness in a dungeon where everyone else is trying to kill you.</p><p>Reward: Gold Friendship Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/you-first">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 614
+    category: achievements
+    slug: you-first
+    url: https://pointmongo.com/browse/achievements/you-first
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:37.9651133Z'
+    needsRestat: false
+    missingFields: []

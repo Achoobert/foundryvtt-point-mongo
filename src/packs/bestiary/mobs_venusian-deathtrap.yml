@@ -1,0 +1,50 @@
+_id: zBCa6deiYeDk1yFW
+_key: '!actors!zBCa6deiYeDk1yFW'
+name: Venusian Deathtrap
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>Walking Venus flytraps that sweep the first floor clean, dragging bodies into acid-filled maws and growing stronger with every meal.</em></p><p>Venus flytraps that walk slowly on vines, working as janitor mobs on the first floor.</p><p>Notes: Traveling in groups of 1d4-1 (minimum 1), these mobs move slowly, grasp bodies with their vines (living or dead), and drag them into their gaping maws to consume them. If the Deathtrap catches something in its maw, it begins to secrete acid to digest the meal. The maw only opens when preparing to catch something, but attacks into the open maw deal 2x damage to the Deathtrap. Just be careful not to get the acid on your skin, as it will burn you for 1d4+1 Acid damage. A Deathtrap that has caught a meal will not open while digesting it, which takes 10 minutes. A Deathtrap that has successfully digested a meal will evolve to Level 2, gaining more Strength and Constitution.</p><p>Evolved Level 2 Deathtraps will begin appearing after the first day or first Boss Battle, with a 25% chance of appearing on the 2nd and 3rd days, a 50% chance on the 4th and 5th days, and a 75% chance on the 6th day. Level 3 Deathtraps will begin appearing with a 25% chance on the 5th and 6th days.</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — SuperBob. From <a href="https://pointmongo.com/browse/mobs/venusian-deathtrap">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: Petite (3)
+  creatureType: Plant
+  move: '15'
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 1
+  stats:
+    str:
+      value: 3
+    dex:
+      value: 1
+    con:
+      value: 2
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks:
+    - name: Thorny Vine Lash
+      toHit: ''
+      damage: 1d4
+      damageType: piercing
+      range: '10'
+      effect: On an Evade Major Fail or worse, the target is Held
+prototypeToken:
+  name: Venusian Deathtrap
+  actorLink: false
+flags:
+  point-mongo:
+    id: 1115
+    category: mobs
+    slug: venusian-deathtrap
+    url: https://pointmongo.com/browse/mobs/venusian-deathtrap
+    source: Community submission — SuperBob
+    tags: []
+    updatedAt: '2026-11-10T06:59:48.6765994Z'
+    needsRestat: false
+    missingFields: []

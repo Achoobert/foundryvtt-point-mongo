@@ -1,0 +1,19 @@
+_id: RNz5bHvhGU9R6vTS
+_key: '!items!RNz5bHvhGU9R6vTS'
+name: '"My Grandma Gave Me This Dumb Jacket" Jacket'
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A sparkly ''90s parody jacket that offers almost no protection, but plenty of Charisma and immunity to taunts.</em></p><p>Legendary item of a ''90s icon, this jacket offers little in the way of protection but makes up for it in parody! With white sleeves, a black body, and a sparkling star shape on the front of it, it has a high collar for flare. On the back adorned in sparkling letters, reads "My Grandma Gave Me This Dumb Jacket". Just be careful - you may cause temporary loss of shoes.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Jacket</td></tr><tr><th>Tier</th><td>Legendary</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5 to Charisma</li><li>+ 3 to Performance when ridiculing an enemy.</li><li>Immune from taunts.</li></ul><hr><p><em>Source: Community submission — Sarah. From <a href="https://pointmongo.com/browse/magic-items/my-grandma-gave-me-this-dumb-jacket-jacket">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 955
+    category: magic-items
+    slug: my-grandma-gave-me-this-dumb-jacket-jacket
+    url: https://pointmongo.com/browse/magic-items/my-grandma-gave-me-this-dumb-jacket-jacket
+    source: Community submission — Sarah
+    tags: []
+    updatedAt: '2026-10-23T19:20:32.1696234Z'
+    needsRestat: false
+    missingFields: []

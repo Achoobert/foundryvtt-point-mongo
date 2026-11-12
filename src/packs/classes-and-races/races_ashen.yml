@@ -1,0 +1,23 @@
+_id: 4CfmjME2kNqcsGvK
+_key: '!items!4CfmjME2kNqcsGvK'
+name: Ashen
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Treefolk built for endurance: heavy DR, immune to poison, needing neither food nor sleep, and badly burned by fire.</em></p><p>Treebeard. Treants. Green Man. Treefolk. These chlorofilled warriors receive many names. Strong, sturdy and steady, they are the trunk that keeps their friends together.</p><table><tbody><tr><th>Size</th><td>Large (5)</td></tr><tr><th>DR</th><td>3</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Constitution</li><li>+2 Strength</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Root Foot</li><li>+1 Vine Porn</li></ul><p><strong>Benefits</strong></p><ul><li>Does not need to Eat or Sleep <em>(moderate)</em></li><li>Immune to Poison and most diseases <em>(epic)</em></li><li>Ignore difficult terrain caused by natural environment <em>(moderate)</em></li><li>Deals double damage to objects and structures <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Natural DR has no effect against Slashing dmg <em>(1 pt)</em></li><li>If kept from light for more than 30 hours, becomes increasingly Fatigued. <em>(1 pt)</em></li><li>Vulnerability to Fire dmg</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/races/ashen">Point Mongo</a>.</em></p>'
+  size: Large (5)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 779
+    category: races
+    slug: ashen
+    url: https://pointmongo.com/browse/races/ashen
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-09-20T19:30:22.5074456Z'
+    needsRestat: false
+    missingFields: []

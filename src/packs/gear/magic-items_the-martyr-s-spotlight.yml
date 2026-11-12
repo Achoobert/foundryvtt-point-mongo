@@ -1,0 +1,19 @@
+_id: V1nvxTz15270DQ3a
+_key: '!items!V1nvxTz15270DQ3a'
+name: The Martyr's Spotlight
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Neon platemail reading HIT ME front and back. Everything dangerous obliges, twice as hard, and every heal you take is doubled to make up for it.</em></p><p>This gleaming, neon-lit breastplate gives you maximum healing whenever a spell or potion is used on you. But it also features neon runes that reads "HIT ME" on the front and back.  You take double damage from any enemy classified as a "Hunter", "Boss", or "Elite".</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Platemail</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>3</td></tr><tr><th>Limitations</th><td>You glow faintly, which causes you to roll at disadvantage on stealth checks.  Hunters, Bosses and Elites deal double damage against you.  On floor 6, a group of hunters becomes obsessed with hunting you down as they are convinced they''ll get better loot from killing you.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 DR</li><li>Double healing received.</li><li>When fighting Hunters, Bosses or Elites, you gain +1 popularity as your viewership spikes.  If you take the chest plate off during a fight, -1 popularity instead.</li></ul><hr><p><em>Source: Community submission — Alex W. From <a href="https://pointmongo.com/browse/magic-items/the-martyr-s-spotlight">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 765
+    category: magic-items
+    slug: the-martyr-s-spotlight
+    url: https://pointmongo.com/browse/magic-items/the-martyr-s-spotlight
+    source: Community submission — Alex W
+    tags: []
+    updatedAt: '2026-09-24T18:09:52.9548658Z'
+    needsRestat: false
+    missingFields: []

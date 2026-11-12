@@ -1,0 +1,64 @@
+_id: ca0t8ZUPNtoii4Rs
+_key: '!actors!ca0t8ZUPNtoii4Rs'
+name: Amphibihound
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><strong>Missing:</strong> Level, Floor (sets DR)</p><p><em>A mastiff-sized bullfrog with a bark like a bomb, a sticky tongue and a habit of laughing at anyone who gets hurt, its own pack included.</em></p><p>These sadistic creatures would be much worse to deal with if they didn''t have terrible personalities. Once they notice someone in their area they will croak this ribbit bark hybrid that goes off like a bomb if you are too close, but will also let everyone in the neighborhood know that something is happening. If they see anyone get hurt they will stare and laugh at them including their own, giving their prey a chance to get away. Because some of their prey do get away fairly often, they try to swallow things hole. These Bullfrogs with the body and size of mastiffs, are fast and very strong. Amphibihounds can be found on most levels of the dungeon, after floor 6 they don''t get stronger but then become alarm pets for stronger Hunting type Mobs.</p><hr><p><em>Source: Community submission — Bastionjack. From <a href="https://pointmongo.com/browse/mobs/amphibihound">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: Medium (4)
+  creatureType: Beastly (Canine, Amphibian)
+  move: '50'
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 3
+    dex:
+      value: 3
+    con:
+      value: 3
+    int:
+      value: 2
+    cha:
+      value: 1
+  attacks:
+    - name: Bite
+      toHit: ''
+      damage: 1d4+3
+      damageType: piercing
+      range: 5ft
+      effect: Fatigued
+    - name: Tongue grab
+      toHit: ''
+      damage: N/A
+      damageType: ''
+      range: 20ft
+      effect: Held, Make escape or evade checks or else get pulled into their larger maws.
+    - name: CRAAARK!!
+      toHit: ''
+      damage: 1D4+2
+      damageType: ''
+      range: 10FT
+      effect: Sonic damage. Woozy, This sound can be heard loudly 100ft away and will echo out.
+prototypeToken:
+  name: Amphibihound
+  actorLink: false
+flags:
+  point-mongo:
+    id: 871
+    category: mobs
+    slug: amphibihound
+    url: https://pointmongo.com/browse/mobs/amphibihound
+    source: Community submission — Bastionjack
+    tags: []
+    updatedAt: '2026-10-09T01:13:55.2029063Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - Floor (sets DR)

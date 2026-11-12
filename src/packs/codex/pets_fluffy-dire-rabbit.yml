@@ -1,0 +1,26 @@
+_id: qMZp6vEMWg6qv0nO
+_key: '!journal!qMZp6vEMWg6qv0nO'
+name: Fluffy (Dire Rabbit)
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: 8GTePj2bjPQLBFbL
+    _key: '!journal.pages!qMZp6vEMWg6qv0nO.8GTePj2bjPQLBFbL'
+    name: Fluffy (Dire Rabbit)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A pet bunny that wandered into the dungeon and became a loyal Dire Rabbit.</em></p><dl class="stat-block"><dt>Species</dt><dd>Rabbit</dd><dt>Stats</dt><dd>Level 1</dd><dt>Class</dt><dd>See Description</dd></dl><p>A poor pet bunny that wandered into the dungeon, pursued by its owner.</p><p><strong>Changes after entering the Dungeon:</strong> Became a Dire Rabbit — a ferocious beast known to devour creatures multiple times its size. It is loyal to a fault, never leaving your side unless ordered. With its cute form, enemies will underestimate it at their peril.</p><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/pets/fluffy-dire-rabbit">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 31
+    category: pets
+    slug: fluffy-dire-rabbit
+    url: https://pointmongo.com/browse/pets/fluffy-dire-rabbit
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - animal-companion
+      - pet
+      - rabbit
+    updatedAt: '2026-08-31T17:12:29.7244136Z'
+    needsRestat: false
+    missingFields: []

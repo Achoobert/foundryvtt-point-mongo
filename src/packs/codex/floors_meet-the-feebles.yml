@@ -1,0 +1,25 @@
+_id: qGFBO03WQ8PSb97z
+_key: '!journal!qGFBO03WQ8PSb97z'
+name: Meet the Feebles
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: qghwF6caV7FboO3S
+    _key: '!journal.pages!qGFBO03WQ8PSb97z.qghwF6caV7FboO3S'
+    name: Meet the Feebles
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A pure-torture murderhobo floor built around a puppet-horror quest — not for the faint of heart.</em></p><p>If I''m designing a floor to try and torture my Crawlers, I''m going PURE torture murderhobo. I''m subjecting them to a "Meet the Feebles" theme and quest. *shudder*</p><hr><p><em>Source: Community submission — Myles L.. From <a href="https://pointmongo.com/browse/floors/meet-the-feebles">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 463
+    category: floors
+    slug: meet-the-feebles
+    url: https://pointmongo.com/browse/floors/meet-the-feebles
+    source: Community submission — Myles L.
+    tags:
+      - dcc-ccs
+      - floors
+    updatedAt: '2026-08-31T17:12:39.4402789Z'
+    needsRestat: false
+    missingFields: []

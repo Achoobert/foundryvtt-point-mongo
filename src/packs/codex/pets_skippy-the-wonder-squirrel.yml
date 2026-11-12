@@ -1,0 +1,26 @@
+_id: oNVKa3T6BiRcye1i
+_key: '!journal!oNVKa3T6BiRcye1i'
+name: Skippy the Wonder Squirrel
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: vCA5FtR9yCQdr9Qs
+    _key: '!journal.pages!oNVKa3T6BiRcye1i.vCA5FtR9yCQdr9Qs'
+    name: Skippy the Wonder Squirrel
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A squirrel companion sent out to loot corpses for its crawler, collecting "nuts" off defeated monsters.</em></p><dl class="stat-block"><dt>Species</dt><dd>Squirrel</dd><dt>Stats</dt><dd>Level 1</dd></dl><p>A squirrel pet that can loot for its crawler when there''s a lot of corpses (they collect nuts, why not loot corpses?). Sent out to collect the "Nuts" off the monsters being fought.</p><p><strong>Changes after entering the Dungeon:</strong> Perhaps his pet biscuit lets him get bigger, like wolf size, for short periods of time to fight.</p><hr><p><em>Source: Community submission — Socks (Crawler #4381). From <a href="https://pointmongo.com/browse/pets/skippy-the-wonder-squirrel">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 35
+    category: pets
+    slug: skippy-the-wonder-squirrel
+    url: https://pointmongo.com/browse/pets/skippy-the-wonder-squirrel
+    source: 'Community submission — Socks (Crawler #4381)'
+    tags:
+      - animal-companion
+      - pet
+      - squirrel
+    updatedAt: '2026-08-31T17:12:29.7272428Z'
+    needsRestat: false
+    missingFields: []

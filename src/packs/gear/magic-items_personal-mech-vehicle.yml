@@ -1,0 +1,19 @@
+_id: 2BnNuDjV3FfI9JZz
+_key: '!items!2BnNuDjV3FfI9JZz'
+name: Personal Mech (Vehicle)
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A one-crawler mech suit that drives like a vehicle, throws a Lightning Bolt, and goes straight back into your inventory when you''re done.</em></p><p>This Full body Mech Armor covers the crawler and allows him some degree of defense and attack abilities.</p><p>it works as a Vehicle and to pilot the suit, you will need Mech Piloting Skill.</p><p>The suit can be pulled into Inventory while wearing it.</p><table><tbody><tr><th>Slot</th><td>Torso</td></tr><tr><th>Type</th><td>Mech Armor</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>DR</th><td>3</td></tr><tr><th>Limitations</th><td>Upgrades: Legendary Box: Add one more feature, increase Strength bonus to +10%, increase DR (if on higher floors) Celestial Box: just go Crazy. You can do anything there</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Size: Large (5)</li><li>DR +3 (Full Body)</li><li>Move: 25ft (may require a Successful Mech Piloting check)</li><li>Occupancy: 1 (personal, duh!)</li><li>Str+5%</li><li>Lightning Bolt (Rank 3) (no mana, 6hour cooldown)</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/magic-items/personal-mech-vehicle">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 851
+    category: magic-items
+    slug: personal-mech-vehicle
+    url: https://pointmongo.com/browse/magic-items/personal-mech-vehicle
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-10-04T16:48:26.1685141Z'
+    needsRestat: false
+    missingFields: []

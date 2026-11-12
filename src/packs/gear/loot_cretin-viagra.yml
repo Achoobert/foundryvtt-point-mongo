@@ -1,0 +1,24 @@
+_id: eY7BqJ1UqgSKcl3T
+_key: '!items!eY7BqJ1UqgSKcl3T'
+name: Cretin Viagra
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><strong>Missing:</strong> effects</p><p><em>Chalky, star-etched tablets that temporarily transform the user into a Cretin, keeping their race and class perks and gaining the Cretin''s.</em></p><p><strong>Notes:</strong> See Description</p><p>Cretin Viagra A small tin of chalky, star-etched, blue tablets. Each pill hums faintly with energy. When held too long, your skin prickles… as if something beneath it wants out. On the packet it just says "Making you Rock Hard" Ok so this might be Celestial if Cretins are powerful enough, if not, might need to boost them a few levels for Celestial 6 tablets that turn you into a Cretin for the floor, you still keep all your race/ class perks but now also get the Cretin race perks too.</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Polymorph/Buff</td></tr><tr><th>Tier</th><td>Celestial</td></tr></tbody></table><hr><p><em>Source: Community submission — Ian O''H (Crawler #4207). From <a href="https://pointmongo.com/browse/loot/cretin-viagra">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 129
+    category: loot
+    slug: cretin-viagra
+    url: https://pointmongo.com/browse/loot/cretin-viagra
+    source: 'Community submission — Ian O''H (Crawler #4207)'
+    tags:
+      - dcc-ccs
+      - loot
+      - celestial
+      - potion
+    updatedAt: '2026-09-30T20:04:01.8809139Z'
+    needsRestat: false
+    missingFields:
+      - effects

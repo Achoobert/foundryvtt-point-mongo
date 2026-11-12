@@ -1,0 +1,24 @@
+_id: obLDS4FIDCf3RsOG
+_key: '!journal!obLDS4FIDCf3RsOG'
+name: The Second Floor Has Never Seen This
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 7aSJHmL9mdnhJtPf
+    _key: '!journal.pages!obLDS4FIDCf3RsOG.7aSJHmL9mdnhJtPf'
+    name: The Second Floor Has Never Seen This
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you achieve something on the Second Floor that has, genuinely and verifiably, never happened before in the entire broadcast history of the World Dungeon. GM''s call — this should be a floor-defining, one-of-a-kind moment, not a repeatable trick.</em></p><p>We have run this floor more times than anyone bothered to count. We thought we''d seen everything it had to offer. We were wrong. You just did something that has genuinely never been recorded here before. The archive team is furious. The ratings team is thrilled. The System AI, for once, has absolutely nothing snarky to say. Savor that. It won''t last.</p><p>Reward: Celestial Unprecedented Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/the-second-floor-has-never-seen-this">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 726
+    category: achievements
+    slug: the-second-floor-has-never-seen-this
+    url: https://pointmongo.com/browse/achievements/the-second-floor-has-never-seen-this
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0565599Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,24 @@
+_id: ImJxiyaZ0PIRuM6r
+_key: '!journal!ImJxiyaZ0PIRuM6r'
+name: Basic Bitch Energy
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: eCPp3yrjuVP2XM25
+    _key: '!journal.pages!ImJxiyaZ0PIRuM6r.eCPp3yrjuVP2XM25'
+    name: Basic Bitch Energy
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you compliment the Second Floor''s hallway design out loud, unironically, to anyone who will listen.</em></p><p>You stopped mid-Crawl to appreciate the cinder block walls, the white stone floors, the orange lichen accents. Someone on the design team is going to see this footage and feel very seen. Good taste, terrible timing.</p><p>Reward: Bronze Interior Design Critic Box</p><hr><p><em>Source: Chex. From <a href="https://pointmongo.com/browse/achievements/basic-bitch-energy">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 693
+    category: achievements
+    slug: basic-bitch-energy
+    url: https://pointmongo.com/browse/achievements/basic-bitch-energy
+    source: Chex
+    tags:
+      - achievements
+    updatedAt: '2026-09-09T14:56:38.0299099Z'
+    needsRestat: false
+    missingFields: []

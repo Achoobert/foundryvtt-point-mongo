@@ -1,0 +1,27 @@
+_id: NYmYKPFc26wInUxC
+_key: '!journal!NYmYKPFc26wInUxC'
+name: 'Bronze Loot Box Rewards: Junk Items'
+folder: LgXPy7DgMLD2Fvug
+pages:
+  - _id: zdsaUFSxrAD9Dl9K
+    _key: '!journal.pages!NYmYKPFc26wInUxC.zdsaUFSxrAD9Dl9K'
+    name: 'Bronze Loot Box Rewards: Junk Items'
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A 100-entry roll table (d100) of mundane, mostly-worthless junk items found in Bronze loot boxes.</em></p><p>Roll d100 for a piece of low-value flavor loot from a Bronze box. Most items have no mechanical effect and exist purely for color, trading, or crafting scrap.</p><table><tbody><tr><th>unique</th><td>false</td></tr></tbody></table><hr><p><em>Source: Community submission — Kyton786 and other Crawlers. From <a href="https://pointmongo.com/browse/roll-tables/bronze-loot-box-rewards-junk-items">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 125
+    category: roll-tables
+    slug: bronze-loot-box-rewards-junk-items
+    url: https://pointmongo.com/browse/roll-tables/bronze-loot-box-rewards-junk-items
+    source: Community submission — Kyton786 and other Crawlers
+    tags:
+      - dcc-ccs
+      - loot
+      - junk-item
+      - roll-table
+    updatedAt: '2026-09-28T04:14:06.7246294Z'
+    needsRestat: false
+    missingFields: []

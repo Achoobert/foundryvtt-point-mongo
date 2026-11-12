@@ -1,0 +1,19 @@
+_id: lFje76ot6SiQSgER
+_key: '!items!lFje76ot6SiQSgER'
+name: Leather Gauntlets of Dexterity
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Supple leather that molds itself to your hands and steadies them for whatever you do next.</em></p><p>These sturdy yet supple leather gauntlets magically mold to fit your hands.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Gauntlets</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+4 Dexterity</li><li>+2 Balance Skill - CRB Pg 186</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/leather-gauntlets-of-dexterity">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 799
+    category: magic-items
+    slug: leather-gauntlets-of-dexterity
+    url: https://pointmongo.com/browse/magic-items/leather-gauntlets-of-dexterity
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-09-24T18:09:52.9512193Z'
+    needsRestat: false
+    missingFields: []

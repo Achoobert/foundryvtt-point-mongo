@@ -1,0 +1,25 @@
+_id: H40ehfY0bCpOF51P
+_key: '!journal!H40ehfY0bCpOF51P'
+name: Carwhal
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: wKIhfNSqnR5ZmBGx
+    _key: '!journal.pages!H40ehfY0bCpOF51P.wKIhfNSqnR5ZmBGx'
+    name: Carwhal
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A Volkswagen-Beetle-sized, drivable narwhal-car hybrid pet that spears or runs over prey, complete with headlights.</em></p><p><strong>Suggested Name:</strong> n/a</p><p>This planet had a rare creature called a narwhal. These creatures lived in the sea but had a single horn. Like the unicorn of the ocean. They could swim, they could spear, and they could kill. The one thing that stopped them was they weren''t able to survive on land. That has changed. This pet is kind of like that. But it''s the size of a Beetle. Not the insect. The car. The suspension creaks and groans when it moves, but the horn still protrudes from the front, speaking anything that gets in the way. Just missed with the horn? The tires will get you. This pet, rather than being ridden, can be driven. And there''s a switch so you can turn the headlights off to creep around, then turn them on to blind your prey before either squishing or sticking. And after every kill, it stops and addresses the new roadkill: "Bye, buddy. Hope you find your dad!"</p><hr><p><em>Source: Community submission — Mark Harrison (Crawler #—). From <a href="https://pointmongo.com/browse/pets/carwhal">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 326
+    category: pets
+    slug: carwhal
+    url: https://pointmongo.com/browse/pets/carwhal
+    source: 'Community submission — Mark Harrison (Crawler #—)'
+    tags:
+      - dcc-ccs
+      - pets
+    updatedAt: '2026-09-22T05:38:18.0695341Z'
+    needsRestat: false
+    missingFields: []

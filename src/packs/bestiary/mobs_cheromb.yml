@@ -1,0 +1,52 @@
+_id: eBOqKZoub93qB2PN
+_key: '!actors!eBOqKZoub93qB2PN'
+name: Cheromb
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>Small, depressed fairy mobs that double as living grenades — insult one before it explodes for area damage.</em></p><p>Sad-potato-looking fairies that can be used as thrown weapons — insult one before launching it and hope it doesn’t go off in your hands. If it doesn’t, it deals massive area explosive damage.</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — TheMrPanda (Crawler #—). From <a href="https://pointmongo.com/browse/mobs/cheromb">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: Small (2)
+  creatureType: Fairy
+  move: '10'
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 1
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 4
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks:
+    - name: Blast
+      toHit: ''
+      damage: 3d6
+      damageType: force
+      range: ''
+      effect: ''
+prototypeToken:
+  name: Cheromb
+  actorLink: false
+flags:
+  point-mongo:
+    id: 102
+    category: mobs
+    slug: cheromb
+    url: https://pointmongo.com/browse/mobs/cheromb
+    source: 'Community submission — TheMrPanda (Crawler #—)'
+    tags:
+      - dcc-ccs
+      - mobs
+    updatedAt: '2026-09-20T21:48:31.1511385Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,38 @@
+_id: qBcMNofM9BJMZGir
+_key: '!items!qBcMNofM9BJMZGir'
+name: Rules Memory
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>Perfect recall of complex rulesets, letting you remember and relay a floor''s rules to other crawlers.</em></p><p>The ability to perfectly remember a thousand different sets of rules for various games, despite the inability to remember the name of the person from the office who has sat across from you every day for the last year. Crawler gains the ability to remember any set of instructions or rules regarding the floor of the dungeon they''re currently inhabiting, and to perfectly relay these to other crawlers (it does not force them to listen, though, or stop them asking questions or saying "let''s just learn as we go").</p><hr><p><em>Source: Community submission — The Royal Grumble (Crawler #9002). From <a href="https://pointmongo.com/browse/skills/rules-memory">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades: []
+flags:
+  point-mongo:
+    id: 79
+    category: skills
+    slug: rules-memory
+    url: https://pointmongo.com/browse/skills/rules-memory
+    source: 'Community submission — The Royal Grumble (Crawler #9002)'
+    tags:
+      - skill
+      - earth-skill
+      - support
+    updatedAt: '2026-08-31T17:12:29.7804959Z'
+    needsRestat: false
+    missingFields:
+      - skill category
+      - governing stat
+      - Rank 5/10/15 upgrades

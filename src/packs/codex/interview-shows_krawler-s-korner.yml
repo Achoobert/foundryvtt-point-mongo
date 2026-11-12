@@ -1,0 +1,25 @@
+_id: EV1m7C0UzGxeUaKU
+_key: '!journal!EV1m7C0UzGxeUaKU'
+name: Krawler's Korner!
+folder: 60wNl7vBu4R8G6qF
+pages:
+  - _id: 8nns52sw6uEWKn8S
+    _key: '!journal.pages!EV1m7C0UzGxeUaKU.8nns52sw6uEWKn8S'
+    name: Krawler's Korner!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Alright boys and girls, it is time for everyone''s favorite storytime segment! Join Nanny''s guests for stories, questions, and games on this popular tunnel show for kids!</em></p><p>A children’s show format where Crawlers interact with the small children of the galaxy by reading them stories, answering questions and playing games. Hosted by a disembodied former Crawl A.I. called “Nanny” who expects the format the be wholesome, child friendly and fun. Participation is mandatory.</p><hr><p><em>Source: Moonshadow Dark. From <a href="https://pointmongo.com/browse/interview-shows/krawler-s-korner">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 518
+    category: interview-shows
+    slug: krawler-s-korner
+    url: https://pointmongo.com/browse/interview-shows/krawler-s-korner
+    source: Moonshadow Dark
+    tags:
+      - tunnel show
+      - interview-shows
+    updatedAt: '2026-09-02T00:47:04.9859724Z'
+    needsRestat: false
+    missingFields: []

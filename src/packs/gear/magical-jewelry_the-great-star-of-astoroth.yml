@@ -1,0 +1,19 @@
+_id: XDVy5h5272ixfk1V
+_key: '!items!XDVy5h5272ixfk1V'
+name: The Great Star of Astoroth
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>The green-tinged silver pendant of the sorcerer Astoroth, engraved with the five words that cast Substitutiary Locomotion.</em></p><p>Substitutiary Locomotion, the lost miracle of the ancients. The spell which creates this force is five mystic words. These words are engraved on the star that was always worn by the sorcerer Astoroth.</p><p>Towards the end of his life, Astoroth kept animals in cages in search of the spells that would make them more like Humans. Legend has it that, finally, the animals rebelled at the experiment, killed Astoroth, and stole many of his powers, including the star with the spell on it. They found a ship, sailed away and were never heard of again. However, four centuries ago, a shipwrecked sailor was taken from the sea half mad with thirst and exposure to the sun. Before he died, he swore he had seen an island ruled by animals. It was called the Isle of Naboombu.</p><p>The Great Star of Astoroth is a large, circular pendant with a star shape in the center, with the spell’s magical words engraved around the outer ring. Despite being made of silver, the strength of the spell gives the Star a greenish hue. The pendent lies on a thick, pink satin ribbon. It contains the inherent spell, Substitutiary Locomotion.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Necklace</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Limitations</th><td>The spell ends early if the Star is removed from your person.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>It contains the inherent spell, Substitutiary Locomotion, which you cast at Rank 15, and without using Mana cost.</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/magical-jewelry/the-great-star-of-astoroth">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 965
+    category: magical-jewelry
+    slug: the-great-star-of-astoroth
+    url: https://pointmongo.com/browse/magical-jewelry/the-great-star-of-astoroth
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-10-23T19:20:32.2110725Z'
+    needsRestat: false
+    missingFields: []

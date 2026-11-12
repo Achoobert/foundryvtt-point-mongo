@@ -1,0 +1,53 @@
+_id: sGvWrOjVoVvBvE0x
+_key: '!actors!sGvWrOjVoVvBvE0x'
+name: The Nothing Fisherman
+type: mob
+img: icons/svg/mystery-man.svg
+folder: qiYCTsz5olch4hb3
+system:
+  biography: '<p><strong>Missing:</strong> Level, Size, stat scores, Move, Floor (sets DR), attacks</p><p><em>An old man permanently fishing into the void of the Nothing, annoyed by every new crawler and prone to throwing things at anyone bothersome.</em></p><p><strong>Type:</strong> Feral Resident of the Nothing</p><p>An old human man sitting in a lawn chair, casting his rod into the empty abyss, never leaving his seat and endlessly annoyed at new crawlers "disturbing the wake." Complains the Nothing "ain''t what it used to be, too crowded nowadays." Constantly catches impossible creatures from the empty air and gives cryptic (never actually useful) advice. In his feral state he''ll throw beer cans or anything else at hand at whoever or whatever annoys him.</p><hr><p><em>Source: Community submission — Mista Smoothee (Crawler #41885). From <a href="https://pointmongo.com/browse/npcs/the-nothing-fisherman">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 1
+  size: ''
+  creatureType: Feral
+  move: ''
+  hbSlotsOverride: null
+  hb:
+    value: 1
+    max: 1
+  dr: 0
+  stats:
+    str:
+      value: 1
+    dex:
+      value: 1
+    con:
+      value: 1
+    int:
+      value: 1
+    cha:
+      value: 1
+  attacks: []
+prototypeToken:
+  name: The Nothing Fisherman
+  actorLink: false
+flags:
+  point-mongo:
+    id: 123
+    category: npcs
+    slug: the-nothing-fisherman
+    url: https://pointmongo.com/browse/npcs/the-nothing-fisherman
+    source: 'Community submission — Mista Smoothee (Crawler #41885)'
+    tags:
+      - dcc-ccs
+      - the-nothing
+      - npcs
+    updatedAt: '2026-09-03T16:29:38.940015Z'
+    needsRestat: false
+    missingFields:
+      - Level
+      - Size
+      - stat scores
+      - Move
+      - Floor (sets DR)
+      - attacks

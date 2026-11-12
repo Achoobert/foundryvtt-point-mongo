@@ -1,0 +1,25 @@
+_id: gTWxDP5bflIKIR15
+_key: '!journal!gTWxDP5bflIKIR15'
+name: M.O.I.S.T.
+folder: hvyWwMcQCbDfRsP5
+pages:
+  - _id: Va7hXzuQzZwA0dCO
+    _key: '!journal.pages!gTWxDP5bflIKIR15.Va7hXzuQzZwA0dCO'
+    name: M.O.I.S.T.
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Multiphase Organic Irrigation &amp; Sustainment Technologies — sponsors hydration-based healing and stamina items.</em></p><p><strong>Motto:</strong> "Stay hydrated. Stay unsettling."</p><p>Bestows items that boost healing and stamina through extreme hydration effects — constant regeneration at the cost of being perpetually damp and slightly compromised.</p><hr><p><em>Source: Community submission — Brenden Harden (Crawler #12193). From <a href="https://pointmongo.com/browse/sponsors/m-o-i-s-t">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 355
+    category: sponsors
+    slug: m-o-i-s-t
+    url: https://pointmongo.com/browse/sponsors/m-o-i-s-t
+    source: 'Community submission — Brenden Harden (Crawler #12193)'
+    tags:
+      - dcc-ccs
+      - sponsors
+    updatedAt: '2026-10-02T23:02:05.1659375Z'
+    needsRestat: false
+    missingFields: []

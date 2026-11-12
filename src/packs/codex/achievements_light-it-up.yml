@@ -1,0 +1,25 @@
+_id: Lw8r91GWmgt7zLQQ
+_key: '!journal!Lw8r91GWmgt7zLQQ'
+name: Light It Up
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: SSx660LDxqNnIZ9R
+    _key: '!journal.pages!Lw8r91GWmgt7zLQQ.SSx660LDxqNnIZ9R'
+    name: Light It Up
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler successfully lights a torch for the very first time.</em></p><p><strong>Scenario:</strong> Crawler lights a torch for the first time</p><p>Have you seen the sun rise? The first glint of light from the darkness, you have created light in the dark, by using a torch for the first time. So yep, you figured out how light works, great for you.</p><p><strong>Suggested Rewards:</strong></p><p>You can see things around you and know that you have a light.</p><hr><p><em>Source: Community submission — Alex (Crawler #1736). From <a href="https://pointmongo.com/browse/achievements/light-it-up">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 287
+    category: achievements
+    slug: light-it-up
+    url: https://pointmongo.com/browse/achievements/light-it-up
+    source: 'Community submission — Alex (Crawler #1736)'
+    tags:
+      - dcc-ccs
+      - achievements
+    updatedAt: '2026-09-22T05:38:13.5953397Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,25 @@
+_id: ql3fZnAx917vJg1W
+_key: '!journal!ql3fZnAx917vJg1W'
+name: Frozen Ice Hell Floor
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: iJfSmGN15NtqiHwy
+    _key: '!journal.pages!ql3fZnAx917vJg1W.iJfSmGN15NtqiHwy'
+    name: Frozen Ice Hell Floor
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A North Pole-like floor of constantly dropping temperatures and terrifying Hockey Players, where Crawlers must find magic items just to stay warm.</em></p><p>Filled with those terrifying Hockey Players, the floor contains consistently dropping temperatures. Crawlers will need to find magic items to help them keep warm. The setting takes place in a North Pole-like environment.</p><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/floors/frozen-ice-hell-floor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 452
+    category: floors
+    slug: frozen-ice-hell-floor
+    url: https://pointmongo.com/browse/floors/frozen-ice-hell-floor
+    source: Community submission — DeaDPaN79
+    tags:
+      - dcc-ccs
+      - floors
+    updatedAt: '2026-08-31T17:12:39.4336749Z'
+    needsRestat: false
+    missingFields: []
