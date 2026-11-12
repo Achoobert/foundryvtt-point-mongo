@@ -1,0 +1,74 @@
+# Pulls the Point Mongo codex once a day, regenerates src/packs, and commits
+# the result to the default branch when anything changed.
+#
+# Pushes made with GITHUB_TOKEN do not trigger other workflows, so the push
+# below will not start release.yml on its own. workflow_dispatch is the
+# exception to that rule, so this job dispatches the release explicitly.
+#
+# Needs the PM_API_KEY secret in the api_update environment.
+
+name: Sync Point Mongo Codex
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: codex-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    environment: api_update
+    permissions:
+      contents: write
+      actions: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Pull Codex
+        run: npm run pull
+        env:
+          PM_API_KEY: ${{ secrets.PM_API_KEY }}
+
+      # convert wipes and rebuilds src/packs, so entries removed from the
+      # codex drop out here too. IDs are hashed, so unchanged entries give
+      # no diff.
+      - name: Convert To Pack Sources
+        run: npm run convert
+
+      - name: Commit Changes
+        id: commit
+        run: |
+          git add -A src/packs
+          if git diff --cached --quiet; then
+            echo "No codex changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          count=$(jq -r '.count' data/raw/meta.json)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Sync Point Mongo codex ($count entries)"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Dispatch Release
+        if: steps.commit.outputs.changed == 'true'
+        run: gh workflow run release.yml --ref "${{ github.ref_name }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

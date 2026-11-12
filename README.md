@@ -44,3 +44,6 @@ Copy `fvtt.config.example.js` to `fvtt.config.js` and fill in your paths before
 
 Every push to `main` publishes a rolling `latest` release (see
 `.github/workflows/release.yml`).
+
+`.github/workflows/sync.yml` pulls the codex daily, commits any changes to
+`src/packs`, and triggers a release. It needs a `PM_API_KEY` secret in the `api_update` environment.
