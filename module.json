@@ -1,0 +1,74 @@
+{
+  "id": "point-mongo",
+  "title": "Point Mongo Codex",
+  "description": "Community mobs, bosses, skills, spells, races, classes and gear from the Point Mongo codex (pointmongo.com), as compendiums for the Dungeon Crawler Carl RPG system. Every entry credits its creator and links back to the original.",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Achoobert",
+      "flags": {
+        "website": "https://github.com/Achoobert/foundryvtt-point-mongo"
+      }
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "carl-rpg",
+        "type": "system",
+        "compatibility": { "minimum": "0.5.0" }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "bestiary",
+      "label": "Point Mongo: Bestiary",
+      "type": "Actor",
+      "system": "carl-rpg",
+      "path": "packs/bestiary"
+    },
+    {
+      "name": "skills-and-spells",
+      "label": "Point Mongo: Skills & Spells",
+      "type": "Item",
+      "system": "carl-rpg",
+      "path": "packs/skills-and-spells"
+    },
+    {
+      "name": "classes-and-races",
+      "label": "Point Mongo: Classes & Races",
+      "type": "Item",
+      "system": "carl-rpg",
+      "path": "packs/classes-and-races"
+    },
+    {
+      "name": "gear",
+      "label": "Point Mongo: Gear & Loot",
+      "type": "Item",
+      "system": "carl-rpg",
+      "path": "packs/gear"
+    },
+    {
+      "name": "codex",
+      "label": "Point Mongo: Codex",
+      "type": "JournalEntry",
+      "path": "packs/codex"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Point Mongo",
+      "sorting": "m",
+      "packs": ["bestiary", "skills-and-spells", "classes-and-races", "gear", "codex"],
+      "folders": []
+    }
+  ],
+  "url": "https://github.com/Achoobert/foundryvtt-point-mongo",
+  "manifest": "https://github.com/Achoobert/foundryvtt-point-mongo/releases/latest/download/module.json",
+  "download": "https://github.com/Achoobert/foundryvtt-point-mongo/releases/latest/download/module.zip"
+}

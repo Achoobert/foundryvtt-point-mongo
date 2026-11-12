@@ -1,0 +1,262 @@
+## Using the API (partners)
+
+Base URL: `https://pointmongo.com/api/v1`
+
+Every request needs your key, in either header:
+
+```
+X-Api-Key: pm_live_...
+Authorization: Bearer pm_live_...
+```
+
+Everything is `GET`. There is no write path — the API cannot create, change or
+delete anything.
+
+### Check your key works
+
+```
+GET /api/v1/me
+```
+
+```json
+{ "name": "Crawler Toolkit", "prefix": "pm_live_a1b2c3d4", "issued": "2026-09-12T18:00:00Z", "access": "read-only" }
+```
+
+### Categories
+
+```
+GET /api/v1/categories
+```
+
+Returns every browsable section with its slug, description, parent and entry
+count. Slugs are what the `category` filter and the entry URLs use.
+
+### Entries
+
+```
+GET /api/v1/entries?category=mobs&kind=creature&tag=floor-3&page=1&pageSize=50
+```
+
+| Parameter | Meaning |
+|---|---|
+| `category` | Category slug, e.g. `mobs`, `spells`, `magic-items` |
+| `kind` | `creature`, `spell`, `skill`, `gear`, `race`, `class` |
+| `tag` | Matches any entry whose tag list contains this |
+| `updatedSince` | ISO 8601 UTC timestamp; only entries changed at or after it |
+| `page` | 1-based, default 1 |
+| `pageSize` | Default 50, maximum 200 |
+
+```json
+{ "page": 1, "pageSize": 50, "total": 749, "totalPages": 15, "items": [ ... ] }
+```
+
+Results are ordered by `id`, which never changes for a given row. That matters:
+paging through the whole codex won't shuffle entries underneath you because an
+import touched one you already passed.
+
+### One entry
+
+```
+GET /api/v1/entries/{category}/{slug}
+```
+
+Same object as appears in `items`. 404 if there's no such entry.
+
+### Deletions
+
+```
+GET /api/v1/deletions?since=2026-09-01T00:00:00Z
+```
+
+```json
+{ "page": 1, "pageSize": 50, "total": 3, "totalPages": 1,
+  "items": [ { "entryId": 412, "category": "mobs", "slug": "old-thing", "name": "Old Thing", "deletedAt": "2026-09-10T09:14:00Z" } ] }
+```
+
+Entries are removed outright rather than flagged, so a deleted entry simply
+stops appearing in `/entries` — `updatedSince` will never mention it. This feed
+is how you learn about removals. Poll it with the same timestamp you use for
+`updatedSince` and drop anything it names.
+
+Contributors can ask for their work to be taken down, and our terms tell them
+that removal reaches partner sites too. Honouring this feed is how that promise
+gets kept, so please don't skip it.
+
+Tombstones only exist from September 2026 onwards. Do one full reconciliation on
+your first sync — page through `/entries` collecting ids, and delete anything
+you hold that isn't there — and after that the feed is enough.
+
+### Identifying an entry
+
+Use `id`. It's stable for the life of a row, including when an entry moves
+between categories, which happens when we reorganise.
+
+It does **not** survive a rename. Renaming is remove-then-import here, which
+deletes the old row and creates a new one: you'll see the old id in `/deletions`
+and a new entry in `/entries`, with no link between them. This is uncommon — a
+few times so far, usually when a weapon is reclassified — but it will look like
+a delete plus an unrelated addition, and there is currently no alias to tell you
+otherwise. If it becomes a problem in practice, tell us and we'll add one.
+
+`category` and `slug` together are unique and are what the URLs use, so they're
+the right key for linking back. They're not a good primary key for your storage:
+the slug changes on a rename and the category changes on a move.
+
+### What an entry looks like
+
+```json
+{
+  "id": 412,
+  "category": "mobs",
+  "slug": "gutter-wretch",
+  "name": "Gutter Wretch",
+  "summary": "A hunched scavenger that drags crawlers into the drains.",
+  "body": "<p>...</p>",
+  "source": "Community submission — Gabe M",
+  "tags": ["beastly", "floor-3"],
+  "image": "https://pointmongo.com/img/entries/gutter-wretch.jpg",
+  "url": "https://pointmongo.com/browse/mobs/gutter-wretch",
+  "kind": "creature",
+  "updatedAt": "2026-09-09T14:12:00Z",
+  "needsRestat": false,
+  "missingFields": ["Move"],
+  "complete": false,
+  "creature": { "floor": 3, "level": 12, "size": 3, "str": 14, "...": null },
+  "attacks": [ { "name": "Claw", "toHit": "12+F", "damage": "3d6+4" } ],
+  "stats": null
+}
+```
+
+`body` is sanitised HTML, already run through an allow-list — paragraphs,
+lists, tables, bold and italic, and nothing else.
+
+`needsRestat` and `missingFields` mean different things and it's worth keeping
+them apart. `needsRestat` means the numbers were written before the game
+released, using vocabulary the published rules don't use — they are actively
+misleading, not merely thin. `missingFields` lists what an entry of that kind
+should carry and doesn't. `complete` is true only when neither applies.
+
+### The creature block
+
+Present only when `kind` is `creature`; `stats` is usually null for those.
+
+| Field | Notes |
+|---|---|
+| `floor`, `level` | Integers |
+| `creatureType` | Descriptive: Beastly, Undead, Humanoid, Ooze … |
+| `size` | 1 Tiny … 8 Gargantuan |
+| `bossTier` | Neighborhood, Borough, City, Province, Country, Floor. Null for a regular mob |
+| `elite` | A mob that acts once per crawler rather than once per round |
+| `str` `int` `con` `dex` `cha` | Raw scores, not modifiers |
+| `move` | Feet |
+| `dr` `evade` `surprise` `healthBarSlots` | **Author-supplied only** |
+
+That last row matters. Those four are normally derived — Surprise is 10 + INT
+mod, Evade is 10 + DEX mod, DR is the floor number, Health Bar slots is the
+level capped at 10 for a mob, or for a boss its tier's base **plus the floor
+number** (Neighborhood 10+F, Borough 15+F, City 20+F, Province 25+F, Country
+30+F, Floor 40+F). Each slot holds the CON modifier. We return them only when an author
+gave an explicit value, so `null` means "apply the published formula" and a
+number means "this entry deliberately breaks it". Computing them for you would
+throw that distinction away.
+
+`attacks` is an array of `{ name, toHit, damage, damageType, range, notes }`,
+all strings, all optional but `name`.
+
+### The stats object
+
+Everything that isn't a creature puts its numbers in `stats`. It's a free-form
+bag, and its shape follows the entry's `kind`.
+
+**`spell` and `skill`**
+
+| Field | Notes |
+|---|---|
+| `type` | `Attack` or `Passive` (spells) |
+| `skillCategory` | Attack, Melee Attack, Ranged Attack, Utility, Passive (skills) |
+| `stat` | Governing stat: STR, INT, CON, DEX, CHA |
+| `manaCost` | Integer, spells |
+| `range`, `duration`, `cooldown` | Strings, e.g. `"40 feet"`, `"Instant"` |
+| `aiFavor` | Integer |
+| `baseDamage`, `damageType` | e.g. `"1d4 + Int"`, `"Necrotic"` |
+| `limitations` | Free text |
+| `favored` | Array of class names |
+| `upgrades` | Object keyed `"5"`, `"10"`, `"15"` |
+
+**`gear`** — covers loot, magic items, jewellery and weapons
+
+| Field | Notes |
+|---|---|
+| `slot` | Head, Torso, Feet, Hands/Holding, Accessory … |
+| `itemType` | Ring, Boots, Shield, Edged Weapon … |
+| `tier` | Bronze, Silver, Gold, Platinum, Legendary |
+| `weaponSkill` | Which skill rolls for it, on weapons |
+| `damageType` | |
+| `dr` | Integer |
+| `duration`, `cooldown`, `charges` | Strings |
+| `effects` | Array of strings — the substance of most items |
+| `limitations` | Free text |
+
+**`race` and `class`**
+
+| Field | Notes |
+|---|---|
+| `size`, `sizeValue` | e.g. `"Large (5)"` and `5` |
+| `classTypes` | Base classes: Barbarian, Bard, Cleric, Mage, Arcanist … |
+| `prerequisites` | Free text |
+| `craftingTable`, `rank20`, `bonusBox` | Free text |
+| `earthBased` | Boolean — Earth races unlock Earth classes |
+| `statBonuses` | Array of strings, e.g. `"+5 Strength"` |
+| `skillBonuses` | Array of strings, e.g. `"+2 Bite"` |
+| `dr`, `popularity` | Integers |
+| `benefits` | Array of `{ text, tier }`, tier one of minor, moderate, major, extreme, epic |
+| `detriments` | Array of `{ text, points }` |
+| `buildPoints` | The author's own total. 25 for a race, 30 for a class, plus up to 5 bought back with detriments |
+
+**Code defensively.** Every field can be absent, contributors don't always fill
+them correctly, and a stat bag that doesn't match its kind is not impossible.
+Treat the tables above as conventions rather than a schema.
+
+### Keeping in sync
+
+Store the timestamp of your last successful sync and pass it to both endpoints:
+
+```
+GET /api/v1/entries?updatedSince=2026-09-12T00:00:00Z&pageSize=200
+GET /api/v1/deletions?since=2026-09-12T00:00:00Z
+```
+
+A bare timestamp is read as UTC. Once a day is plenty; the codex is edited by
+hand, not by machine.
+
+### Images
+
+You may host your own copy rather than loading ours on every page view — better
+for you, and it means our downtime isn't your downtime. The image stays the
+contributor's work, keeps their credit, and if an entry is taken down, please
+drop the cached image with it.
+
+### Credit, and adapting entries
+
+Every entry carries a `source`. Contributors were promised credit by name when
+they submitted, and displaying it wherever you display their entry is part of
+having access — not a request. Entries with an empty `source` are credited to
+the community generally.
+
+Your users may **adapt** an entry — retune a stat block, reflavour a creature,
+fit it to their campaign — on three conditions: the adapted version is clearly
+marked as adapted, it keeps the original creator's name, and it links back to
+the original entry here. The changes are theirs; the original stays credited.
+
+### Errors
+
+| Status | Meaning |
+|---|---|
+| 401 `missing_key` / `unknown_key` | No key sent, or not one we recognise |
+| 403 `revoked_key` | The key was switched off |
+| 404 `not_found` | No such entry |
+| 429 `rate_limited` | Slow down; `retryAfterSeconds` says how long |
+
+All errors are JSON, never HTML. On a 429 honour `Retry-After` rather than
+retrying immediately — the window is fixed, so hammering it just burns the next
+window too.

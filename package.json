@@ -1,0 +1,22 @@
+{
+  "name": "foundryvtt-point-mongo",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Foundry VTT module: Point Mongo codex compendiums for the carl-rpg system",
+  "type": "module",
+  "scripts": {
+    "pull": "node tools/pull.mjs",
+    "convert": "node tools/convert.mjs",
+    "build:packs": "node tools/build-packs.mjs",
+    "build": "npm run convert && npm run build:packs",
+    "format": "oxfmt",
+    "format:check": "oxfmt --check",
+    "dev:sync": "node tools/dev-sync.mjs",
+    "dev": "npm run build && npm run dev:sync"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.4",
+    "js-yaml": "^4.1.0",
+    "oxfmt": "^0.78.0"
+  }
+}
