@@ -1,6 +1,6 @@
 /**
  * Pulls the full Point Mongo codex into data/raw/ (gitignored).
- * Needs PM_API_KEY in .env. Usage: npm run pull
+ * Needs PM_API_KEY in .env or the environment. Usage: npm run pull
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -10,9 +10,11 @@ const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const OUT = path.join(ROOT, "data", "raw");
 const BASE = "https://pointmongo.com/api/v1";
 
-process.loadEnvFile?.(path.join(ROOT, ".env"));
+// .env is local only; CI passes PM_API_KEY as an env var.
+const ENV_FILE = path.join(ROOT, ".env");
+if (fs.existsSync(ENV_FILE)) process.loadEnvFile?.(ENV_FILE);
 const KEY = process.env.PM_API_KEY;
-if (!KEY) throw new Error("PM_API_KEY not set (.env)");
+if (!KEY) throw new Error("PM_API_KEY not set (.env or env var)");
 
 async function get(url) {
   for (;;) {
