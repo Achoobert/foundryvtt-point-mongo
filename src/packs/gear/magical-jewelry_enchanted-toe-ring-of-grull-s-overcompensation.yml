@@ -1,0 +1,19 @@
+_id: T7Y0XDIkhVcv5EWE
+_key: '!items!T7Y0XDIkhVcv5EWE'
+name: Enchanted Toe Ring of Grull’s Overcompensation
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>The war god Grull''s palladium toe ring: more Strength, a big jump, and Unnecessary Force cast with your feet.</em></p><p>The War God Grull doesn’t DO justified response, and neither should you!</p><p>Simply slip on this stylish band is made of 100% pure Palladium and features Grull’s symbol, a double-headed axe with an oak tree for a handle. Using this ring’s abilities ensures that anything you hit will wish that it never existed.</p><p>This toe ring grants the wearer the following benefits:</p><p>• +10% to STR</p><p>• +5 ranks to the Jumping skill</p><p>• Inherent Spell: Unnecessary Force (Must be cast with your feet. Cooldown: 10 minutes).</p><p>• Interacts with a god: Grull – grants double STR Mod to damage for one attack, once per day.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Legendary</td></tr><tr><th>Limitations</th><td>Unnecessary Force (Must be cast with your feet. Cooldown: 10 minutes).</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+10% to STR</li><li>+5 ranks to the Jumping skill</li><li>Inherent Spell: Unnecessary Force</li><li>Interacts with a god: Grull – grants double STR Mod to damage for one attack, once per day.</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-grull-s-overcompensation">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1188
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-grull-s-overcompensation
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-grull-s-overcompensation
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-11-15T01:58:45.5928391Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,19 @@
+_id: 37Iqtpjamv0FMqLh
+_key: '!items!37Iqtpjamv0FMqLh'
+name: Enchanted Toe Ring of Yarilo's Wild Party
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A party god''s toe ring that makes you irresistible and powers up your flirting spells, though your Bard magic might leave you Shit Faced.</em></p><p>Ever been to a party and not remembered it? Like you know you were there, and you''re preeeeetty sure you had a good time, but most of the night is just a blank?</p><p>Well that''s ALL of Yarilo''s parties. The banished god of lust is all about doing stuff that would make your mother cry and a dominatrix blush. If you received this ring from a loot box, you must have done something FREAKY. Honestly? I''m totally here for it.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 Charisma</li><li>+2 To the Panty Dropper spell</li><li>+2 To the Hot Stuff Aura spell</li><li>Whenever you cast a Favored: Bard spell, there is a 10% chance you will gain the Shit Faced debuff for 5 minutes.</li></ul><hr><p><em>Source: Community submission — FrostedParadox. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-yarilo-s-wild-party">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1175
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-yarilo-s-wild-party
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-yarilo-s-wild-party
+    source: Community submission — FrostedParadox
+    tags: []
+    updatedAt: '2026-11-13T16:01:24.0688108Z'
+    needsRestat: false
+    missingFields: []

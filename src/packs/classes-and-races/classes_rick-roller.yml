@@ -1,0 +1,23 @@
+_id: RQLoHark6rGtmXZX
+_key: '!items!RQLoHark6rGtmXZX'
+name: Rick-Roller
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Bard class that draws all the aggro and misdirects enemies while singing that song. You know the one.</em></p><p>We all know that one guy. We''ve all been there. Scan a QR code or click a link to a cat video...only to find that GOD ... DAMNED ... SONG!!!</p><p>This class specializes in drawing in the aggro of enemies and using misdirection to throw them off. All while they sing and dance, making that vein on the side of your head throb and reconsider if anger management is really worth it.</p><p><strong>Stat bonuses</strong></p><ul><li>+5 Intelligence</li><li>+5 Charisma</li><li>-2 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Earworm</li><li>+5 Taunt</li><li>+3 Grand Illusion</li></ul><p><strong>Benefits</strong></p><ul><li>Earworm can be raised to Rank 20 <em>(minor)</em></li><li>Taunt can be raised to Rank 20 <em>(minor)</em></li><li>Grand Illusion can be raised to Rank 20 <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Vulnerable to Bludgeoning Damage <em>(3 pt)</em></li><li>Cannot choose this Class if you have a membership with Club Vanquisher <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/classes/rick-roller">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Bard
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1181
+    category: classes
+    slug: rick-roller
+    url: https://pointmongo.com/browse/classes/rick-roller
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-13T16:01:24.0842388Z'
+    needsRestat: false
+    missingFields: []

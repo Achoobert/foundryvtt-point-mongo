@@ -1,0 +1,19 @@
+_id: XjJFEV7bDlCMf1Yo
+_key: '!items!XjJFEV7bDlCMf1Yo'
+name: Belt of Buckshot
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A wide leather bandolier belt for shotgun shells that sharpens your Shotgun skill.</em></p><p>This wide enchanted leather belt features 25 shotshell loops for shotgun slugs.  When equipped it bestows +1 Shotgun Skill to its wearer.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Belt</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Shotgun Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/belt-of-buckshot">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1202
+    category: magic-items
+    slug: belt-of-buckshot
+    url: https://pointmongo.com/browse/magic-items/belt-of-buckshot
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-15T01:58:45.6204128Z'
+    needsRestat: false
+    missingFields: []

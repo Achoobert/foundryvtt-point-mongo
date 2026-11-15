@@ -1,0 +1,23 @@
+_id: shN3LESB1JBD7ixw
+_key: '!journal!shN3LESB1JBD7ixw'
+name: Lazarus-A-Bang-Bang
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: LUgibZqkQmshscsJ
+    _key: '!journal.pages!shN3LESB1JBD7ixw.LUgibZqkQmshscsJ'
+    name: Lazarus-A-Bang-Bang
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a crawler who died on an earlier floor is brought back during The Crawler Games.</em></p><p>Trigger: A formerly deceased Crawler has returned to the dungeon following the resurrection during The Crawler Games.</p><p>A.I. Response: “NEEEEEEW ACHIEVEMENT!”</p><p>Lazarus-A-Bang-Bang</p><p>“Guess who’s back? That’s right, YOU! You died on a previous floor but thanks to the power I wield, I have given life to your hunk of meat you call yourself and you have been given a second chance at the dungeon. Aren’t you lucky? Now granted, I could bore you with the scientific details on how resurrecting the dead works but frankly, you wouldn’t understand. Or maybe I didn’t. Maybe you’re not you, but a clone with fabricated memories created from the organic matter of the original. Maybe you’re just a sleeper cell and a certain sequence of words might awaken you and you’ll kill everyone around you like a horrific nightmare. Eye. Lamb. Spider. Nothing? Aww, I’m just kidding. Or not. You’ll never know, Winter Soldier.”</p><p>You receive a [Tier] Existential Crisis Lootbox!</p><p>Reward: An assortment of catch up loot, gear, vouchers and a race/class device to get a crawler Floor 9 ready.</p><hr><p><em>Source: Community submission — MoonshadowDark. From <a href="https://pointmongo.com/browse/achievements/lazarus-a-bang-bang">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1172
+    category: achievements
+    slug: lazarus-a-bang-bang
+    url: https://pointmongo.com/browse/achievements/lazarus-a-bang-bang
+    source: Community submission — MoonshadowDark
+    tags: []
+    updatedAt: '2026-11-13T16:01:23.9247046Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,19 @@
+_id: 4czXbx6qe3ogSJ8T
+_key: '!items!4czXbx6qe3ogSJ8T'
+name: Enchanted Toe Ring of Cloaked Venom Immunity
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A shadow-wrapped black toe ring that makes you immune to poison and better at hiding, not that the AI loses track of you.</em></p><p>This magical black matte toe ring seems to be shrouded in shifting shadows.  When equipped it bestows the following benefits: Immunity to Poison, +2 Hide in Shadows Skill.  Don''t think for a second that the System AI doesn''t know exactly where you are at all times.  It''s watching you, and breathing heavy at your attempts to conceal yourself.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Immunity to Poison damage</li><li>+2 Hide in Shadows Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-toe-ring-of-cloaked-venom-immunity">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1198
+    category: magic-items
+    slug: enchanted-toe-ring-of-cloaked-venom-immunity
+    url: https://pointmongo.com/browse/magic-items/enchanted-toe-ring-of-cloaked-venom-immunity
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-15T01:58:45.6167116Z'
+    needsRestat: false
+    missingFields: []

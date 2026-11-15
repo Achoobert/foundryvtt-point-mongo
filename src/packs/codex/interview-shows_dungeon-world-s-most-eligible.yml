@@ -1,0 +1,23 @@
+_id: 3AfK6Aqv164iWtVk
+_key: '!journal!3AfK6Aqv164iWtVk'
+name: Dungeon World’s Most Eligible
+folder: 60wNl7vBu4R8G6qF
+pages:
+  - _id: FF4GBeDjJ7tKwZ1z
+    _key: '!journal.pages!3AfK6Aqv164iWtVk.FF4GBeDjJ7tKwZ1z'
+    name: Dungeon World’s Most Eligible
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A dating-show auction hosted by Vaktra, a seven-headed Thessalhydra who flirts with the contestant more than the bidders do.</em></p><p>A chaotic dating show hosted by Vaktra, a Thessalhydra made from a party of former crawlers. The show format is a live auction of the dungeon’s most eligible crawler for a televised date. Bidders from across the galaxy phone in to ask the crawler invasive questions and to bid on the crawlers. Half the show is Vaktra shamelessly flirting with the crawler herselves. Her description is that of an obscenely curvaceous human woman but with seven various species heads all on individual stalks that all connect at the collarbone. Each head has their own personality but all of them boil down to “hot for crawler”.</p><hr><p><em>Source: Community submission — MoonshadowDark. From <a href="https://pointmongo.com/browse/interview-shows/dungeon-world-s-most-eligible">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1207
+    category: interview-shows
+    slug: dungeon-world-s-most-eligible
+    url: https://pointmongo.com/browse/interview-shows/dungeon-world-s-most-eligible
+    source: Community submission — MoonshadowDark
+    tags: []
+    updatedAt: '2026-11-15T01:58:45.6323474Z'
+    needsRestat: false
+    missingFields: []

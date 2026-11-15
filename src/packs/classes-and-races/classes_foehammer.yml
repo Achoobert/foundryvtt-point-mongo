@@ -1,0 +1,23 @@
+_id: TkRV2doXy8Do3t3D
+_key: '!items!TkRV2doXy8Do3t3D'
+name: Foehammer
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Paladin class of Ogun''s faithful who treat every problem as a nail: hammers hit far harder, everything else barely works.</em></p><p>Devoted to Ogun, god blacksmith and protection, the Foehammers embody the saying, "Everything''s a nail when you''re a hammer." Indeed, they personify their chosen weapon: dull, blunt, lacking any semblance of subtlety. Kind of like Ogun himself, if we''re being honest.</p><p>If you want the blessings of a god who supports you brute-forcing your way through any problem, this is the class for you. Smash your enemies into oblivion and wade through the paste that remains without a second thought.</p><table><tbody><tr><th>DR</th><td>2</td></tr><tr><th>Prerequisites</th><td>Hammer skill level 5</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Strength</li><li>+4 constitution</li><li>-4 dexterity</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 crushing blow</li><li>+2 tenderizer</li><li>+3 Smash</li><li>+2 Smithing</li></ul><p><strong>Benefits</strong></p><ul><li>hammers deal 50% more damage <em>(moderate)</em></li><li>gain special boons of Ogun on select, floor 6, floor 9, and floor 12 <em>(major)</em></li><li>Hammer can be raised to Rank 20 <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>All weapons that are not hammers are 50% less effective <em>(2 pt)</em></li><li>must worship Ogun <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/classes/foehammer">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Paladin
+  prerequisites: Hammer skill level 5
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1184
+    category: classes
+    slug: foehammer
+    url: https://pointmongo.com/browse/classes/foehammer
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-15T01:58:45.4374198Z'
+    needsRestat: false
+    missingFields: []

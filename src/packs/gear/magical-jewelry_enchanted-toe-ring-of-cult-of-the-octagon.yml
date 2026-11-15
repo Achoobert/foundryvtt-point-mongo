@@ -1,0 +1,19 @@
+_id: vZpG2g7HXGIaGWc0
+_key: '!items!vZpG2g7HXGIaGWc0'
+name: Enchanted Toe Ring of Cult of the Octagon
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A battered brass toe ring for cage fighters, with extra Constitution and a little Pugilism.</em></p><p>This brass toe ring appears to be dented and battered.  When equipped it bestows the following benefits:  +5 Constitution, +1 Pugilism Skill.  The AI chuckles softly in your ear as you first equip this item.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Pugilism Skill</li><li>+5 Constitution</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-cult-of-the-octagon">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1191
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-cult-of-the-octagon
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-cult-of-the-octagon
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-15T01:58:45.5955804Z'
+    needsRestat: false
+    missingFields: []

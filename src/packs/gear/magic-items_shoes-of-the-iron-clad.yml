@@ -1,0 +1,19 @@
+_id: CKxCgIlVY0OgBtjw
+_key: '!items!CKxCgIlVY0OgBtjw'
+name: Shoes of the Iron Clad
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Plain medieval leather shoes that double your DR for half an hour with the Iron Skin buff.</em></p><p>These simple brown leather shoes would look at home in the middle ages, or your local Renaissance Faire.  When equipped they bestow the Iron Skin Buff, doubling the Crawlers DR for 30 minutes.  The buff has a 6 hour cool down.</p><table><tbody><tr><th>Slot</th><td>Feet</td></tr><tr><th>Type</th><td>Shoes</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Iron Skin Buff</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/shoes-of-the-iron-clad">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1201
+    category: magic-items
+    slug: shoes-of-the-iron-clad
+    url: https://pointmongo.com/browse/magic-items/shoes-of-the-iron-clad
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-15T01:58:45.6195578Z'
+    needsRestat: false
+    missingFields: []

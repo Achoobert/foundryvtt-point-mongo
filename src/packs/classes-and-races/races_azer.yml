@@ -1,0 +1,23 @@
+_id: G2ZsHSC8KZxLcztr
+_key: '!items!G2ZsHSC8KZxLcztr'
+name: Azer
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Flame-bearded dwarves cut off from their kin, immune to fire, quick to learn fire magic, and slowly dwindling like every fire does.</em></p><p>Somewhere in the annals of history a group of dwarves dedicated themselves to the worship of Emberus. These dwarves were blessed with blazing eyes and hair and beards of pure flame. These dwarves, in their perceived superiority, isolated themselves from their kin creating a progressively more inbred ruling class that eventually deteriorated into the classic fratricidal games that have plagued royalty throughout the ages.</p><p>The azer of today are the remnants of this society. While many still revere Emberus, many are godless craftsmen and warriors who have been scattered to the winds. They rarely cross paths with each other and seldom breed. Like every fire in existence, they are slowly dwindling into nothingness.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr><tr><th>Prerequisites</th><td>Survive having been afflicted with Burn status</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 strength</li><li>+4 constitution</li><li>+1 charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 fire fingers</li><li>+2 torch</li><li>+2 hot-headed</li></ul><p><strong>Benefits</strong></p><ul><li>immunity to fire damage <em>(major)</em></li><li>fire based skills and spells train 10% faster <em>(major)</em></li><li>cold damage resistance <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>disadvantage on rolls while in water <em>(2 pt)</em></li><li>you may only worship Emberus <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/races/azer">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: Survive having been afflicted with Burn status
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1186
+    category: races
+    slug: azer
+    url: https://pointmongo.com/browse/races/azer
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-15T01:58:45.5671363Z'
+    needsRestat: false
+    missingFields: []

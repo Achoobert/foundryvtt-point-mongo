@@ -1,0 +1,19 @@
+_id: PAvIt05g6oH3irU7
+_key: '!items!PAvIt05g6oH3irU7'
+name: Dirk of the Cockatrice
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>An ornate cockatrice-shaped dagger that can cast Intimate Touches for free.</em></p><p>This finely wrought ornate steel blade is shaped to resembles a cockatrice.   The head of the rooster forms the pommel, the two bat-like wings form the crossguard, and the serpent tail of the  creature forms the blade of the dirk.  This weapon also bestows the ability to cast the Intimate Touches Spell at Rank 1 with a two hour cool down.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dirk</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Intimate Touches Spell at Rank 1, no Mana cost, 2 hour cooldown</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/dirk-of-the-cockatrice">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1206
+    category: magical-weapons
+    slug: dirk-of-the-cockatrice
+    url: https://pointmongo.com/browse/magical-weapons/dirk-of-the-cockatrice
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-15T01:58:45.6277452Z'
+    needsRestat: false
+    missingFields: []

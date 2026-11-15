@@ -1,0 +1,23 @@
+_id: aAnhCjZGCS2th0Va
+_key: '!journal!aAnhCjZGCS2th0Va'
+name: Lazarus-A-Bang-Bang Platinum Edition
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: Ft3JLUgb9oG1ffj6
+    _key: '!journal.pages!aAnhCjZGCS2th0Va.Ft3JLUgb9oG1ffj6'
+    name: Lazarus-A-Bang-Bang Platinum Edition
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a resurrected crawler survives by taking the place of the crawler who replaced them.</em></p><p>Trigger: A formerly deceased crawler returns to life following The Crawler Games and survives by replacing the crawler that replaced them.</p><p>A.I. Response: “NEEEEW ACHIEVEMENT!”</p><p>Lazarus-A-Bang-Bang Platinum Edition</p><p>“Wow! Not only did you come back from the dead, you are also the reason [character] didn’t get to reach the stairs. You’re just a regular Freaky Nikki, ain’t cha? If you can’t have the party, no one can. Well don’t feel too bad about [character]. I’m gonna let you in on a little secret: Your “friends” replaced you with [character] right after you died. They didn’t mourn you. The second they found the safe room, there was [character], all ready to tag in. Like how in Dungeons and Dragons, when a player character dies and they replace them with a convenient new character? But there, those are fictional characters. No one really got hurt or disrespected. Here? It’s just you. So you were totally justified. It definitely didn’t change how the party sees you now. Hey, did you always have that skull over your head?”</p><p>You receive a Silver Asshole Lootbox.</p><p>Reward: A piece of gear meant for [character] with a note that reads “To [character]. Love, your A.I. Mommy/Daddy!”</p><hr><p><em>Source: Community submission — MoonshadowDark. From <a href="https://pointmongo.com/browse/achievements/lazarus-a-bang-bang-platinum-edition">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1173
+    category: achievements
+    slug: lazarus-a-bang-bang-platinum-edition
+    url: https://pointmongo.com/browse/achievements/lazarus-a-bang-bang-platinum-edition
+    source: Community submission — MoonshadowDark
+    tags: []
+    updatedAt: '2026-11-13T16:01:23.9772827Z'
+    needsRestat: false
+    missingFields: []

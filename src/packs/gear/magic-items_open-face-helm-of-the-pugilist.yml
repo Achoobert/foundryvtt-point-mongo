@@ -1,0 +1,19 @@
+_id: ihNhhs1zd0zQIKNR
+_key: '!items!ihNhhs1zd0zQIKNR'
+name: Open Face Helm of the Pugilist
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A horned open-faced helm that adds DR and a little Pugilism for bare-knuckle fighters.</em></p><p>This steel open face helm features two small upward curving horns.  When equipped, the helm grants +1 DR to its wearer.  It also bestows +1 Pugilism Skill, for all of your bare handed combat needs.</p><table><tbody><tr><th>Slot</th><td>Head</td></tr><tr><th>Type</th><td>Open Face Helm</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Pugilism Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/open-face-helm-of-the-pugilist">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1205
+    category: magic-items
+    slug: open-face-helm-of-the-pugilist
+    url: https://pointmongo.com/browse/magic-items/open-face-helm-of-the-pugilist
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-15T01:58:45.6230062Z'
+    needsRestat: false
+    missingFields: []

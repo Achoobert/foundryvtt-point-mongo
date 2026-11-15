@@ -1,0 +1,24 @@
+_id: kwnRHPZVCh9fvPcv
+_key: '!items!kwnRHPZVCh9fvPcv'
+name: Toy Soldier
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A class for crawlers who brought a Nerf gun to the apocalypse, loading their toy ammo with spells instead.</em></p><p>Some crawlers come into the dungeon ready for war. They march down the stairs, assault rifles slung over their Kevlar body armor, night vision goggles perched on their enhanced combat helmet, flash bang and frag grenades hanging from crisscrossed bandoleers.</p><p>You are not one of those crawlers.</p><p>Your dumb-ass opted to fight for your life with something more...Hasbro? Maybe it was a paintball marker or a Super Soaker. Perhaps a Nerf Bow and Arrow is your weapon of choice. A Laser Tag gun? Whatever it was, you make showing up with a knife to a gun fight look like a genius move.</p><p>Good luck.</p><p>----</p><p>The Toy Soldier learns to compensate for their poor choice of weapon by creating magical ammo. Any spell capable of targeting opponents can be infused into whatever stupid thing the Toy Soldier has chosen to shoot at people.</p><table><tbody><tr><th>DR</th><td>2</td></tr><tr><th>Prerequisites</th><td>Must have entered the dungeon without a lethal weapon.</td></tr><tr><th>Crafting table</th><td>Tier 1 Alchemy Table</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Dex</li><li>+4 Int</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Stealth</li><li>+2 Ambush</li><li>+3 Create Magic Ammo</li><li>+1 Single target, non-damaging spell</li><li>+1 Other single target, non-damaging spell</li></ul><p><strong>Benefits</strong></p><ul><li>Can enchant the ammo of their chosen non-lethal ammo to deliver non-damaging attack spells via the Create Magic Ammo skill. (Create Magic Ammo: Choose one non-lethal weapon you entered the dungeon with. You can enchant 5 pieces of ammo for that type of weapon by casting a non-damaging spell capable of targeting enemies on it. When you hit an enemy with this ammo it is treated exactly like they were targeted by the spell. Mana is used when enchanting the ammo, but not when firing it. This ammo can be swapped out for your normal ammo via your Hot Bar. Level 5: Enchant 10 ammo per cast. Level 10: Enchant 25 ammo per cast. Level 15: Enchant 100 ammo per cast.) <em>(epic)</em></li></ul><p><strong>Detriments</strong></p><ul><li>You cannot use Intimidate or Fear effects. No enemies take you seriously enough for that. <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Devo the Sane. From <a href="https://pointmongo.com/browse/classes/toy-soldier">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Arcanist
+    - Rogue
+  prerequisites: Must have entered the dungeon without a lethal weapon.
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1185
+    category: classes
+    slug: toy-soldier
+    url: https://pointmongo.com/browse/classes/toy-soldier
+    source: Community submission — Devo the Sane
+    tags: []
+    updatedAt: '2026-11-15T01:58:45.4908234Z'
+    needsRestat: false
+    missingFields: []

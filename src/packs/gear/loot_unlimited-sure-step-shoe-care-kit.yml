@@ -1,0 +1,19 @@
+_id: 0zPu4qHQaZXkMZwA
+_key: '!items!0zPu4qHQaZXkMZwA'
+name: Unlimited Sure Step Shoe Care Kit
+type: item
+img: icons/svg/item-bag.svg
+folder: DQe5zLLcJ9ViGbgq
+system:
+  description: '<p><em>A never-ending shoe care kit that keeps your footwear spotless and your feet out of traps.</em></p><p>This kit contains everything from shoe polish to sole repair, even replacement laces, to keep your precious foot apparel in top condition. In addition, it will protect you from stepping on dangerous traps!</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Kit</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Duration</th><td>30 hr</td></tr><tr><th>Cooldown</th><td>30 hr</td></tr><tr><th>Charges</th><td>Unlimited</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 to Detect Trap skill</li><li>+1 to Find Trap skill</li></ul><hr><p><em>Source: Community submission — Xenostitch. From <a href="https://pointmongo.com/browse/loot/unlimited-sure-step-shoe-care-kit">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1174
+    category: loot
+    slug: unlimited-sure-step-shoe-care-kit
+    url: https://pointmongo.com/browse/loot/unlimited-sure-step-shoe-care-kit
+    source: Community submission — Xenostitch
+    tags: []
+    updatedAt: '2026-11-13T16:01:24.0626609Z'
+    needsRestat: false
+    missingFields: []

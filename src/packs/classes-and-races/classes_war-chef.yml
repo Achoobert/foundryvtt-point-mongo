@@ -1,0 +1,25 @@
+_id: gCQm69qNjS9BJeP5
+_key: '!items!gCQm69qNjS9BJeP5'
+name: War Chef
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A support class that keeps the army fed, and feeds its foes a frying pan or a pot of boiling oil.</em></p><p>Do you know what''s worse than a bunch of tired, poor, miserable men armed to the teeth? Those same men with an empty stomach.</p><p>War Chefs exist to keep marching armies well fed. While they focus on feeding allies food, they have been known to feed foes a frying pan or a pot full of boiling oil.</p><table><tbody><tr><th>Crafting table</th><td>Tier 1 Cooking Table</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 constitution</li><li>+3 dexterity</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 cooking</li><li>+2 improvised weapon</li><li>+2 hot oil</li><li>+2 field rations</li></ul><p><strong>Benefits</strong></p><ul><li>If You Can''t Stand the Heat - when you deal fire damage to a target, they take 10% more damage from allied damage sources for 1 round of combat <em>(moderate)</em></li><li>The Fastest Way to a Man''s Heart - allies who eat a meal you prepare receive "Well Fed" and receive improved healing for 6 hours <em>(moderate)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/classes/war-chef">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Healer
+    - support
+    - mage
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1180
+    category: classes
+    slug: war-chef
+    url: https://pointmongo.com/browse/classes/war-chef
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-13T16:01:24.0833467Z'
+    needsRestat: false
+    missingFields: []

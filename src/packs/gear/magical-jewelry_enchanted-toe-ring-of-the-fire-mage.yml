@@ -1,0 +1,19 @@
+_id: NS4m6v20ZUKT2mLv
+_key: '!items!NS4m6v20ZUKT2mLv'
+name: Enchanted Toe Ring of the Fire Mage
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A warm copper toe ring that boosts Intelligence and casts a free Fire Fingers.</em></p><p>This burnished copper toe ring has no adornment, but is warm to the touch.  When equipped it bestows the following benefits: +4 Intelligence, Rank 2 Fire Fingers Spell, with a 4 hour cool down.  The System AI purrs loudly in your ear when you first equip this item.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Fire Fingers Spell at Rank 2, no Mana cost, 4 hour cooldown</li><li>+4 Intelligence</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-fire-mage">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1189
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-the-fire-mage
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-fire-mage
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-15T01:58:45.5937663Z'
+    needsRestat: false
+    missingFields: []

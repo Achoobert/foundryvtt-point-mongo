@@ -1,0 +1,62 @@
+_id: 3iTaeoUwo8OPMlza
+_key: '!actors!3iTaeoUwo8OPMlza'
+name: Drop Bear
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>Fluffy Australian ambushers that drop from the ceiling onto your head, and puke toxic eucalyptus when you hit them back.</em></p><p>Don''t let the fluffy ears and vacant expression fool you. These vicious Australian bastards lurk on ceilings, waiting to drop onto unsuspecting crawlers and sink their filthy teeth into their skulls. Bludgeoning damage triggers their natural defence mechanism: violently puking a torrent of toxic, half-digested eucalyptus over anything unfortunate enough to be nearby.</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/mobs/drop-bear">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 2
+  size: Small (2)
+  creatureType: Beast
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 2
+    max: 2
+  dr: 1
+  stats:
+    str:
+      value: 4
+    dex:
+      value: 4
+    con:
+      value: 3
+    int:
+      value: 2
+    cha:
+      value: 3
+  attacks:
+    - name: Drop Down Under
+      toHit: ''
+      damage: 1D6+2
+      damageType: bludgeoning
+      range: 15ft (above)
+      effect: Surprised
+    - name: Bite
+      toHit: ''
+      damage: 1D4+2
+      damageType: piercing
+      range: 5ft
+      effect: ''
+    - name: Chunder
+      toHit: ''
+      damage: 1D6+2
+      damageType: poison
+      range: 5ft line, 5ft splash
+      effect: Triggers when dealt Bludgeoning Damage
+prototypeToken:
+  name: Drop Bear
+  actorLink: false
+flags:
+  point-mongo:
+    id: 1183
+    category: mobs
+    slug: drop-bear
+    url: https://pointmongo.com/browse/mobs/drop-bear
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-13T16:01:24.0889064Z'
+    needsRestat: false
+    missingFields: []

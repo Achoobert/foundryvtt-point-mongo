@@ -1,0 +1,19 @@
+_id: IAx2rgrs5CMk4KKH
+_key: '!items!IAx2rgrs5CMk4KKH'
+name: Enchanted Toe Ring of the Armored Bombard
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A soot-blackened toe ring for bomb throwers, resisting Slashing damage and boosting Goblin Explosives.</em></p><p>This magical copper toe ring appears to have been through multiple explosions, it is coated in soot and gun powder residue.  When equipped it bestows the following benefits: Resistance to Slashing Damage, +3 Goblin Explosives Skill.  The System AI lets out a long, low whistle when you first equip this item.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Resistance to Slashing damage</li><li>+3 Goblin Explosives Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-toe-ring-of-the-armored-bombard">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1200
+    category: magic-items
+    slug: enchanted-toe-ring-of-the-armored-bombard
+    url: https://pointmongo.com/browse/magic-items/enchanted-toe-ring-of-the-armored-bombard
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-15T01:58:45.6186799Z'
+    needsRestat: false
+    missingFields: []

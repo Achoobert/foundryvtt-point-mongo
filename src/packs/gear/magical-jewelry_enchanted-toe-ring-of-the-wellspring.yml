@@ -1,0 +1,19 @@
+_id: wlqKNs3z4tIaAXx7
+_key: '!items!wlqKNs3z4tIaAXx7'
+name: Enchanted Toe Ring of the Wellspring
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A silver toe ring that toughens you up and brings you back to full health once a floor.</em></p><p>This enchanted toe ring is crafted from fine silver and etched with a swirling geometric pattern.  When equipped it bestows the following benefits: +5 Constitution, Once per Floor: Recovery: Restores Full Health.  The System AI looks upon you and smiles, taking note of your potential.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Once per floor: Recovery (full Health)</li><li>+5 Constitution</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-wellspring">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1190
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-the-wellspring
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-wellspring
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-15T01:58:45.5947111Z'
+    needsRestat: false
+    missingFields: []

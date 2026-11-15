@@ -1,0 +1,42 @@
+_id: 6IcNwuZHolKoT2U5
+_key: '!items!6IcNwuZHolKoT2U5'
+name: Extra Mayo
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Conjure mayonnaise. Then more mayonnaise. Eventually a geyser of it, for reasons nobody can explain.</em></p><p>Conjure up to a gallon of mayonnaise on any surface or space you can see within 5 feet. Mayo lasts until eaten or washed away. One gallon of mayo can cover roughly 5 square feet if spread thin.</p><table><tbody><tr><th>AI favor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/spells/extra-mayo">Point Mongo</a>.</em></p>'
+  governingStat: dex
+  manaCost: 10
+  range: 5 ft
+  duration: Instant
+  cooldown: 5 minutes
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: i4u9ihUaV9UMICCg
+      rankThreshold: 5
+      description: <p>Conjure up to 5 gallons of mayonnaise. Not sure what you're going to do with it though.</p>
+    - id: ryGcXAqfpL1hfP7S
+      rankThreshold: 10
+      description: <p>Conjure up to 10 gallons of mayonnaise. You uh... really like this stuff, huh?  Cooldown is 10 minutes.</p>
+    - id: q2C1t0Wceafktscj
+      rankThreshold: 15
+      description: <p>WHERE THE HELL DOES ALL THIS MAYONNAISE COME FROM? WHY WOULD YOU LEVEL THIS UP SO HIGH? (Produces a 5x5ft geyser of mayonnaise that lasts for 5 minutes. Cooldown is now 15 h)</p>
+flags:
+  point-mongo:
+    id: 1178
+    category: spells
+    slug: extra-mayo
+    url: https://pointmongo.com/browse/spells/extra-mayo
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-13T16:01:24.0734921Z'
+    needsRestat: false
+    missingFields: []

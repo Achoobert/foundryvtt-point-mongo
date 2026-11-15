@@ -1,0 +1,44 @@
+_id: BXhIWc2zAjdJUmH9
+_key: '!items!BXhIWc2zAjdJUmH9'
+name: Fairy Circle
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Sprout a ring of mushrooms that roots whoever steps in and leaves them open to charms, eventually charming or dominating them outright.</em></p><p>Select an area to sprout a 5ft diameter circle of mushrooms that persists for duration OR until a mob, crawler, or NPC enters it, whereupon it roots them in place for 1 round (dex save) and grants them disadvantage on the first enchantment/charm effect used against them until their next turn.</p><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/spells/fairy-circle">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 30
+  range: 15 ft
+  duration: 5 x [Int] minutes
+  cooldown: 3 hours
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Druid
+    - Warlock
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: MiH4o88il1ns6qHI
+      rankThreshold: 5
+      description: <p>Fae gain advantage against target for attacks and enchantments while they are rooted.</p>
+    - id: AlZjdVVyFgsI5qSG
+      rankThreshold: 10
+      description: <p>Increase diameter to 10 feet. Affects larger enemies. Victim gains disadvantage to ALL charm/enchantment effects while rooted.</p>
+    - id: oN4JwrOFlDHFnfdf
+      rankThreshold: 15
+      description: <p>Target is instantly charmed for spell duration if they failed the dex check. Dominated if they failed by 10 or more.</p>
+flags:
+  point-mongo:
+    id: 1177
+    category: spells
+    slug: fairy-circle
+    url: https://pointmongo.com/browse/spells/fairy-circle
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-13T16:01:24.0724923Z'
+    needsRestat: false
+    missingFields: []
