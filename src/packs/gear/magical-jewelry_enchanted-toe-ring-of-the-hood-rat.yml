@@ -1,0 +1,19 @@
+_id: yoyudlZu6QhF1bYm
+_key: '!items!yoyudlZu6QhF1bYm'
+name: Enchanted Toe Ring of the Hood Rat
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A plain platinum toe ring for street-smart crawlers, boosting Streetwise, Constitution and Dexterity.</em></p><p>This understated, unadorned platinum toe ring is elegant in its simplicity.  When equipped it bestows the following benefits: +4 Streetwise Skill, +5% Constitution, +5% Dexterity.  The System AI lets out a long, low whistle when you equip it for the first time.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Platinum</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+4 Streetwise Skill</li><li>+5% Constitution</li><li>+5% Dexterity</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-hood-rat">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1215
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-the-hood-rat
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-hood-rat
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-16T03:00:47.0487004Z'
+    needsRestat: false
+    missingFields: []

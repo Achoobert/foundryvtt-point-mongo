@@ -1,0 +1,41 @@
+_id: UPE6EH15b84HSuE4
+_key: '!items!UPE6EH15b84HSuE4'
+name: March
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>A Bard''s marching song that speeds up the whole band and fights off fatigue and slowing effects, for as long as you keep playing.</em></p><p>A support skill for bards that increases movement speed by 10ft, gives advantage against movement debuffs/status effects, and reduces fatigue. Buff lasts for as long as the skill is channeled. This means if you sing, you have to keep singing, if you play an instrument it stops when you do. Any pause for 1 round of combat stops the skill.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/skills/march">Point Mongo</a>.</em></p>'
+  governingStat: cha
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: 30 ft radius
+  cooldown: ''
+  limitations: Bard classes only
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: n1GZe6HETszuqH0K
+      rankThreshold: 5
+      description: <p>Remove movement debuffs on cast.</p>
+    - id: 90S7DqhnUIKAqHYf
+      rankThreshold: 10
+      description: <p>Remove fatigue on cast. +5 move speed.</p>
+    - id: onyMv8E8WrQtMliN
+      rankThreshold: 15
+      description: <p>Immune to movement debuffs and fatigue while channeling.</p>
+flags:
+  point-mongo:
+    id: 1208
+    category: skills
+    slug: march
+    url: https://pointmongo.com/browse/skills/march
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-16T03:00:46.8960934Z'
+    needsRestat: false
+    missingFields: []

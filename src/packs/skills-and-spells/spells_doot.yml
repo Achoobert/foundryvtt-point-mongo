@@ -1,0 +1,43 @@
+_id: 4wAKE0UCGPI0Xbyn
+_key: '!items!4wAKE0UCGPI0Xbyn'
+name: Doot!
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>A blast from your horn that deafens and batters everything in a cone, eventually knocking enemies flat.</em></p><p>Use your instrument to create a burst of sonic energy in a 10 ft cone. Deals d8+0 INT sonic damage to those hit and grants disadvantage to perception checks using hearing for 10 minutes.</p><table><tbody><tr><th>Base damage</th><td>1d8+0 INT</td></tr><tr><th>Limitations</th><td>Must have a horn instrument to cast</td></tr></tbody></table><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/spells/doot">Point Mongo</a>.</em></p>'
+  governingStat: cha
+  manaCost: 24
+  range: 10 ft
+  duration: Instant
+  cooldown: 1 min
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses:
+    - Bard
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: SgEtjWEHKlzV4POn
+      rankThreshold: 5
+      description: <p>Base damage now 2d8+0 INT. Push struck enemies back 5 ft.</p>
+    - id: SrOUQUxewIRH7MgN
+      rankThreshold: 10
+      description: <p>Base damage now 3d8+0 INT. Apply Deaf Debuff to enemies hit for 10 minutes on failed constitution save.</p>
+    - id: H92ryrPwVaqVNJKm
+      rankThreshold: 15
+      description: <p>Base damage now 5d8+0 INT. Struck enemies are knocked prone.</p>
+flags:
+  point-mongo:
+    id: 1209
+    category: spells
+    slug: doot
+    url: https://pointmongo.com/browse/spells/doot
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-16T03:00:47.0192838Z'
+    needsRestat: false
+    missingFields: []

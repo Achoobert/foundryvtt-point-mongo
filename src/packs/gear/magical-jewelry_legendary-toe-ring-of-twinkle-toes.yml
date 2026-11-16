@@ -1,0 +1,19 @@
+_id: KmSgveRVJCs3C5ig
+_key: '!items!KmSgveRVJCs3C5ig'
+name: Legendary Toe Ring of Twinkle Toes
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A Legendary glowing golden toe ring that resists fire and blows, quickens your feet and casts Twinkle Toes.</em></p><p>This is a Legendary Item.  This golden toe ring shines with an inner light.  The wearer can mute the light with a thought.  When equipped it bestows the following benefits: +10% Dexterity, Resistance to Bludgeoning Damage, Resistance to Fire Damage, Twinkle Toes Spell at Rank 5, with a 10 hour cool down.  When you first equip this item the System AI sends you the following message:  "Oh, those are some glorious little toes, do be sure to take care of them for me now."</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Legendary</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Resistance to Fire damage</li><li>+10% Dexterity</li><li>Resistance to Bludgeoning damage</li><li>Twinkle Toes Spell at Rank 5, no Mana cost, 10 hour cooldown</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/legendary-toe-ring-of-twinkle-toes">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1221
+    category: magical-jewelry
+    slug: legendary-toe-ring-of-twinkle-toes
+    url: https://pointmongo.com/browse/magical-jewelry/legendary-toe-ring-of-twinkle-toes
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-16T03:00:47.0548947Z'
+    needsRestat: false
+    missingFields: []

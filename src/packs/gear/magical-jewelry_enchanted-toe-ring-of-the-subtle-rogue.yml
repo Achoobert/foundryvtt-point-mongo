@@ -1,0 +1,19 @@
+_id: 7tm2fFVto9jl5EXb
+_key: '!items!7tm2fFVto9jl5EXb'
+name: Enchanted Toe Ring of the Subtle Rogue
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A dark platinum toe ring for knife fighters, with better Daggers, Slashing resistance and a free Path of Shadows.</em></p><p>This enchanted platinum tier toe ring is forged from a dark metal.  When equipped it bestows the following benefits: +2 Dagger Skill, Path of Shadows Spell (Point Mongo Codex) with no mana cost, on a 4 hour cooldown, and Resistance to Slashing Damage.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Platinum</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Path of Shadows Spell at Rank 2, no Mana cost, 4 hour cooldown</li><li>+2 Dagger Skill</li><li>Resistance to Slashing damage</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-subtle-rogue">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1217
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-the-subtle-rogue
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-subtle-rogue
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-16T03:00:47.0513783Z'
+    needsRestat: false
+    missingFields: []

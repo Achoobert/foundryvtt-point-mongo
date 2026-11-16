@@ -1,0 +1,19 @@
+_id: k29zpkOObBsNA5lf
+_key: '!items!k29zpkOObBsNA5lf'
+name: Legendary Toe Ring of the Scorpion Path
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A Legendary braided platinum toe ring that resists poison, heals you fully once a floor, and sharpens mind and charm.</em></p><p>This is a Legendary Item.  This braided platinum toe ring is engraved with a small etching of a scorpion, stinger raised high.  When equipped it bestows the following benefits: +10% Charisma, +10% Intelligence, Restoration (full health refill, once per floor), and Resistance to Poison Damage.  The System AI moans softly in your ear when you first equip this item.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Legendary</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+10% Intelligence</li><li>Resistance to Poison damage</li><li>Once per floor: Recovery (full Health)</li><li>+10% Charisma</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/legendary-toe-ring-of-the-scorpion-path">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1220
+    category: magical-jewelry
+    slug: legendary-toe-ring-of-the-scorpion-path
+    url: https://pointmongo.com/browse/magical-jewelry/legendary-toe-ring-of-the-scorpion-path
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-16T03:00:47.054029Z'
+    needsRestat: false
+    missingFields: []

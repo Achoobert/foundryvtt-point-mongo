@@ -1,0 +1,19 @@
+_id: 8bBySW0YChTkIg1U
+_key: '!items!8bBySW0YChTkIg1U'
+name: Enchanted Bowie Knife of the Crocodile Hunter
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A big fixed-blade bowie knife with a brass and leather handle, worth two points of Strength.</em></p><p>Large fixed blade bowie knife with a 10 in blade. It has a clip point and thick spine. The handle is made of stacked leather brass with a cross guard.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Knife</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr><tr><th>Damage type</th><td>Piercing</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Strength</li></ul><hr><p><em>Source: Community submission — Xenostitch. From <a href="https://pointmongo.com/browse/magical-weapons/enchanted-bowie-knife-of-the-crocodile-hunter">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1213
+    category: magical-weapons
+    slug: enchanted-bowie-knife-of-the-crocodile-hunter
+    url: https://pointmongo.com/browse/magical-weapons/enchanted-bowie-knife-of-the-crocodile-hunter
+    source: Community submission — Xenostitch
+    tags: []
+    updatedAt: '2026-11-16T03:00:47.0444901Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,19 @@
+_id: LjQPKyoEI1q3MCY4
+_key: '!items!LjQPKyoEI1q3MCY4'
+name: Legendary Toe Ring of Practical Survival
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A Legendary electrum toe ring with Shock Treatment, a full heal once a floor, more Intelligence and Endurance.</em></p><p>This is a Legendary Item.  This electrum toe ring is engraved with a celtic knot pattern.  When equipped it bestows the following benefits:  Shock Treatment Spell at Rank 5 on a 10 hour cooldown, +10% Intelligence, +5 Endurance Skill, Recovery (Full Health refill, once per floor).  The System AI hopes you enjoy your new trinket as much as it enjoyed watching you slip it on the first time.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Legendary</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Shock Treatment Spell at Rank 5, no Mana cost, 10 hour cooldown</li><li>Once per floor: Recovery (full Health)</li><li>+10% Intelligence</li><li>+5 Endurance Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-jewelry/legendary-toe-ring-of-practical-survival">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1219
+    category: magical-jewelry
+    slug: legendary-toe-ring-of-practical-survival
+    url: https://pointmongo.com/browse/magical-jewelry/legendary-toe-ring-of-practical-survival
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-16T03:00:47.0531781Z'
+    needsRestat: false
+    missingFields: []

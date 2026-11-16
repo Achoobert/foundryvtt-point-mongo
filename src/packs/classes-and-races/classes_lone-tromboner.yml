@@ -1,0 +1,23 @@
+_id: FWpPiYpoCrf0ntPe
+_key: '!items!FWpPiYpoCrf0ntPe'
+name: Lone Tromboner
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Bard class for the trombone player who''s done taking second chair: big, brassy sonic damage and lungs that never quit.</em></p><p>The red-headed step child of the band: the trombone. Capable of rich, full sound, but never taken seriously. No longer must you take second chair. No longer will the trumpets and saxophones overshadow your majesty.</p><table><tbody><tr><th>Bonus box</th><td>Earth Hobby box</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 constitution</li><li>+3 charisma</li><li>+1 dexterity</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+5 trombone</li><li>+2 March skill</li><li>+3 Doot! Spell</li></ul><p><strong>Benefits</strong></p><ul><li>circular breathing - can sustain music on your trombone without pausing to breathe for 1 minute per 10 points of constitution. <em>(moderate)</em></li><li>Big and Brassy - sonic damage increased by 1 additional hit dice per 5 levels of Trombone skill <em>(moderate)</em></li><li>gain a trombone <em>(minor)</em></li><li>Trombone can be raised to Rank 20 <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>you may not advance any singing or instrument skills except trombone <em>(2 pt)</em></li><li>non-bard spells deal 10% less damage <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/classes/lone-tromboner">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Bard
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1210
+    category: classes
+    slug: lone-tromboner
+    url: https://pointmongo.com/browse/classes/lone-tromboner
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-16T03:00:47.0220929Z'
+    needsRestat: false
+    missingFields: []

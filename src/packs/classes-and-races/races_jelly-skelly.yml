@@ -1,0 +1,23 @@
+_id: txdii1A23VfCBZj3
+_key: '!items!txdii1A23VfCBZj3'
+name: Jelly-Skelly
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Ooze-bodied humanoids around a bendy skeleton who shrug off blades and blows and regrow lost limbs, but melt in fire.</em></p><p>An ooze based humanoid lifeform. This species has a pliable skeleton within a body of translucent ooze they can manipulate to squeeze through tight spaces. They can survive being sliced, squished, or even lost limbs by replacing them with other creatures bones. Physical attacks have less of an effect on this species, but are vulnerable to fire.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr><tr><th>DR</th><td>0</td></tr><tr><th>Prerequisites</th><td>+4 Constitution, +3 Dexterity, A pre-existing skeletal structure.</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 Constitution</li></ul><p><strong>Benefits</strong></p><ul><li>Limb Regeneration <em>(epic)</em></li><li>Immunity to Bludgeoning Damage <em>(epic)</em></li><li>Immunity to Slashing Damage <em>(epic)</em></li><li>Immunity to Piercing Damage <em>(epic)</em></li><li>Pliable: You can squeeze your body of flexible bones and ooze into tight places, or stretch it to an extent. <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Vulnerable to Fire Damage <em>(3 pt)</em></li><li>Vulnerable to Ice Damage <em>(1 pt)</em></li><li>Vulnerable to Holy Damage <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/races/jelly-skelly">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: +4 Constitution, +3 Dexterity, A pre-existing skeletal structure.
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1212
+    category: races
+    slug: jelly-skelly
+    url: https://pointmongo.com/browse/races/jelly-skelly
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-16T03:00:47.0419037Z'
+    needsRestat: false
+    missingFields: []

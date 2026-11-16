@@ -1,0 +1,19 @@
+_id: 6PJ7ZDmW0VH0PqOC
+_key: '!items!6PJ7ZDmW0VH0PqOC'
+name: Enchanted Toe Ring of the Return Address
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A luggage-tag toe ring that stamps your spot when you move and teleports you back to it after an attack.</em></p><p>A brass band with a rectangular plate shaped like a luggage tag stamped into it. The tag bears the inscription "RETURN TO...". The underside is engraved to look like a tiny rubber stamp. When you press your toe down, it leaves a square of amber light on the floor.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Toe Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Return to Sender - Once per combat when you start a Move Action on solid ground, mark the place you are standing. The mark lasts until the end of the following round. After completing an Attack Action, if you still have your step for that action and the marked space is within line of sight, empty, and within 20 feet you may teleport back to it. The mark is removed when you return.</li></ul><hr><p><em>Source: Community submission — Kron. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-return-address">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1216
+    category: magical-jewelry
+    slug: enchanted-toe-ring-of-the-return-address
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-toe-ring-of-the-return-address
+    source: Community submission — Kron
+    tags: []
+    updatedAt: '2026-11-16T03:00:47.0504919Z'
+    needsRestat: false
+    missingFields: []

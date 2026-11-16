@@ -1,0 +1,23 @@
+_id: a01VMItGnrYbgl1o
+_key: '!items!a01VMItGnrYbgl1o'
+name: Bilge Rat
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Rogue class for small, scurvy seafarers who hide behind bigger allies and pass their own debuffs on to enemies.</em></p><p>Like a seaman on shore leave without protection, the Bilge Rat combines the skills of a seafaring ne''er-do-well with your Uncle Danny circa 2020. Stealthy and lethal in more ways than one, the Bilge Rat excels at being a part of the scenery, sharing debilitating status effects with enemies. Like the rodents it takes its name from, if it does not have overwhelming numbers to hide behind, the Bilge Rat waits for foes to be thoroughly weakened before moving in for the kill.</p><table><tbody><tr><th>Size</th><td>Large (5)</td></tr><tr><th>Prerequisites</th><td>Petite or smaller size</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 dexterity</li><li>+3 constitution</li><li>-1 intelligence</li><li>-3 charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 swim</li><li>+2 climb</li><li>+2 hide in shadows</li><li>+2 move silently</li><li>+2 ambush</li><li>+1 cockroach</li></ul><p><strong>Benefits</strong></p><ul><li>Inconspicuous - advantage to stealth checks when there are allies visible who are 1+ size larger than you. <em>(moderate)</em></li><li>Super spreader - may take any one debuff from your statuses and apply it to an enemy without removing it from yourself. 5 hour cooldown <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>persistently affected with Scurvy debuff. Bleed effects last 50% longer. Your hair is missing in patches. Lose 2d6 teeth. Disadvantage on charm. <em>(3 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/classes/bilge-rat">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Rogue
+  prerequisites: Petite or smaller size
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1211
+    category: classes
+    slug: bilge-rat
+    url: https://pointmongo.com/browse/classes/bilge-rat
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-16T03:00:47.0233939Z'
+    needsRestat: false
+    missingFields: []
