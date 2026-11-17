@@ -1,0 +1,46 @@
+_id: Wcht8UVqNyLoPgOB
+_key: '!items!Wcht8UVqNyLoPgOB'
+name: Decalcify
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> base damage</p><p><em>Soften an enemy''s bones to strip their DR and make bludgeoning hits and crits land harder, eventually shattering them.</em></p><p>Reduce the density and hardness of bone. Reduces target''s DR by 1. Targets take additional d6 from bludgeoning attacks and critical hits. Skeleton creatures suffer additional -1 DR.</p><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/spells/decalcify">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 15
+  range: 30 ft
+  duration: 5 minutes
+  cooldown: 5 minutes
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses:
+    - Necromancer
+    - warlock
+    - cleric
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: OgSQXRgJ9pmamjpx
+      rankThreshold: 5
+      description: <p>DR now -2. Cooldown 3 minutes</p>
+    - id: OKItKVBhTWVVY0hI
+      rankThreshold: 10
+      description: <p>DR now -3. Increase bludgeoning damage taken and bonus crit damage by 2d6.</p>
+    - id: habGMArN6XXb2PDf
+      rankThreshold: 15
+      description: <p>Cooldown reduced to 90 seconds. Target takes 3d6 bonus bludgeoning damage for duration. Critical hits immobilize target for 1 round of combat as their bones shatter.</p>
+flags:
+  point-mongo:
+    id: 1226
+    category: spells
+    slug: decalcify
+    url: https://pointmongo.com/browse/spells/decalcify
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-17T04:11:21.7460503Z'
+    needsRestat: false
+    missingFields:
+      - base damage

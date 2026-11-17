@@ -1,0 +1,19 @@
+_id: rNI7mfQpOpmL9GMj
+_key: '!items!rNI7mfQpOpmL9GMj'
+name: Kintsugi Odachi
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A long katana mended with gold that patches you up a little on a great hit.</em></p><p>This long Katana blade has been repaired and infused with a measure of healing magic that may transfer to a skilled wielder. The steel of this blade has been put back together with gold sealing the cracks. On an Amazing Success or higher with an attack from this weapon you may heal 1 HP slot.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Katana</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Weapon skill</th><td>Katana</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Katana</li><li>Heal 1 HP slot on Amazing Success or Critical Success</li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/magical-weapons/kintsugi-odachi">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1223
+    category: magical-weapons
+    slug: kintsugi-odachi
+    url: https://pointmongo.com/browse/magical-weapons/kintsugi-odachi
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-17T04:11:21.7148163Z'
+    needsRestat: false
+    missingFields: []

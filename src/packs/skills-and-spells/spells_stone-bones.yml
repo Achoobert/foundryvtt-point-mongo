@@ -1,0 +1,45 @@
+_id: UDyZU0GuyftSZuos
+_key: '!items!UDyZU0GuyftSZuos'
+name: Stone Bones
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Harden an ally''s bones for extra DR at the cost of a little speed, especially effective on skeletons.</em></p><p>Grant +1 DR to target and reduce movement speed 5 ft for duration. Additional +1 DR effect for Skeleton creatures.</p><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/spells/stone-bones">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 6
+  range: 30 ft
+  duration: 5 minutes
+  cooldown: 5 minutes
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Necromancer
+    - warlock
+    - cleric
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: NqJfjerMV5Yxj2bv
+      rankThreshold: 5
+      description: <p>Increase DR to +2. Cooldown reduced to 2.5 minutes</p>
+    - id: qJSye4mdU85OCQhX
+      rankThreshold: 10
+      description: <p>Increase DR to +3 and mana cost to 12. No longer reduces movement speed.</p>
+    - id: RhVuPXOFWnzhPZAx
+      rankThreshold: 15
+      description: <p>Reduce cooldown to 90 seconds. Targets take 25% less damage from critical hits for duration.</p>
+flags:
+  point-mongo:
+    id: 1225
+    category: spells
+    slug: stone-bones
+    url: https://pointmongo.com/browse/spells/stone-bones
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-17T04:11:21.7449896Z'
+    needsRestat: false
+    missingFields: []

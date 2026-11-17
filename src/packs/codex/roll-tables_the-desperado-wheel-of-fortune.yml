@@ -1,0 +1,23 @@
+_id: EdsgdotwlhqR4OcZ
+_key: '!journal!EdsgdotwlhqR4OcZ'
+name: The Desperado Wheel of Fortune
+folder: LgXPy7DgMLD2Fvug
+pages:
+  - _id: ZomOThhWTFPiPFaH
+    _key: '!journal.pages!EdsgdotwlhqR4OcZ.ZomOThhWTFPiPFaH'
+    name: The Desperado Wheel of Fortune
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Spin the Desperado Club''s wheel with a chip or 100,000 gold and win anything from levels and loot to curses, nemeses and Death himself.</em></p><p>You may roll on a Desperado Wheel of fortune with a special Chip or by spending 100.000 Gold.</p><p>Roll a d20</p><table><tbody><tr><th>unique</th><td>false</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/roll-tables/the-desperado-wheel-of-fortune">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1224
+    category: roll-tables
+    slug: the-desperado-wheel-of-fortune
+    url: https://pointmongo.com/browse/roll-tables/the-desperado-wheel-of-fortune
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-17T04:11:21.718081Z'
+    needsRestat: false
+    missingFields: []
