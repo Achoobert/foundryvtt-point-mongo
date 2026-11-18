@@ -1,0 +1,19 @@
+_id: p5S70lQhE7UVpQKJ
+_key: '!items!p5S70lQhE7UVpQKJ'
+name: The Plague Doctor’s Cocktail Diary
+type: item
+img: icons/svg/item-bag.svg
+folder: eqtDlTphkRJGqZqI
+system:
+  description: '<p><em>A cocktail book that, read through its plague doctor mask, turns out to be a secret potioneer''s guide to harvesting Humors.</em></p><p>The Plague Doctor’s Cocktail Diary by Anonymous</p><p>This is a unique item.</p><p>Delicious drinks and curious cocktail recipes abound this leather tome! Learn how to mix drinks to satisfy the most persnickety of sommeliers! Each recipe comes with recommendations for tasty treats to pair with your creations for a truly divine experience! Wear the accompanying mask to feel like a true Dungeon Mixologist!</p><p>The book comes with a Plague Doctor’s mask. Equipping the mask reveals the true nature of the book.</p><p>When the Plague Doctor’s mask is equipped, the following is revealed:</p><p>“Attention, Crawler. You hold in your hands the secrets to Apotheosis. This diary contains the collected knowledge of powerful potioneers that have walked these terrible halls. By reading this book, you are beginning a journey to enlightenment and a mastery of the Humors. Tinctures, elixirs, poisons and potions to turn the tides of battle. Welcome to the Brotherhood, Fater.”</p><p>Reading this book with the mask has revealed new recipes for your Apothecary Table!</p><table><tbody><tr><th>Slot</th><td>N/A</td></tr><tr><th>Type</th><td>Book</td></tr><tr><th>Limitations</th><td>Effects and skills only activate when the book is in the Crawler’s inventory</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5 to Mixology skills</li><li>Gain the Plague Practitioner skill: Allows Crawlers to harvest Humors from mobs.</li><li>Gain new recipes for the Apothecary Table</li></ul><hr><p><em>Source: Community submission — MoonshadowDark. From <a href="https://pointmongo.com/browse/crafting/the-plague-doctor-s-cocktail-diary">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1228
+    category: crafting
+    slug: the-plague-doctor-s-cocktail-diary
+    url: https://pointmongo.com/browse/crafting/the-plague-doctor-s-cocktail-diary
+    source: Community submission — MoonshadowDark
+    tags: []
+    updatedAt: '2026-11-18T07:09:02.1139252Z'
+    needsRestat: false
+    missingFields: []

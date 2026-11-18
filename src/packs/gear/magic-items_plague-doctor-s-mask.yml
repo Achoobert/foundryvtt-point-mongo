@@ -1,0 +1,19 @@
+_id: M2p2RU7ytu3crBwW
+_key: '!items!M2p2RU7ytu3crBwW'
+name: Plague Doctor’s Mask
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>The beaked mask that unlocks the Plague Doctor''s Cocktail Diary. Would probably offend a Skyfowl.</em></p><p>Plague Doctor’s Mask</p><p>This is a unique item.</p><p>A plague doctor mask that came with the Cocktail Diary. Would probably offend a Skyfowl.</p><table><tbody><tr><th>Slot</th><td>Head</td></tr><tr><th>Type</th><td>Headwear</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Grants the ability to read The Plague Doctor’s Cocktail Diary.</li></ul><hr><p><em>Source: Community submission — MoonshadowDark. From <a href="https://pointmongo.com/browse/magic-items/plague-doctor-s-mask">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1239
+    category: magic-items
+    slug: plague-doctor-s-mask
+    url: https://pointmongo.com/browse/magic-items/plague-doctor-s-mask
+    source: Community submission — MoonshadowDark
+    tags: []
+    updatedAt: '2026-11-18T07:09:02.1460408Z'
+    needsRestat: false
+    missingFields: []

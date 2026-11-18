@@ -1,0 +1,44 @@
+_id: IdUZKSwTtrVDXGlP
+_key: '!items!IdUZKSwTtrVDXGlP'
+name: Animate Skeleton
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Raise a corpse''s skeleton as a minion at half its old strength, and later a small bony army.</em></p><p>Animate the skeleton of a nearby corpse. The flesh falls off as the skeleton rises, creating a skeletal minion under your command. Target must be at least 1/2 your level and has half the stats it did in life.</p><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/spells/animate-skeleton">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 20
+  range: 30 ft
+  duration: 10 minutes
+  cooldown: 1 hour
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Necromancer
+    - warlock
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: ROdYfoIIk82FMSFZ
+      rankThreshold: 5
+      description: <p>Animate one additional skeleton.</p>
+    - id: d75FaQSDYpS7UKYo
+      rankThreshold: 10
+      description: <p>Animate up to 3 skeletons. Each must be lower level than you. Their combined levels may not exceed your own.</p>
+    - id: FKUVTa3D1mQqF3XC
+      rankThreshold: 15
+      description: <p>Animate up to 5 skeletons with combined level less than your intelligence.</p>
+flags:
+  point-mongo:
+    id: 1227
+    category: spells
+    slug: animate-skeleton
+    url: https://pointmongo.com/browse/spells/animate-skeleton
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-18T07:09:01.9936207Z'
+    needsRestat: false
+    missingFields: []

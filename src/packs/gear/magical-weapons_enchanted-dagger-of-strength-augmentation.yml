@@ -1,0 +1,19 @@
+_id: CjPUBcGrHa6AeJeY
+_key: '!items!CjPUBcGrHa6AeJeY'
+name: Enchanted Dagger of Strength Augmentation
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A sturdy Silver dagger worth two points of Strength.</em></p><p>This silver tier enchanted weapon is forged of sturdy materials.  When equipped it bestows the following benefit: +2 Strength.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dagger</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Strength</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/enchanted-dagger-of-strength-augmentation">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1238
+    category: magical-weapons
+    slug: enchanted-dagger-of-strength-augmentation
+    url: https://pointmongo.com/browse/magical-weapons/enchanted-dagger-of-strength-augmentation
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-18T07:09:02.1255096Z'
+    needsRestat: false
+    missingFields: []
