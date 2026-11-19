@@ -27,19 +27,39 @@ system:
       value: 1
     cha:
       value: 1
-  attacks:
-    - name: Acid Spit
+items:
+  - _id: u2giMvTDei0m8Lab
+    _key: '!actors.items!7zuKjgbSGKXBexjU.u2giMvTDei0m8Lab'
+    name: Acid Spit
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1D6+STR
       damageType: acid
       range: 30 feet
-      effect: on an Evade Major Fail or worse, the target gains the Blood Trail Debuff.
-    - name: Bite
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>on an Evade Major Fail or worse, the target gains the Blood Trail Debuff.</p>
+  - _id: yeGfg92p8sE5N472
+    _key: '!actors.items!7zuKjgbSGKXBexjU.yeGfg92p8sE5N472'
+    name: Bite
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 1D4+STR
       damageType: piercing
       range: Melee
-      effect: on an Evade Major Fail or worse, the target takes an additional 1D4 Acid Damage
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>on an Evade Major Fail or worse, the target takes an additional 1D4 Acid Damage</p>
 prototypeToken:
   name: Furbe
   actorLink: false

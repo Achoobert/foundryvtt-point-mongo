@@ -27,25 +27,55 @@ system:
       value: 2
     cha:
       value: 3
-  attacks:
-    - name: Drop Down Under
+items:
+  - _id: kM3PVWnY3C3Ebd4W
+    _key: '!actors.items!3iTaeoUwo8OPMlza.kM3PVWnY3C3Ebd4W'
+    name: Drop Down Under
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1D6+2
       damageType: bludgeoning
       range: 15ft (above)
-      effect: Surprised
-    - name: Bite
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Surprised</p>
+  - _id: xhfoY5GOCst3Hjde
+    _key: '!actors.items!3iTaeoUwo8OPMlza.xhfoY5GOCst3Hjde'
+    name: Bite
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 1D4+2
       damageType: piercing
       range: 5ft
-      effect: ''
-    - name: Chunder
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: sVCGUJ1RhggHmBGw
+    _key: '!actors.items!3iTaeoUwo8OPMlza.sVCGUJ1RhggHmBGw'
+    name: Chunder
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 3000
+    system:
       toHit: ''
       damage: 1D6+2
       damageType: poison
       range: 5ft line, 5ft splash
-      effect: Triggers when dealt Bludgeoning Damage
+      isArea: true
+      splash: true
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Triggers when dealt Bludgeoning Damage</p>
 prototypeToken:
   name: Drop Bear
   actorLink: false

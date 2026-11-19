@@ -27,13 +27,23 @@ system:
       value: 2
     cha:
       value: 2
-  attacks:
-    - name: Claw
+items:
+  - _id: d7JlYtwsgjubaEaL
+    _key: '!actors.items!WOyzyL782jQ3TW6D.d7JlYtwsgjubaEaL'
+    name: Claw
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d4+1
       damageType: ''
       range: ''
-      effect: On a Evade Major Fail or worse, the crawler is inflicted with The Taint Debuff.
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>On a Evade Major Fail or worse, the crawler is inflicted with The Taint Debuff.</p>
 prototypeToken:
   name: Crabby Pants
   actorLink: false

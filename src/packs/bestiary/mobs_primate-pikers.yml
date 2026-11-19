@@ -27,13 +27,23 @@ system:
       value: 2
     cha:
       value: 1
-  attacks:
-    - name: Big Poke
+items:
+  - _id: qT6sDDbIrqkdJPm0
+    _key: '!actors.items!KTWiuaFFIDjLtZ6h.qT6sDDbIrqkdJPm0'
+    name: Big Poke
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d8
       damageType: piercing
       range: '10'
-      effect: ''
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
 prototypeToken:
   name: Primate Pikers
   actorLink: false

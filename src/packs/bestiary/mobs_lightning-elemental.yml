@@ -27,19 +27,39 @@ system:
       value: 6
     cha:
       value: 6
-  attacks:
-    - name: Shock Bolt
+items:
+  - _id: 1bbo45CvIifFQTak
+    _key: '!actors.items!9xV4XUi1CD8j4TYf.1bbo45CvIifFQTak'
+    name: Shock Bolt
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 3d10+4
       damageType: electric
       range: 15'
-      effect: On an Evade Major Fail or worse, the target gains the Shocked Debuff.
-    - name: Electric Slide
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>On an Evade Major Fail or worse, the target gains the Shocked Debuff.</p>
+  - _id: 9F49vaTRYEpPKg5s
+    _key: '!actors.items!9xV4XUi1CD8j4TYf.9F49vaTRYEpPKg5s'
+    name: Electric Slide
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 2d10+4
       damageType: electric
       range: 30' line
-      effect: The Elemental dashes forward in a charge attack, bestowing the Shocked Debuff to all targets that fail to evade.
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>The Elemental dashes forward in a charge attack, bestowing the Shocked Debuff to all targets that fail to evade.</p>
 prototypeToken:
   name: Lightning Elemental
   actorLink: false

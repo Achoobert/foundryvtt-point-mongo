@@ -27,13 +27,23 @@ system:
       value: 1
     cha:
       value: 1
-  attacks:
-    - name: Punch
+items:
+  - _id: zHgryUGLEW6m9AUZ
+    _key: '!actors.items!ZlkFR4Ygww9WN3BD.zHgryUGLEW6m9AUZ'
+    name: Punch
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d6+3
       damageType: force
       range: ''
-      effect: ''
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
 prototypeToken:
   name: Boom Boxers
   actorLink: false

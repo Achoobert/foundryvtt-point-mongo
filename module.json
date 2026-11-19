@@ -20,7 +20,7 @@
       {
         "id": "carl-rpg",
         "type": "system",
-        "compatibility": { "minimum": "0.5.0" }
+        "compatibility": { "minimum": "0.7.0" }
       }
     ]
   },

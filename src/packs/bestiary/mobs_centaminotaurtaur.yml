@@ -27,19 +27,39 @@ system:
       value: 3
     cha:
       value: 2
-  attacks:
-    - name: Punch
+items:
+  - _id: K56nMtkBbUJIntwN
+    _key: '!actors.items!rnZe4YZ41wBB67BG.K56nMtkBbUJIntwN'
+    name: Punch
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 2d8+3
       damageType: bludgeoning
       range: ''
-      effect: ''
-    - name: Bull Rush Charge
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: FRSDuQCMFVSZkVHe
+    _key: '!actors.items!rnZe4YZ41wBB67BG.FRSDuQCMFVSZkVHe'
+    name: Bull Rush Charge
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 2d10+3
       damageType: force
       range: 30' line
-      effect: ''
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
 prototypeToken:
   name: Centaminotaurtaur
   actorLink: false

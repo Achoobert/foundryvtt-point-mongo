@@ -27,13 +27,23 @@ system:
       value: 1
     cha:
       value: 1
-  attacks:
-    - name: Thorny Vine Lash
+items:
+  - _id: xcPSR87myyvgL2HR
+    _key: '!actors.items!zBCa6deiYeDk1yFW.xcPSR87myyvgL2HR'
+    name: Thorny Vine Lash
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d4
       damageType: piercing
       range: '10'
-      effect: On an Evade Major Fail or worse, the target is Held
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>On an Evade Major Fail or worse, the target is Held</p>
 prototypeToken:
   name: Venusian Deathtrap
   actorLink: false

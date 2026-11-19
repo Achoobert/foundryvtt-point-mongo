@@ -27,13 +27,23 @@ system:
       value: 1
     cha:
       value: 1
-  attacks:
-    - name: Blast
+items:
+  - _id: COCvsjiaNP4TSfT8
+    _key: '!actors.items!eBOqKZoub93qB2PN.COCvsjiaNP4TSfT8'
+    name: Blast
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 3d6
       damageType: force
       range: ''
-      effect: ''
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
 prototypeToken:
   name: Cheromb
   actorLink: false

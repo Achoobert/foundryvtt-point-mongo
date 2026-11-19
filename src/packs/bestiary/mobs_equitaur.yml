@@ -27,25 +27,55 @@ system:
       value: 15
     cha:
       value: 10
-  attacks:
-    - name: Bite
+items:
+  - _id: DzyJnYvGDBPK2xjX
+    _key: '!actors.items!AnynOPv5QCbf0syg.DzyJnYvGDBPK2xjX'
+    name: Bite
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 2d4+4
       damageType: piercing
       range: ''
-      effect: ''
-    - name: Melee
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: E6UbT3kUYTsR2z6i
+    _key: '!actors.items!AnynOPv5QCbf0syg.E6UbT3kUYTsR2z6i'
+    name: Melee
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 3d6+4
       damageType: bludgeoning
       range: ''
-      effect: ''
-    - name: By Weapon Type
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: 6WILw7ZO09GG4vBc
+    _key: '!actors.items!AnynOPv5QCbf0syg.6WILw7ZO09GG4vBc'
+    name: By Weapon Type
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 3000
+    system:
       toHit: ''
       damage: ''
       damageType: ''
       range: ''
-      effect: Pistols, Rifles and other firearms are preferred.
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Pistols, Rifles and other firearms are preferred.</p>
 prototypeToken:
   name: Equitaur
   actorLink: false

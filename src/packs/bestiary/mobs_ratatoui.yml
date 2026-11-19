@@ -27,7 +27,7 @@ system:
       value: 2
     cha:
       value: 1
-  attacks: []
+items: []
 prototypeToken:
   name: Ratatoui
   actorLink: false

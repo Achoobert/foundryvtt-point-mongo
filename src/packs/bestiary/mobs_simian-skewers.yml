@@ -27,19 +27,39 @@ system:
       value: 2
     cha:
       value: 1
-  attacks:
-    - name: Poke
+items:
+  - _id: kScCYJFR83jfHjuw
+    _key: '!actors.items!KD7VxEzfhDhYXQHf.kScCYJFR83jfHjuw'
+    name: Poke
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d6
       damageType: piercing
       range: '5'
-      effect: ''
-    - name: Throw
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: V6C2mAG0TNbmx9iz
+    _key: '!actors.items!KD7VxEzfhDhYXQHf.V6C2mAG0TNbmx9iz'
+    name: Throw
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 1d6
       damageType: piercing
       range: '20'
-      effect: ''
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
 prototypeToken:
   name: Simian Skewers
   actorLink: false

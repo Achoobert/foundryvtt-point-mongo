@@ -27,43 +27,103 @@ system:
       value: 185
     cha:
       value: 105
-  attacks:
-    - name: Lion Flame Breath Weapon
+items:
+  - _id: u22jjzV23o4mI8xR
+    _key: '!actors.items!6zFw4BFVAAOgYN69.u22jjzV23o4mI8xR'
+    name: Lion Flame Breath Weapon
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 12d6+F
       damageType: ''
       range: 30ft cone
-      effect: 19+F to Evade.
-    - name: Hell Goat's Gaze
+      isArea: true
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>19+F to Evade.</p>
+  - _id: LQtmP6v5rQuGU5mH
+    _key: '!actors.items!6zFw4BFVAAOgYN69.LQtmP6v5rQuGU5mH'
+    name: Hell Goat's Gaze
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: N/A
       damageType: ''
       range: ''
-      effect: 18+F to Evade. Inflicts the Terrified Debuff.
-    - name: Viper's Venom Spray
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>18+F to Evade. Inflicts the Terrified Debuff.</p>
+  - _id: 4HubdSb41bPumSCR
+    _key: '!actors.items!6zFw4BFVAAOgYN69.4HubdSb41bPumSCR'
+    name: Viper's Venom Spray
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 3000
+    system:
       toHit: ''
       damage: 12d4+9
       damageType: ''
       range: ''
-      effect: 19+F to Evade. Inflicts the "I'm melting" Debuff.
-    - name: Stomp
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>19+F to Evade. Inflicts the "I'm melting" Debuff.</p>
+  - _id: cArVLmDYQ8pOCzZy
+    _key: '!actors.items!6zFw4BFVAAOgYN69.cArVLmDYQ8pOCzZy'
+    name: Stomp
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 4000
+    system:
       toHit: ''
       damage: 12d10+9
       damageType: ''
       range: 10ft
-      effect: 19+F to Evade. Inflicts the Stunned Debuff.
-    - name: Morning Star
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>19+F to Evade. Inflicts the Stunned Debuff.</p>
+  - _id: nX3jRz7TGWa7jK2V
+    _key: '!actors.items!6zFw4BFVAAOgYN69.nX3jRz7TGWa7jK2V'
+    name: Morning Star
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 5000
+    system:
       toHit: ''
       damage: 12d8+9
       damageType: bludgeoning
       range: 10'
-      effect: 19+F to Evade.
-    - name: Tail Thrash
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>19+F to Evade.</p>
+  - _id: MoNALYKoNBZlmIXe
+    _key: '!actors.items!6zFw4BFVAAOgYN69.MoNALYKoNBZlmIXe'
+    name: Tail Thrash
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 6000
+    system:
       toHit: ''
       damage: 12d8+9
       damageType: bludgeoning
       range: 15ft
-      effect: 19+F to Evade. On a Evade major fail or worse, the crawler gains the Take Down Debuff.
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>19+F to Evade. On a Evade major fail or worse, the crawler gains the Take Down Debuff.</p>
 prototypeToken:
   name: Varnath
   actorLink: false

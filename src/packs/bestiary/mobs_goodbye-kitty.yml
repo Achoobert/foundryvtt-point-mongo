@@ -27,19 +27,39 @@ system:
       value: 2
     cha:
       value: 4
-  attacks:
-    - name: Claw
+items:
+  - _id: mKJYh3L8SfdoPZAD
+    _key: '!actors.items!FVldzLFS9nEldknr.mKJYh3L8SfdoPZAD'
+    name: Claw
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d4+1
       damageType: ''
       range: ''
-      effect: ''
-    - name: By Weapon Type
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: 4sWULhYEW3o8xKKZ
+    _key: '!actors.items!FVldzLFS9nEldknr.4sWULhYEW3o8xKKZ'
+    name: By Weapon Type
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: ''
       damageType: ''
       range: ''
-      effect: Whatever it has picked up; the knife is traditional.
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Whatever it has picked up; the knife is traditional.</p>
 prototypeToken:
   name: Goodbye Kitty
   actorLink: false

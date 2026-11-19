@@ -27,25 +27,55 @@ system:
       value: 2
     cha:
       value: 1
-  attacks:
-    - name: Bite
+items:
+  - _id: GuE6vVnCCehGdx4J
+    _key: '!actors.items!ca0t8ZUPNtoii4Rs.GuE6vVnCCehGdx4J'
+    name: Bite
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d4+3
       damageType: piercing
       range: 5ft
-      effect: Fatigued
-    - name: Tongue grab
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Fatigued</p>
+  - _id: nZKz2cVqsmpa9li3
+    _key: '!actors.items!ca0t8ZUPNtoii4Rs.nZKz2cVqsmpa9li3'
+    name: Tongue grab
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: N/A
       damageType: ''
       range: 20ft
-      effect: Held, Make escape or evade checks or else get pulled into their larger maws.
-    - name: CRAAARK!!
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Held, Make escape or evade checks or else get pulled into their larger maws.</p>
+  - _id: uTdX2ARL68Bon4dK
+    _key: '!actors.items!ca0t8ZUPNtoii4Rs.uTdX2ARL68Bon4dK'
+    name: CRAAARK!!
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 3000
+    system:
       toHit: ''
       damage: 1D4+2
       damageType: ''
       range: 10FT
-      effect: Sonic damage. Woozy, This sound can be heard loudly 100ft away and will echo out.
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Sonic damage. Woozy, This sound can be heard loudly 100ft away and will echo out.</p>
 prototypeToken:
   name: Amphibihound
   actorLink: false

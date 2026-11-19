@@ -177,7 +177,41 @@ function flags(entry) {
   };
 }
 
-function creature(entry, folder) {
+// carl-rpg's Area check (module/helpers/area.mjs): a Blast, Burst, Cone,
+// Line or Splash in the attack text.
+const AREA_PATTERN =
+  /\d+\s*(?:ft|feet|foot)\.?\s*(?:Blast|Burst|Cone|Line)\b|\+\s*\d+\s*(?:ft|feet|foot)\.?\s*Splash\b/i;
+
+/** One codex attack as a carl-rpg mobAttack item, shaped like its legacyAttackItems. */
+function mobAttack(entry, a, index, actorId) {
+  const _id = makeId(`pm-${entry.id}-attack-${index}`);
+  const type = damageType(a.damageType);
+  const unknownType = a.damageType && !type ? `${a.damageType} damage. ` : "";
+  const effect = (unknownType + (a.notes ?? "")).trim();
+  const text = [a.range, effect, a.damage].map((s) => String(s ?? "")).join(" ");
+  const isArea = AREA_PATTERN.test(text);
+  return {
+    _id,
+    _key: `!actors.items!${actorId}.${_id}`,
+    name: String(a.name ?? "").trim() || "Attack",
+    type: "mobAttack",
+    img: "icons/svg/sword.svg",
+    sort: (index + 1) * 1000,
+    system: {
+      toHit: String(a.toHit ?? ""),
+      damage: String(a.damage ?? ""),
+      damageType: type,
+      range: String(a.range ?? ""),
+      isArea,
+      splash: isArea && /\bsplash\b/i.test(text),
+      armorPiercing: /armou?r[- ]piercing/i.test(effect),
+      targetEffects: [],
+      description: effect ? `<p>${esc(effect)}</p>` : "",
+    },
+  };
+}
+
+function creature(entry, folder, id) {
   const c = entry.creature ?? {};
   const tier = BOSS_HB_BASE[lower(c.bossTier)] ? lower(c.bossTier) : "";
   const level = Math.max(1, int(c.level, 1));
@@ -211,19 +245,9 @@ function creature(entry, folder) {
       hb: { value: hbSlots, max: hbSlots },
       dr: Math.max(0, int(c.dr, floor)),
       stats,
-      attacks: (entry.attacks ?? []).map((a) => {
-        const type = damageType(a.damageType);
-        const unknownType = a.damageType && !type ? `${a.damageType} damage. ` : "";
-        return {
-          name: a.name ?? "",
-          toHit: a.toHit ?? "",
-          damage: a.damage ?? "",
-          damageType: type,
-          range: a.range ?? "",
-          effect: (unknownType + (a.notes ?? "")).trim(),
-        };
-      }),
     },
+    // carl-rpg reads a Mob's Attacks from mobAttack items, not system.attacks.
+    items: (entry.attacks ?? []).map((a, i) => mobAttack(entry, a, i, id)),
     prototypeToken: { name: entry.name, actorLink: false },
     flags: flags(entry),
   };

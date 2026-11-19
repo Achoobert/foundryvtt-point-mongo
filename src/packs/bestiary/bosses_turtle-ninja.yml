@@ -27,19 +27,39 @@ system:
       value: 10
     cha:
       value: 10
-  attacks:
-    - name: Bowling Shell
+items:
+  - _id: wU3kcXDikKtiPEiB
+    _key: '!actors.items!2WVutAJw1SX1WXIL.wU3kcXDikKtiPEiB'
+    name: Bowling Shell
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 3d6+4
       damageType: bludgeoning
       range: Melee
-      effect: The Turtle Ninja pulls its limbs into its shell and spins across the room like a heavy, shelled bowling ball.
-    - name: Smoke Bomb
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>The Turtle Ninja pulls its limbs into its shell and spins across the room like a heavy, shelled bowling ball.</p>
+  - _id: m8VR1yM2f3HX6V2U
+    _key: '!actors.items!2WVutAJw1SX1WXIL.m8VR1yM2f3HX6V2U'
+    name: Smoke Bomb
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: N/A
       damageType: ''
       range: ''
-      effect: Grants the boss temporary Invisibility until its next turn. Its next attack coming out of Stealth is rolled with Advantage and triggers a Surprise Check against the target's Evade.
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Grants the boss temporary Invisibility until its next turn. Its next attack coming out of Stealth is rolled with Advantage and triggers a Surprise Check against the target's Evade.</p>
 prototypeToken:
   name: Turtle Ninja
   actorLink: false

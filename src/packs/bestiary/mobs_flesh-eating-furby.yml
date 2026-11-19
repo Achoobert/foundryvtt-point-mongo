@@ -27,13 +27,23 @@ system:
       value: 1
     cha:
       value: 1
-  attacks:
-    - name: Bite
+items:
+  - _id: RqUfueOfHbVoBRwE
+    _key: '!actors.items!xKSyr64fgXr8LDHT.RqUfueOfHbVoBRwE'
+    name: Bite
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d4
       damageType: ''
       range: ''
-      effect: ''
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
 prototypeToken:
   name: Flesh-Eating Furby
   actorLink: false

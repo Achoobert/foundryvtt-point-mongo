@@ -27,25 +27,55 @@ system:
       value: 20
     cha:
       value: 60
-  attacks:
-    - name: Bite
+items:
+  - _id: B8zIjfcOCHpGW2ID
+    _key: '!actors.items!Bw6yG9k56CZFmyBn.B8zIjfcOCHpGW2ID'
+    name: Bite
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 5d6+7
       damageType: piercing
       range: 10 feet
-      effect: ''
-    - name: Maul
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: ePxlmOCLXjHHhgac
+    _key: '!actors.items!Bw6yG9k56CZFmyBn.ePxlmOCLXjHHhgac'
+    name: Maul
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 5d12+7
       damageType: ''
       range: 15 feet
-      effect: ''
-    - name: Paws
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: Qtr7YCQIbhOsjc0f
+    _key: '!actors.items!Bw6yG9k56CZFmyBn.Qtr7YCQIbhOsjc0f'
+    name: Paws
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 3000
+    system:
       toHit: ''
       damage: 1d20+7
       damageType: bludgeoning
       range: 30 foot cone
-      effect: Targets are afflicted with the Take Down debuff
+      isArea: true
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Targets are afflicted with the Take Down debuff</p>
 prototypeToken:
   name: King Cocker
   actorLink: false

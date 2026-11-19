@@ -27,25 +27,55 @@ system:
       value: 55
     cha:
       value: 30
-  attacks:
-    - name: Backhand of the elite
+items:
+  - _id: kHOYmqfU26e1EF5H
+    _key: '!actors.items!NlfPtnGjjU7MORBc.kHOYmqfU26e1EF5H'
+    name: Backhand of the elite
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 5d6+F
       damageType: bludgeoning
       range: '20'
-      effect: this attack is magical, and takes 100 gold from you; if you don't have gold, it takes an additional health box.
-    - name: Underlings
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>this attack is magical, and takes 100 gold from you; if you don't have gold, it takes an additional health box.</p>
+  - _id: hUXGgfuRoAYqSile
+    _key: '!actors.items!NlfPtnGjjU7MORBc.hUXGgfuRoAYqSile'
+    name: Underlings
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: NA
       damageType: ''
       range: '40'
-      effect: this city boss can make you or another crawler take an action that it wants you to take for one turn.
-    - name: Money eye
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>this city boss can make you or another crawler take an action that it wants you to take for one turn.</p>
+  - _id: IgCSe7jPbVP7LXts
+    _key: '!actors.items!NlfPtnGjjU7MORBc.IgCSe7jPbVP7LXts'
+    name: Money eye
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 3000
+    system:
       toHit: ''
       damage: 5d4+F
       damageType: ''
       range: '40'
-      effect: This magic missile like attack is a beam that can hit multiple opponents that decreases a skill for a turn, increasing the amount of money capital capitalism has. Drops all the money as well as a boss box.
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>This magic missile like attack is a beam that can hit multiple opponents that decreases a skill for a turn, increasing the amount of money capital capitalism has. Drops all the money as well as a boss box.</p>
 prototypeToken:
   name: Capital Capitalism
   actorLink: false

@@ -27,19 +27,39 @@ system:
       value: 42
     cha:
       value: 3
-  attacks:
-    - name: Smother
+items:
+  - _id: SDXPgBkh0viR1P8r
+    _key: '!actors.items!QhS3Kwl4WYRG856z.SDXPgBkh0viR1P8r'
+    name: Smother
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 2d8+3
       damageType: ''
       range: 5ft
-      effect: On a successful hit, the Crawler suffers the HELD debuff
-    - name: Drain Life
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>On a successful hit, the Crawler suffers the HELD debuff</p>
+  - _id: KVJPwYTzg6aYDuLU
+    _key: '!actors.items!QhS3Kwl4WYRG856z.KVJPwYTzg6aYDuLU'
+    name: Drain Life
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 2d6+3
       damageType: necrotic
       range: ''
-      effect: 'When a creature is Held, Mother Smother will then cast Drain Life at Level 5: 14 Mana Cost'
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: '<p>When a creature is Held, Mother Smother will then cast Drain Life at Level 5: 14 Mana Cost</p>'
 prototypeToken:
   name: Mother Smother
   actorLink: false

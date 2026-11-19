@@ -27,25 +27,55 @@ system:
       value: 15
     cha:
       value: 15
-  attacks:
-    - name: Bite
+items:
+  - _id: ntq9aB53bNL6cmOE
+    _key: '!actors.items!pZW672JBEDvdGnyo.ntq9aB53bNL6cmOE'
+    name: Bite
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 6d8+7
       damageType: piercing
       range: 10ft
-      effect: On a Major Evade fail, target is Burned(Acid)
-    - name: Tail
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>On a Major Evade fail, target is Burned(Acid)</p>
+  - _id: xzgcS5za2YwrEoHX
+    _key: '!actors.items!pZW672JBEDvdGnyo.xzgcS5za2YwrEoHX'
+    name: Tail
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 7d8+7
       damageType: slashing
       range: 10ft
-      effect: On a Major Evade fail, target receives Blood Trail
-    - name: Spit Bile
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>On a Major Evade fail, target receives Blood Trail</p>
+  - _id: Lb7ubXxizHtHmSac
+    _key: '!actors.items!pZW672JBEDvdGnyo.Lb7ubXxizHtHmSac'
+    name: Spit Bile
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 3000
+    system:
       toHit: ''
       damage: 5d6
       damageType: acid
       range: 20ft Cone
-      effect: On a Major Evade fail, Target is Burning(Acid)
+      isArea: true
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>On a Major Evade fail, Target is Burning(Acid)</p>
 prototypeToken:
   name: 'Cacophony Feral Daemons: Instinct'
   actorLink: false

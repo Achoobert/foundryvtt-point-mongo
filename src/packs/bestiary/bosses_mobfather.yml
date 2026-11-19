@@ -27,19 +27,39 @@ system:
       value: 15
     cha:
       value: 15
-  attacks:
-    - name: Hose a Target
+items:
+  - _id: LJAKSPJBXHI04Spc
+    _key: '!actors.items!9yTsU9pl61JnRS17.LJAKSPJBXHI04Spc'
+    name: Hose a Target
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 2d6+F
       damageType: piercing
       range: 50ft
-      effect: 1d4 bullets hit the target, roll damage separately
-    - name: Suppressive Fire
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>1d4 bullets hit the target, roll damage separately</p>
+  - _id: k6DLXDLP1r48LUkC
+    _key: '!actors.items!9yTsU9pl61JnRS17.k6DLXDLP1r48LUkC'
+    name: Suppressive Fire
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 2d6+F
       damageType: piercing
       range: cone
-      effect: 1 bullet hits each target in the cone
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>1 bullet hits each target in the cone</p>
 prototypeToken:
   name: Mobfather
   actorLink: false

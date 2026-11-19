@@ -27,13 +27,23 @@ system:
       value: 5
     cha:
       value: 4
-  attacks:
-    - name: Quarterstaff
+items:
+  - _id: Y0Sx06wh8dxki9Tw
+    _key: '!actors.items!pGzE6IK6UmMiV6x2.Y0Sx06wh8dxki9Tw'
+    name: Quarterstaff
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 2d6+6
       damageType: bludgeoning
       range: 10ft
-      effect: On hit, Woozy and Taint debuffs
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>On hit, Woozy and Taint debuffs</p>
 prototypeToken:
   name: Master Splinter, level 15 Sewer-Monk
   actorLink: false

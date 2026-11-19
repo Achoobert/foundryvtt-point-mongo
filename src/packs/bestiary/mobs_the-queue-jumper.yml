@@ -27,19 +27,39 @@ system:
       value: 4
     cha:
       value: 2
-  attacks:
-    - name: Claw
+items:
+  - _id: cpuCghoN6quhO4zt
+    _key: '!actors.items!ZWPgEdbKUpUhBVab.cpuCghoN6quhO4zt'
+    name: Claw
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d4+1
       damageType: ''
       range: 5ft
-      effect: ''
-    - name: Teleport
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: Cahm1L1rhnvXAIV5
+    _key: '!actors.items!ZWPgEdbKUpUhBVab.Cahm1L1rhnvXAIV5'
+    name: Teleport
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: ''
       damageType: ''
       range: ''
-      effect: See Description
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>See Description</p>
 prototypeToken:
   name: The Queue Jumper
   actorLink: false

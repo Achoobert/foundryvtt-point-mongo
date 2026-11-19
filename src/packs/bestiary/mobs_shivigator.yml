@@ -27,19 +27,39 @@ system:
       value: 1
     cha:
       value: 1
-  attacks:
-    - name: Cleave
+items:
+  - _id: DvyNlx4rFFNgcCAH
+    _key: '!actors.items!Jgtl8j3KlCYbeFll.DvyNlx4rFFNgcCAH'
+    name: Cleave
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d8
       damageType: slashing
       range: 5ft
-      effect: ''
-    - name: Bleeding Slash
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: lIZPfFf6OKDSgM5m
+    _key: '!actors.items!Jgtl8j3KlCYbeFll.lIZPfFf6OKDSgM5m'
+    name: Bleeding Slash
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 1d6
       damageType: slashing
       range: 5ft
-      effect: Blood Trail
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Blood Trail</p>
 prototypeToken:
   name: Shivigator
   actorLink: false

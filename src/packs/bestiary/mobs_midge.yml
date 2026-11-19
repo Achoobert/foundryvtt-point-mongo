@@ -27,19 +27,39 @@ system:
       value: 1
     cha:
       value: 3
-  attacks:
-    - name: Claw
+items:
+  - _id: ypUZhtYHnVa1LHEj
+    _key: '!actors.items!AnsG9vdtb25qmLod.ypUZhtYHnVa1LHEj'
+    name: Claw
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d2+2
       damageType: ''
       range: 5ft
-      effect: ''
-    - name: Swarm
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: Wdb9jbx1lc1ToHK6
+    _key: '!actors.items!AnsG9vdtb25qmLod.Wdb9jbx1lc1ToHK6'
+    name: Swarm
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 1d4+2
       damageType: ''
       range: 5ft
-      effect: If 3+ Midge attack the same crawler, they gain advantage on their attacks
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>If 3+ Midge attack the same crawler, they gain advantage on their attacks</p>
 prototypeToken:
   name: Midge
   actorLink: false

@@ -27,13 +27,23 @@ system:
       value: 2
     cha:
       value: 1
-  attacks:
-    - name: Life Drain
+items:
+  - _id: Pc3g2TNJHHoD3ZwX
+    _key: '!actors.items!CZ97Mzb8h0wvwYFr.Pc3g2TNJHHoD3ZwX'
+    name: Life Drain
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d4+2
       damageType: ''
       range: ''
-      effect: On a Evade Major Fail or worse, the crawler suffers a temporary 1d4 CON Debuff.
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>On a Evade Major Fail or worse, the crawler suffers a temporary 1d4 CON Debuff.</p>
 prototypeToken:
   name: Negative Nancy
   actorLink: false

@@ -27,25 +27,55 @@ system:
       value: 9
     cha:
       value: 10
-  attacks:
-    - name: Claw
+items:
+  - _id: xNYmhyb5HjGa46j3
+    _key: '!actors.items!HV6CDoowM9BcGtUC.xNYmhyb5HjGa46j3'
+    name: Claw
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d6+4
       damageType: ''
       range: 5ft
-      effect: ''
-    - name: Trident
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: B0vfqKbFTWRniAWm
+    _key: '!actors.items!HV6CDoowM9BcGtUC.B0vfqKbFTWRniAWm'
+    name: Trident
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 1d8+4
       damageType: piercing
       range: 5ft
-      effect: ''
-    - name: Swarm - Command
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: kSx9nKgO66p1iYCm
+    _key: '!actors.items!HV6CDoowM9BcGtUC.kSx9nKgO66p1iYCm'
+    name: Swarm - Command
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 3000
+    system:
       toHit: ''
       damage: 1d2+2
       damageType: ''
       range: 40ft
-      effect: Commands 1d2+1(F) Midge Minions to attack the party.  They gain advantage on their attacks for 1 round.
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Commands 1d2+1(F) Midge Minions to attack the party.  They gain advantage on their attacks for 1 round.</p>
 prototypeToken:
   name: Midge Overlord
   actorLink: false

@@ -27,43 +27,103 @@ system:
       value: 23
     cha:
       value: 20
-  attacks:
-    - name: Snap-Bite
+items:
+  - _id: 3uE2DInfwx1vHi8F
+    _key: '!actors.items!UZ5KOGXfkF3hwLmG.3uE2DInfwx1vHi8F'
+    name: Snap-Bite
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: 15+F
       damage: 3d6+5
       damageType: piercing
       range: 5ft
-      effect: On an Evade Major Fail or worse, the crawler gains the Poison Debuff.
-    - name: Vine Capture
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>On an Evade Major Fail or worse, the crawler gains the Poison Debuff.</p>
+  - _id: 6glEHL6x0VvuobSx
+    _key: '!actors.items!UZ5KOGXfkF3hwLmG.6glEHL6x0VvuobSx'
+    name: Vine Capture
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: 15+F
       damage: 3d4+5
       damageType: bludgeoning
       range: 30ft
-      effect: Any hit crawler gains the Entangled Debuff and is pulled 10’ ft closer to the plant.
-    - name: Deadly Bloom
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Any hit crawler gains the Entangled Debuff and is pulled 10’ ft closer to the plant.</p>
+  - _id: BFA5Gh8SgKMkoVMj
+    _key: '!actors.items!UZ5KOGXfkF3hwLmG.BFA5Gh8SgKMkoVMj'
+    name: Deadly Bloom
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 3000
+    system:
       toHit: 15+F
       damage: 3d8+7
       damageType: poison
       range: 15ft Burst radius
-      effect: Any crawler who fails to Evade gains the Poisoned Debuff.
-    - name: Vine Eruption
+      isArea: true
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Any crawler who fails to Evade gains the Poisoned Debuff.</p>
+  - _id: OG6MmZx79EMU2dZr
+    _key: '!actors.items!UZ5KOGXfkF3hwLmG.OG6MmZx79EMU2dZr'
+    name: Vine Eruption
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 4000
+    system:
       toHit: ''
       damage: 3d8+5
       damageType: poison
       range: 20' ft
-      effect: Bursting thorn-covered vines shoot up out of the floor in a 20-foot zone. Affected grid tiles become difficult terrain.
-    - name: Feed Me! (Swallowed)
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Bursting thorn-covered vines shoot up out of the floor in a 20-foot zone. Affected grid tiles become difficult terrain.</p>
+  - _id: ipnPPWD6BvH3YTY5
+    _key: '!actors.items!UZ5KOGXfkF3hwLmG.ipnPPWD6BvH3YTY5'
+    name: Feed Me! (Swallowed)
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 5000
+    system:
       toHit: ''
       damage: ''
       damageType: ''
       range: ''
-      effect: The Mean Green Mother swallows the crawler whole. Crawlers receive the Swallowed Debuff. When a Crawler escapes the Mean Green Mother, or when the plant dies, affected crawlers may remove the Swallowed debuff.
-    - name: Secret Desires
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>The Mean Green Mother swallows the crawler whole. Crawlers receive the Swallowed Debuff. When a Crawler escapes the Mean Green Mother, or when the plant dies, affected crawlers may remove the Swallowed debuff.</p>
+  - _id: UVdTN2oOctma5wUa
+    _key: '!actors.items!UZ5KOGXfkF3hwLmG.UVdTN2oOctma5wUa'
+    name: Secret Desires
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 6000
+    system:
       toHit: ''
       damage: N/A
       damageType: ''
       range: 100' ft/20' ft blast radius
-      effect: The Mean Green Mother offers the crawler whatever they most desire. Crawlers make a CHA Check vs DC 15+F or they gain the Mesmerized Debuff.
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>The Mean Green Mother offers the crawler whatever they most desire. Crawlers make a CHA Check vs DC 15+F or they gain the Mesmerized Debuff.</p>
 prototypeToken:
   name: Mean Green Mother
   actorLink: false

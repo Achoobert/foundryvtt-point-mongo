@@ -27,19 +27,39 @@ system:
       value: 7
     cha:
       value: 5
-  attacks:
-    - name: Steamer Wand
+items:
+  - _id: vmBFpby9JSmWzRmg
+    _key: '!actors.items!x6NxNsrxjzay2RaE.vmBFpby9JSmWzRmg'
+    name: Steamer Wand
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d6
       damageType: acid
       range: 15ft Cone
-      effect: Cone range reduces to 10ft if his chemical tank is punctured and begins losing pressure.on Evade Major Fail or worse, target(s) is/are Blinded by chemical steam.
-    - name: Tropical-Scented Febreeze Bomb
+      isArea: true
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Cone range reduces to 10ft if his chemical tank is punctured and begins losing pressure.on Evade Major Fail or worse, target(s) is/are Blinded by chemical steam.</p>
+  - _id: eOUmwCyeVkMfW9YB
+    _key: '!actors.items!x6NxNsrxjzay2RaE.eOUmwCyeVkMfW9YB'
+    name: Tropical-Scented Febreeze Bomb
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: N/A
       damageType: ''
       range: 30ft thrown
-      effect: 10ft Blast +10ft Splash from target, all creatures in Blast radius must make CON check vs his INT or gain Woozy Debuff.
+      isArea: true
+      splash: true
+      armorPiercing: false
+      targetEffects: []
+      description: <p>10ft Blast +10ft Splash from target, all creatures in Blast radius must make CON check vs his INT or gain Woozy Debuff.</p>
 prototypeToken:
   name: The Cleveland Steamer
   actorLink: false

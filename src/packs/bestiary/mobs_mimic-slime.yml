@@ -27,13 +27,23 @@ system:
       value: 1
     cha:
       value: 2
-  attacks:
-    - name: Caustic Flail
+items:
+  - _id: 0j5Y2XbL0pE7p6JB
+    _key: '!actors.items!JRT6zyhxiASxtaPX.0j5Y2XbL0pE7p6JB'
+    name: Caustic Flail
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 2d4+2
       damageType: acid
       range: ''
-      effect: ''
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
 prototypeToken:
   name: Mimic Slime
   actorLink: false

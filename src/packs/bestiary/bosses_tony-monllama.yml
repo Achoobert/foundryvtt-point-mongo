@@ -27,19 +27,39 @@ system:
       value: 3
     cha:
       value: 8
-  attacks:
-    - name: Bite
+items:
+  - _id: 351K5fiPa1fxBAR4
+    _key: '!actors.items!TRvK6Hfb56FF2rol.351K5fiPa1fxBAR4'
+    name: Bite
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 2d6+5
       damageType: piercing
       range: 5ft
-      effect: On an Evade Major Fail or worse the target gains the Contact High debuff.
-    - name: Lava Spit
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>On an Evade Major Fail or worse the target gains the Contact High debuff.</p>
+  - _id: Z99ogBlm4nzoyfm2
+    _key: '!actors.items!TRvK6Hfb56FF2rol.Z99ogBlm4nzoyfm2'
+    name: Lava Spit
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 2d8+3
       damageType: fire
       range: 60ft
-      effect: On an Evade Major Fail or worse, the target gains the Burning Debuff.
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>On an Evade Major Fail or worse, the target gains the Burning Debuff.</p>
 prototypeToken:
   name: Tony Monllama
   actorLink: false

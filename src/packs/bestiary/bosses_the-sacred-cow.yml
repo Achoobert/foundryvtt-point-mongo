@@ -27,25 +27,55 @@ system:
       value: 5
     cha:
       value: 10
-  attacks:
-    - name: Toughts
+items:
+  - _id: qam8gOaBFZnh9cAJ
+    _key: '!actors.items!244SXtf3eO4p3Z2A.qam8gOaBFZnh9cAJ'
+    name: Toughts
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 2d6+F
       damageType: psychic
       range: 5ft
-      effect: ''
-    - name: Prayers
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: WLdNhuLrnxCvQh6o
+    _key: '!actors.items!244SXtf3eO4p3Z2A.WLdNhuLrnxCvQh6o'
+    name: Prayers
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 2d6+F
       damageType: holy
       range: 5ft
-      effect: ''
-    - name: Trample
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: xb0R04HPBHPvYMmd
+    _key: '!actors.items!244SXtf3eO4p3Z2A.xb0R04HPBHPvYMmd'
+    name: Trample
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 3000
+    system:
       toHit: ''
       damage: 2d6+F
       damageType: bludgeoning
       range: 30ft
-      effect: Attacks all targets in a single line, friend and foe alike.
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Attacks all targets in a single line, friend and foe alike.</p>
 prototypeToken:
   name: The Sacred Cow
   actorLink: false

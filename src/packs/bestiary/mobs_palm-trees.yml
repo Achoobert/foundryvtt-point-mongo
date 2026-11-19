@@ -27,19 +27,39 @@ system:
       value: 4
     cha:
       value: 5
-  attacks:
-    - name: Smush
+items:
+  - _id: in9z1PDO2Ez5fIY4
+    _key: '!actors.items!Gw7DYwHwKpT31ksf.in9z1PDO2Ez5fIY4'
+    name: Smush
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 3d10+4
       damageType: bludgeoning
       range: ''
-      effect: ''
-    - name: Smack / Slap
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: dqed2dRpfsJZLYGp
+    _key: '!actors.items!Gw7DYwHwKpT31ksf.dqed2dRpfsJZLYGp'
+    name: Smack / Slap
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 3d4+4
       damageType: bludgeoning
       range: 5ft
-      effect: ''
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
 prototypeToken:
   name: Palm Trees
   actorLink: false

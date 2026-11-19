@@ -27,13 +27,23 @@ system:
       value: 1
     cha:
       value: 1
-  attacks:
-    - name: Decay
+items:
+  - _id: f1DNOe3l0p1Ajict
+    _key: '!actors.items!mg9dQTgXdDEWIGF6.f1DNOe3l0p1Ajict'
+    name: Decay
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 1d2+1
       damageType: ''
       range: ''
-      effect: Pocket Full of Holes Debuff - See Description
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Pocket Full of Holes Debuff - See Description</p>
 prototypeToken:
   name: Decay Moths
   actorLink: false

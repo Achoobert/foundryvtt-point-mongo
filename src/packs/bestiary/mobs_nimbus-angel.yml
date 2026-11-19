@@ -27,19 +27,39 @@ system:
       value: 6
     cha:
       value: 3
-  attacks:
-    - name: Bite
+items:
+  - _id: ylxt2UpChhcxOSuP
+    _key: '!actors.items!iYW5xNXiOIm19t8w.ylxt2UpChhcxOSuP'
+    name: Bite
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
       toHit: ''
       damage: 3d6+2
       damageType: ''
       range: ''
-      effect: ''
-    - name: Consume
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: NdL6pIhTPYMSdvio
+    _key: '!actors.items!iYW5xNXiOIm19t8w.NdL6pIhTPYMSdvio'
+    name: Consume
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
       toHit: ''
       damage: 3d10+2
       damageType: ''
       range: ''
-      effect: ''
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
 prototypeToken:
   name: Nimbus Angel
   actorLink: false
