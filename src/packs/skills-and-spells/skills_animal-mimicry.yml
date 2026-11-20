@@ -5,20 +5,29 @@ type: skill
 img: icons/svg/book.svg
 folder: RdHeMykKiwaJidGt
 system:
-  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>Convincingly imitate animal sounds and mannerisms; higher levels allow understanding and communicating with animals.</em></p><p>You can convincingly imitate animal sounds and mannerisms (but not appearance — that''s a different skill). Higher skill levels may allow you to both understand and communicate simple messages with animals.</p><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/skills/animal-mimicry">Point Mongo</a>.</em></p>'
-  governingStat: ''
+  description: '<p><em>Convincingly imitate animal sounds and mannerisms; higher levels allow understanding and communicating with animals.</em></p><p>You can convincingly imitate animal sounds and mannerisms (but not appearance — that''s a different skill). Higher skill levels may allow you to both understand and communicate simple messages with animals.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/skills/animal-mimicry">Point Mongo</a>.</em></p>'
+  governingStat: int
   category: utility
   attackType: ''
   isPassive: false
   range: ''
   cooldown: ''
-  limitations: ''
+  limitations: You can only imitate sounds and mannerisms of animals you have observed or are familiar with.
   aiFavor: 0
   baseDamage:
     dice: ''
     stat: ''
     damageType: ''
-  upgrades: []
+  upgrades:
+    - id: LxCYquczq9eHpv65
+      rankThreshold: 5
+      description: '<p>Animal Understanding: You can understand simple communications from any animal, regardless of species. You can recognize their emotional states, intentions, and basic needs without needing to imitate their sounds.</p>'
+    - id: 9TR08b5K0805dvPD
+      rankThreshold: 10
+      description: '<p>Beast''s Tongue: You can communicate fluently with any animal, regardless of species. You can exchange complex information, ask questions, give instructions, and understand detailed responses.</p>'
+    - id: uRVb8l3zLrpu84Yj
+      rankThreshold: 15
+      description: '<p>Evolved Language: You can establish a mental connection with any animal on the current floor, allowing you to simultaneously perceive through their senses, communicate telepathically, and access memories.</p>'
 flags:
   point-mongo:
     id: 57
@@ -28,9 +37,6 @@ flags:
     source: 'Community submission — Rijken (Crawler #17193)'
     tags:
       - skill
-    updatedAt: '2026-08-31T17:12:29.7669992Z'
+    updatedAt: '2026-11-19T15:42:41.1007435Z'
     needsRestat: false
-    missingFields:
-      - skill category
-      - governing stat
-      - Rank 5/10/15 upgrades
+    missingFields: []

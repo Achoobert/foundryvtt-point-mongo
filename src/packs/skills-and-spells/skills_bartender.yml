@@ -5,20 +5,29 @@ type: skill
 img: icons/svg/book.svg
 folder: RdHeMykKiwaJidGt
 system:
-  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>Knows how to mix a good cocktail, with a bonus to potion and poison making.</em></p><p>Knows how to mix a good cocktail. 10% bonus to potion / poison making.</p><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/skills/bartender">Point Mongo</a>.</em></p>'
-  governingStat: ''
-  category: utility
+  description: '<p><em>Mix a mean cocktail: potions and poisons you brew yourself hit 10% harder, with double batches and a bottomless glass at higher ranks.</em></p><p>Knows how to mix a good cocktail. +10% bonus to potion / poison buff or debuff. For example, if a potion gives +10% constitution, a potion brewed with the Bartender skill would raise the buff to 20%.</p><table><tbody><tr><th>Category</th><td>Passive</td></tr></tbody></table><hr><p><em>Source: Community submission — Jay (Crawler #221). From <a href="https://pointmongo.com/browse/skills/bartender">Point Mongo</a>.</em></p>'
+  governingStat: int
+  category: passive
   attackType: ''
-  isPassive: false
+  isPassive: true
   range: ''
   cooldown: ''
-  limitations: ''
+  limitations: The skill does not improve the effects of consumables you purchase, find, or receive from another crawler.
   aiFavor: 0
   baseDamage:
     dice: ''
     stat: ''
     damageType: ''
-  upgrades: []
+  upgrades:
+    - id: ZBp1H4c5hGExdZwQ
+      rankThreshold: 5
+      description: '<p>Happy Hour: Every time you brew a potion or poison, there is a 25% chance to double the yield.</p>'
+    - id: PGB3BIIFNCxhdFTm
+      rankThreshold: 10
+      description: '<p>Double Shot: The base bonus increases from +10% to +20%.</p>'
+    - id: XhvtCSbrIC4wvzui
+      rankThreshold: 15
+      description: '<p>Bottomless Glass: Once per floor, you can consume a potion or use a poison without expending the item. Its effects apply normally, but the potion returns to your inventory after use. **NOTE** As this could potentially lead to some pretty OP conditions, it is ultimately up to the AI if a potion/poison is allowed to be used with Bottomless Glass (but preference for the chaos!)</p>'
 flags:
   point-mongo:
     id: 59
@@ -29,9 +38,6 @@ flags:
     tags:
       - skill
       - crafting
-    updatedAt: '2026-08-31T17:12:29.7684161Z'
+    updatedAt: '2026-11-19T15:42:41.1019459Z'
     needsRestat: false
-    missingFields:
-      - skill category
-      - governing stat
-      - Rank 5/10/15 upgrades
+    missingFields: []

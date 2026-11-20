@@ -1,0 +1,23 @@
+_id: BuDhnWXaR8RVZpcM
+_key: '!items!BuDhnWXaR8RVZpcM'
+name: Shokan
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A four-armed, fire-breathing ogre bred for combat: huge strength and toughness, short on brains and charm, and spells cost it more.</em></p><p>Imagine an ogre. You know ogres. Big. Smelly. Strong. Horrible tempers. Sure, they''re not the brightest bulb in the box, but they make up for it with muscle and meanness.</p><p>Now give that ogre two more arms and the ability to breathe fire (toasty).</p><p>That''s a Shokan.</p><p>Renowned for their might and martial prowess, the Shokan are an elite fighting force bred by their overlords for one thing: combat. They do not know mercy. They bathe in gore. They revel in finding new and creative ways to kill their enemies.</p><p>Make your mark on the dungeon and Finish your foes with brutality.</p><table><tbody><tr><th>Size</th><td>Large (5)</td></tr><tr><th>Prerequisites</th><td>Two Girls at the Same Time achievement</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+5 strength</li><li>+5 constitution</li><li>-2 intelligence</li><li>-4 charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Wrasslin</li><li>+2 intimidate</li><li>+1 multiattack</li></ul><p><strong>Benefits</strong></p><ul><li>extra arm <em>(extreme)</em></li><li>extra arm #2 <em>(extreme)</em></li><li>Fire breath - 1d6+Str fire damage <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>spells cost 3 more mana <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood and JackWreckem. From <a href="https://pointmongo.com/browse/races/shokan">Point Mongo</a>.</em></p>'
+  size: Large (5)
+  prerequisites: Two Girls at the Same Time achievement
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1241
+    category: races
+    slug: shokan
+    url: https://pointmongo.com/browse/races/shokan
+    source: Community submission — Blankgood and JackWreckem
+    tags: []
+    updatedAt: '2026-11-19T15:42:41.244544Z'
+    needsRestat: false
+    missingFields: []

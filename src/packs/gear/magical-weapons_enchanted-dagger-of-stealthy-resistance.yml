@@ -1,0 +1,19 @@
+_id: nWTAL9FWXpZu8RcB
+_key: '!items!nWTAL9FWXpZu8RcB'
+name: Enchanted Dagger of Stealthy Resistance
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A Platinum dagger granting +2 Stealth, +5% Constitution and resistance to fire.</em></p><p>This platinum tier enchanted dagger was forged from premium materials by a master craftsman.  When equipped it bestows the following benefits: +2 Stealth Skill, +5% Constitution, and Resistance to Fire Damage.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dagger</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Stealth Skill</li><li>+5% Constitution</li><li>Resistance to Fire damage</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/enchanted-dagger-of-stealthy-resistance">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1244
+    category: magical-weapons
+    slug: enchanted-dagger-of-stealthy-resistance
+    url: https://pointmongo.com/browse/magical-weapons/enchanted-dagger-of-stealthy-resistance
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-19T15:42:41.248998Z'
+    needsRestat: false
+    missingFields: []

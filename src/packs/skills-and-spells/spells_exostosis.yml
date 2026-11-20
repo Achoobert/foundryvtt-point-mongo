@@ -1,0 +1,44 @@
+_id: fGfcIsQx8lHuXd6v
+_key: '!items!fGfcIsQx8lHuXd6v'
+name: Exostosis
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Make a target''s bones sprout piercing spurs that leave it bleeding, or turn a skeleton into a spiky hazard for anyone who hits it.</em></p><p>You cause the target''s bones to rapidly sprout pointed outgrowths that pierce flesh and inflict bleeding. Interestingly, for skeletons this serves to inflict damage on their attackers (equal to spell''s base damage) for one round of combat.</p><p>Obviously this does not work if the target lacks bones.</p><table><tbody><tr><th>Base damage</th><td>1d4 + INT</td></tr></tbody></table><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/spells/exostosis">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 16
+  range: 30 ft
+  duration: Instant
+  cooldown: 6 seconds
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses:
+    - Necromancer
+    - warlock
+  baseDamage:
+    dice: 1d4
+    stat: int
+    damageType: piercing
+  upgrades:
+    - id: ejNio4QkeckU3Cmm
+      rankThreshold: 5
+      description: <p>Increase base damage to 1d8. Grant disadvantage to target's next attack OR reduce movement by half.</p>
+    - id: pBpUyP2HSRiB6KC2
+      rankThreshold: 10
+      description: <p>Apply Bleed debuff for 1 minute.</p>
+    - id: XaAU4s4NggVta6OC
+      rankThreshold: 15
+      description: <p>Base damage increases to 2d8. Bleed debuff lasts 2 minutes.</p>
+flags:
+  point-mongo:
+    id: 1240
+    category: spells
+    slug: exostosis
+    url: https://pointmongo.com/browse/spells/exostosis
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-19T15:42:41.2150852Z'
+    needsRestat: false
+    missingFields: []

@@ -5,20 +5,29 @@ type: skill
 img: icons/svg/book.svg
 folder: RdHeMykKiwaJidGt
 system:
-  description: '<p><strong>Missing:</strong> skill category, governing stat, Rank 5/10/15 upgrades</p><p><em>Puts all those dead mobs in your inventory to use — pairs especially well with necromancy.</em></p><p>Now you have a use for all of those dead mobs you keep stuffing into your inventory. Combine with necromancy spells to create your own horrifying monstrosities!</p><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/skills/taxidermy">Point Mongo</a>.</em></p>'
-  governingStat: ''
+  description: '<p><em>Puts all those dead mobs in your inventory to use — pairs especially well with necromancy.</em></p><p>Now you have a use for all of those dead mobs you keep stuffing into your inventory. Combine with necromancy spells to create your own horrifying monstrosities!</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — Rijken (Crawler #17193). From <a href="https://pointmongo.com/browse/skills/taxidermy">Point Mongo</a>.</em></p>'
+  governingStat: dex
   category: utility
   attackType: ''
   isPassive: false
   range: ''
-  cooldown: ''
-  limitations: ''
+  cooldown: None
+  limitations: Cannot be used on living, undead, or non-corporeal creatures (dead only), and corpse must be fully intact (until Rank 5); requires a necromancy skill or ability to reanimate (unlocks at Rank 10)
   aiFavor: 0
   baseDamage:
     dice: ''
     stat: ''
     damageType: ''
-  upgrades: []
+  upgrades:
+    - id: IhIWaWRYogUTeGmw
+      rankThreshold: 5
+      description: '<p>Efficient Preservation: Taxidermy no longer requires an entire corpse. You can preserve individual body parts and store them independently without losing their usable properties.</p>'
+    - id: kcTk5OlYXzefHs2i
+      rankThreshold: 10
+      description: '<p>Hybrid Harbinger: Combine two different creatures'' remains into one composite monstrosity. The resulting specimen retains the physical characteristics and natural abilities of its component creatures.</p>'
+    - id: fBIgXD4N5YXD25bz
+      rankThreshold: 15
+      description: '<p>Abomination Architect: Combine three or more creatures'' remains into one composite monstrosity. The resulting specimen retains the abilities, physical characteristics, and natural defenses of every constituent creature, including otherwise incompatible anatomical features.</p>'
 flags:
   point-mongo:
     id: 80
@@ -29,9 +38,6 @@ flags:
     tags:
       - skill
       - crafting
-    updatedAt: '2026-08-31T17:12:29.7810212Z'
+    updatedAt: '2026-11-19T15:42:41.0983189Z'
     needsRestat: false
-    missingFields:
-      - skill category
-      - governing stat
-      - Rank 5/10/15 upgrades
+    missingFields: []
