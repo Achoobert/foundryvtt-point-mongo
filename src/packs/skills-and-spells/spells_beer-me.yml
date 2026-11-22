@@ -1,0 +1,42 @@
+_id: gKPmZHmZmm3bVQeK
+_key: '!items!gKPmZHmZmm3bVQeK'
+name: Beer Me
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Conjure a beer of your choice and hurl a piss missile in the same breath, leaving the target Woozy, and later Wasted.</em></p><p>A beer magically manifests in your hand, brand of your choice, and in the same action you may launch an absolute piss missile at an enemy you can see within range. They take 1d4 + Int Bludgeoning and gain the "Woozy" debuff.</p><table><tbody><tr><th>Base damage</th><td>1d4 + INT</td></tr></tbody></table><hr><p><em>Source: Community submission — Gweave #777. From <a href="https://pointmongo.com/browse/spells/beer-me">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 5
+  range: 30ft
+  duration: Instant
+  cooldown: None
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses: []
+  baseDamage:
+    dice: 1d4
+    stat: int
+    damageType: bludgeoning
+  upgrades:
+    - id: l0kFwQwdg3YmHxr4
+      rankThreshold: 5
+      description: <p>+1d4 Dmg</p>
+    - id: NDosQIbJk3qCmlmZ
+      rankThreshold: 10
+      description: <p>Target instead gets the "Wasted" Debuff</p>
+    - id: RyObJj3ZKZhZy2Qx
+      rankThreshold: 15
+      description: <p>+1d4 Dmg</p>
+flags:
+  point-mongo:
+    id: 1269
+    category: spells
+    slug: beer-me
+    url: https://pointmongo.com/browse/spells/beer-me
+    source: 'Community submission — Gweave #777'
+    tags: []
+    updatedAt: '2026-11-21T18:14:01.3731759Z'
+    needsRestat: false
+    missingFields: []

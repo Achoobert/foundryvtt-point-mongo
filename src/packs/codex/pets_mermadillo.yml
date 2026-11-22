@@ -1,0 +1,24 @@
+_id: QwzWfIzqbQxUvW01
+_key: '!journal!QwzWfIzqbQxUvW01'
+name: Mermadillo
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: VC30K8klUrxJ2paE
+    _key: '!journal.pages!QwzWfIzqbQxUvW01.VC30K8klUrxJ2paE'
+    name: Mermadillo
+    type: text
+    src: https://pointmongo.com/img/entries/pets-mermadillo.jpg
+    text:
+      format: 1
+      content: '<p><img src="https://pointmongo.com/img/entries/pets-mermadillo.jpg"></p><p><em>An armadillo with a fish tail: hilarious on land, armored, and later a rolling sushi attack that knocks foes down.</em></p><p>Watching these fuckers flop around on land is just hilarious. They can roll, though, so don’t let them hear you laugh. Oh, and unlike normal armadillos these don’t have leprosy. Usually.</p><p>Size: Infant - Tiny, Adult - Small</p><p>Bonded Role: Aggressive</p><p>Swim move 50ft</p><p>DR = F</p><p>Back Claw and Bite</p><p>Level 15 Benefits:</p><p>Sushi Roll: As long as they move or step 5 ft before they attack, they can attack anything their move takes them through or adjacent to. Anything they hit with this attack gains the Take Down debuff.</p><hr><p><em>Source: Community submission — Drossithrax. From <a href="https://pointmongo.com/browse/pets/mermadillo">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1276
+    category: pets
+    slug: mermadillo
+    url: https://pointmongo.com/browse/pets/mermadillo
+    source: Community submission — Drossithrax
+    tags: []
+    updatedAt: '2026-11-21T22:50:09.5288305Z'
+    needsRestat: false
+    missingFields: []

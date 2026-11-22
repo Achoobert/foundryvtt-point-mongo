@@ -1,0 +1,23 @@
+_id: 3RtO2ijYzebEglOV
+_key: '!journal!3RtO2ijYzebEglOV'
+name: Fiona, Goddess of Tranquility
+folder: EC7wotocfEVDG1Mx
+pages:
+  - _id: 0Z3iRw4KMVofLN5R
+    _key: '!journal.pages!3RtO2ijYzebEglOV.0Z3iRw4KMVofLN5R'
+    name: Fiona, Goddess of Tranquility
+    type: text
+    text:
+      format: 1
+      content: '<p><em>The gentle hippo goddess at the head of the Celestial Ascendancy, who trades a +5 boon to all stats for a daily cabbage.</em></p><p>The Goddess of Tranquility is one of the most powerful deities in the dungeon. Created at the dawn of the Dungeon World by the universe as the cosmic opposite to The Scavenger, Fiona is the oldest goddess in the pantheon and acts as the authority of the Celestial Ascendancy. She appears as an Earth Hippo, standing on a rock surrounded by water. Her iconography is a silhouette of her head in profile.</p><p>Personality wise, she is a kind and gentle goddess who grants boons to any crawler who invokes her shrine. Her shrine, a bust of her head with the mouth open, takes one cabbage every day. In exchange, she grants a +5 boon to all stats for six hours.</p><p>Fiona has no sponsorship option as her role in the Ascendancy is too great to allow any corporate entity to control her. She is run by an independent artificial intelligence that adheres to the legends of Fiona and her moral compass. She is, for all intents and purposes, a good girl.</p><p>(R.I.P Fiona from the Crawlers of Earth)</p><hr><p><em>Source: Community submission — MoonshadowDark. From <a href="https://pointmongo.com/browse/deities/fiona-goddess-of-tranquility">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1271
+    category: deities
+    slug: fiona-goddess-of-tranquility
+    url: https://pointmongo.com/browse/deities/fiona-goddess-of-tranquility
+    source: Community submission — MoonshadowDark
+    tags: []
+    updatedAt: '2026-11-21T22:50:04.7922549Z'
+    needsRestat: false
+    missingFields: []

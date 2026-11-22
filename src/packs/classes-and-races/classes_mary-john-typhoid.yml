@@ -1,0 +1,23 @@
+_id: Irzpv6KcytoBGcMo
+_key: '!items!Irzpv6KcytoBGcMo'
+name: Mary/John Typhoid
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A silent plague carrier immune to poison and disease, who heals by afflicting others and keeps debuffs lingering.</em></p><p>Plague carrier, Silent agent, death comes inconspicuously, but it comes either way.</p><table><tbody><tr><th>Prerequisites</th><td>You must have been inflicted with a damaging debuff or a disease at least once before choosing this class. Alternatively, you may take this class if you are of any Rat-type race</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 Constitution</li><li>+2 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 First Aid</li><li>+2 Alchemy</li><li>+1 Flabbergasting Ray</li><li>+3 to one of the Affliction Spells of your choice (Bubble Head, Paper Cuts, Fang Bang or Fire Cloud)</li></ul><p><strong>Benefits</strong></p><ul><li>You may heal 1HB if you damage or kill a Creature with one of your Affliction Spells (up to 5HB per combat or scene) (2pts) <em>(moderate)</em></li><li>Non-damaging debuffs are reapplied one more time at the end of the round they expire. <em>(extreme)</em></li><li>Immunity to Poison and all diseases <em>(epic)</em></li><li>Dungeon Book of the Floor Club <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>-2 Charisma (+1 pt) <em>(1 pt)</em></li><li>One more mana for non-Affliction spells. <em>(1 pt)</em></li><li>Banned of use any Healing Spells (beside the initial Heal Spell) <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/mary-john-typhoid">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Warlock / mage
+  prerequisites: You must have been inflicted with a damaging debuff or a disease at least once before choosing this class. Alternatively, you may take this class if you are of any Rat-type race
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1265
+    category: classes
+    slug: mary-john-typhoid
+    url: https://pointmongo.com/browse/classes/mary-john-typhoid
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-21T18:14:01.3271928Z'
+    needsRestat: false
+    missingFields: []

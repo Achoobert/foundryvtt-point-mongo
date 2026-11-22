@@ -1,0 +1,23 @@
+_id: k59zB5m9Xy1RqqEK
+_key: '!items!k59zB5m9Xy1RqqEK'
+name: '"Herbal" Healer'
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A mellow (and hungry) Druid healer who grows plants fast, heals extra, and turns fatigue into a pleasant Woozy.</em></p><p>Nature heals. Sometimes, it heals and keep you mellow. Sometimes, it heals and keep you a little paranoid. And hungry. Ever so hungry. But it heals.</p><p><strong>Stat bonuses</strong></p><ul><li>+4 Intelligence</li><li>+3 Charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 First Aid</li><li>+1 Infusion</li><li>+1 Iron Stomach</li><li>+1 Survival</li><li>+2 Nature''s Breath Spell</li><li>+1 Root Foot spell</li></ul><p><strong>Benefits</strong></p><ul><li>If you spend at least an hour a day tending to Plants, they will grow CHA times faster. <em>(minor)</em></li><li>Double the mana regeneration from mending and resting when under the influence <em>(minor)</em></li><li>When you use a Healing Type spell, target heals an additional HB (2pts) <em>(moderate)</em></li><li>You may turn a Fatigued, Stiff Legs or Sore as Shit debuff on you or an ally into a Woozy debuff (10 hour Cooldown) <em>(major)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/herbal-healer">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Druid
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1264
+    category: classes
+    slug: herbal-healer
+    url: https://pointmongo.com/browse/classes/herbal-healer
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-21T18:14:01.3262325Z'
+    needsRestat: false
+    missingFields: []

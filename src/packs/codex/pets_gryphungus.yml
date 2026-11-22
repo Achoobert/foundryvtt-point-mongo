@@ -1,0 +1,24 @@
+_id: oncH2PIJHH4STPj4
+_key: '!journal!oncH2PIJHH4STPj4'
+name: Gryphungus
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: HqTGO5K1zULSIVTz
+    _key: '!journal.pages!oncH2PIJHH4STPj4.HqTGO5K1zULSIVTz'
+    name: Gryphungus
+    type: text
+    src: https://pointmongo.com/img/entries/pets-gryphungus.jpg
+    text:
+      format: 1
+      content: '<p><img src="https://pointmongo.com/img/entries/pets-gryphungus.jpg"></p><p><em>A gryphon fused with a ''Shroom Bloom whose spores make wounded enemies explode in a chain reaction.</em></p><p>A symbiotic combination of a ‘Shroom Bloom from the 4th Floor and a Gryphon, the Gryphungus is a majestic mountain of decay.</p><p>Size: Infant - Tiny, Adult - Large</p><p>Bonded Role: Aggressive</p><p>Resistance to Poison and Necrotic Damage</p><p>Back Claw and Bite</p><p>Level 15 Benefits:</p><p>Flying Move 50 ft</p><p>Spore Burst: All targets below 25% HB that are within a 30ft radius of the Gryphungus explode in a Spore Burst, suffering Fd8 Necrotic damage. After a creature explodes, whether it lives or dies, all creatures within a 20ft radius of that creature that are below 25% HB also explode. This continues to chain as long as there are eligible targets within 20 ft of an explosion. A creature may only explode like this once per combat round.</p><hr><p><em>Source: Community submission — Drossithrax. From <a href="https://pointmongo.com/browse/pets/gryphungus">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1281
+    category: pets
+    slug: gryphungus
+    url: https://pointmongo.com/browse/pets/gryphungus
+    source: Community submission — Drossithrax
+    tags: []
+    updatedAt: '2026-11-21T22:50:09.5318171Z'
+    needsRestat: false
+    missingFields: []

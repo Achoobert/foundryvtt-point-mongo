@@ -1,0 +1,23 @@
+_id: GT2CHtgGwSZl2qFu
+_key: '!items!GT2CHtgGwSZl2qFu'
+name: Mental Mind
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A psionic who blasts minds, casts free spells that grow by floor, wields a floating weapon, and learns to fly at level 50.</em></p><p>Psionics. mental powers. Adjacent to magic, quite not it.</p><p><strong>Stat bonuses</strong></p><ul><li>+4 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Detect Lies (4pts)</li><li>+1 Telekinesis (2pts)</li></ul><p><strong>Benefits</strong></p><ul><li>Psychic Blast: A natural attack at [Rank = Floor Number] that deals 1d6 + Int Mod Psychic damage, 20ft range. Add another d6 at Rank 5, 10, and 15. Rank only increases by Floor <em>(extreme)</em></li><li>Choose between Grand Illusion, Shield or Unnecessary Force. You can cast your choice at Rank 5 without spending mana, but they have a 10 hour cooldown. These skills only increases rank when you go down a floor. <em>(extreme)</em></li><li>Choose another one of those upon reaching lvl 50 (3pts) <em>(major)</em></li><li>You can levitate an object and wield it as if you holding it in a hand (additional functional arm <em>(extreme)</em></li><li>Upon reaching Lvl 50, you can fly <em>(epic)</em></li></ul><p><strong>Detriments</strong></p><ul><li>access to flight only upon reaching Lvl 50 <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/mental-mind">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Mage? Monk?
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1266
+    category: classes
+    slug: mental-mind
+    url: https://pointmongo.com/browse/classes/mental-mind
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-21T18:14:01.328079Z'
+    needsRestat: false
+    missingFields: []

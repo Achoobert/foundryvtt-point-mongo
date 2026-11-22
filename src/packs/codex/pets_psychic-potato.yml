@@ -1,0 +1,24 @@
+_id: TzLibklhFTaDxfFX
+_key: '!journal!TzLibklhFTaDxfFX'
+name: Psychic Potato
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: HEYhWZp73KcpfcP3
+    _key: '!journal.pages!TzLibklhFTaDxfFX.HEYhWZp73KcpfcP3'
+    name: Psychic Potato
+    type: text
+    src: https://pointmongo.com/img/entries/pets-psychic-potato.jpg
+    text:
+      format: 1
+      content: '<p><img src="https://pointmongo.com/img/entries/pets-psychic-potato.jpg"></p><p><em>A potted potato plant that tanks hits and answers every one with a psychic blast, wherever the attacker is.</em></p><p>It’s a potato plant. In a pot. It’s psychic. I don’t understand what part of that confuses you.</p><p>Size: Infant - Tiny, Adult - Small</p><p>Bonded Role: Tank</p><p>DR = F</p><p>Catcher Skill</p><p>Level 15 Benefits:</p><p>Brain Blast: When it takes damage, it responds with a piercing psychic blast. Whatever damages it regardless of distance or line of sight is attacked. If successful, the target takes Fd10 psychic damage. If the target is within 30ft of the potato, it also gains the terrified debuff.</p><p>Fear Spell</p><hr><p><em>Source: Community submission — Drossithrax. From <a href="https://pointmongo.com/browse/pets/psychic-potato">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1278
+    category: pets
+    slug: psychic-potato
+    url: https://pointmongo.com/browse/pets/psychic-potato
+    source: Community submission — Drossithrax
+    tags: []
+    updatedAt: '2026-11-21T22:50:09.5298576Z'
+    needsRestat: false
+    missingFields: []

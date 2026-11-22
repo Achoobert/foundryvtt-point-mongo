@@ -1,0 +1,41 @@
+_id: 4tkGItgw9lSyhxfb
+_key: '!items!4tkGItgw9lSyhxfb'
+name: Hammer
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>Swing, smash or throw a hammer no heavier than your Strength in pounds, adapted from the Improvised Weapon skill.</em></p><p>A standard hammer used for smashing things into each other, or smacking people with. The hammer cannot weigh more than your STR in pounds.</p><p>(Adapted from the Improvised Weapon Skill)</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d4 + STR</td></tr></tbody></table><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/skills/hammer">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: Melee
+  cooldown: ''
+  limitations: The hammer cannot weigh more than your STR in pounds.
+  aiFavor: 1
+  baseDamage:
+    dice: 1d4
+    stat: str
+    damageType: bludgeoning
+  upgrades:
+    - id: UD24STEoOgpJi6QG
+      rankThreshold: 5
+      description: <p>+1d4 base damage, and you can throw the hammer (using this Skill) up to a range of Rank ×5 feet.</p>
+    - id: 3pflydSqQpG8pSej
+      rankThreshold: 10
+      description: <p>+1d4 base damage, and you roll your first Attack each combat with Advantage due to the unexpected nature of your Attacks.</p>
+    - id: 8M9hPxUqLRZoCjRJ
+      rankThreshold: 15
+      description: <p>+1d4 base damage</p>
+flags:
+  point-mongo:
+    id: 1267
+    category: skills
+    slug: hammer
+    url: https://pointmongo.com/browse/skills/hammer
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-11-21T18:14:01.3567078Z'
+    needsRestat: false
+    missingFields: []

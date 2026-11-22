@@ -1,0 +1,19 @@
+_id: JSvOxzAIjVT37kF8
+_key: '!items!JSvOxzAIjVT37kF8'
+name: Enchanted Dagger of the Life Drainer
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A roughly carved obsidian dagger with +3 Dagger ranks and a Drain Life spell every three hours.</em></p><p>A 12” inch blade made of roughly carved obsidian, honed to an impossibly sharp point. The handle is wrapped in dark black leather. This blade grants the following effects:</p><p>• +3 ranks to the Dagger Skill</p><p>• Inherent Spell: Drain Life. Cooldown: 3 hours</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dagger</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr><tr><th>Damage type</th><td>Piercing</td></tr><tr><th>Limitations</th><td>Cooldown: 3 hours</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+3 ranks to the Dagger Skill</li><li>Inherent Spell: Drain Life</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/magical-weapons/enchanted-dagger-of-the-life-drainer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1257
+    category: magical-weapons
+    slug: enchanted-dagger-of-the-life-drainer
+    url: https://pointmongo.com/browse/magical-weapons/enchanted-dagger-of-the-life-drainer
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-11-21T18:14:01.2219638Z'
+    needsRestat: false
+    missingFields: []

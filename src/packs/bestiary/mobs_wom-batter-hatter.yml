@@ -1,0 +1,76 @@
+_id: 9dBKhgmM7CsXRkK8
+_key: '!actors!9dBKhgmM7CsXRkK8'
+name: Wom-Batter Hatter
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>A cute wombat in a hat that wants to shatter your kneecaps with a bat.</em></p><p>What''s not to love with these cute little Wombats in hats? Aside from the fact they want to bash your knee caps in with a bat!</p><p>Fun fact, these little critters shit in cubes ... neat.</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/mobs/wom-batter-hatter">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 3
+  size: Petite (3)
+  creatureType: Beast
+  move: '20'
+  hbSlotsOverride: null
+  hb:
+    value: 3
+    max: 3
+  dr: 1
+  stats:
+    str:
+      value: 6
+    dex:
+      value: 3
+    con:
+      value: 5
+    int:
+      value: 2
+    cha:
+      value: 2
+items:
+  - _id: 1L6k89L94fnPLdMn
+    _key: '!actors.items!9dBKhgmM7CsXRkK8.1L6k89L94fnPLdMn'
+    name: Bat Smack
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
+      toHit: ''
+      damage: 2d6+Str
+      damageType: bludgeoning
+      range: 5ft
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: aWt3y9wdXv8lOxa7
+    _key: '!actors.items!9dBKhgmM7CsXRkK8.aWt3y9wdXv8lOxa7'
+    name: Kneecap Shatter
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
+      toHit: ''
+      damage: 2d8+Str
+      damageType: bludgeoning
+      range: 5ft
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+prototypeToken:
+  name: Wom-Batter Hatter
+  actorLink: false
+flags:
+  point-mongo:
+    id: 1272
+    category: mobs
+    slug: wom-batter-hatter
+    url: https://pointmongo.com/browse/mobs/wom-batter-hatter
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-21T18:14:01.3975549Z'
+    needsRestat: false
+    missingFields: []

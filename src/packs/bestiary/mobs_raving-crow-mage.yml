@@ -1,0 +1,76 @@
+_id: jjQqeC7qGJbKNGIs
+_key: '!actors!jjQqeC7qGJbKNGIs'
+name: Raving Crow Mage
+type: mob
+img: icons/svg/mystery-man.svg
+folder: a9wZjOqXM73faWwf
+system:
+  biography: '<p><em>An elite tin-foil-hatted crow that steals your eyesight with its signature spell, Got Your Eyes!</em></p><p>The birds love depriving your eye sockets of their tenants (Your Eyes!).</p><p>They love casting a signature spell they like to call "Got Your Eyes!". They steal your sight for 1d2 rounds.</p><p>They resemble a crow in a tin foil hat and long black wings that resemble a cloak.</p><table><tbody><tr><th>Floor</th><td>1</td></tr><tr><th>Elite</th><td>Yes (acts once per crawler)</td></tr></tbody></table><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/mobs/raving-crow-mage">Point Mongo</a>.</em></p>'
+  mobTier: ''
+  level: 3
+  size: Small (2)
+  creatureType: Beast
+  move: '25'
+  hbSlotsOverride: null
+  hb:
+    value: 3
+    max: 3
+  dr: 1
+  stats:
+    str:
+      value: 2
+    dex:
+      value: 6
+    con:
+      value: 3
+    int:
+      value: 6
+    cha:
+      value: 3
+items:
+  - _id: CZj47GxVQjWUSjhy
+    _key: '!actors.items!jjQqeC7qGJbKNGIs.CZj47GxVQjWUSjhy'
+    name: Swoop n' Peck
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
+      toHit: ''
+      damage: 1d4+Dex
+      damageType: piercing
+      range: 5ft
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: fYaKKyZrVFyGiz2V
+    _key: '!actors.items!jjQqeC7qGJbKNGIs.fYaKKyZrVFyGiz2V'
+    name: Got Your Eyes!
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
+      toHit: ''
+      damage: ''
+      damageType: ''
+      range: 40ft
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Blind Debuff (DC 13+F)</p>
+prototypeToken:
+  name: Raving Crow Mage
+  actorLink: false
+flags:
+  point-mongo:
+    id: 1273
+    category: mobs
+    slug: raving-crow-mage
+    url: https://pointmongo.com/browse/mobs/raving-crow-mage
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-21T18:14:01.4015385Z'
+    needsRestat: false
+    missingFields: []

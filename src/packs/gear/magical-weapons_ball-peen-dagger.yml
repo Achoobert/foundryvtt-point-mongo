@@ -1,0 +1,19 @@
+_id: rXbo9amgIW17g2PK
+_key: '!items!rXbo9amgIW17g2PK'
+name: Ball-Peen Dagger
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>Half Damascus dagger, half ball-peen hammer, granting +4 ranks to both skills and +5% Strength.</em></p><p>Double the pleasure, double the fun!</p><p>A 10” wooden handle, made of a dark wood, stained a deep reddish-brown and carved with intricate swirling patterns. On one end is an 8” blade made of Damascus steel. On the other, a ball-peen hammer head. This weapon grants the following:</p><p>• +4 ranks to the Dagger Skill</p><p>• +4 ranks to the Hammer (Improvised Weapon) Skill</p><p>• +5% to STR</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dagger</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>Weapon skill</th><td>Dagger, Hammer</td></tr><tr><th>Damage type</th><td>Piercing</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+4 ranks to the Dagger Skill</li><li>+4 ranks to the Hammer (Improvised Weapon) Skill</li><li>+5% to STR</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/magical-weapons/ball-peen-dagger">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1255
+    category: magical-weapons
+    slug: ball-peen-dagger
+    url: https://pointmongo.com/browse/magical-weapons/ball-peen-dagger
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-11-21T18:14:01.2131104Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: zqv06hGn7ZR2dxgx
+_key: '!items!zqv06hGn7ZR2dxgx'
+name: Bee Keeper
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Ranger/Druid with a throwable bee swarm pet that shrugs off blades, and immunity to poison.</em></p><p>Bees were essential to the survival of Earth. Since the planet is gone, might as well find some use for them now, right?</p><p><strong>Stat bonuses</strong></p><ul><li>+3 Charisma</li><li>+3 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Animal Handling</li><li>+1 Endurance</li><li>+1 Throwing</li><li>+1 Heal Critter</li><li>+1 Sticky Feet (Root foot, but with honey)</li></ul><p><strong>Benefits</strong></p><ul><li>Gain a Friendly Bee Swarm Pet <em>(major)</em></li><li>Pet is resistant to Piercing and Slashing damage <em>(epic)</em></li><li>Immunity to Poison <em>(extreme)</em></li><li>You may throw the Bee Swarm <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>-2 to Animal Handling your Swarm <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/bee-keeper">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Ranger / Druid
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1263
+    category: classes
+    slug: bee-keeper
+    url: https://pointmongo.com/browse/classes/bee-keeper
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-21T18:14:01.325266Z'
+    needsRestat: false
+    missingFields: []

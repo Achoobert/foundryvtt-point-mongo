@@ -1,0 +1,19 @@
+_id: ZXoHZU8391TDA8mK
+_key: '!items!ZXoHZU8391TDA8mK'
+name: Cross My Heart
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A blood-pact dagger: share a skill with your pact partner at half rank, but if either of you dies, so does the other.</em></p><p>This blade was forged of the hopeful dreams of all the kids caught in your planet''s apocalypse.</p><p>You may make a pact with someone by pricking your fingers with this blade. While your pact is active you gain a skill of your blood brother/sister at half the rank their skill is at. This skill cannot be raised through any effort on your part. Pact can be ended only in a safe room.</p><p>WARNING: If you or the one you made a pact with die, the other will share the same fate.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dagger</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr><tr><th>Limitations</th><td>Pact can only be cancelled in saferoom, Skill Rank can''t be raised by you</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Dagger</li><li>Skill Share: Gain a skill of your Pact Partner at half its rank. (Cannot be raised by you)</li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/magical-weapons/cross-my-heart">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1254
+    category: magical-weapons
+    slug: cross-my-heart
+    url: https://pointmongo.com/browse/magical-weapons/cross-my-heart
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-21T18:14:01.2089605Z'
+    needsRestat: false
+    missingFields: []

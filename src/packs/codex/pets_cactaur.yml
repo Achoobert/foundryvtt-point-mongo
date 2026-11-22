@@ -1,0 +1,24 @@
+_id: qxMOnZwR9UvDX5J4
+_key: '!journal!qxMOnZwR9UvDX5J4'
+name: Cactaur
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: pXVRY99Lmq6jldA4
+    _key: '!journal.pages!qxMOnZwR9UvDX5J4.pXVRY99Lmq6jldA4'
+    name: Cactaur
+    type: text
+    src: https://pointmongo.com/img/entries/pets-cactaur.jpg
+    text:
+      format: 1
+      content: '<p><img src="https://pointmongo.com/img/entries/pets-cactaur.jpg"></p><p><em>A cactus-horse with spines on every attack that fires back a needle blast at anything that hits it in melee.</em></p><p>They say it was created by a mad mage, but I asked and none of them admitted to this. Still, this cactus-horse abomination isn’t the sickest shit in the dungeon. In fact, it’s pretty tame. Just don’t be surprised if everyone laughs at you when you throw one of these at them.</p><p>Size: Infant - Medium, Adult - Huge</p><p>Bonded Role: Aggressive</p><p>Move 60ft</p><p>Spines: Adds an additional +F damage to all attacks</p><p>Back Claw and Bite</p><p>Level 15 Benefits:</p><p>Needle Blast: 60ft range, Fd10 Piercing damage. Note: The Cactaur will automatically cast Needle Blast, with advantage, against enemies that hit it in Melee.</p><hr><p><em>Source: Community submission — Drossithrax. From <a href="https://pointmongo.com/browse/pets/cactaur">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1277
+    category: pets
+    slug: cactaur
+    url: https://pointmongo.com/browse/pets/cactaur
+    source: Community submission — Drossithrax
+    tags: []
+    updatedAt: '2026-11-21T22:50:09.5293523Z'
+    needsRestat: false
+    missingFields: []

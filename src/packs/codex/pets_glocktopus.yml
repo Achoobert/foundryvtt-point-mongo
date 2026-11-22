@@ -1,0 +1,24 @@
+_id: tX583SsgbJl3cxXL
+_key: '!journal!tX583SsgbJl3cxXL'
+name: Glocktopus
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: J5JwKc8xyowYyxRn
+    _key: '!journal.pages!tX583SsgbJl3cxXL.J5JwKc8xyowYyxRn'
+    name: Glocktopus
+    type: text
+    src: https://pointmongo.com/img/entries/pets-glocktopus.jpg
+    text:
+      format: 1
+      content: '<p><img src="https://pointmongo.com/img/entries/pets-glocktopus.jpg"></p><p><em>A gun-toting octopus with a grudge against goats, growing into a bullet-spraying cone of staggering fire.</em></p><p>Octopods with attitude and guns. And they have some racism against goats. Go figure, not sure how an octopus even knows about goats.</p><p>Size: Infant - Tiny, Adult - Medium</p><p>Bonded Role: Aggressive</p><p>Tentacle Swipe (as Back Claw but bludgeoning)  and Bite.</p><p>Swim 60ft</p><p>Level 15 Benefits:</p><p>Goddamn Arms Race: This attack is a 60ft Cone attack with a 10ft splash that deals Fd12 piercing damage. On an Evade major fail or worse, targets gain the staggered debuff as they are pinned by the bullet barrage.</p><hr><p><em>Source: Community submission — Drossithrax. From <a href="https://pointmongo.com/browse/pets/glocktopus">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1274
+    category: pets
+    slug: glocktopus
+    url: https://pointmongo.com/browse/pets/glocktopus
+    source: Community submission — Drossithrax
+    tags: []
+    updatedAt: '2026-11-21T22:50:09.5260468Z'
+    needsRestat: false
+    missingFields: []

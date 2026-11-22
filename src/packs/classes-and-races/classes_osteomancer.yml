@@ -1,0 +1,24 @@
+_id: b7dxY1Pr9V4LBNaS
+_key: '!items!b7dxY1Pr9V4LBNaS'
+name: Osteomancer
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A bone-obsessed necromancer who shapes skeletons living and dead, with cheap bone spells and advantage against skeletons.</em></p><p>Among the schools of necromancy and transmutation magics there is one group of freaks that stands out from the rest: the osteomancers. Those who shared a table with them in anatomy lab watched with concern as they would lovingly cradle a femur or pocket the odd coccyx. When crypts were looted not for their riches, but for bones, their contemporaries would murmur conspiratorially about them. And when twisted sculptures of bone would appear on campus no one would say, "By his left tit, Balthazar! What have you done?"</p><p>No, they tolerated the eccentricity of the osteomancers and their obsession with molding and shaping the bones of the dead, knowing full well that the living had bones of their own.</p><p>Follow in the tradition of this esoteric order of osteophilic maniacs and shape your foes into bowlegged, osteoporotic facsimile of their former selves, ripe for breaking under your party''s boot. Raise armies of skeletons and sculpt them into unstoppable killers. Go nuts. After all, most creatures in the dungeon have at least one bone you can pick.</p><p><strong>Stat bonuses</strong></p><ul><li>+3 constitution</li><li>+6 intelligence</li><li>-3 charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Stone Bones</li><li>+3 Decalcify</li><li>+2 Animate Skeleton</li><li>+2 Exostosis</li></ul><p><strong>Benefits</strong></p><ul><li>bone-related spells cost half as much mana to cast (rounded down) <em>(major)</em></li><li>I Got a Bone to Pick - spells and skills have advantage against skeletons <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>all non-bone related spells cost +3 mana to cast <em>(2 pt)</em></li><li>deal 1d8 less damage to creatures without skeletons <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/classes/osteomancer">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Necromancer
+    - Mage
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1260
+    category: classes
+    slug: osteomancer
+    url: https://pointmongo.com/browse/classes/osteomancer
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-21T18:14:01.3221911Z'
+    needsRestat: false
+    missingFields: []

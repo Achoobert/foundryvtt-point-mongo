@@ -1,0 +1,24 @@
+_id: 0v4t2oxBnSrIqvtY
+_key: '!journal!0v4t2oxBnSrIqvtY'
+name: Lunar Highland Cow
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: nlGUuYqHqucC4P76
+    _key: '!journal.pages!0v4t2oxBnSrIqvtY.nlGUuYqHqucC4P76'
+    name: Lunar Highland Cow
+    type: text
+    src: https://pointmongo.com/img/entries/pets-lunar-highland-cow.jpg
+    text:
+      format: 1
+      content: '<p><img src="https://pointmongo.com/img/entries/pets-lunar-highland-cow.jpg"></p><p><em>A fluffy, moon-jumping highland cow that lends you its Charisma and later bursts into stunning Milky Way sparkles.</em></p><p>Born of the herd whose ancestor includes the cow that jumped over the moon.</p><p>Size: Infant - small, Adult - huge</p><p>Bonded Role: Utility</p><p>Jump Move 50ft</p><p>Resistance to Psychic damage</p><p>Level 15 Benefits:</p><p>Milky Way: A blinding storm of sparkles blasts out in a 20ft radius burst. Everyone inside this area has advantage on skill check to hide. This also provides illumination, and fascinates enemies. Make an opposed charisma check, on a failure, targets gain the Stun debuff.</p><p>You may add the pet’s Charisma bonus to your social skill checks to influence NPCs and crawlers.</p><hr><p><em>Source: Community submission — Drossithrax. From <a href="https://pointmongo.com/browse/pets/lunar-highland-cow">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1275
+    category: pets
+    slug: lunar-highland-cow
+    url: https://pointmongo.com/browse/pets/lunar-highland-cow
+    source: Community submission — Drossithrax
+    tags: []
+    updatedAt: '2026-11-21T22:50:09.5283073Z'
+    needsRestat: false
+    missingFields: []

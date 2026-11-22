@@ -1,0 +1,24 @@
+_id: 8Qy8G31zIRdRXP7u
+_key: '!journal!8Qy8G31zIRdRXP7u'
+name: Cerberanian
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: IQeYqbHTnoL7lIkk
+    _key: '!journal.pages!8Qy8G31zIRdRXP7u.IQeYqbHTnoL7lIkk'
+    name: Cerberanian
+    type: text
+    src: https://pointmongo.com/img/entries/pets-cerberanian.jpg
+    text:
+      format: 1
+      content: '<p><img src="https://pointmongo.com/img/entries/pets-cerberanian.jpg"></p><p><em>A three-headed Pomeranian: thrice the cute, thrice the bite, and a stunning sonic tri-bark at level 15.</em></p><p>What idiot made a Cerberus, the most feared guard dog in all of Sheol, out of a pomeranian, the cutest floof ball to ever floof. Thrice the cute, Thrice the bite, Thrice the dog hair everywhere.</p><p>Size: Infant - Tiny, Adult - Medium</p><p>Bonded Role: Tank</p><p>DR = F</p><p>Floofy: Resistance to Slashing Damage</p><p>Level 15 Benefits:</p><p>Sonic Tri-Bark: All 3 heads bark at once. Fd8 Sonic damage in a 30ft Cone blast with 5ft Splash. Targets that take damage also gain the stunned debuff as they are entranced by the cuteness.</p><hr><p><em>Source: Community submission — Drossithrax. From <a href="https://pointmongo.com/browse/pets/cerberanian">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1279
+    category: pets
+    slug: cerberanian
+    url: https://pointmongo.com/browse/pets/cerberanian
+    source: Community submission — Drossithrax
+    tags: []
+    updatedAt: '2026-11-21T22:50:09.5303354Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: 6NtZxwjiX3dNbTdb
+_key: '!items!6NtZxwjiX3dNbTdb'
+name: Axe Idiot
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A barbarian who solves every problem with an axe, hitting harder as they bleed, and gives up spells and scrolls entirely.</em></p><p>Let me axe you a question? Do you like to cut through the bullshit? Does casting spells leave you feeling like a hack? What if I told you there was a simple solution to this problem?</p><p>That was actually three questions,  but if numbers and thinking aren''t your strong suits, boy do we have a class for you. The Axe Idiot.</p><p>Really, there only needs to be one solution for all your problems - hit it harder. If you can cleave a limb or two in the process, more power to you. Don''t complicate things with fancy magics or tactics. Grab yourself an axe and chop down the competition.</p><table><tbody><tr><th>Prerequisites</th><td>Axes skill level 5+</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+8 strength</li><li>+3 dexterity</li><li>+4 constitution</li><li>-4 intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 axes skill</li><li>+2 throwing axe skill</li><li>+2 cleave</li></ul><p><strong>Benefits</strong></p><ul><li>+1 damage on hit per missing HP bar <em>(minor)</em></li><li>+1 to advancement rolls for axe skills <em>(moderate)</em></li><li>axes deal an additional die of damage <em>(moderate)</em></li><li>Axes can be raised to Rank 20 <em>(minor)</em></li></ul><p><strong>Detriments</strong></p><ul><li>cannot use magic spells or scrolls <em>(3 pt)</em></li><li>all non-axe weapons deal 50% less damage <em>(2 pt)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/classes/axe-idiot">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Barbarian
+  prerequisites: Axes skill level 5+
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1261
+    category: classes
+    slug: axe-idiot
+    url: https://pointmongo.com/browse/classes/axe-idiot
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-21T18:14:01.3232903Z'
+    needsRestat: false
+    missingFields: []

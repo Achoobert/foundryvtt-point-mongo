@@ -1,0 +1,24 @@
+_id: enABraYXKg4HXzxY
+_key: '!journal!enABraYXKg4HXzxY'
+name: Spider Horror
+folder: mBT13Qr2Ij2CrxNP
+pages:
+  - _id: yxqvnOBbgzJHh8G4
+    _key: '!journal.pages!enABraYXKg4HXzxY.yxqvnOBbgzJHh8G4'
+    name: Spider Horror
+    type: text
+    src: https://pointmongo.com/img/entries/pets-spider-horror.jpg
+    text:
+      format: 1
+      content: '<p><img src="https://pointmongo.com/img/entries/pets-spider-horror.jpg"></p><p><em>A flying bat-spider that sharpens your perception with echolocation and later webs and poisons everything it hits.</em></p><p>A flying bat-spider hybrid. A Bat that was bitten by a radioactive spider and gained the … nah that''s bullshit. This is just a terrifying freak.</p><p>Size: Infant - Tiny, Adult - Medium</p><p>Bonded Role: Utility</p><p>Fly Move 40ft</p><p>Slice</p><p>Echolocation: Add +F to Crawler’s Perception Skills while within 30 ft</p><p>Level 15 Benefits:</p><p>Web Spell</p><p>All successful Attacks now grant the Poisoned condition.</p><hr><p><em>Source: Community submission — Drossithrax. From <a href="https://pointmongo.com/browse/pets/spider-horror">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1280
+    category: pets
+    slug: spider-horror
+    url: https://pointmongo.com/browse/pets/spider-horror
+    source: Community submission — Drossithrax
+    tags: []
+    updatedAt: '2026-11-21T22:50:09.531266Z'
+    needsRestat: false
+    missingFields: []

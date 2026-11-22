@@ -1,0 +1,23 @@
+_id: JtpH02umRdwSBcDL
+_key: '!items!JtpH02umRdwSBcDL'
+name: Beastmaster
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A pet parent whose friendly pet grows tougher with stacked DR, Rage and a special ability at level 15.</em></p><p>Throughout the galaxy, many species utilize pets. For work, companionship, annoyance. What I found is that pets don''t eat as much as they... reload. You humans actually turned that up a notch.</p><p>You are one of those... Pet parents. They are your children, born from you, no matter how impossible this may seem. They are not animals, they are Angels of Light.</p><p>See, your angel of light over there is eating the innards of that goblin you just killed with it...</p><p><strong>Stat bonuses</strong></p><ul><li>+3 Charisma</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+ 2 Animal Handling</li><li>+1 Heal Critter Spell</li></ul><p><strong>Benefits</strong></p><ul><li>Gain a Friendly Pet <em>(major)</em></li><li>Roll with Advantage to give commands to your Pet <em>(major)</em></li><li>+1 DR to your pet <em>(major)</em></li><li>another +1 DR to your pet <em>(major)</em></li><li>another +1 DR to your pet <em>(major)</em></li><li>Pet gains the Rage benefit (3pts) <em>(major)</em></li><li>Upon reaching level 15, your pet gains one Additional Special Ability (3pts) <em>(major)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/beastmaster">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Ranger
+  prerequisites: ''
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1262
+    category: classes
+    slug: beastmaster
+    url: https://pointmongo.com/browse/classes/beastmaster
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-21T18:14:01.3242928Z'
+    needsRestat: false
+    missingFields: []

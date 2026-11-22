@@ -1,0 +1,19 @@
+_id: UPaACztbk4oV5qov
+_key: '!items!UPaACztbk4oV5qov'
+name: Mascara del Horpojarad (Mask of Harpocrates)
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A dead luchador''s mask that makes you its hero or its villain, with wrestling skills and a club pass to match.</em></p><p>Lucha Libre has a grand tradition in Mexico. Heroes, villains, battles of legend and myth. This is a mask of a now-deceased luchador. What it becomes depends on what you choose.</p><p>Technico (face) Or Rudo (Heel)</p><p>Once a choice is made, No other crawler may don this mask while you live. (Do not show the crawlers what the choices entail before they make them)</p><table><tbody><tr><th>Slot</th><td>Head</td></tr><tr><th>Type</th><td>Mask</td></tr><tr><th>Tier</th><td>Legendary</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Technico</li><li>You are the good guy, the hero, the Champion of Horpojarad. Hmm. Not sure why that didn’t translate. Let’s try again. You are the champion of Harpocrates. Hey! It worked!</li><li>+2 Good first Impression Skill</li><li>+2 Inspire Crawler⚙ Skill</li><li>+2 Wrestling Skill</li><li>You gain access to Club Vanquisher</li><li>You gain Masque Muerte⚙ Hand to hand Damage Effect</li><li>Rudo</li><li>You are the villain, the rebel, the outcast. The Wrath of Horpojarad. Hmm. Not sure why that didn’t translate. Let’s try again. You are the Wrath of Harpocrates. Hey! It worked!</li><li>+2 Wrestling Skill</li><li>+2 Inspire Terror⚙ Skill</li><li>+2 Intimidation Skill</li><li>Access to the Desperado Club</li><li>You gain Masque Muerte⚙ Hand to hand Damage Effect</li></ul><hr><p><em>Source: Community submission — Drossithrax. From <a href="https://pointmongo.com/browse/magic-items/mascara-del-horpojarad-mask-of-harpocrates">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1282
+    category: magic-items
+    slug: mascara-del-horpojarad-mask-of-harpocrates
+    url: https://pointmongo.com/browse/magic-items/mascara-del-horpojarad-mask-of-harpocrates
+    source: Community submission — Drossithrax
+    tags: []
+    updatedAt: '2026-11-21T22:50:09.6066302Z'
+    needsRestat: false
+    missingFields: []
