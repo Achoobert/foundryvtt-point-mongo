@@ -1,0 +1,19 @@
+_id: PP0FEqfWSNtk2ii1
+_key: '!items!PP0FEqfWSNtk2ii1'
+name: Parrying Daggers of the Vengeful Duelist
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A wide-guarded parrying dagger: +1 Evade, and every dodge against an adjacent foe earns a counterattack.</em></p><p>A slick dagger with a wide hand guard. Made to be used as a parrying weapon.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dagger</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 to Evade</li><li>When you evade an attack by an adjacent foe, you may take an interrupt action to attack him. If you hit on this attack, add Dex mod to the damage.</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/magical-weapons/parrying-daggers-of-the-vengeful-duelist">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1288
+    category: magical-weapons
+    slug: parrying-daggers-of-the-vengeful-duelist
+    url: https://pointmongo.com/browse/magical-weapons/parrying-daggers-of-the-vengeful-duelist
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-22T19:25:21.8197368Z'
+    needsRestat: false
+    missingFields: []

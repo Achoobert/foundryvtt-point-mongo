@@ -1,0 +1,92 @@
+_id: epEsYIfYUMbeEAEh
+_key: '!actors!epEsYIfYUMbeEAEh'
+name: Casso B Wary
+type: mob
+img: icons/svg/mystery-man.svg
+folder: iQNs6vbNOySXoz7Q
+system:
+  biography: '<p><em>A guitar-shredding cassowary boss who rips off songs and crawlers alike, and gets faster as it nears death.</em></p><p>This towering, eight-foot-tall borderline dinosaur from the outback is a cassowary!</p><p>With razor-sharp talons, a bloodstained electric guitar, and absolutely will be playing off every song it rips off as its own.</p><p>Casso B. Wary charges into battle playing face-melting guitar solos, using his enormous claws to shred unfortunate crawlers into bloody ribbons. Nobody knows where the guitar came from, how he''s playing it without hands, or why every successful disembowelment is accompanied by a perfectly timed power chord.</p><table><tbody><tr><th>Floor</th><td>1</td></tr></tbody></table><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/bosses/casso-b-wary">Point Mongo</a>.</em></p>'
+  mobTier: neighborhood
+  level: 6
+  size: Large (5)
+  creatureType: Beast
+  move: '40'
+  hbSlotsOverride: null
+  hb:
+    value: 11
+    max: 11
+  dr: 1
+  stats:
+    str:
+      value: 8
+    dex:
+      value: 8
+    con:
+      value: 6
+    int:
+      value: 2
+    cha:
+      value: 5
+items:
+  - _id: xPEhh6v4xKPI1tcE
+    _key: '!actors.items!epEsYIfYUMbeEAEh.xPEhh6v4xKPI1tcE'
+    name: Thunderstuck
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 1000
+    system:
+      toHit: ''
+      damage: 2d6+2
+      damageType: ''
+      range: Sight
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>Sonic damage.</p>
+  - _id: Batf8eyPwsStsvI5
+    _key: '!actors.items!epEsYIfYUMbeEAEh.Batf8eyPwsStsvI5'
+    name: Natural Talon't
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 2000
+    system:
+      toHit: ''
+      damage: 1d10+3
+      damageType: slashing
+      range: 5ft
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: ''
+  - _id: Sk2WNnblGDpwnc3r
+    _key: '!actors.items!epEsYIfYUMbeEAEh.Sk2WNnblGDpwnc3r'
+    name: Freebird!
+    type: mobAttack
+    img: icons/svg/sword.svg
+    sort: 3000
+    system:
+      toHit: ''
+      damage: N/A
+      damageType: ''
+      range: ''
+      isArea: false
+      splash: false
+      armorPiercing: false
+      targetEffects: []
+      description: <p>When at 25% HP or below it gains an additional Natural Talon't Attack per action.</p>
+prototypeToken:
+  name: Casso B Wary
+  actorLink: false
+flags:
+  point-mongo:
+    id: 1290
+    category: bosses
+    slug: casso-b-wary
+    url: https://pointmongo.com/browse/bosses/casso-b-wary
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-22T19:25:21.8374289Z'
+    needsRestat: false
+    missingFields: []

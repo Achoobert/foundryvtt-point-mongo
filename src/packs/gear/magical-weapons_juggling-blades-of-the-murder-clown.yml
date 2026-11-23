@@ -1,0 +1,19 @@
+_id: cDuSYkcrdOWFOmeU
+_key: '!items!cDuSYkcrdOWFOmeU'
+name: Juggling Blades of the Murder Clown
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>Three juggling daggers from a cult of assassin clowns: throw one, two or all three, and they come back while you keep juggling.</em></p><p>The Murder Clowns were a murderous cult of assassins who blended into the ranks of carneys and circus folk to travel around their world, working murder for hire jobs. These clowns were famous for performing their work with a certain verve, with fables of their knife juggling routine embedded in the popular consciousness. When the Dungeon came to their world, these people did not fare so well, so there are no more Murder Clowns left to terrorize the galaxy, but we still have their most famous weapons.</p><p>These three daggers are designed to be juggled. They have dull edges, but razor sharp points, and are weighted so that they can be juggled.</p><p>Limitations: All combat bonuses and boons may only be used while juggling the daggers.</p><p>• Grants the Juggling skill.</p><p>• +2 Piercing damage.</p><p>• X2 Throwing range.</p><p>• Crawler may opt to throw one, two, or all three daggers. Treated as one attack, but a hit uses damage dice equal to the number of daggers thrown.</p><p>• Thrown daggers return to the user’s hands so long as they are juggling at least 1 dagger of the three.</p><p>• Big Finish - Throwing all three daggers at the target at once automatically increases the degree of success by 1.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dagger</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr><tr><th>Damage type</th><td>Piercing</td></tr><tr><th>Limitations</th><td>May only be used while being juggled. If the crawler cannot juggle the blades, then they may not make an attack with them.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Grants the Juggling skill.</li><li>+2 Piercing damage.</li><li>X2 Throwing range.</li><li>Crawler may opt to throw one, two, or all three daggers. Treated as one attack, but a hit uses damage dice equal to the number of daggers thrown.</li><li>Thrown daggers return to the user’s hands so long as they are juggling at least 1 dagger of the three.</li><li>Big Finish - Throwing all three daggers at the target at once automatically increases the degree of success by 1.</li></ul><hr><p><em>Source: Community submission — Greg Holkan. From <a href="https://pointmongo.com/browse/magical-weapons/juggling-blades-of-the-murder-clown">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1286
+    category: magical-weapons
+    slug: juggling-blades-of-the-murder-clown
+    url: https://pointmongo.com/browse/magical-weapons/juggling-blades-of-the-murder-clown
+    source: Community submission — Greg Holkan
+    tags: []
+    updatedAt: '2026-11-22T19:25:21.8186157Z'
+    needsRestat: false
+    missingFields: []

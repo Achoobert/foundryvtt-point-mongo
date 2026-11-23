@@ -1,0 +1,19 @@
+_id: bicxterEG6pXYIed
+_key: '!items!bicxterEG6pXYIed'
+name: Dagger of a Thousand Cuts
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>Mark a target and every hit after the first deals more damage, until you miss or switch targets.</em></p><p>Properties: Finesse, Light, Range, Thrown</p><p>Damage: 1d6 piercing</p><p>Skill: Slow Death</p><p>You''ve successfully landed a hit with the Dagger of a Thousand Cuts!  If you so choose you can mark that being for death. Each following successful attack against this creature increases the damage by an additional 1d4. However, if you miss an attack, change your target, or either you or the creature falls unconscious or dead, the accumulation resets and starts again. You can only use this skill once per creature, and only one creature can be marked at a time.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dagger</td></tr><tr><th>Tier</th><td>Platinum</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr><tr><th>Damage type</th><td>Piercing</td></tr><tr><th>Cooldown</th><td>1 min</td></tr><tr><th>Limitations</th><td>Active for 1 minutes.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>When you successfully attack a creature, deal 1d6 damage.  You may choose to mark the target. If your next attack is this target and it''s a success, you will deal 1d6 + 1d4 piercing damage. If your next attack is again this creature, and succeed, you will deal 1d6 + 2d4 piercing damage. If you miss or attack a different target, then the next successful attack against the marked creature will be 1d6 +1d4 piercing, starting the accumulation again.</li></ul><hr><p><em>Source: Community submission — Seladriana. From <a href="https://pointmongo.com/browse/magical-weapons/dagger-of-a-thousand-cuts">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1291
+    category: magical-weapons
+    slug: dagger-of-a-thousand-cuts
+    url: https://pointmongo.com/browse/magical-weapons/dagger-of-a-thousand-cuts
+    source: Community submission — Seladriana
+    tags: []
+    updatedAt: '2026-11-22T19:27:23.6667795Z'
+    needsRestat: false
+    missingFields: []

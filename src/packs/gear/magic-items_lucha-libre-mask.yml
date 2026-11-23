@@ -1,0 +1,19 @@
+_id: DvZ1XKrXMTqKUf4a
+_key: '!items!DvZ1XKrXMTqKUf4a'
+name: Lucha Libre Mask
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A Silver luchador mask with +2 Charisma, +2 Intimidate and a point of DR.</em></p><p>Don this mask to become a mighty Luchador! It will boost Intimidation and Charisma and even gives a little bit of protection.</p><table><tbody><tr><th>Slot</th><td>Head</td></tr><tr><th>Type</th><td>Mask</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 CHA</li><li>+2 Intimidate</li></ul><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/magic-items/lucha-libre-mask">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1285
+    category: magic-items
+    slug: lucha-libre-mask
+    url: https://pointmongo.com/browse/magic-items/lucha-libre-mask
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-11-22T19:25:21.8166208Z'
+    needsRestat: false
+    missingFields: []

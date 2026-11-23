@@ -1,0 +1,19 @@
+_id: BTQLpq97PchK4Z6T
+_key: '!items!BTQLpq97PchK4Z6T'
+name: Taranis' Fang
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A golden dagger curved like a lightning bolt that casts Lightning Bolt at your Dagger rank.</em></p><p>An oddly curved golden blade, resembling a lightning.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dagger</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr><tr><th>Damage type</th><td>Electric</td></tr><tr><th>Cooldown</th><td>30 hours</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Can use Lightning Bolt spell with using your Dagger Rank (30 hours Cooldown).</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/magical-weapons/taranis-fang">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1289
+    category: magical-weapons
+    slug: taranis-fang
+    url: https://pointmongo.com/browse/magical-weapons/taranis-fang
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-22T19:25:21.8203066Z'
+    needsRestat: false
+    missingFields: []

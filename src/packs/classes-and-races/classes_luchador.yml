@@ -1,0 +1,23 @@
+_id: zU8q4lSEcK5jKrlX
+_key: '!items!zU8q4lSEcK5jKrlX'
+name: Luchador
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A masked showman-wrestler loaded with Wrasslin'', a manager in their corner, and Popularity for winning with style.</em></p><p>The Lucha Libre school of wrestling specializes in showmanship and acrobatics. When you put on that mask you can feel yourself becoming the mighty Luchador! Loads of Wrasslin'' with a Popularity boost when you win.</p><table><tbody><tr><th>DR</th><td>1</td></tr><tr><th>Prerequisites</th><td>Performance at least 5</td></tr><tr><th>Bonus box</th><td>Silver Earth Box</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 STR</li><li>+3 CON</li><li>+3 CHA</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Wrasslin''</li><li>+2 Choke Out</li><li>+2 Toss</li></ul><p><strong>Benefits</strong></p><ul><li>Manager <em>(major)</em></li><li>+1 Popularity with a successful Performance check after a kill <em>(moderate)</em></li><li>Access to Desperado Club <em>(minor)</em></li><li>+1 DR <em>(moderate)</em></li><li>Wrasslin'' can be raised to Rank 20 <em>(minor)</em></li></ul><hr><p><em>Source: Community submission — BanzaiZAP. From <a href="https://pointmongo.com/browse/classes/luchador">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter
+  prerequisites: Performance at least 5
+  isEarthBased: false
+flags:
+  point-mongo:
+    id: 1284
+    category: classes
+    slug: luchador
+    url: https://pointmongo.com/browse/classes/luchador
+    source: Community submission — BanzaiZAP
+    tags: []
+    updatedAt: '2026-11-22T19:25:21.7553555Z'
+    needsRestat: false
+    missingFields: []
