@@ -1,0 +1,19 @@
+_id: rVqXseR3RrU5OzFP
+_key: '!items!rVqXseR3RrU5OzFP'
+name: Cape of Captain Compensate
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A heroically billowing cape with +2 Strength and Constitution, a point of DR and +5 Unnecessary Force.</em></p><p>It''s a cape that blows heroically in the wind...and dishes out excessive violence on all those that dare bring upon your judgement! Now you can hide all your insecurities with all this new found macho bravado!</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>1</td></tr><tr><th>Cooldown</th><td>2 Hours</td></tr><tr><th>Charges</th><td>1</td></tr><tr><th>Limitations</th><td>Unnecessary Force cooldown is 2 hours</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Strength</li><li>+2 Constitution</li><li>+5 Unnecessary Force</li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/magic-items/cape-of-captain-compensate">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1298
+    category: magic-items
+    slug: cape-of-captain-compensate
+    url: https://pointmongo.com/browse/magic-items/cape-of-captain-compensate
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-24T01:10:12.0583288Z'
+    needsRestat: false
+    missingFields: []

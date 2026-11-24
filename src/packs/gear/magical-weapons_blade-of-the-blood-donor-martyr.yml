@@ -1,0 +1,19 @@
+_id: uhEr6q2Qo6qsG1ap
+_key: '!items!uhEr6q2Qo6qsG1ap'
+name: Blade of The Blood Donor Martyr
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A last-stand dagger: sacrifice 30% of your max HP and swing it back as bonus damage until the blood runs out.</em></p><p>This enchanted dagger is a favourite among those "last stand martyr" types. You give a significant portion of your life force and in return you gain significant power.</p><p>WARNING: HP used for the buff on this item cannot return by any means until it fully drains from the blade.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dagger</td></tr><tr><th>Tier</th><td>Legendary</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr><tr><th>Cooldown</th><td>12 hours</td></tr><tr><th>Limitations</th><td>While active you lose the max HP used for the buff until it returns.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Dagger Skill</li><li>Blood Donor: You sacrifice 30% of your max HP and gain that amount as a bonus to your damage rolls. The bonus goes down by 1 HP slots worth of damage until all HP slots you sacrificed have been used.</li><li>Leaky Veins: While the Blood Donor Buff is active your max HP is reduced by the amount still attached to the blade. One HP slot is recovered per turn as they detach from the blade.</li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/magical-weapons/blade-of-the-blood-donor-martyr">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1294
+    category: magical-weapons
+    slug: blade-of-the-blood-donor-martyr
+    url: https://pointmongo.com/browse/magical-weapons/blade-of-the-blood-donor-martyr
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-24T01:10:12.0419681Z'
+    needsRestat: false
+    missingFields: []

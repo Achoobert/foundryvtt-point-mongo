@@ -1,0 +1,19 @@
+_id: qCaZGR5twM1yg3aA
+_key: '!items!qCaZGR5twM1yg3aA'
+name: Celestial Dagger of the Polar Explorer
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A flame-etched Celestial dagger granting +20% Strength, Dexterity and Constitution, Rank 3 Toss, and immunity to ice.</em></p><p>This Celestial tier magical weapon is crafted from the finest materials, and features a small etching of a flame on the pommel.  When equipped it bestows the following benefits: +20% Strength, +20% Dexterity, +20% Constitution, Toss Skill at Rank 3, and Immunity to Ice and Cold Damage.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dagger</td></tr><tr><th>Tier</th><td>Celestial</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+20% Strength</li><li>+20% Dexterity</li><li>+20% Constitution</li><li>Toss Skill at Rank 3</li><li>Immunity to Ice damage</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/celestial-dagger-of-the-polar-explorer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1292
+    category: magical-weapons
+    slug: celestial-dagger-of-the-polar-explorer
+    url: https://pointmongo.com/browse/magical-weapons/celestial-dagger-of-the-polar-explorer
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-24T01:10:12.0381341Z'
+    needsRestat: false
+    missingFields: []

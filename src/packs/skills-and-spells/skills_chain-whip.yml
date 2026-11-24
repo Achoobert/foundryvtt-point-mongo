@@ -1,0 +1,43 @@
+_id: q5BveJ3NG2bm8Hj6
+_key: '!items!q5BveJ3NG2bm8Hj6'
+name: Chain Whip
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Missing:</strong> governing stat, base damage</p><p><em>Fight with a length of metal chain, slowing, reaching further and eventually entangling your foes.</em></p><p>This skill governs the use of a metal chain as a weapon.</p><p>Attacks with a chain whip deal 1d6 + str OR dex bludgeoning damage.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr></tbody></table><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/skills/chain-whip">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: ''
+  cooldown: ''
+  limitations: ''
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: bludgeoning
+  upgrades:
+    - id: q3t44OvlXpFi00bO
+      rankThreshold: 5
+      description: <p>Strikes with the chain whip cut enemy move speed in half for one round of combat on critical hit.</p>
+    - id: eT5ztZaetEO7ISgm
+      rankThreshold: 10
+      description: <p>Increase range of attacks with a chain whip to 10 ft</p>
+    - id: DR6gjwJjx6eBDD5b
+      rankThreshold: 15
+      description: <p>Increase base damage to 2d6 + str/dex. On failed dex save target is entangled for 1 round of combat.</p>
+flags:
+  point-mongo:
+    id: 1312
+    category: skills
+    slug: chain-whip
+    url: https://pointmongo.com/browse/skills/chain-whip
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-24T01:10:12.0964483Z'
+    needsRestat: false
+    missingFields:
+      - governing stat
+      - base damage

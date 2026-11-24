@@ -1,0 +1,19 @@
+_id: lVOEFqV0aivy9NHy
+_key: '!items!lVOEFqV0aivy9NHy'
+name: The Gentleman's Tailcloak
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A gentleman''s tailcloak granting +3 Charisma, a point of DR, Good First Impression, Sleight of Hand and the Please? spell.</em></p><p>Manners, Maketh, Man ... aaand so does a dip ass tailcloak. What kind of self respecting gentleman would leave his domicile without his cloak. The clothes make the man after all.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>1</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Good First Impression</li><li>+1 Sleight of Hand</li><li>+3 Charisma</li><li>+1 Please? Spell</li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/magic-items/the-gentleman-s-tailcloak">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1296
+    category: magic-items
+    slug: the-gentleman-s-tailcloak
+    url: https://pointmongo.com/browse/magic-items/the-gentleman-s-tailcloak
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-24T01:10:12.0562394Z'
+    needsRestat: false
+    missingFields: []

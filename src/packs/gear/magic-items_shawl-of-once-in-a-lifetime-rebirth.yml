@@ -1,0 +1,19 @@
+_id: EKnMGSNprnz4PyiI
+_key: '!items!EKnMGSNprnz4PyiI'
+name: Shawl of Once in a Lifetime Rebirth
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A Celestial shawl that cheats death once, wrapping you in a cocoon of light and remaking you in your god''s image.</em></p><p>First off NO this does not bring you back to life, reincarnate you, or any of that jazz.</p><p>What it does do however is remake you in your God''s image! ...or if you''re godless I''ll just select a random race for you.</p><p>You will be able to escape death once with this item. At the door of death just as you''re about to be swept into the great land of NO MORE LIFE, you are wrapped by this shawl into a cocoon of light and emerge anew in an entirely new body. Will you be happy with your new body? Who knows! But at least you''ll still be alive ... By putting it on you asked for it anyways.</p><p>This item can only be used once. After its effect is triggered it will peel away into a stream of energy on the wind.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Celestial</td></tr><tr><th>DR</th><td>4</td></tr><tr><th>Charges</th><td>1</td></tr><tr><th>Limitations</th><td>Can only be used once</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Rebirth: just as you are about to die you are engulfed into a cocoon and made into the image of your god or a random race if you don''t worship one. You are brought back at full health with all injuries or debuffs fixed.</li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/magic-items/shawl-of-once-in-a-lifetime-rebirth">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1301
+    category: magic-items
+    slug: shawl-of-once-in-a-lifetime-rebirth
+    url: https://pointmongo.com/browse/magic-items/shawl-of-once-in-a-lifetime-rebirth
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-24T01:10:12.0610732Z'
+    needsRestat: false
+    missingFields: []

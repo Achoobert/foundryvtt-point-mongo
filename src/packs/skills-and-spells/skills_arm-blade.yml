@@ -1,0 +1,41 @@
+_id: DSO2aeZ6ivXhhIbH
+_key: '!items!DSO2aeZ6ivXhhIbH'
+name: Arm Blade
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>Attack with a blade that extends from your forearm, slashing or piercing, with bleeding crits as it ranks up.</em></p><p>This skill governs attack ability with the Arm Blades of the Tarkatan race (and any other races or classes that attack with a similar weapon).</p><p>Attack with a blade that extends from your forearm. This attack deals d8+str slashing OR piercing damage. You declare the damage type before you attack.</p><table><tbody><tr><th>Category</th><td>Passive</td></tr><tr><th>Base damage</th><td>1d8 + Str</td></tr></tbody></table><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/skills/arm-blade">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: passive
+  attackType: ''
+  isPassive: true
+  range: Melee
+  cooldown: ''
+  limitations: Must have natural weapon Arm Blades with which to attack
+  aiFavor: 0
+  baseDamage:
+    dice: 1d8
+    stat: str
+    damageType: ''
+  upgrades:
+    - id: 1Do5MQhYy1FEOJhY
+      rankThreshold: 5
+      description: <p>Apply Bleed debuff on critical hit for 1 minute.</p>
+    - id: jOfDX4ZeIvbeKgdH
+      rankThreshold: 10
+      description: <p>Increase base damage to d12 + strength</p>
+    - id: 35kRU6BjRnxgaX0A
+      rankThreshold: 15
+      description: <p>Apply Blood Trail debuff on critical hit for 1 minute.</p>
+flags:
+  point-mongo:
+    id: 1313
+    category: skills
+    slug: arm-blade
+    url: https://pointmongo.com/browse/skills/arm-blade
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-24T01:10:12.0974408Z'
+    needsRestat: false
+    missingFields: []

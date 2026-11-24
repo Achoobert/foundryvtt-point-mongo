@@ -1,0 +1,19 @@
+_id: BqlJnPr37JOnbj3m
+_key: '!items!BqlJnPr37JOnbj3m'
+name: Sidekick Trainee Cape
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A kid''s costume cape granting the Prodigy benefit: +1 to skill progression checks while grinding.</em></p><p>This kid''s costume cape imbues you with the Prodigy Benefit. It also makes you like a Robin wannabe...the one in the Speedo.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>Limitations</th><td>Can only be used on 1 skill check per grinding session at a time</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Prodigy Benefit: +1 To All Skill Progression Checks. Can only be used on 1 skill at a time during a grinding session</li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/magic-items/sidekick-trainee-cape">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1302
+    category: magic-items
+    slug: sidekick-trainee-cape
+    url: https://pointmongo.com/browse/magic-items/sidekick-trainee-cape
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-24T01:10:12.0619488Z'
+    needsRestat: false
+    missingFields: []

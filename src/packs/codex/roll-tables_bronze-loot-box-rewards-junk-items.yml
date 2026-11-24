@@ -9,7 +9,7 @@ pages:
     type: text
     text:
       format: 1
-      content: '<p><em>A 100-entry roll table (d100) of mundane, mostly-worthless junk items found in Bronze loot boxes.</em></p><p>Roll d100 for a piece of low-value flavor loot from a Bronze box. Most items have no mechanical effect and exist purely for color, trading, or crafting scrap.</p><table><tbody><tr><th>unique</th><td>false</td></tr></tbody></table><hr><p><em>Source: Community submission — Kyton786 and other Crawlers. From <a href="https://pointmongo.com/browse/roll-tables/bronze-loot-box-rewards-junk-items">Point Mongo</a>.</em></p>'
+      content: '<p><em>A 100-entry roll table (d100) of mundane, mostly-worthless junk items found in Bronze loot boxes.</em></p><p>A piece of low-value flavor loot from a Bronze box. Rows that cover two numbers come up twice as often. Most items have no mechanical effect and exist purely for color, trading, or crafting scrap.</p><table><tbody><tr><th>unique</th><td>false</td></tr></tbody></table><hr><p><em>Source: Community submission — Kyton786 and other Crawlers. From <a href="https://pointmongo.com/browse/roll-tables/bronze-loot-box-rewards-junk-items">Point Mongo</a>.</em></p>'
 flags:
   point-mongo:
     id: 125
@@ -22,6 +22,6 @@ flags:
       - loot
       - junk-item
       - roll-table
-    updatedAt: '2026-11-22T19:25:21.8430239Z'
+    updatedAt: '2026-11-24T01:10:11.8638695Z'
     needsRestat: false
     missingFields: []

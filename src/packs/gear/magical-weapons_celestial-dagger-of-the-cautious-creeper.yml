@@ -1,0 +1,19 @@
+_id: MXNKGk5KiBvXh3kp
+_key: '!items!MXNKGk5KiBvXh3kp'
+name: Celestial Dagger of the Cautious Creeper
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><em>A slender Celestial rogue''s dagger with free Heal Self and Shield spells, +6 Lockpicking, fire immunity and sonic resistance.</em></p><p>This Celestial tier dagger features a long, slender blade, and has a dark brown leather wrapped handle.  When equipped, it bestows the following benefits: Heal Self Spell at Rank 6, with no mana cost, and a 12 hour cooldown, Immunity to Fire Damage, Resistance to Sonic Damage, +6 Lockpicking Skill, and Shield Spell at Rank 6 with no Mana cost, and a 12 hour cool down.  All of those skills and features are designed to elevate the skills of a Rogue-type crawler gain access to hard to access places.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Dagger</td></tr><tr><th>Tier</th><td>Celestial</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Heal Self Spell at Rank 6, no Mana cost, 12 hour cooldown</li><li>Immunity to Fire damage</li><li>Resistance to Sonic damage</li><li>+6 Lockpicking Skill</li><li>Shield Spell at Rank 6, no Mana cost, 12 hour cooldown</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magical-weapons/celestial-dagger-of-the-cautious-creeper">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1293
+    category: magical-weapons
+    slug: celestial-dagger-of-the-cautious-creeper
+    url: https://pointmongo.com/browse/magical-weapons/celestial-dagger-of-the-cautious-creeper
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-24T01:10:12.0399759Z'
+    needsRestat: false
+    missingFields: []

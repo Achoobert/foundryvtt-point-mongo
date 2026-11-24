@@ -1,0 +1,19 @@
+_id: C2PQQcSenlFukVZd
+_key: '!items!C2PQQcSenlFukVZd'
+name: Edna's Sorrow
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A long red cape with a familiar-looking glyph that lets you fly for a scene and boosts Air Buddy.</em></p><p>This is a long red cape with an oddly shaped triangle with some kind of stylized glyph sewn into it. It has no cord to tie it to the neck, must be used by making a knot with 2 extremities.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Cooldown</th><td>30 hours</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Air Buddy Spell</li><li>You can fly for about 10 min (One scene) (30 hour Cooldown)</li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/magic-items/edna-s-sorrow">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1311
+    category: magic-items
+    slug: edna-s-sorrow
+    url: https://pointmongo.com/browse/magic-items/edna-s-sorrow
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-24T01:10:12.0701016Z'
+    needsRestat: false
+    missingFields: []

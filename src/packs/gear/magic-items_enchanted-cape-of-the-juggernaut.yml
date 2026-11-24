@@ -1,0 +1,19 @@
+_id: SflrkJ1rlAo1f5TA
+_key: '!items!SflrkJ1rlAo1f5TA'
+name: Enchanted Cape of the Juggernaut
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A sturdy linen cape granting +4 Constitution and immunity to piercing damage.</em></p><p>This sturdy, full length, brown linen cape is edged in red fleece.  When equipped it bestows the following benefits: Immunity to Piercing Damage, +4 Constitution.  Equipping this cape seems like the perfect opportunity to shout "I''m the Juggernaut, bitch" at your enemies, but that might be low hanging fruit.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Gold</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Immunity to Piercing damage</li><li>+4 Constitution</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-cape-of-the-juggernaut">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1309
+    category: magic-items
+    slug: enchanted-cape-of-the-juggernaut
+    url: https://pointmongo.com/browse/magic-items/enchanted-cape-of-the-juggernaut
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-24T01:10:12.0683736Z'
+    needsRestat: false
+    missingFields: []
