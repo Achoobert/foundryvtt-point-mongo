@@ -1,0 +1,19 @@
+_id: hzIJLHGWZnEdeonu
+_key: '!items!hzIJLHGWZnEdeonu'
+name: Enchanted Cape of Deft FAFO
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A far finer take on the ragged Goblin Bombard cape, still smelling of its last owner, for crawlers who throw explosives and need a full heal once a floor.</em></p><p>This enchanted mottled grey cape is crafted from remarkably fine materials.  It does however, still smell faintly of its previous owner.  When equipped, it bestows the following benefits: +5% Dexterity, +4 Goblin Explosives Skill, Recovery (Full Health) once per floor.  While this cape resembles the ragged accessories often worn Goblin Bombards in the World Dungeon, the overall quality of this magical item far exceeds that of those filthy, tattered cloaks.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Platinum</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5% Dexterity</li><li>Once per floor: Recovery (full Health)</li><li>+4 Goblin Explosives Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-cape-of-deft-fafo">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1317
+    category: magic-items
+    slug: enchanted-cape-of-deft-fafo
+    url: https://pointmongo.com/browse/magic-items/enchanted-cape-of-deft-fafo
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-25T05:13:08.9427776Z'
+    needsRestat: false
+    missingFields: []

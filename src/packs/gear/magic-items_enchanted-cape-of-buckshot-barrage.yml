@@ -1,0 +1,19 @@
+_id: nxVBER2laLL1L8a6
+_key: '!items!nxVBER2laLL1L8a6'
+name: Enchanted Cape of Buckshot Barrage
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A stylish grey felted half cape for shotgun users, with extra strength and steadier hands.</em></p><p>This stylish half cape is crafted from grey dyed heavy felted wool.  When equipped it grants the following benefits: +5% Strength, +5% Dexterity, +3 Shotgun Skill.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Platinum</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5% Strength</li><li>+3 Shotgun Skill</li><li>+5% Dexterity</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-cape-of-buckshot-barrage">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1319
+    category: magic-items
+    slug: enchanted-cape-of-buckshot-barrage
+    url: https://pointmongo.com/browse/magic-items/enchanted-cape-of-buckshot-barrage
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-25T05:13:08.9438431Z'
+    needsRestat: false
+    missingFields: []

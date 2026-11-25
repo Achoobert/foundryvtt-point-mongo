@@ -5,7 +5,7 @@ type: spell
 img: icons/svg/explosion.svg
 folder: YWvCHgnBVolBDj0q
 system:
-  description: '<p><strong>Missing:</strong> base damage</p><p><em>Encases a target''s head in water, drowning them if they cannot hold their breath long enough.</em></p><p>You encapsulate your target''s head into a water bubble. It might drown if he cannot hold its breath for the duration of the spell.</p><p>Note: This is another one of my Affliction spells. If you are interested in the other, please check Fire Cloud, Paper Cuts, Flabbergasting Ray and Fang Bang</p><table><tbody><tr><th>Limitations</th><td>Creatures that can Breath Underwater are immune to this spell.</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/spells/bubble-head">Point Mongo</a>.</em></p>'
+  description: '<p><em>Encases a target''s head in water, drowning them if they cannot hold their breath long enough.</em></p><p>You encapsulate your target''s head into a water bubble. It might drown if he cannot hold its breath for the duration of the spell.</p><p>Note: This is another one of my Affliction spells. If you are interested in the other, please check Fire Cloud, Paper Cuts, Flabbergasting Ray and Fang Bang</p><table><tbody><tr><th>Base damage</th><td>None</td></tr><tr><th>Limitations</th><td>Creatures that can Breathe Underwater are immune to this spell.</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/spells/bubble-head">Point Mongo</a>.</em></p>'
   governingStat: int
   manaCost: 10
   range: 30ft
@@ -39,7 +39,6 @@ flags:
     url: https://pointmongo.com/browse/spells/bubble-head
     source: Community submission — Gabe M
     tags: []
-    updatedAt: '2026-09-15T15:11:11.6552963Z'
+    updatedAt: '2026-11-25T05:13:09.0537056Z'
     needsRestat: false
-    missingFields:
-      - base damage
+    missingFields: []

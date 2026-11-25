@@ -1,0 +1,19 @@
+_id: RLGeG8gj3PjMksPe
+_key: '!items!RLGeG8gj3PjMksPe'
+name: Crate of Vorpal LPs
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A milk crate of 25 throwable vinyl records that take a head clean off on a critical hit.</em></p><p>This is a beat up red milk crate full of old vinyl LPs from bands you have never heard of, but that sound vaguely familiar. The crate holds 25 LPs. Each LP can be hurled as a thrown weapon. These have an expanded crit range (19-20) and if the attack crits, the target is decapitated. Otherwise, the LPs do 1d8+DEX damage.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Record</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Damage type</th><td>Slashing</td></tr><tr><th>Charges</th><td>25</td></tr><tr><th>Limitations</th><td>These are vinyl records, and thus they are fragile. They are consumed upon use, dropping them ruins them, and if they are hit before they are used they will automatically break.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Expanded Crit Range (19-20)</li><li>1d8+DEX Slashing Damage</li><li>On a Crit, The Target is Decapitated</li></ul><hr><p><em>Source: Community submission — Greg Holkan. From <a href="https://pointmongo.com/browse/magic-items/crate-of-vorpal-lps">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1320
+    category: magic-items
+    slug: crate-of-vorpal-lps
+    url: https://pointmongo.com/browse/magic-items/crate-of-vorpal-lps
+    source: Community submission — Greg Holkan
+    tags: []
+    updatedAt: '2026-11-25T05:13:08.944408Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,41 @@
+_id: BCKz7NXeg5DgTRkY
+_key: '!items!BCKz7NXeg5DgTRkY'
+name: Corpsewalking
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>Climb inside a dead crawler or mob and wear it, borrowing its body while it slowly rots around you. Governed by Constitution.</em></p><p>Corpse’s Con</p><p>Make an Unopposed check to enter and control the corpse of a dead Crawler or Mob (does not work on bosses).</p><p>Entering a Corpse takes 1 min.</p><p>While Corpse Walking, you use the body''s current Strength, Dexterity and Constitution, but your own Intelligence and Charisma (might be modified at GM’s discretion).</p><p>Anyone examining your name tag will see the name, race, class and level of the dead corpse owner.</p><p>Healing magic has no effect on the corpse.</p><p>Every 30 hours you stay at the corpse, make another Unopposed Corpsewalking check. On a failure, the corpse decays to the next tier. On a success, you stifle the decomposition till the next day. After 3 days, the corpse moves one tier even on a success</p><p>Tier 1: No Penalty</p><p>Tier 2: -1 to DEX, CON and DR. Body is stiff and leaking</p><p>Tier 3: -2 to DEX and CON, DR is halved. Flesh is soft and breaking down</p><p>Tier 4: -5 to DEX, CON and STR, no DR, all Charisma checks are made at Disadvantage. Visually rotten.</p><p>Tier 5: Unusable.</p><table><tbody><tr><th>Category</th><td>Utility</td></tr></tbody></table><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/skills/corpsewalking">Point Mongo</a>.</em></p>'
+  governingStat: con
+  category: utility
+  attackType: ''
+  isPassive: false
+  range: 5ft
+  cooldown: ''
+  limitations: This Limited Skill can only be learned by gondii worms and are natural to the one known as Intellect Hunters
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: 4aC5w4PVEOCowoZh
+      rankThreshold: 5
+      description: <p>With an Unopposed check you may access the memories of the body you are currently in. Some memories might be more difficult to access than others.</p>
+    - id: gPExVYyfGiJAgplI
+      rankThreshold: 10
+      description: <p>Entering a body will only take an action.</p>
+    - id: k2GmQM9pPSm1Cpri
+      rankThreshold: 15
+      description: <p>You may transfer up to 5 HB from your own health to your current body per day.</p>
+flags:
+  point-mongo:
+    id: 1329
+    category: skills
+    slug: corpsewalking
+    url: https://pointmongo.com/browse/skills/corpsewalking
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-25T05:13:09.0653051Z'
+    needsRestat: false
+    missingFields: []

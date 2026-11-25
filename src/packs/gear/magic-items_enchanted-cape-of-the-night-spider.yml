@@ -1,0 +1,19 @@
+_id: BPVQHCrComqQwOzw
+_key: '!items!BPVQHCrComqQwOzw'
+name: Enchanted Cape of the Night Spider
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A hooded black cape with a red spider on its back, for climbing walls, shrugging off poison and lighting the way.</em></p><p>This full length, hooded  black cape has an large spider embroidered in red thread featured prominently on its outer surface.  When equipped it bestows the following benefits: Torch Spell at Rank 2, with a 4 hour cool down, +3 Climbing Skill, Resistance to Poison damage.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Platinum</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Torch Spell at Rank 2, no Mana cost, 4 hour cooldown</li><li>Resistance to Poison damage</li><li>+3 Climbing Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/enchanted-cape-of-the-night-spider">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1318
+    category: magic-items
+    slug: enchanted-cape-of-the-night-spider
+    url: https://pointmongo.com/browse/magic-items/enchanted-cape-of-the-night-spider
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-25T05:13:08.9433198Z'
+    needsRestat: false
+    missingFields: []

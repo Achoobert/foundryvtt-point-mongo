@@ -1,0 +1,43 @@
+_id: 454antCcslQFo1d5
+_key: '!items!454antCcslQFo1d5'
+name: Seafood Special Sandwich
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><strong>Missing:</strong> base damage</p><p><em>Force-feeds the target a mayo and imitation crab sandwich, silencing their spells and skills for a turn.</em></p><p>Conjure forth 6 inches of mayo and imitation crab meat on white bread that immediately shoves itself in target''s mouth. They are force fed the sandwich and cannot use vocal components or skills for one turn. They suffer disadvantage on their next roll.</p><table><tbody><tr><th>AI favor</th><td>2</td></tr></tbody></table><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/spells/seafood-special-sandwich">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 20
+  range: 5 ft
+  duration: Instant
+  cooldown: 3 minutes
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses: []
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: 0pyPDuPNGSBX3OXK
+      rankThreshold: 5
+      description: <p>On Con failure target is afflicted with Queasy for 30 seconds</p>
+    - id: 2kccb2wGYGK8W5gW
+      rankThreshold: 10
+      description: <p>Queasy duration increases to d6 minutes. Target suffers disadvantage to all rolls until your next turn.</p>
+    - id: 6ikPRWrcalDAiOuQ
+      rankThreshold: 15
+      description: <p>Target takes 4d4 poison damage for each turn it is Queasy.</p>
+flags:
+  point-mongo:
+    id: 1326
+    category: spells
+    slug: seafood-special-sandwich
+    url: https://pointmongo.com/browse/spells/seafood-special-sandwich
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-25T05:13:09.0419934Z'
+    needsRestat: false
+    missingFields:
+      - base damage

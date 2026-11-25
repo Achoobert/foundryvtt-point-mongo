@@ -1,0 +1,24 @@
+_id: D5D8rM07YWunsKka
+_key: '!items!D5D8rM07YWunsKka'
+name: Gameshow Host
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Bard/Rogue class that fakes it on charm and connections, with a daily hour of Showtime that lifts every skill.</em></p><p>What''s behind door number 5?...It''s you!</p><p>Gameshow Hosts are the Pinnacle of being that guy with all the right connections. You sure as hell don''t know the answer to any of the questions but those palm cards and the guy in your ear does.</p><p>You have all the skills you need to fake it till ya make it all the way through your (probably) short celebrity career</p><table><tbody><tr><th>Prerequisites</th><td>Must have a minimum of 3 popularity.</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Charisma</li><li>-2 Strength</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 Diplomacy</li><li>+2 Determine Value</li><li>+1 Detect Lies</li><li>+5 Good First Impression</li><li>+1 Negotiation</li></ul><p><strong>Benefits</strong></p><ul><li>Access to The Desperado Club <em>(minor)</em></li><li>Showtime!: You gain +1 to all skills for 1 hour per day. <em>(moderate)</em></li><li>All skills can be raised to Rank 20 <em>(epic)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Strength Capped at 10 <em>(3 pt)</em></li><li>+1 to mana cost of spells not favoured by your class. <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/classes/gameshow-host">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Bard
+    - Rogue
+  prerequisites: Must have a minimum of 3 popularity.
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1327
+    category: classes
+    slug: gameshow-host
+    url: https://pointmongo.com/browse/classes/gameshow-host
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-25T05:13:09.0602285Z'
+    needsRestat: false
+    missingFields: []

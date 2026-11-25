@@ -1,0 +1,19 @@
+_id: lBOEflR47PBVYKxQ
+_key: '!items!lBOEflR47PBVYKxQ'
+name: Rat Skin Cloak of the Rat-Kin
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A reeking patchwork of rat hides, tails and all, that makes its wearer slippery, sneaky and hard to poison, as long as nobody needs to stand close to them.</em></p><p>The Rat-kin, who are ubiquitous in the tutorial levels of the dungeon, pride themselves on a number of things: Intelligence, stealth, craftsmanship. And while they are neither particularly cunning nor particularly good at making things, (I mean, look at this), they are quite slippery.</p><p>Now, I know what you''re thinking. Why would rat-kin kill rats? Aren''t they kind of the same thing?</p><p>No. You know better. And you should be ashamed. Rat-kin are sapient members of our dungeon NPC core. They despise rats and being compared to the non-sapient, quadrupedal rodents. Rats, however, are valued janitorial staff and their mass murder at the hands of the rat-kin is appalling.</p><p>This enchanted cloak, literally made from patching together the skinned hides of hundreds of rats, tails and all, is something of their magnum opus. It makes use of all their wiles to imbue the wearer with increased stealth and a keener sense for getting out of trouble. It''s quite useful if you don''t mind the smell.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Cooldown</th><td>6 hours</td></tr><tr><th>Limitations</th><td>-4 Charisma</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Dexterity</li><li>+2 Hide in Shadows</li><li>+2 Dodge</li><li>Poison Resistance</li><li>Tripper Spell lvl 5 - May cast once every 6 hours</li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/magic-items/rat-skin-cloak-of-the-rat-kin">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1314
+    category: magic-items
+    slug: rat-skin-cloak-of-the-rat-kin
+    url: https://pointmongo.com/browse/magic-items/rat-skin-cloak-of-the-rat-kin
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-25T05:13:08.9390686Z'
+    needsRestat: false
+    missingFields: []

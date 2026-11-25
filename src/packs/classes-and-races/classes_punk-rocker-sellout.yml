@@ -1,0 +1,23 @@
+_id: P8bwNXQN01BmZeCN
+_key: '!items!P8bwNXQN01BmZeCN'
+name: Punk Rocker Sellout
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Bard/Barbarian class that rages against its corporate overlords while cashing their checks, with a manager, a patron and a guitar to swing.</em></p><p>Wanna fight the power and tell the man to shove it? Lead a revolution and overthrow your dictatorship capitalist government?</p><p>Well too bad, you''re broke! You need money and you know what that means. IT''S TIME TO SELLOUT!</p><p>You''ll bag out your corporate overlords but take all the money from them you can, claiming it''s rebellion then smash your guitar against some poor asshole''s head.</p><p><strong>Stat bonuses</strong></p><ul><li>+5 Charisma</li><li>+5 Strength</li><li>+2 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Bang Bro</li><li>+1 Sonic Riff</li><li>+1 Axe</li><li>+2 Performance</li></ul><p><strong>Benefits</strong></p><ul><li>Manager Benefit <em>(major)</em></li><li>Patron Benefit <em>(moderate)</em></li><li>Access to Desperado Club <em>(minor)</em></li><li>Rage Benefit <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Must Worship a Deity <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/classes/punk-rocker-sellout">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Bard/Barbarian
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1328
+    category: classes
+    slug: punk-rocker-sellout
+    url: https://pointmongo.com/browse/classes/punk-rocker-sellout
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-25T05:13:09.0607436Z'
+    needsRestat: false
+    missingFields: []

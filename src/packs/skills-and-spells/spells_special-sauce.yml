@@ -1,0 +1,44 @@
+_id: 1o7pCW3fIrrS3tsZ
+_key: '!items!1o7pCW3fIrrS3tsZ'
+name: Special Sauce
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Turns any meal into magic: whoever eats it is Full and heals over the next minute. Governed by Intelligence.</em></p><p>Is your food too bland? Has your Bopca been slacking on the job? Are you tired of the same, boring sausage and egg sandwich every day?</p><p>Fear not, for deliciousness is on its way.</p><p>Special Sauce gives your food that je ne sais quoi it has been missing. Apply this spell to any food substance and imbue it with magical power. Food that has been given the Special Sauce gives its consumer the Full status AND grants d4+int healing over 1 minute.</p><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/spells/special-sauce">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 20
+  range: 5 ft
+  duration: Instant
+  cooldown: ''
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Mage
+    - Bard
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: mFE0Mf9b4lUJ12mo
+      rankThreshold: 5
+      description: <p>Healing improves to 2d4 + int</p>
+    - id: aQwhGNWdEwc3RSq5
+      rankThreshold: 10
+      description: <p>Boosts Constitution +5% for 1 minute</p>
+    - id: mU5BXl7rwYsohuRF
+      rankThreshold: 15
+      description: <p>Healing improves to 2d8 + int. Immune to Queasy and Nauseous for 1 minute</p>
+flags:
+  point-mongo:
+    id: 1325
+    category: spells
+    slug: special-sauce
+    url: https://pointmongo.com/browse/spells/special-sauce
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-25T05:13:09.0403593Z'
+    needsRestat: false
+    missingFields: []
