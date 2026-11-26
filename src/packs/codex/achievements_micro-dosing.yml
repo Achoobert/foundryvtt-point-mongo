@@ -1,0 +1,23 @@
+_id: I7mVXEEdZOWlpFw9
+_key: '!journal!I7mVXEEdZOWlpFw9'
+name: Micro-Dosing
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: GHnpFRUOZO6npqSg
+    _key: '!journal.pages!I7mVXEEdZOWlpFw9.GHnpFRUOZO6npqSg'
+    name: Micro-Dosing
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you let yourself get poisoned on purpose.</em></p><p>You intentionally allowed yourself to become poisoned, in what our viewers believe is an attempt to stave off future Poison effects by micro-dosing it in whatever form you took it in. Well here''s a newsflash for you, moron, that isn''t going to work down here. If you poison yourself on purpose, you''re just going to take damage on purpose, but you do you I guess.</p><p>Reward: You are alive to read this, so clearly you didn''t kill yourself. That''s reward enough.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/micro-dosing">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1389
+    category: achievements
+    slug: micro-dosing
+    url: https://pointmongo.com/browse/achievements/micro-dosing
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0691002Z'
+    needsRestat: false
+    missingFields: []

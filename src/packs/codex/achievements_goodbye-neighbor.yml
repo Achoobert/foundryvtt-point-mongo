@@ -1,0 +1,23 @@
+_id: sE4fNYy0T1MjZ4xC
+_key: '!journal!sE4fNYy0T1MjZ4xC'
+name: Goodbye, Neighbor
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: auxORCnOehRgwgAk
+    _key: '!journal.pages!sE4fNYy0T1MjZ4xC.auxORCnOehRgwgAk'
+    name: Goodbye, Neighbor
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when your party kills a Neighborhood boss.</em></p><p>Your party has successfully killed a Neighborhood boss. Wow, really didn''t think you all had the chops to do that. You all fought valiantly, worked hard, nearly died, all so you could take out the absolutely weakest Dungeon boss available. Word to the wise, it only gets harder from here.</p><p>Reward: The ability to loot the Neighborhood Map from Neighborhood bosses! No double dipping on boss rewards.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/goodbye-neighbor">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1367
+    category: achievements
+    slug: goodbye-neighbor
+    url: https://pointmongo.com/browse/achievements/goodbye-neighbor
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0568312Z'
+    needsRestat: false
+    missingFields: []

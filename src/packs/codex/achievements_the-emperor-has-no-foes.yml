@@ -1,0 +1,23 @@
+_id: BEQ7pbMfqlGFaobd
+_key: '!journal!BEQ7pbMfqlGFaobd'
+name: The Emperor Has No Foes
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: zzKsQvI9RTTCW8Rs
+    _key: '!journal.pages!BEQ7pbMfqlGFaobd.zzKsQvI9RTTCW8Rs'
+    name: The Emperor Has No Foes
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you fry three or more enemies with your own electric spells.</em></p><p>You managed to fry three or more enemies with your own electric spells. Congratulations on fighting like a certain old decrepit emperor in a galaxy far, far away.</p><p>Reward: Bronze Arcane Box</p><hr><p><em>Source: the Point Mongo community. From <a href="https://pointmongo.com/browse/achievements/the-emperor-has-no-foes">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1381
+    category: achievements
+    slug: the-emperor-has-no-foes
+    url: https://pointmongo.com/browse/achievements/the-emperor-has-no-foes
+    source: ''
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0642054Z'
+    needsRestat: false
+    missingFields: []

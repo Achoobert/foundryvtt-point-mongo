@@ -5,8 +5,8 @@ type: spell
 img: icons/svg/explosion.svg
 folder: YWvCHgnBVolBDj0q
 system:
-  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>An Evocation strike that stuns and eventually turns a boss''s own minions against it.</em></p><p><strong>Level 1:</strong> A powerful strike that, if used against a Crawler or Mob with minions, stuns all of their Minions for 1 Round in awe.</p><p><strong>Level 5:</strong> Gain 25 gold X your Charisma for each minion the target has if they''re hit by this spell.</p><p><strong>Level 10:</strong> De-summon up to half (rounded down) of the target''s minions that are currently active if they''re hit by this spell.</p><p><strong>Level 15:</strong> Turn any remaining active minions of the target against them if they''re hit by this spell. This duration lasts 2 Round.</p><p><strong>Level 20:</strong> If you kill the target with this Spell, any they had minions remaining, you permanently gain control of all of their minions.</p><table><tbody><tr><th>Base damage</th><td>n/a</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>This applies to your next Weapon or Unarmed Attack.</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/cut-the-payroll">Point Mongo</a>.</em></p>'
-  governingStat: cha
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>An Evocation strike that stuns and eventually turns a boss''s own minions against it.</em></p><p>You imbue your next non-spell attack with a clever spell. If used against a Crawler, Mob, Elite, or Boss that has minions, all of their minions gain the Shocked debuff for 1 Round.</p><table><tbody><tr><th>Base damage</th><td>n/a</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>This can only apply to Attack Skills.</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/cut-the-payroll">Point Mongo</a>.</em></p>'
+  governingStat: ''
   manaCost: 5
   range: Self
   duration: Instant
@@ -22,13 +22,13 @@ system:
   upgrades:
     - id: c9uMcnmQOApWOrpM
       rankThreshold: 5
-      description: <p>Gain 25 Gold X your CHA for each minion the target of your next attack has.</p>
+      description: <p>Gain 25 gold X your Charisma for each minion the target has on a successful hit.</p>
     - id: doPCJpmbkgpX9mKs
       rankThreshold: 10
-      description: <p>De-summon up to half (rounded down) of the minions the target of your next attack has.</p>
+      description: <p>Increase the duration of the Shocked debuff to 2 Rounds.</p>
     - id: GLxBA8ObBhYdESDt
       rankThreshold: 15
-      description: <p>Turn any remaining active minions the target of your next attack has against them. These minions will fight for you for 3 Rounds.</p>
+      description: <p>After the Shocked Debuff expires, the target's current minions will turn against them for the remainder of Combat.</p>
 flags:
   point-mongo:
     id: 391
@@ -40,6 +40,6 @@ flags:
       - dcc-ccs
       - spells
       - evocation
-    updatedAt: '2026-09-22T05:46:52.7297622Z'
+    updatedAt: '2026-11-26T02:21:28.8914056Z'
     needsRestat: true
     missingFields: []

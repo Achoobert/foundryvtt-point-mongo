@@ -1,0 +1,23 @@
+_id: IeFfIfcuVkBIFEH0
+_key: '!journal!IeFfIfcuVkBIFEH0'
+name: It's a Trap (Door!)
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: AdaYWvmZ3g80dL1B
+    _key: '!journal.pages!IeFfIfcuVkBIFEH0.AdaYWvmZ3g80dL1B'
+    name: It's a Trap (Door!)
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you discover a hidden trap door.</em></p><p>You have discovered a hidden Trap Door leading somewhere else in a room. I wonder why they always call it trap doors? Surely they''re not all dangerous right?</p><p>Reward: A new sense of adventure awaits you beyond that trap door. Isn''t that reward enough?</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/it-s-a-trap-door">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1388
+    category: achievements
+    slug: it-s-a-trap-door
+    url: https://pointmongo.com/browse/achievements/it-s-a-trap-door
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0685301Z'
+    needsRestat: false
+    missingFields: []

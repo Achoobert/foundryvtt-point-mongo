@@ -1,0 +1,23 @@
+_id: 6AzqjvKreRMeOUoq
+_key: '!journal!6AzqjvKreRMeOUoq'
+name: Finish Them!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: KjKYQcy9E8AIRcAW
+    _key: '!journal.pages!6AzqjvKreRMeOUoq.KjKYQcy9E8AIRcAW'
+    name: Finish Them!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you land the killing blow on a boss.</em></p><p>You are the one who scored the killing blow on the boss! Really swell job there, Crawler, robbing the satisfying final blow from the rest of your team who, let''s face it, honestly did more work than you. Yet, to the victor go the spoils.</p><p>Reward: Silver Fatality Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/finish-them">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1365
+    category: achievements
+    slug: finish-them
+    url: https://pointmongo.com/browse/achievements/finish-them
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0557893Z'
+    needsRestat: false
+    missingFields: []

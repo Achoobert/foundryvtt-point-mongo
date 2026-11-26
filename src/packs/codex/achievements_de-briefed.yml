@@ -9,16 +9,16 @@ pages:
     type: text
     text:
       format: 1
-      content: '<p><em>Triggered when you loot the non-magical underwear off of a humanoid corpse.</em></p><p>You have robbed the non-magical underwear off of a humanoid''s corpse. Unless you''re a mortician (or a necrophiliac) you have no real reason to do. It''s fucking weird man.</p><p>Reward: Silver Spicy Box</p><hr><p><em>Source: JackWreckem. From <a href="https://pointmongo.com/browse/achievements/de-briefed">Point Mongo</a>.</em></p>'
+      content: '<p><em>Triggered when you loot the non-magical underwear off of a humanoid corpse.</em></p><p>You have robbed the non-magical underwear off of a humanoid''s corpse. Unless you''re a mortician (or a necrophiliac) you have no real reason to do this. It''s fucking weird man.</p><p>Reward: Silver Spicy Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/de-briefed">Point Mongo</a>.</em></p>'
 flags:
   point-mongo:
     id: 576
     category: achievements
     slug: de-briefed
     url: https://pointmongo.com/browse/achievements/de-briefed
-    source: JackWreckem
+    source: Community submission — JackWreckem
     tags:
       - achievements
-    updatedAt: '2026-09-09T14:56:37.9347921Z'
+    updatedAt: '2026-11-26T02:21:29.0674314Z'
     needsRestat: false
     missingFields: []

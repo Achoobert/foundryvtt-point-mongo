@@ -1,0 +1,19 @@
+_id: NClADDMrR9No0HBT
+_key: '!items!NClADDMrR9No0HBT'
+name: Cape of The Helpful Healer
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A flowing cerulean silk cape that casts Heal Others for free every two hours.</em></p><p>This flowing cerulean cape is crafted from fine silk.  When equipped it bestows the following benefit: Heal Others Spell at Rank 1, no mana cost, with a 2 hour Cooldown.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Heal Others Spell at Rank 1, no Mana cost, 2 hour cooldown</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/cape-of-the-helpful-healer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1338
+    category: magic-items
+    slug: cape-of-the-helpful-healer
+    url: https://pointmongo.com/browse/magic-items/cape-of-the-helpful-healer
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-26T02:21:28.9848105Z'
+    needsRestat: false
+    missingFields: []

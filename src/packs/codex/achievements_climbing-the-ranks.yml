@@ -1,0 +1,23 @@
+_id: f7bh73UUIq15mbTT
+_key: '!journal!f7bh73UUIq15mbTT'
+name: Climbing the Ranks
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 8k6IkjMgPQAUElr3
+    _key: '!journal.pages!f7bh73UUIq15mbTT.8k6IkjMgPQAUElr3'
+    name: Climbing the Ranks
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when your first skill or spell reaches Rank 5.</em></p><p>You have achieved your first Skill or Spell at Rank 5, unlocking additional benefits for it. Congratulations for staying alive long enough to actually grow a bit stronger. Now you can do slightly cooler things than you could before to entertain the viewers. DANCE MONKEY, DANCE!</p><p>Reward: Bronze Adventurer''s Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/climbing-the-ranks">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1386
+    category: achievements
+    slug: climbing-the-ranks
+    url: https://pointmongo.com/browse/achievements/climbing-the-ranks
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0668643Z'
+    needsRestat: false
+    missingFields: []

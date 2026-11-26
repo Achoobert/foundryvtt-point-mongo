@@ -1,0 +1,23 @@
+_id: 3Qan3jvBPcjslxk4
+_key: '!journal!3Qan3jvBPcjslxk4'
+name: Deep Wounds
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: qcO88zzEULNgmKs7
+    _key: '!journal.pages!3Qan3jvBPcjslxk4.qcO88zzEULNgmKs7'
+    name: Deep Wounds
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A heavier bleed, 2d8 every round, that only stops once the target is healed back to full.</em></p><p>A target with the Deep Wounds debuff will take 2d8 Bleed damage every Round, until they are fully healed to 100%. Deep Wounds cannot stack with itself.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/buffs-debuffs/deep-wounds">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1352
+    category: buffs-debuffs
+    slug: deep-wounds
+    url: https://pointmongo.com/browse/buffs-debuffs/deep-wounds
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0302498Z'
+    needsRestat: false
+    missingFields: []

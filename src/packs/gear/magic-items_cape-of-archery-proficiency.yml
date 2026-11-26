@@ -1,0 +1,19 @@
+_id: eY6aBhTH9DKZxFpd
+_key: '!items!eY6aBhTH9DKZxFpd'
+name: Cape of Archery Proficiency
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A sturdy light green hooded cape for the beginner archer.</em></p><p>This light green hooded wool cape is woven of sturdy, rugged materials.  When equipped it bestows the following benefit: +1 Bow Skill.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Bow Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/cape-of-archery-proficiency">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1340
+    category: magic-items
+    slug: cape-of-archery-proficiency
+    url: https://pointmongo.com/browse/magic-items/cape-of-archery-proficiency
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-26T02:21:28.9857914Z'
+    needsRestat: false
+    missingFields: []

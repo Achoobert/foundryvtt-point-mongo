@@ -1,0 +1,23 @@
+_id: tfI2jLewzvoIz2JL
+_key: '!journal!tfI2jLewzvoIz2JL'
+name: Fire in the Hole
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: CePILaezdFKY2Rkv
+    _key: '!journal.pages!tfI2jLewzvoIz2JL.CePILaezdFKY2Rkv'
+    name: Fire in the Hole
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when a single explosive kills five or more mobs.</em></p><p>With a singular explosive, you managed to kill 5 or more Mobs in one go. You really took the easy way with this fight huh? Well, I guess good job for not blowing yourself up there bud.</p><p>Reward: Bronze Goblin Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/fire-in-the-hole">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1374
+    category: achievements
+    slug: fire-in-the-hole
+    url: https://pointmongo.com/browse/achievements/fire-in-the-hole
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0605579Z'
+    needsRestat: false
+    missingFields: []

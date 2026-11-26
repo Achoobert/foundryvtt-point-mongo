@@ -1,0 +1,23 @@
+_id: fFQj19xPVyBfvgaD
+_key: '!journal!fFQj19xPVyBfvgaD'
+name: Brace
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: uTsK6m3hmMjQjexU
+    _key: '!journal.pages!fFQj19xPVyBfvgaD.uTsK6m3hmMjQjexU'
+    name: Brace
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Halves non-magical damage from attackers who started the round more than 5 feet away.</em></p><p>While you have the Brace buff, you will reduce non-magical damage done to you by half if the enemy attacker did not start within a 5ft range at the start of this current Round of combat.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/buffs-debuffs/brace">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1360
+    category: buffs-debuffs
+    slug: brace
+    url: https://pointmongo.com/browse/buffs-debuffs/brace
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0343029Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: vPMTfRznlXmQJWNJ
+_key: '!journal!vPMTfRznlXmQJWNJ'
+name: Split
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: Oy3sMjIl05yZfCcN
+    _key: '!journal.pages!vPMTfRznlXmQJWNJ.Oy3sMjIl05yZfCcN'
+    name: Split
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Splits a creature into two or more when its Health hits zero.</em></p><p>A target with the Split buff will split into two or more creatures upon their current health hitting 0, as defined by their ability or skill that tells what they split into.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/buffs-debuffs/split">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1354
+    category: buffs-debuffs
+    slug: split
+    url: https://pointmongo.com/browse/buffs-debuffs/split
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.031272Z'
+    needsRestat: false
+    missingFields: []

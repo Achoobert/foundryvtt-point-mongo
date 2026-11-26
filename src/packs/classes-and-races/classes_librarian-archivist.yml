@@ -5,8 +5,10 @@ type: class
 img: icons/svg/combat.svg
 folder: vdVnXkhQ0bcs7QUZ
 system:
-  description: '<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>Intelligence-based Arcanist that catalogs spells, tracks monster weaknesses, and combines scrolls into spellbooks.</em></p><dl class="stat-block"><dt>Type</dt><dd>Arcanist</dd><dt>Stat Bonus</dt><dd>Int +4</dd><dt>Stat Penalty</dt><dd>Chr -2, Str -1, Dex -1</dd></dl><p>The Librarian Archivist are the keepers of the books, the cataloguers of spells, and those who are anti-social yet still the smartest in the room. Don''t let the name give you any false sense of bravado against them — their spell repertoire is likely much better than yours. This quirky support class excels in combining and cataloguing spell scrolls into books they, or others, can learn. Their meticulous dedication to archiving knowledge also makes them foremost experts on exactly how to take down that ancient monster you''ve never heard of before.</p><p><strong>Class Benefits:</strong></p><ul><li>Monsterpedia skill — learn information about a Monster after killing it for the first time; leveling it up by adding new monsters reveals weaknesses and Mob Family info</li><li>Book Keeper skill — combine three of the same scrolls into a Spellbook to learn the spell permanently (still need all requirements for the spell)</li><li>Exploit Weakness spell — a known weakness on a target Mob takes twice as much damage from your spells</li><li>Doom Scrolling spell — conjure a random Scroll of a spell you don''t know but could cast if you did; you can''t use other Scrolls until the conjured one is used</li><li>Gains access to Club Vanquisher</li></ul><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/classes/librarian-archivist">Point Mongo</a>.</em></p>'
-  classTypes: []
+  description: '<p><em>Intelligence-based Arcanist that catalogs spells, tracks monster weaknesses, and combines scrolls into spellbooks.</em></p><p>You are the keeper of the books, the catalogers of spells, and the exact kind of anti-social nerd that gets off seeing spreadsheets. You''re the smartest one in the room from all the books you''ve read, and you know. And who''s to judge you anyhow for daring to read that spicy vampire mafia romance novel anyhow! It was for research, RESEARCH I dare say! It has not prevented you whatsoever from being meticulously dedicated to archiving all knowledge, both useful and irrelevant.</p><table><tbody><tr><th>Crafting table</th><td>Tier-1 Writing Table</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Intelligence</li><li>+2 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Doom Scrolling Spell</li><li>+3 Book Keeper Skill</li><li>+1 Arcane Skill</li><li>+1 Calligraphy Skill</li></ul><p><strong>Benefits</strong></p><ul><li>Gains access to Club Vanquisher <em>(minor)</em></li><li>Book Keeper and Doom Scrolling can be risen to Rank 20 <em>(moderate)</em></li><li>Gains membership to the Dungeon Book of the Floor Club <em>(moderate)</em></li><li>Double mana regeneration while working at a Writing Table <em>(moderate)</em></li><li>Gains access to a Tier-1 Writing Table <em>(minor)</em></li></ul><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/classes/librarian-archivist">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Arcanist
+    - Mage
   prerequisites: ''
   isEarthBased: false
 flags:
@@ -20,9 +22,6 @@ flags:
       - floor-class
       - arcanist
       - support
-    updatedAt: '2026-08-31T17:12:29.613165Z'
+    updatedAt: '2026-11-26T02:21:29.0126831Z'
     needsRestat: false
-    missingFields:
-      - stat bonuses
-      - benefits
-      - Build Point costs
+    missingFields: []

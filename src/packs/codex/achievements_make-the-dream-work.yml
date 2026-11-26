@@ -1,0 +1,23 @@
+_id: JcNvQgvRgutb4GIM
+_key: '!journal!JcNvQgvRgutb4GIM'
+name: Make the Dream Work
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 6kgo9BvvTyf800an
+    _key: '!journal.pages!JcNvQgvRgutb4GIM.6kgo9BvvTyf800an'
+    name: Make the Dream Work
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you and a party member combine your skills into a plan that deals a lot of damage.</em></p><p>You know that silly Earth saying, "Team work makes the dream work?" Well turns out it isn''t as silly as I first thought. By working together, you and another member of your party (or multiple in some cases) executed a plan between your collective skills and dealt a lot of damage. That''s what we like to see!</p><p>Reward: Silver Teammate Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/make-the-dream-work">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1377
+    category: achievements
+    slug: make-the-dream-work
+    url: https://pointmongo.com/browse/achievements/make-the-dream-work
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.062114Z'
+    needsRestat: false
+    missingFields: []

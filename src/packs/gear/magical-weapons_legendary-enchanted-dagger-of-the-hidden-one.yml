@@ -1,0 +1,20 @@
+_id: IABjyav8ykzxr8aJ
+_key: '!items!IABjyav8ykzxr8aJ'
+name: Legendary Enchanted Dagger of the Hidden One
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> item type</p><p><em>A clear crystal dagger that only its wielder can see, at least until it''s covered in blood, and that turns its owner invisible too.</em></p><p>A 12” dagger made of clear crystal. It can only be seen by the wielder, or when covered in blood or other materials. The handle is covered in a bright white leather. This blade grants the following:</p><p>• +5 ranks to the Dagger Skill</p><p>• +10% DEX</p><p>• Invisible Buff</p><p>• Find Crawler Skill, rank 2</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Tier</th><td>Legendary</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr><tr><th>Damage type</th><td>Piercing</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5 ranks to the Dagger Skill</li><li>+10% DEX</li><li>Invisible Buff</li><li>Find Crawler Skill, rank 2</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/magical-weapons/legendary-enchanted-dagger-of-the-hidden-one">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1347
+    category: magical-weapons
+    slug: legendary-enchanted-dagger-of-the-hidden-one
+    url: https://pointmongo.com/browse/magical-weapons/legendary-enchanted-dagger-of-the-hidden-one
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0041729Z'
+    needsRestat: false
+    missingFields:
+      - item type

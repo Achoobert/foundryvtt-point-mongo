@@ -5,7 +5,7 @@ type: skill
 img: icons/svg/book.svg
 folder: RdHeMykKiwaJidGt
 system:
-  description: '<p><em>A Strength-based melee attack skill that tears gold off the target as you hit them.</em></p><p><strong>Level 1:</strong> Rend the target with an Axe, stealing 5 gold X your Strength.</p><p><strong>Level 5:</strong> Pillage applies the Rend debuff, making them take additional Bleed damage a Round until they heal.</p><p><strong>Level 10:</strong> The Rend debuff is replaced by the Deep Wounds debuff. The Deep Wounds debuff makes them take severe Bleed damage each Round until they''re healed to 100%.</p><p><strong>Level 15:</strong> If your target contains more gold than their highest stat, Pillage deals double damage.</p><p><strong>Level 20:</strong> Pillage steals one random equipped armor piece off the target. Non-magical armor is taken before magical armor.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d6 + STR</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/skills/pillage">Point Mongo</a>.</em></p>'
+  description: '<p><em>A Strength-based melee attack skill that tears gold off the target as you hit them.</em></p><p>You slam your axe into your target heavily, tearing at their belongings as you do.</p><p>On a successful hit, you steal gold equal to your target''s Constitution. If the target is incapable of holding gold (like an object), deal an additional +1d4 damage to it.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d6 + STR</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/skills/pillage">Point Mongo</a>.</em></p>'
   governingStat: str
   category: attack
   attackType: melee
@@ -21,13 +21,13 @@ system:
   upgrades:
     - id: wvWN6zc3KmWfg39D
       rankThreshold: 5
-      description: <p>+1d6 base damage, apply Rend (1d8 Bleed damage a Round unless healed to 100%, doesn't stack) debuff on your target.</p>
+      description: <p>+1d6 base damage and targets hit get the Rend debuff.</p>
     - id: pjJtTksBgvPZA3he
       rankThreshold: 10
-      description: <p>+1d6 base damage, Rend debuff is replaced with Deep Wounds (2d8 Bleed damage a Round unless healed to 100%, doesn't stack.)</p>
+      description: <p>You steal twice as much gold as your target's Constitution now.</p>
     - id: QfaummYrB6lYn0dU
       rankThreshold: 15
-      description: <p>+1d6 base damage, if your target contains more gold than their highest Stat, Pillage deals double damage.</p>
+      description: <p>+1d6 base damage and the Rend debuff is replaced by the Deep Wounds debuff.</p>
 flags:
   point-mongo:
     id: 559
@@ -36,6 +36,6 @@ flags:
     url: https://pointmongo.com/browse/skills/pillage
     source: Community submission — JackWreckem
     tags: []
-    updatedAt: '2026-09-22T05:27:11.5325461Z'
+    updatedAt: '2026-11-26T02:21:29.0465406Z'
     needsRestat: false
     missingFields: []

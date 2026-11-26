@@ -1,0 +1,19 @@
+_id: JqZH18HPfQBidyxJ
+_key: '!items!JqZH18HPfQBidyxJ'
+name: Cape of Hobgoblin Strength
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A tattered brown starter cape with a little extra muscle in it, and for once no Charisma penalty.</em></p><p>This tattered brown woolen cape has seen better days.  While not as popular as magical items imbued with ogre, or giant strength, this item is still decent starting gear for a low level Crawler.  When equipped it bestows the following benefits: +2 Strength.  Just be happy it doesn''t come with a Charisma penalty.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Strength</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/cape-of-hobgoblin-strength">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1336
+    category: magic-items
+    slug: cape-of-hobgoblin-strength
+    url: https://pointmongo.com/browse/magic-items/cape-of-hobgoblin-strength
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-26T02:21:28.9839097Z'
+    needsRestat: false
+    missingFields: []

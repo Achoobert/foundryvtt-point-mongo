@@ -1,0 +1,23 @@
+_id: z82rVnOPbSZGQHQT
+_key: '!items!z82rVnOPbSZGQHQT'
+name: Master Chef
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>An Arcanist class for the kitchen magician, cooking spells into food that heals friends and blows up enemies.</em></p><p>You are a magician in the Kitchen. Quite literally. Food makes the heart good, but yours take it to another level.</p><p><strong>Stat bonuses</strong></p><ul><li>+4 Int (4pts)</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+5 Cooking (10pts)</li><li>+1 Throwing (2pts)</li></ul><p><strong>Benefits</strong></p><ul><li>May use Cooking as Alchemy (creating snacks instead of potions) (1pt) <em>(minor)</em></li><li>Access to a tier 1 Cooking Station (crafting table) (1pt) <em>(minor)</em></li><li>Access to Institute of Haute Cuisine (Chef’s guild) (2pts) <em>(moderate)</em></li><li>Comfort Food: May infuse food with the effects of a beneficial Spell (spend mana when cooking the dish) or Benefit (up to 3pts). When consumed, gives the debuff ''Full'', which prevents the consumption of another infused food for 30 hours. (3pts) <em>(major)</em></li><li>Food Fight: May infuse a dish with a harmful Spell (spend the mana when cooking the dish) once a day. You may never have more than 3 of such dishes prepared. This dish, if thrown, will activate the spell, destroying the dish. (3pts) <em>(major)</em></li><li>Resistance to Fire Damage (4pts) <em>(extreme)</em></li></ul><hr><p><em>Source: Community submission — Gabe M. From <a href="https://pointmongo.com/browse/classes/master-chef">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Arcanist
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1350
+    category: classes
+    slug: master-chef
+    url: https://pointmongo.com/browse/classes/master-chef
+    source: Community submission — Gabe M
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0168918Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: lJ7kR88BEnY2Uj8t
+_key: '!journal!lJ7kR88BEnY2Uj8t'
+name: Now For That Dragon
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: PdKChqogJlWLDgmz
+    _key: '!journal.pages!lJ7kR88BEnY2Uj8t.PdKChqogJlWLDgmz'
+    name: Now For That Dragon
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you rescue a crawler being held hostage by a boss.</em></p><p>You have successfully rescued another Crawler from being held hostage by a boss. Look at you, saving Crawlers in distress like that. Just a shame that your princess is in another castle, leaving you to deal with the giant fire-breathing turtle. But hey, at least you have back-up now!</p><p>Reward: Gold Savior Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/now-for-that-dragon">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1364
+    category: achievements
+    slug: now-for-that-dragon
+    url: https://pointmongo.com/browse/achievements/now-for-that-dragon
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0552391Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,19 @@
+_id: 0Md3SnRBLG5htUC2
+_key: '!items!0Md3SnRBLG5htUC2'
+name: Legendary Enchanted Cape of the Unflagging
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A maroon cape with a black phoenix on its back for crawlers who refuse to quit: tougher, poison-resistant, and back to full Health once every five hours.</em></p><p>A cape made of a deep maroon, with the image of a Phoenix stitched in black thread in the center. This cape grants the following:</p><p>• +10% CON Bonus</p><p>• +5 to Endurance Skill</p><p>• Resistance to Poison damage</p><p>• Recovery Buff: Restores a crawler to full Health (once per 5 hours).</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Legendary</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+10% CON Bonus</li><li>+5 to Endurance Skill</li><li>Resistance to Poison damage</li><li>Recovery Buff</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/magic-items/legendary-enchanted-cape-of-the-unflagging">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1333
+    category: magic-items
+    slug: legendary-enchanted-cape-of-the-unflagging
+    url: https://pointmongo.com/browse/magic-items/legendary-enchanted-cape-of-the-unflagging
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-11-26T02:21:28.9824316Z'
+    needsRestat: false
+    missingFields: []

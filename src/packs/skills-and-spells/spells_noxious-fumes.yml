@@ -5,7 +5,7 @@ type: spell
 img: icons/svg/explosion.svg
 folder: YWvCHgnBVolBDj0q
 system:
-  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>An Evocation gas-cloud spell that poisons enemies and expands with level.</em></p><p><strong>Level 1:</strong> Cast a cloud of noxious fumes at a target area. It spreads out in a 15 foot radius.</p><p><strong>Level 5:</strong> Enemy mobs within Noxious Fumes now are Poisoned for 2 Rounds.</p><p><strong>Level 10:</strong> The duration for Noxious Fumes and its Poison is increased to 4 Rounds.</p><p><strong>Level 15:</strong> Noxious Fumes adds the Woozy Debuff as long as an enemy stays inside of it.</p><p><strong>Level 20:</strong> Noxious Fumes can expand to up to 30 Feet.</p><table><tbody><tr><th>Base damage</th><td>1d8 + INT</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>None</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/noxious-fumes">Point Mongo</a>.</em></p>'
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>An Evocation gas-cloud spell that poisons enemies and expands with level.</em></p><p>You conjure a choking cloud of noxious fumes at a target area, and it spreads to a 15ft blast radius. This cloud lasts for 2 Rounds and deals damage to enemies within it each Round.</p><table><tbody><tr><th>Base damage</th><td>1d8 + INT</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>None</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/noxious-fumes">Point Mongo</a>.</em></p>'
   governingStat: int
   manaCost: 15
   range: 60 Feet
@@ -22,13 +22,13 @@ system:
   upgrades:
     - id: g5vtTQNcWqd0TjOG
       rankThreshold: 5
-      description: <p>Enemies within Noxious Fumes now gain the Poison debuff for 2 Rounds.</p>
+      description: <p>Enemies starting their turn in the Noxious Fumes radius cloud gain the Woozy debuff</p>
     - id: 95NyQ9VMMt7wNoMv
       rankThreshold: 10
-      description: <p>The duration of Noxious Fumes and its Poison debuff is increased to 4 Rounds.</p>
+      description: <p>Enemies damaged by the initial Noxious Fumes radius during gain the Poison debuff</p>
     - id: pAZbXB8ggAuX6LQc
       rankThreshold: 15
-      description: <p>Noxious Fumes adds the Woozy debuff as long as enemies stay inside of it.</p>
+      description: <p>Enemies who move into or start their Round into the Noxious Fumes radius gain the Poison debuff</p>
 flags:
   point-mongo:
     id: 410
@@ -40,6 +40,6 @@ flags:
       - dcc-ccs
       - spells
       - evocation
-    updatedAt: '2026-09-22T05:46:52.7283851Z'
+    updatedAt: '2026-11-26T02:21:28.8944709Z'
     needsRestat: true
     missingFields: []

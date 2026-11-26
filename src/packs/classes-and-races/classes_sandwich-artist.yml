@@ -1,0 +1,24 @@
+_id: AUSxHQofsGlZZmL2
+_key: '!items!AUSxHQofsGlZZmL2'
+name: Sandwich Artist
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Support/Healer class for the least respected of Earth''s artisans, keeping the party fed and full of Health while making a mess of every fight.</em></p><p>Of all Earth''s artisans, the sandwich artist is the least respected. Their ranks consist of pizza-faced teens, adults who have never been beyond the confines of their hometown, and lovers who thought art history was a viable degree to pursue. These low-skill food service workers dolefully dish out deli meats on stale bread and collect sub-minimum wage for their joyless work.</p><p>Here in the Dungeon we''ve given this dead end career a much needed glow up. Armed with condiments and questionable ingredients, the Sandwich Artist keeps their party fed with full health bars while making an absolute mess of combat.</p><p>Bon appétit.</p><table><tbody><tr><th>Bonus box</th><td>Earth hobby box</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+2 Constitution</li><li>+2 dexterity</li><li>+1 charisma</li><li>-2 intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+2 cooking</li><li>+3 Extra Mayo</li><li>+3 Seafood Special Sandwich</li><li>+3 special sauce</li></ul><p><strong>Benefits</strong></p><ul><li>cooking guild access <em>(minor)</em></li><li>Health inspection violation- can use spoiled ingredients for cooking without ill effects... usually <em>(minor)</em></li><li>Eat Fresh- Sandwiches you craft restore d6+cooking level hp <em>(moderate)</em></li></ul><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/classes/sandwich-artist">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Support
+    - Healer
+  prerequisites: ''
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1349
+    category: classes
+    slug: sandwich-artist
+    url: https://pointmongo.com/browse/classes/sandwich-artist
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-26T05:31:39.5628652Z'
+    needsRestat: false
+    missingFields: []

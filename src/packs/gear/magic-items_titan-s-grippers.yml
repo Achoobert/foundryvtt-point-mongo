@@ -1,0 +1,19 @@
+_id: BsZ3ycsHr638e206
+_key: '!items!BsZ3ycsHr638e206'
+name: Titan's Grippers
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Gloves left behind by a murderous crawler from an older season that let you dual-wield two-handed weapons.</em></p><p>Crawler Titan of an older season of Dungeon Crawler Worlds was infamous in the Dungeon for being a bloodthirsty brute who killed Mob and Crawler alike. His murderous intent lives on in these gloves, happy to have new owners. What happened to Crawler Titan? Well he didn''t make it past the first floor.</p><p>But that was his choice.</p><p>Oh, also he dual-wielded three-headed skull-shaped flails, and it was metal as fuck.</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Type</th><td>Gloves</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>DR</th><td>0</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>You may dual-wield two-handed weapons (one in each hand)</li><li>1 DR while dual-wielding</li><li>+3 Strength</li></ul><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/magic-items/titan-s-grippers">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1346
+    category: magic-items
+    slug: titan-s-grippers
+    url: https://pointmongo.com/browse/magic-items/titan-s-grippers
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:28.9888008Z'
+    needsRestat: false
+    missingFields: []

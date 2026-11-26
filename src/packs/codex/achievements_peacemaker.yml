@@ -1,0 +1,23 @@
+_id: Dh1rG8Vky7IFeEak
+_key: '!journal!Dh1rG8Vky7IFeEak'
+name: Peacemaker
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 9kIfaURy8zvzX8PM
+    _key: '!journal.pages!Dh1rG8Vky7IFeEak.9kIfaURy8zvzX8PM'
+    name: Peacemaker
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you convince a sentient hostile mob that you mean it no harm.</em></p><p>You have successfully convinced a sentient hostile Mob that you mean it no harm. Now whether you meant that or not was entirely up to, but hey they aren''t at least going to flay you on sight now.</p><p>Reward: Bronze Negotiator''s Box</p><hr><p><em>Source: the Point Mongo community. From <a href="https://pointmongo.com/browse/achievements/peacemaker">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1392
+    category: achievements
+    slug: peacemaker
+    url: https://pointmongo.com/browse/achievements/peacemaker
+    source: ''
+    tags: []
+    updatedAt: '2026-11-26T02:21:33.7929358Z'
+    needsRestat: false
+    missingFields: []

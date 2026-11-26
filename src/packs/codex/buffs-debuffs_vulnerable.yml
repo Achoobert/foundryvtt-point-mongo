@@ -1,0 +1,23 @@
+_id: A8wxZ4VNYq9X8PGX
+_key: '!journal!A8wxZ4VNYq9X8PGX'
+name: Vulnerable
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: CBNBbPGhqvZZQizX
+    _key: '!journal.pages!A8wxZ4VNYq9X8PGX.CBNBbPGhqvZZQizX'
+    name: Vulnerable
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Leaves a target open, so every hit on it lands its base damage twice.</em></p><p>A target with the Vulnerable debuff will take extra damage from attacks against it. Upon hitting a vulnerable target, deal the base damage of your attack a second time. Vulnerable lasts as long as the duration says on the target, and ends automatically once Combat is over.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/buffs-debuffs/vulnerable">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1359
+    category: buffs-debuffs
+    slug: vulnerable
+    url: https://pointmongo.com/browse/buffs-debuffs/vulnerable
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0337748Z'
+    needsRestat: false
+    missingFields: []

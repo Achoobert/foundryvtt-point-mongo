@@ -1,0 +1,23 @@
+_id: HwqkBOHC1bnxrMVm
+_key: '!journal!HwqkBOHC1bnxrMVm'
+name: Rend
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: K3vbO9oNZuVPlT2W
+    _key: '!journal.pages!HwqkBOHC1bnxrMVm.K3vbO9oNZuVPlT2W'
+    name: Rend
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A bleed that deals 1d8 every round until the target is healed back to full.</em></p><p>A target with the Rend debuff will take 1d8 Bleed damage every Round until they are fully healed to 100%. Rend does not stack with itself.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/buffs-debuffs/rend">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1351
+    category: buffs-debuffs
+    slug: rend
+    url: https://pointmongo.com/browse/buffs-debuffs/rend
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0296929Z'
+    needsRestat: false
+    missingFields: []

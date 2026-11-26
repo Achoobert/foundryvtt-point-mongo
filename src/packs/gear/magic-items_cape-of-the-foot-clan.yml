@@ -1,0 +1,19 @@
+_id: MDtBKsLEnhd0FX3X
+_key: '!items!MDtBKsLEnhd0FX3X'
+name: Cape of the Foot Clan
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A dark purple, three-quarter length silk cape for the aspiring foot soldier.</em></p><p>This dark purple 3/4 length silk cape is a silver tier enchanted item.  When equipped it bestows the following benefit: +1 Foot Soldier Skill.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Foot Soldier Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/cape-of-the-foot-clan">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1341
+    category: magic-items
+    slug: cape-of-the-foot-clan
+    url: https://pointmongo.com/browse/magic-items/cape-of-the-foot-clan
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-26T02:21:28.9862908Z'
+    needsRestat: false
+    missingFields: []

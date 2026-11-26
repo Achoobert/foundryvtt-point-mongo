@@ -5,20 +5,31 @@ type: spell
 img: icons/svg/explosion.svg
 folder: YWvCHgnBVolBDj0q
 system:
-  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A Conjuration spell that conjures a random unknown scroll the caster must use before any other scrolls.</em></p><p><strong>School:</strong> Conjuration · <strong>AoE:</strong> Self · <strong>Duration:</strong> Instant · <strong>Cost:</strong> 5 MP · <strong>Limitation:</strong> conjured scrolls must be used before any others</p><p>Lv1: conjures a random Scroll of an unknown-but-castable spell; must be used before any other scrolls. Lv5: conjures a second scroll simultaneously. Lv10: can conjure a scroll of a known spell for free (still random). Lv15: can conjure scrolls of spells the caster couldn''t normally learn. Lv20: conjure two chosen scrolls, drawn from previously cast spells or known spells.</p><hr><p><em>Source: Community submission — Myles L (Crawler #26933). From <a href="https://pointmongo.com/browse/spells/doom-scrolling">Point Mongo</a>.</em></p>'
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>A Conjuration spell that conjures a random unknown scroll the caster must use before any other scrolls.</em></p><p>You conjure a random Scroll of a spell you do not know, but would have the ability to cast if you did know it.</p><p>Warning: You must use the conjured Scroll(s) before any other kind of Scrolls may be used by you. Conjured scrolls cannot be sold.</p><table><tbody><tr><th>Base damage</th><td>None</td></tr><tr><th>Limitations</th><td>You must use Scrolls conjured by this spell before you may use ANY other kind of Scrolls.</td></tr></tbody></table><hr><p><em>Source: Community submission — Myles L (Crawler #26933). From <a href="https://pointmongo.com/browse/spells/doom-scrolling">Point Mongo</a>.</em></p>'
   governingStat: ''
-  manaCost: 1
-  range: ''
-  duration: ''
-  cooldown: ''
-  isPassive: false
-  castingKeywords: []
-  favoredClasses: []
+  manaCost: 15
+  range: Self
+  duration: Instant
+  cooldown: 2 Hours
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Mage
   baseDamage:
     dice: ''
     stat: ''
     damageType: ''
-  upgrades: []
+  upgrades:
+    - id: 3ZFFAjkyAgaVQmBL
+      rankThreshold: 5
+      description: <p>Conjure a second random Scroll. Both Scrolls must be used before you can use any other Scrolls.</p>
+    - id: K3s52YUimpYOIJRY
+      rankThreshold: 10
+      description: <p>You may choose between conjuring two Scrolls of a spell you do not know, or two Scrolls of a spell you do know. After you choose, the scrolls are still random.</p>
+    - id: ieHcNbJb7KPzpNPI
+      rankThreshold: 15
+      description: <p>You can now conjure Scrolls of spells you're unable to learn naturally as well. You are able to cast these Scrolls as if you have the ability to cast them naturally, overriding the natural limitation on it.</p>
 flags:
   point-mongo:
     id: 392
@@ -30,10 +41,6 @@ flags:
       - dcc-ccs
       - spells
       - conjuration
-    updatedAt: '2026-09-02T04:50:41.867915Z'
+    updatedAt: '2026-11-26T02:21:28.8924671Z'
     needsRestat: true
-    missingFields:
-      - type (Attack or Passive)
-      - governing stat
-      - range
-      - Rank 5/10/15 upgrades
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: gMigqL9KbmY0D5PV
+_key: '!journal!gMigqL9KbmY0D5PV'
+name: Wizarding 101
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: NghDXZW3Jr326Edq
+    _key: '!journal.pages!gMigqL9KbmY0D5PV.NghDXZW3Jr326Edq'
+    name: Wizarding 101
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when your first combat spell fizzles and does nothing.</em></p><p>You cast your first combat spell while fighting for your life, only for it to fizzle out and do absolutely nothing, which, you know, sucks. Perhaps if you live long enough to be able to read this, you''ll practice a little bit more so you won''t run into this problem again in the very, very near future.</p><p>Maybe.</p><p>Reward: Bronze Arcane Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/wizarding-101">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1383
+    category: achievements
+    slug: wizarding-101
+    url: https://pointmongo.com/browse/achievements/wizarding-101
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.065312Z'
+    needsRestat: false
+    missingFields: []

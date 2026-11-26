@@ -1,0 +1,23 @@
+_id: wlUHCnqNfpFnBz2I
+_key: '!journal!wlUHCnqNfpFnBz2I'
+name: Disco Inferno
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: mVC4mrtnpE9Y8qfG
+    _key: '!journal.pages!wlUHCnqNfpFnBz2I.mVC4mrtnpE9Y8qfG'
+    name: Disco Inferno
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you fight inside a burning building and survive.</em></p><p>You fought and survived a fight within a burning building. You were either aura farming, not paying attention to where that Fire spell you cast was going to go, or just have really shit luck. Just because you survived the fight doesn''t mean you''re out of danger just yet, but I really appreciate your ability to stand in the fire going "This is fine" as this achievement is being read to you.</p><p>Reward: Move, dumbass!</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/disco-inferno">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1372
+    category: achievements
+    slug: disco-inferno
+    url: https://pointmongo.com/browse/achievements/disco-inferno
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.059516Z'
+    needsRestat: false
+    missingFields: []

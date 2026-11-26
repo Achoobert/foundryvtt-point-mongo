@@ -1,0 +1,23 @@
+_id: 4VNrAeeLmLIfA5Dw
+_key: '!journal!4VNrAeeLmLIfA5Dw'
+name: They're Already Dead!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: FokzpRjBNTlxjE2i
+    _key: '!journal.pages!4VNrAeeLmLIfA5Dw.FokzpRjBNTlxjE2i'
+    name: They're Already Dead!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you mutilate a boss''s corpse.</em></p><p>You have mutilated a boss''s corpse! Have you no respect for the recently departed, you little psycho you? It''s fucked up. However...people like watching other fucked up people, so who knows, infamy kind of has a nice ring to it, doesn''t it?</p><p>Reward: Silver Asshole''s Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/they-re-already-dead">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1369
+    category: achievements
+    slug: they-re-already-dead
+    url: https://pointmongo.com/browse/achievements/they-re-already-dead
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0578875Z'
+    needsRestat: false
+    missingFields: []

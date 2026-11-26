@@ -1,0 +1,44 @@
+_id: P8qBUKsBBTB9voVX
+_key: '!items!P8qBUKsBBTB9voVX'
+name: Retaliation
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> governing stat</p><p><em>A reactive attack skill that mirrors incoming damage back at the attacker, scaling into healing and bonus damage against bosses.</em></p><p>After being damaged from an attack within melee range, you strike back with your weapon at your opponent to deal an equal amount of damage to them as they did to you. Bosses will take half damage, rounded down.</p><p>Damage Note: Damage is equal to the damage you have just taken, and the damage type is equal to your currently equipped weapon. If no weapon is equipped, it will be based off your Unarmed Combat skill.</p><p>Warning: This skill does not activate if damage is something avoided, and cannot be used in conjunction with the Catcher skill until Rank 10.</p><p>Warning: You cannot retaliate if you die or are put into the Dying state.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>See Description</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/skills/retaliation">Point Mongo</a>.</em></p>'
+  governingStat: ''
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: 5ft
+  cooldown: 2 Rounds
+  limitations: You must be willingly taking an attack within melee range (5ft)
+  aiFavor: 0
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: Ufw4MDSP1k9PUymQ
+      rankThreshold: 5
+      description: <p>If your opponent dies from this skill, heal up to 30% of your health.</p>
+    - id: qihSrbctpPFDPpDd
+      rankThreshold: 10
+      description: <p>This can be used in conjunction with the Catcher skill. You will still need to use an Action for Catcher as well as this.</p>
+    - id: bK7eS8WeGnbx7WuG
+      rankThreshold: 15
+      description: <p>If your opponents dies from this skill, gain an additional Action to use for this Round of combat.</p>
+flags:
+  point-mongo:
+    id: 418
+    category: skills
+    slug: retaliation
+    url: https://pointmongo.com/browse/skills/retaliation
+    source: Community submission — JackWreckem
+    tags:
+      - dcc-ccs
+      - spells
+    updatedAt: '2026-11-26T02:21:29.0454628Z'
+    needsRestat: true
+    missingFields:
+      - governing stat

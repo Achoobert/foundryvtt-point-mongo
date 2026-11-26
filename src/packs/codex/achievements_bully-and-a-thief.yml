@@ -1,0 +1,23 @@
+_id: KxG9UEKmYgqCLecL
+_key: '!journal!KxG9UEKmYgqCLecL'
+name: Bully and a Thief
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: lj1KJJ9b4IGc4Xj6
+    _key: '!journal.pages!KxG9UEKmYgqCLecL.lj1KJJ9b4IGc4Xj6'
+    name: Bully and a Thief
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you steal from a crawler of a lower level than you.</em></p><p>You''ve stolen property from a fellow Crawler who is a lower level than you. What''s next, tough guy? Kicking puppies?</p><p>Reward: You''ve received a Bronze Asshole''s Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/bully-and-a-thief">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1385
+    category: achievements
+    slug: bully-and-a-thief
+    url: https://pointmongo.com/browse/achievements/bully-and-a-thief
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0663592Z'
+    needsRestat: false
+    missingFields: []

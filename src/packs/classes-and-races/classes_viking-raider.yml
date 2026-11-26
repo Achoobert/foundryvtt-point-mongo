@@ -5,12 +5,12 @@ type: class
 img: icons/svg/combat.svg
 folder: vdVnXkhQ0bcs7QUZ
 system:
-  description: '<p><strong>Missing:</strong> Build Point tiers on each benefit</p><p><em>Constitution-based Barbarian class built for brutal melee combat, pillaging, and going berserk.</em></p><p>A Constitution-based Barbarian Class</p><p>Con +3 Str +3  Int -2</p><p>The Viking Raider specializes in brutal melee combat. Experts in wielding axes, shields, and other people''s valuables, Viking Raiders are loud boisterous tanks who make their presence known to all within earshot. They''re experts in pillaging all types of environments, and withstanding some harsh temperatures wherever they go. Viking Raiders can go berserk, like your six-year-old brother who was at the peak of his sugar high, making them as lethally dangerous as they are difficult to kill.</p><p><strong>Class Benefits:</strong></p><p>Gains the Berserk spell. (Goes into a frenzy, your strength and movement speed increasing, with dexterity and constitution being halved.)</p><p>Gains the Terrifying Shout spell. (Applies fear to three enemies close to you)</p><p>Gains the Shieldbash skill. (Slams a target with your shield, sending them backwards.)</p><p>Gains the Pillage skill. (Axe-based attack where you steal gold on a successful hit.)</p><p>Gains +3 to all Axe-based skills.</p><p>Gains +3 to all Shield-based skills.</p><p>Becomes resistant to Cold.</p><p>Gains access to the Desperado Club.</p><table><tbody><tr><th>DR</th><td>0</td></tr><tr><th>Crafting table</th><td>None</td></tr><tr><th>Rank 20</th><td>None</td></tr><tr><th>Bonus box</th><td>Silver Earth Box</td></tr><tr><th>Build points</th><td>31</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Constitution (3 Points)</li><li>+3 Strength (3 Points)</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Berserk Spell (6 Points)</li><li>+3 Shield Crash and Pillage Skills (12 Points)</li><li>+2 Terrifying Shout Spell (4 Points)</li></ul><p><strong>Benefits</strong></p><ul><li>Gains access to the Desperado Club (1 Point)</li><li>Resistance to Ice damage (2 Points)</li></ul><p><strong>Detriments</strong></p><ul><li>2 Intelligence (+1 Extra Point)</li></ul><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/classes/viking-raider">Point Mongo</a>.</em></p>'
+  description: '<p><em>Constitution-based Barbarian class built for brutal melee combat, pillaging, and going berserk.</em></p><p>You are the kind of person who foregoes dressing up in armor or corsets at the Ren Faire and instead don the ancient furs of your Viking ancestors (or so the DNA website claimed, anyhow) despite it being 90+ degrees outside. It gives you a sort of power, a sort of calling, to want to travel out and do as the Vikings did; drink heavily, smash things, steal stuff. ''No'' is also something that isn''t in your vocabulary, and like you did in your toddler years, when you''re denied what you want to do, you have the ability to just go completely apeshit. Go forth, Viking Raider, ruin someone''s day just like you ruined that toy section in the store when you were two.</p><table><tbody><tr><th>DR</th><td>0</td></tr><tr><th>Crafting table</th><td>None</td></tr><tr><th>Bonus box</th><td>Silver Earth Box</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+3 Constitution</li><li>+3 Strength</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Berserk Spell</li><li>+3 Shield Crash Skill</li><li>+3 Pillage Skill</li><li>+2 Terrifying Shout Spell</li></ul><p><strong>Benefits</strong></p><ul><li>Gains access to the Desperado Club <em>(minor)</em></li><li>Gain resistance to Ice damage <em>(moderate)</em></li></ul><p><strong>Detriments</strong></p><ul><li>-2 Intelligence <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/classes/viking-raider">Point Mongo</a>.</em></p>'
   classTypes:
     - Barbarian
     - Fighter
   prerequisites: ''
-  isEarthBased: false
+  isEarthBased: true
 flags:
   point-mongo:
     id: 19
@@ -21,7 +21,6 @@ flags:
     tags:
       - floor-class
       - barbarian
-    updatedAt: '2026-11-11T23:34:01.6892735Z'
+    updatedAt: '2026-11-26T02:21:29.0163602Z'
     needsRestat: false
-    missingFields:
-      - Build Point tiers on each benefit
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: 3ACFEVkkdzo1yLNL
+_key: '!journal!3ACFEVkkdzo1yLNL'
+name: Go, My Minions!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: EQm2KiZwms4ZvlOf
+    _key: '!journal.pages!3ACFEVkkdzo1yLNL.EQm2KiZwms4ZvlOf'
+    name: Go, My Minions!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you take part in a boss fight without dealing the boss any damage.</em></p><p>You participated in a boss fight where you contributed absolutely no damage to the boss, letting your party do all the actual heavy lifting. Whatever you were doing, I sure hope the other Crawlers won''t hold you accountable to your lack of support.</p><p>Reward: Nice try.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/go-my-minions">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1366
+    category: achievements
+    slug: go-my-minions
+    url: https://pointmongo.com/browse/achievements/go-my-minions
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0563074Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: caoBXh8YxE0z5T6X
+_key: '!journal!caoBXh8YxE0z5T6X'
+name: Tally-ho, Old Sport!
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 2oXkIsKDb5HAsxd4
+    _key: '!journal.pages!caoBXh8YxE0z5T6X.2oXkIsKDb5HAsxd4'
+    name: Tally-ho, Old Sport!
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you shoot and kill a beast mob with a firearm.</em></p><p>You successfully shot and killed a beast mob with a firearm. It doesn''t matter if it was sentient and had a family, you went out of your way to gun down a poor, almost helpless creature with something we didn''t warn them about, AND IT WAS HILARIOUS! Keep it up, old chap.</p><p>Reward: Silver Huntsman Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/tally-ho-old-sport">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1380
+    category: achievements
+    slug: tally-ho-old-sport
+    url: https://pointmongo.com/browse/achievements/tally-ho-old-sport
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0637054Z'
+    needsRestat: false
+    missingFields: []

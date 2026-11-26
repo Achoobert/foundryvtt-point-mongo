@@ -5,10 +5,11 @@ type: class
 img: icons/svg/combat.svg
 folder: vdVnXkhQ0bcs7QUZ
 system:
-  description: '<p><strong>Missing:</strong> stat bonuses, benefits, Build Point costs</p><p><em>Strength-based Fighter class built around overwhelming physical force and monstrous stamina.</em></p><dl class="stat-block"><dt>Type</dt><dd>A Strength-based Fighter class</dd><dt>Stat Bonus</dt><dd>Str +4, Con +2</dd><dt>Stat Penalty</dt><dd>Int -3, Dex -2</dd></dl><p>The Herculean Laborer focuses on overwhelming physical force, monstrous stamina, improvised feats of strength, and turning punishment into proof that they are not finished yet. It''s not just about being strong — it''s about being at their best when facing tasks that would give others pause.</p><p><strong>Class Benefits:</strong></p><ul><li>Hero''s Burden spell — steal a physical-based debuff from an ally and give it to yourself</li><li>Hydra Cautery spell — your next attack prevents regeneration for 1 round</li><li>Monster Wrestler skill — grapple Crawlers and Mobs bigger than yourself, as long as their Constitution is not more than double your Strength</li><li>Burden Bearer skill — carry, push, or pull objects up to twice your Strength</li><li>+2 to any hand-to-hand attack skills</li><li>Gain access to Club Vanquisher</li></ul><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/classes/herculean-laborer">Point Mongo</a>.</em></p>'
-  classTypes: []
+  description: '<p><em>Strength-based Fighter class built around overwhelming physical force and monstrous stamina.</em></p><p>The Herculean Laborer focuses on overwhelming physical force, monstrous stamina, improvised feats of strength, and turning punishment into proof that they are not finished yet. It''s not just about being strong — it''s about being at their best when facing tasks that would give others pause.</p><table><tbody><tr><th>Bonus box</th><td>Silver Earth Box</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Strength</li><li>+4 Constitution</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+3 Hydra Cautery Spell</li><li>+3 Burden Bearer Skill</li><li>+2 Wrasslin'' Skill</li></ul><p><strong>Benefits</strong></p><ul><li>Gain advantage on all Constitution Stat Checks <em>(extreme)</em></li><li>Monster Wrestler - Gain advantage when using Wrasslin'' against creatures one size larger than you. <em>(moderate)</em></li></ul><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/classes/herculean-laborer">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Fighter
   prerequisites: ''
-  isEarthBased: false
+  isEarthBased: true
 flags:
   point-mongo:
     id: 8
@@ -19,9 +20,6 @@ flags:
     tags:
       - floor-class
       - fighter
-    updatedAt: '2026-08-31T17:12:29.6098501Z'
+    updatedAt: '2026-11-26T02:21:33.9197439Z'
     needsRestat: false
-    missingFields:
-      - stat bonuses
-      - benefits
-      - Build Point costs
+    missingFields: []

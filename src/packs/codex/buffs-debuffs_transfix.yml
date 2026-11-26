@@ -1,0 +1,23 @@
+_id: A7sPDHDDzJpCzqJs
+_key: '!journal!A7sPDHDDzJpCzqJs'
+name: Transfix
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: fi6D1EsRrAJc4Loe
+    _key: '!journal.pages!A7sPDHDDzJpCzqJs.fi6D1EsRrAJc4Loe'
+    name: Transfix
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Halves a target''s movement and takes the bite out of its next hit.</em></p><p>A target with the Transfix debuff has its movement speed cut in half and its next successful attack or damaging Spell will deal half damage for the duration of the Transfix.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/buffs-debuffs/transfix">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1358
+    category: buffs-debuffs
+    slug: transfix
+    url: https://pointmongo.com/browse/buffs-debuffs/transfix
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0332312Z'
+    needsRestat: false
+    missingFields: []

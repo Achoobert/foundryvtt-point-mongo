@@ -1,0 +1,19 @@
+_id: QZPWgrk08U3VTaGj
+_key: '!items!QZPWgrk08U3VTaGj'
+name: Cape of Dumpster Diving of the Foehammer
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A tattered, stained cape that''s secretly enchanted, for crawlers who aren''t too proud to go through the trash.</em></p><p>This tattered, stained accessory is actually an enchanted item.  When equipped it bestows the following benefits: +1 Dumpster Diving Skill.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Dumpster Diving Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/cape-of-dumpster-diving-of-the-foehammer">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1337
+    category: magic-items
+    slug: cape-of-dumpster-diving-of-the-foehammer
+    url: https://pointmongo.com/browse/magic-items/cape-of-dumpster-diving-of-the-foehammer
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-26T02:21:28.9843436Z'
+    needsRestat: false
+    missingFields: []

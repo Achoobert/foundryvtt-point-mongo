@@ -1,0 +1,23 @@
+_id: GcKpehtZNspDcdGi
+_key: '!journal!GcKpehtZNspDcdGi'
+name: Guard Dog
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: xb1Dw33ulEuWFaCL
+    _key: '!journal.pages!GcKpehtZNspDcdGi.xb1Dw33ulEuWFaCL'
+    name: Guard Dog
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when your pet kills its very first enemy.</em></p><p>Who''s a good Crawler pet, yes, WHO''S A GOOD CRAWLER PET?! Your pet has successfully killed their very first enemy! Don''t forget to give them a treat for being a vicious, bloodthirsty killer!</p><p>Reward: Bronze Pet Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/guard-dog">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1375
+    category: achievements
+    slug: guard-dog
+    url: https://pointmongo.com/browse/achievements/guard-dog
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0610677Z'
+    needsRestat: false
+    missingFields: []

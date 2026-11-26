@@ -5,11 +5,11 @@ type: spell
 img: icons/svg/explosion.svg
 folder: YWvCHgnBVolBDj0q
 system:
-  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>A free utility aura granting allies bonus damage and eventually fear immunity and passive healing.</em></p><p><strong>Level 1:</strong> Turn on an Aura of Battlefield Presence. Allies will deal +1d4 more damage to enemies, and you are more likely to be targeted by enemies. It can be turned off at will.</p><p><strong>Level 5:</strong> Allies in your aura gain half their normal movement speed extra while in your aura.</p><p><strong>Level 10:</strong> Increase your Constitution by +5 while this aura is active.</p><p><strong>Level 15:</strong> You and your allies become immune to Fear effects while your aura is active.</p><p><strong>Level 20:</strong> Allies in your aura heal 10% of their max health each Round they end in your aura.</p><table><tbody><tr><th>Base damage</th><td>n/a</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>None.</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/battlefield-presence">Point Mongo</a>.</em></p>'
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>A free utility aura granting allies bonus damage and eventually fear immunity and passive healing.</em></p><p>You activate an Aura of Battlefield Presence, becoming someone who stands out in combat and inspires your allies. Allies within 30ft of you while this is active will deal +1d4 bonus damage to enemies they attack, and you become more likely to be targeted by your enemies.</p><table><tbody><tr><th>Base damage</th><td>n/a</td></tr><tr><th>AI favor</th><td>0</td></tr><tr><th>Limitations</th><td>You may only activate this Aura once per combat.</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/battlefield-presence">Point Mongo</a>.</em></p>'
   governingStat: cha
   manaCost: 0
-  range: 60 Foot Radius
-  duration: At Will
+  range: 30 Foot Radius (Once active)
+  duration: 3 Rounds
   cooldown: None
   isPassive: true
   castingKeywords:
@@ -22,13 +22,13 @@ system:
   upgrades:
     - id: IHFLKyFbBabw0wmi
       rankThreshold: 5
-      description: <p>Allies in your aura gain twice their Step while in your aura.</p>
+      description: <p>Allies who start the Round in your aura will gain +5 to their Step.</p>
     - id: G9rqBwvy1q4CMyn0
       rankThreshold: 10
-      description: <p>Increase your Constitution by 5% while this Aura is active.</p>
+      description: <p>You and your allies become immune to the Terrified debuff while within range of your aura.</p>
     - id: T4DbCxl6INBfj69i
       rankThreshold: 15
-      description: <p>You and your allies become immune to the Terrified debuff while your aura is active.</p>
+      description: <p>You and your allies will heal 10% of their respective maximum health each Round your aura is active, as long as they end their Round within your aura.</p>
 flags:
   point-mongo:
     id: 380
@@ -39,6 +39,6 @@ flags:
     tags:
       - dcc-ccs
       - spells
-    updatedAt: '2026-09-22T05:46:52.7360548Z'
+    updatedAt: '2026-11-26T02:21:28.8877752Z'
     needsRestat: true
     missingFields: []

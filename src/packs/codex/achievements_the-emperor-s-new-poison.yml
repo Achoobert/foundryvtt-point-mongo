@@ -1,0 +1,23 @@
+_id: eSyvm4OwHryste6n
+_key: '!journal!eSyvm4OwHryste6n'
+name: The Emperor's New Poison
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 5NGj598aApaclusI
+    _key: '!journal.pages!eSyvm4OwHryste6n.5NGj598aApaclusI'
+    name: The Emperor's New Poison
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you take several stacks of Poison without trying to avoid them.</em></p><p>You took multiple stacks of Poison without even attempting to stop or avoid what was poisoning you. This is your Poison now. The Poison for Crawler. The Poison you choose specifically for you, Crawler. Crawler''s Poison.</p><p>Reward: Bronze Toxic Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/the-emperor-s-new-poison">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1391
+    category: achievements
+    slug: the-emperor-s-new-poison
+    url: https://pointmongo.com/browse/achievements/the-emperor-s-new-poison
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0701635Z'
+    needsRestat: false
+    missingFields: []

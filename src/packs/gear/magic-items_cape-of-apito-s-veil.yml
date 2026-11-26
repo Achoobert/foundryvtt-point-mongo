@@ -1,0 +1,19 @@
+_id: swzJNfhUM5uAnpCK
+_key: '!items!swzJNfhUM5uAnpCK'
+name: Cape of Apito's Veil
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>Apito''s blessing, woven from leaves of her own garden: once per floor it turns its wearer''s skin to oak.</em></p><p>Apito embraces you through her blessing of this Cape made from interwoven leaves from her personal garden. Once per floor she will protect you with a measure of her power, turning your skin to the toughest of Oak.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Celestial</td></tr><tr><th>DR</th><td>5</td></tr><tr><th>Limitations</th><td>Can only be used once per floor</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Apito''s Protection: Once per floor you may cast Oakhide at Rank 20 on yourself.</li><li>Oakhide Rank 20: +5 Damage Resistance for duration of 10 minutes and invulnerability buff for 5 minutes.</li><li>+15 Nature''s Breath</li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/magic-items/cape-of-apito-s-veil">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1334
+    category: magic-items
+    slug: cape-of-apito-s-veil
+    url: https://pointmongo.com/browse/magic-items/cape-of-apito-s-veil
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-26T02:21:28.9829489Z'
+    needsRestat: false
+    missingFields: []

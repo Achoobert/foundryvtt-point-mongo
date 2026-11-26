@@ -1,0 +1,23 @@
+_id: OlgK30ojqTGUa0V9
+_key: '!journal!OlgK30ojqTGUa0V9'
+name: I Didn't Hear No Bell
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: jiGKPp8ZoSkJrUAV
+    _key: '!journal.pages!OlgK30ojqTGUa0V9.jiGKPp8ZoSkJrUAV'
+    name: I Didn't Hear No Bell
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you come out of a non-boss fight with 10% of your health or less.</em></p><p>The reason you can''t hear any ringing, genius, is likely due to the pounding concussion and mortal injuries you sustained during that fight. You got through that fight with only 10% of your health left, and it wasn''t even a boss! Get your shit together, rub some dirt in it, and get back in there for round 2, Rocky!</p><p>Reward: You''ve received a Silver Survivor''s Box.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/i-didn-t-hear-no-bell">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1376
+    category: achievements
+    slug: i-didn-t-hear-no-bell
+    url: https://pointmongo.com/browse/achievements/i-didn-t-hear-no-bell
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0615916Z'
+    needsRestat: false
+    missingFields: []

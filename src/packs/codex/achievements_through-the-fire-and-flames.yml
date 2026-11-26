@@ -1,0 +1,23 @@
+_id: ECrq306WNfXric5Z
+_key: '!journal!ECrq306WNfXric5Z'
+name: Through the Fire and Flames
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 1I8nMbcTTofB2zZY
+    _key: '!journal.pages!ECrq306WNfXric5Z.1I8nMbcTTofB2zZY'
+    name: Through the Fire and Flames
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you kill enemies in a burning building while you''re on fire yourself.</em></p><p>You have killed enemies in a burning building WHILE on fire yourself. Did you know that Through the Fire and Flames is considered to be the most difficult song in Guitar Hero, even though real ones know that The Devil Went Down to Georgia went way harder? But conquering that fast-paced Dragonforce song was considered a Guitar Hero rite of passage, much like how setting yourself on fire and killing someone in a burning building is a rite of passage for you being a dumbass.</p><p>Reward: Go beat Through the Fire and Flames on Expert, and then we can talk about rewards.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/through-the-fire-and-flames">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1382
+    category: achievements
+    slug: through-the-fire-and-flames
+    url: https://pointmongo.com/browse/achievements/through-the-fire-and-flames
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0647517Z'
+    needsRestat: false
+    missingFields: []

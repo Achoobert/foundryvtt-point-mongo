@@ -1,0 +1,23 @@
+_id: Eo3oPBWElu8wxLeN
+_key: '!journal!Eo3oPBWElu8wxLeN'
+name: Decompose
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: 83UPK5Z73H7evSgA
+    _key: '!journal.pages!Eo3oPBWElu8wxLeN.83UPK5Z73H7evSgA'
+    name: Decompose
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Rots away a tenth of the target''s max Health every ten minutes, for good.</em></p><p>A target with the Decompose debuff loses 10% of their max health every 10 minutes. This lost health may not be regained.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/buffs-debuffs/decompose">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1356
+    category: buffs-debuffs
+    slug: decompose
+    url: https://pointmongo.com/browse/buffs-debuffs/decompose
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0322567Z'
+    needsRestat: false
+    missingFields: []

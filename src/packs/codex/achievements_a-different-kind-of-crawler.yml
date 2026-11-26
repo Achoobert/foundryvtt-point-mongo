@@ -1,0 +1,23 @@
+_id: WdpXStQUdrLxnDEW
+_key: '!journal!WdpXStQUdrLxnDEW'
+name: A Different Kind of Crawler
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: hdFr6vT3A3JgjmbN
+    _key: '!journal.pages!WdpXStQUdrLxnDEW.hdFr6vT3A3JgjmbN'
+    name: A Different Kind of Crawler
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you enter the World Dungeon straight from a night of bar crawling.</em></p><p>You have descended into the World Dungeon after committing to a night of bar crawling and debauchery. 99% of the time, intoxicated humans will die within the first hour, but I''m sure you''re not like all the others, right?</p><p>Reward: Bronze Alcoholics Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/a-different-kind-of-crawler">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1384
+    category: achievements
+    slug: a-different-kind-of-crawler
+    url: https://pointmongo.com/browse/achievements/a-different-kind-of-crawler
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0658437Z'
+    needsRestat: false
+    missingFields: []

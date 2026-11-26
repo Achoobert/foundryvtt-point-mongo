@@ -1,0 +1,23 @@
+_id: c9y2mvCt8BAZBjNd
+_key: '!journal!c9y2mvCt8BAZBjNd'
+name: Makings of a Super Soldier
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: Q1GDse0HJd2zwcjU
+    _key: '!journal.pages!c9y2mvCt8BAZBjNd.Q1GDse0HJd2zwcjU'
+    name: Makings of a Super Soldier
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when the party member with the weakest Constitution takes an explosive for the team and survives.</em></p><p>As the Crawler with the weakest Constitution in your party, you heroically redirected an INCREDIBLY DANGEROUS AND HIGHLY VOLATILE EXPLOSIVE DEVICE towards yourself, harming both yourself and your enemies, and you managed to survive. That takes skill, courage, bravery, and most important of all, balls bigger than a Earth-based Tanuki to commit to that level of sacrifice (and still survive). Keep up the good work there, Steve Rogers.</p><p>Reward: Legendary Guardian Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/makings-of-a-super-soldier">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1378
+    category: achievements
+    slug: makings-of-a-super-soldier
+    url: https://pointmongo.com/browse/achievements/makings-of-a-super-soldier
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.062641Z'
+    needsRestat: false
+    missingFields: []

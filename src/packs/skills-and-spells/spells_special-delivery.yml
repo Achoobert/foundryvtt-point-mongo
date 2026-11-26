@@ -1,0 +1,43 @@
+_id: HAxyknaHXqQKAn8d
+_key: '!items!HAxyknaHXqQKAn8d'
+name: Special Delivery
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>Locks a ranged or thrown attack onto anything you can see, and at high Ranks posts it anywhere on the floor. Governed by Intelligence.</em></p><p>Imbue your next ranged/thrown attack with the ability to hit any target you perceive within their standard range as if under the effect of Surefire seekers.</p><hr><p><em>Source: Community submission — Blankgood. From <a href="https://pointmongo.com/browse/spells/special-delivery">Point Mongo</a>.</em></p>'
+  governingStat: int
+  manaCost: 16
+  range: Self
+  duration: Instant
+  cooldown: 10 minutes
+  isPassive: true
+  castingKeywords:
+    - passive
+  favoredClasses:
+    - Ranger
+  baseDamage:
+    dice: ''
+    stat: ''
+    damageType: ''
+  upgrades:
+    - id: iPyl41jlOrnzvWuw
+      rankThreshold: 5
+      description: <p>Projectile range is extended by 5x INT feet and retains target lock for that range.</p>
+    - id: 7S2h4dr0i4bhQNH9
+      rankThreshold: 10
+      description: <p>Projectile range extends 10 x INT feet. May be applied to any object you are able to throw</p>
+    - id: ZSJnB9WZMmiwYmPR
+      rankThreshold: 15
+      description: <p>Range extends to global for the Floor. You may now target any known location on the floor. The projectile will arrive at that location in a maximum of 3-5 days depending on distance from caster. You may not cast this spell again until the projectile reaches its destination.  Cast to cost at global range is 64 mana.</p>
+flags:
+  point-mongo:
+    id: 1330
+    category: spells
+    slug: special-delivery
+    url: https://pointmongo.com/browse/spells/special-delivery
+    source: Community submission — Blankgood
+    tags: []
+    updatedAt: '2026-11-26T02:21:28.8863808Z'
+    needsRestat: false
+    missingFields: []

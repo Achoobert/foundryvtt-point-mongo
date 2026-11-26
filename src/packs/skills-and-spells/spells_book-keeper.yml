@@ -5,20 +5,30 @@ type: spell
 img: icons/svg/explosion.svg
 folder: YWvCHgnBVolBDj0q
 system:
-  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A passive Divination skill for converting duplicate spell scrolls into a permanently learned Spellbook.</em></p><p><strong>School:</strong> Divination (Passive) · <strong>Duration:</strong> Instant · <strong>Cost:</strong> 5 MP · <strong>Limitation:</strong> normal spellbook-learning restrictions apply</p><p>Lv1: combine three identical Scrolls into a Spellbook to learn the spell permanently (still need casting requirements). Lv5: dismantle a Spellbook back into 3 Scrolls. Lv10: only two Scrolls needed. Lv15: only one Scroll needed. Lv20: bosses guaranteed to drop a random Spellbook on defeat.</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/book-keeper">Point Mongo</a>.</em></p>'
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>A passive Divination skill for converting duplicate spell scrolls into a permanently learned Spellbook.</em></p><p>You are able to combine together 3 of the same Scrolls into a Spellbook, which lets you learn the spell permanently. This Skill does not require a crafting table.</p><p>Mark this Skill for rank-up when you successfully make a Spellbook with it.</p><table><tbody><tr><th>Base damage</th><td>None</td></tr><tr><th>Limitations</th><td>You need 3 of the same Scroll (less as you rank up) to be able to use this skill.</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/book-keeper">Point Mongo</a>.</em></p>'
   governingStat: ''
-  manaCost: 1
-  range: ''
-  duration: ''
-  cooldown: ''
-  isPassive: false
-  castingKeywords: []
+  manaCost: 0
+  range: Self
+  duration: Instant
+  cooldown: None
+  isPassive: true
+  castingKeywords:
+    - passive
   favoredClasses: []
   baseDamage:
     dice: ''
     stat: ''
     damageType: ''
-  upgrades: []
+  upgrades:
+    - id: cAiKMoDrU0wkkMkX
+      rankThreshold: 5
+      description: <p>You can dismantle Spellbooks to gain 3 Scrolls of that spell from it.</p>
+    - id: pPQCjcVN4JmGoyHc
+      rankThreshold: 10
+      description: <p>You now only need 2 of the same Scrolls to turn it into a Spellbook.</p>
+    - id: qjeQlERO7kj0SgqU
+      rankThreshold: 15
+      description: <p>You only need 1 Scroll to turn it into a Spellbook.</p>
 flags:
   point-mongo:
     id: 386
@@ -30,10 +40,6 @@ flags:
       - dcc-ccs
       - spells
       - divination
-    updatedAt: '2026-09-02T04:50:41.8638462Z'
+    updatedAt: '2026-11-26T02:21:28.8975421Z'
     needsRestat: true
-    missingFields:
-      - type (Attack or Passive)
-      - governing stat
-      - range
-      - Rank 5/10/15 upgrades
+    missingFields: []

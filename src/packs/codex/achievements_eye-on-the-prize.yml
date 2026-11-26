@@ -1,0 +1,23 @@
+_id: co9yk2gLzORQv3TE
+_key: '!journal!co9yk2gLzORQv3TE'
+name: Eye on the Prize
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 4Ovv4GHvhFfQ6tZc
+    _key: '!journal.pages!co9yk2gLzORQv3TE.4Ovv4GHvhFfQ6tZc'
+    name: Eye on the Prize
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you shoot a flying target out of the air with no visual enhancement.</em></p><p>You have shot a target flying through the air with no visual enhancement. You''re either incredibly lucky hitting a shot like that, or you''re actually Turkish Olympic Sharpshooter Yusef Dikec.</p><p>Reward: Gold Deadeye Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/eye-on-the-prize">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1373
+    category: achievements
+    slug: eye-on-the-prize
+    url: https://pointmongo.com/browse/achievements/eye-on-the-prize
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0600441Z'
+    needsRestat: false
+    missingFields: []

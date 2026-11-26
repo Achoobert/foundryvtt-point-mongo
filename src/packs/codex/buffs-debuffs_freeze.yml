@@ -1,0 +1,23 @@
+_id: QL1uPx44fkHVvdf5
+_key: '!journal!QL1uPx44fkHVvdf5'
+name: Freeze
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: AyWne6sf074BQXVT
+    _key: '!journal.pages!QL1uPx44fkHVvdf5.AyWne6sf074BQXVT'
+    name: Freeze
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Freezes a target solid: it can''t act, and Bludgeoning and Fire hit it twice as hard.</em></p><p>The Freeze debuff freezes you solid for the duration. While frozen, you''re unable to act, and you take double damage from Bludgeoning and Fire attacks.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/buffs-debuffs/freeze">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1355
+    category: buffs-debuffs
+    slug: freeze
+    url: https://pointmongo.com/browse/buffs-debuffs/freeze
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0317703Z'
+    needsRestat: false
+    missingFields: []

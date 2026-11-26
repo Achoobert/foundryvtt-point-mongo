@@ -1,0 +1,23 @@
+_id: Daxt9hwunxuSg6Ao
+_key: '!journal!Daxt9hwunxuSg6Ao'
+name: Root
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: Kiq0EZuPsxzVxM3t
+    _key: '!journal.pages!Daxt9hwunxuSg6Ao.Kiq0EZuPsxzVxM3t'
+    name: Root
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Pins a target in place: it can''t move, but can still attack and cast.</em></p><p>A target that is under the Root debuff is held in place to the ground, unable to move for the duration of the Root. Rooted targets are still able to attack and cast spells.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/buffs-debuffs/root">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1353
+    category: buffs-debuffs
+    slug: root
+    url: https://pointmongo.com/browse/buffs-debuffs/root
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0307697Z'
+    needsRestat: false
+    missingFields: []

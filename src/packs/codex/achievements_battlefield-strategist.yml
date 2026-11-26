@@ -1,0 +1,23 @@
+_id: izK5X2XUdklb7REV
+_key: '!journal!izK5X2XUdklb7REV'
+name: Battlefield Strategist
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: ZeLIhDj3BbV3OJCf
+    _key: '!journal.pages!izK5X2XUdklb7REV.ZeLIhDj3BbV3OJCf'
+    name: Battlefield Strategist
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you use Tactics to support your team three or more times in one combat.</em></p><p>You''ve used Tactics to support your team 3 or more times during combat. You might be the glue that holds your team together, and between you and me, I won''t tell them that you learned how to shot call from League of Legends.</p><p>Reward: Bronze Smarty Pants Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/battlefield-strategist">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1370
+    category: achievements
+    slug: battlefield-strategist
+    url: https://pointmongo.com/browse/achievements/battlefield-strategist
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0583936Z'
+    needsRestat: false
+    missingFields: []

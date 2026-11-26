@@ -1,0 +1,23 @@
+_id: sRfJHkXnFrbE3H5m
+_key: '!journal!sRfJHkXnFrbE3H5m'
+name: Slow
+folder: th0EqN4kb6te4jni
+pages:
+  - _id: pyc9SwKQ01Kn1gC0
+    _key: '!journal.pages!sRfJHkXnFrbE3H5m.pyc9SwKQ01Kn1gC0'
+    name: Slow
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Halves a target''s movement without touching its ability to attack.</em></p><p>Targets with the Slow debuff reduce their movement speed by half for however long the duration lasts. It does not affect their ability to attack.</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/buffs-debuffs/slow">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1357
+    category: buffs-debuffs
+    slug: slow
+    url: https://pointmongo.com/browse/buffs-debuffs/slow
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0327429Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: B3M7ZNPugSS77kCM
+_key: '!journal!B3M7ZNPugSS77kCM'
+name: Invincibility Frames
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: ExriwUXupaTHUh2r
+    _key: '!journal.pages!B3M7ZNPugSS77kCM.ExriwUXupaTHUh2r'
+    name: Invincibility Frames
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you dodge a boss''s area of effect attack.</em></p><p>You have successfully dodged a boss''s area of effect attack. What do you think this is, Dark Souls or something? You can''t just dodge roll and expect to walk away scot-free every time. This is real life, you''re in real danger, and it''s really, really boring if you''re not swinging back at the boss. Get back in there and make the boss dodge you for once.</p><p>Reward: Silver Lucky Bastard Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/invincibility-frames">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1368
+    category: achievements
+    slug: invincibility-frames
+    url: https://pointmongo.com/browse/achievements/invincibility-frames
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0573499Z'
+    needsRestat: false
+    missingFields: []

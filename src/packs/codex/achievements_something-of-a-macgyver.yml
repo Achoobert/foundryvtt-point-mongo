@@ -1,0 +1,23 @@
+_id: vD1pHka799vzb95F
+_key: '!journal!vD1pHka799vzb95F'
+name: Something of a MacGyver
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 4e5aIhTYGt5NopAG
+    _key: '!journal.pages!vD1pHka799vzb95F.4e5aIhTYGt5NopAG'
+    name: Something of a MacGyver
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you disarm a simple trap with nothing but ingenuity and luck.</em></p><p>You have successfully disarmed a simple trap using nothing but your own ingenuity and a whole lot of luck. Not too bad, considering the alternative was likely going to involve blowing yourself up somehow.</p><p>Reward: Silver Trapper''s Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/something-of-a-macgyver">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1390
+    category: achievements
+    slug: something-of-a-macgyver
+    url: https://pointmongo.com/browse/achievements/something-of-a-macgyver
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.069634Z'
+    needsRestat: false
+    missingFields: []

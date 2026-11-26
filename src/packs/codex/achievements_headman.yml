@@ -1,0 +1,23 @@
+_id: jvwP9BO1oDXUMD4A
+_key: '!journal!jvwP9BO1oDXUMD4A'
+name: Headman
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: 8QHaiSoqPTNUc9qo
+    _key: '!journal.pages!jvwP9BO1oDXUMD4A.8QHaiSoqPTNUc9qo'
+    name: Headman
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you pull the heads off every corpse after a fight.</em></p><p>After combat, you proceeded to brutalize and horrifically pull the heads off of all the corpses like some sort of monster. Something tells me a psycho like you is probably responsible for a lot of missing cat posters being put up too.</p><p>Reward: Bronze Asshole''s Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/headman">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1387
+    category: achievements
+    slug: headman
+    url: https://pointmongo.com/browse/achievements/headman
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0679815Z'
+    needsRestat: false
+    missingFields: []

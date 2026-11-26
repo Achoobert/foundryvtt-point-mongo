@@ -1,0 +1,23 @@
+_id: YaUZdHe6hqYU00HB
+_key: '!journal!YaUZdHe6hqYU00HB'
+name: Dark Urge
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: v82nROZPGsF4vrcW
+    _key: '!journal.pages!YaUZdHe6hqYU00HB.v82nROZPGsF4vrcW'
+    name: Dark Urge
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you kill a neutral mob in one go.</em></p><p>You have attacked and killed a neutral Mob in one go! They never saw it coming, poor bastard. Don''t sit there and think about the poor children who were just orphaned because you couldn''t keep your penchant for violence to yourself, think about how sweet tasting that experience is.</p><p>Reward: Silver Asshole''s Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/dark-urge">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1371
+    category: achievements
+    slug: dark-urge
+    url: https://pointmongo.com/browse/achievements/dark-urge
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0589067Z'
+    needsRestat: false
+    missingFields: []

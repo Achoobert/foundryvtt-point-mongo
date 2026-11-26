@@ -1,0 +1,23 @@
+_id: m1nxYua8yNLa0T3i
+_key: '!journal!m1nxYua8yNLa0T3i'
+name: Out of the Frying Pan
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: flK7pjHNXXxTFBsL
+    _key: '!journal.pages!m1nxYua8yNLa0T3i.flK7pjHNXXxTFBsL'
+    name: Out of the Frying Pan
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you kill five or more enemies with a non-magical wall of fire before finding the Tutorial Guild.</em></p><p>You have killed 5 or more enemies by creating a non-magical wall of fire for them to fall into, all before you found the Tutorial Guild. With such an ability to overcook those poor Mobs, you have the makings of a career fry cook at a fast food restaurant.</p><p>Reward: Gold Arsonist''s Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/out-of-the-frying-pan">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1379
+    category: achievements
+    slug: out-of-the-frying-pan
+    url: https://pointmongo.com/browse/achievements/out-of-the-frying-pan
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0631822Z'
+    needsRestat: false
+    missingFields: []

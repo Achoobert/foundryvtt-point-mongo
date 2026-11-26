@@ -1,0 +1,19 @@
+_id: ci4pVBnXGUYswpiD
+_key: '!items!ci4pVBnXGUYswpiD'
+name: Enchanted Cape of the Iron Skinned
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A cerulean silk cape scattered with silver snowflakes that keeps out the cold and can double its wearer''s DR for half an hour.</em></p><p>A cape made of the softest silk, tinted a bright cerulean blue, with silver snow flakes sewn all over it. This cape grants the following:</p><p>• +5% to INT</p><p>• Resistance to Ice damage</p><p>• Iron Skin Potion Buff: Doubles the crawler’s DR for 30 minutes.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Platinum</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5% to INT</li><li>Resistance to Ice damage</li><li>Iron Skin Potion Buff: Doubles the crawler’s DR for 30 minutes.</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/magic-items/enchanted-cape-of-the-iron-skinned">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1332
+    category: magic-items
+    slug: enchanted-cape-of-the-iron-skinned
+    url: https://pointmongo.com/browse/magic-items/enchanted-cape-of-the-iron-skinned
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-11-26T02:21:28.9818683Z'
+    needsRestat: false
+    missingFields: []

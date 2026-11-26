@@ -5,20 +5,30 @@ type: spell
 img: icons/svg/explosion.svg
 folder: YWvCHgnBVolBDj0q
 system:
-  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><strong>Missing:</strong> type (Attack or Passive), governing stat, range, Rank 5/10/15 upgrades</p><p><em>A utility duel spell restricting both combatants to attack skills only, with escalating benefits for the caster.</em></p><p><strong>Type:</strong> Utility Skill · <strong>AoE:</strong> 1 crawler or mob · <strong>Duration:</strong> 1 round · <strong>Cost:</strong> 5 MP</p><p>Lv1: challenges a target to a duel — both may only use Attack Skills. Lv5/10: extends 1 round each. Lv15: caster may cast spells during the duel. Lv20: killing the target during the duel grants +1 of their highest stat.</p><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/challenge">Point Mongo</a>.</em></p>'
+  description: '<p><strong>Needs restat:</strong> numbers predate the published rules and may be misleading.</p><p><em>A utility duel spell restricting both combatants to attack skills only, with escalating benefits for the caster.</em></p><p>You challenge your target to a duel for 1 Round. While dueling, both you and your target cannot cast spells, and attacks are limited to Attack Skills only. Additionally, you cannot move more than 20ft away from each other while Challenge is in effect.</p><table><tbody><tr><th>Base damage</th><td>None</td></tr><tr><th>Limitations</th><td>None.</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem (Crawler #36320). From <a href="https://pointmongo.com/browse/spells/challenge">Point Mongo</a>.</em></p>'
   governingStat: ''
-  manaCost: 1
-  range: ''
-  duration: ''
-  cooldown: ''
-  isPassive: false
-  castingKeywords: []
+  manaCost: 5
+  range: 20ft
+  duration: 1 Round
+  cooldown: 5 Rounds
+  isPassive: true
+  castingKeywords:
+    - passive
   favoredClasses: []
   baseDamage:
     dice: ''
     stat: ''
     damageType: ''
-  upgrades: []
+  upgrades:
+    - id: YIpHZrHb6SMxFapP
+      rankThreshold: 5
+      description: <p>Extends the duration by 1 more Round.</p>
+    - id: Fo2kAPiTr6BlnFJD
+      rankThreshold: 10
+      description: <p>Extends the duration by 1 more Round.</p>
+    - id: LidNqqOUtNmrXnpm
+      rankThreshold: 15
+      description: <p>You may now cast Spells during the duel. Cheater.</p>
 flags:
   point-mongo:
     id: 388
@@ -29,10 +39,6 @@ flags:
     tags:
       - dcc-ccs
       - spells
-    updatedAt: '2026-09-02T04:50:41.8652396Z'
+    updatedAt: '2026-11-26T02:21:28.8894482Z'
     needsRestat: true
-    missingFields:
-      - type (Attack or Passive)
-      - governing stat
-      - range
-      - Rank 5/10/15 upgrades
+    missingFields: []

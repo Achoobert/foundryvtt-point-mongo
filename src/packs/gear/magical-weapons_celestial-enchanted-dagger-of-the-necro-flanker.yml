@@ -1,0 +1,20 @@
+_id: oTbxWPBFc1r211bC
+_key: '!items!oTbxWPBFc1r211bC'
+name: Celestial Enchanted Dagger of the Necro-Flanker
+type: item
+img: icons/svg/item-bag.svg
+folder: 2rUAyf2kN16SXzIH
+system:
+  description: '<p><strong>Missing:</strong> item type</p><p><em>A volcanic stone dagger that keeps its wielder''s Mana topped up, holds a Second Chance, and calls up a Rat Shaman to fight beside them.</em></p><p>A 10” dagger made of Volcanic Stone. Its edge is honed to the sharpest edge imaginable. The handle is soft to the touch, made of a soft wood and dyed black as night. This blade grants the following:</p><p>• +6 ranks to the Dagger Skill</p><p>• +20% DEX</p><p>• Inherent Spell: Second Chance (Rank 5)</p><p>• Replenish Buff: Gains INT Mana every 10 minutes.</p><p>• Summon minions to fight for you: Rat Shaman</p><table><tbody><tr><th>Slot</th><td>Hands/Holding</td></tr><tr><th>Tier</th><td>Celestial</td></tr><tr><th>Weapon skill</th><td>Dagger</td></tr><tr><th>Damage type</th><td>Piercing</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+6 ranks to the Dagger Skill</li><li>+20% DEX</li><li>Inherent Spell: Second Chance (Rank 5)</li><li>Replenish Buff: Gains INT Mana every 10 minutes.</li><li>Summon minions to fight for you: Rat Shaman</li></ul><hr><p><em>Source: Community submission — BlessedPsycho, Crawler #26,933. From <a href="https://pointmongo.com/browse/magical-weapons/celestial-enchanted-dagger-of-the-necro-flanker">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1348
+    category: magical-weapons
+    slug: celestial-enchanted-dagger-of-the-necro-flanker
+    url: https://pointmongo.com/browse/magical-weapons/celestial-enchanted-dagger-of-the-necro-flanker
+    source: 'Community submission — BlessedPsycho, Crawler #26,933'
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.004773Z'
+    needsRestat: false
+    missingFields:
+      - item type

@@ -1,0 +1,19 @@
+_id: BuDjY8mSnXcQcLhj
+_key: '!items!BuDjY8mSnXcQcLhj'
+name: Condom of Protection +2
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>Complete protection against disease, as long as you never take it off, and it doesn''t slip off mid-fight.</em></p><p>This condom will protect the wearer from any STD, including the super, ultra, enthusiastic ones that are magically induced. To receive immunity to all diseases (and resistance to poisons) you just have to wear it....ALL THE TIME!!</p><p>Note: On a crit fail in a combat, say nothing happens but the condom falls off and won''t be noticed until the Crawler''s next long rest. Then let the magic happen, baby!</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Apron</td></tr><tr><th>Tier</th><td>Silver</td></tr><tr><th>DR</th><td>1</td></tr><tr><th>Limitations</th><td>Has to be worn to work. Can be worn all the time but has a risk of falling off (see description)</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 DR</li><li>Immunity to all Diseases</li><li>1 CHA</li></ul><hr><p><em>Source: Community submission — Riksheare. From <a href="https://pointmongo.com/browse/magical-jewelry/condom-of-protection-2">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1361
+    category: magical-jewelry
+    slug: condom-of-protection-2
+    url: https://pointmongo.com/browse/magical-jewelry/condom-of-protection-2
+    source: Community submission — Riksheare
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.037716Z'
+    needsRestat: false
+    missingFields: []

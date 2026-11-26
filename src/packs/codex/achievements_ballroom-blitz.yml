@@ -1,0 +1,23 @@
+_id: QPjQnY9MCfSq1w8V
+_key: '!journal!QPjQnY9MCfSq1w8V'
+name: Ballroom Blitz
+folder: HmScHxfPtiEITZ4L
+pages:
+  - _id: BKSvw9C1kBCCgd3X
+    _key: '!journal.pages!QPjQnY9MCfSq1w8V.BKSvw9C1kBCCgd3X'
+    name: Ballroom Blitz
+    type: text
+    text:
+      format: 1
+      content: '<p><em>Triggered when you survive a Boss Blitz: one boss fight with two or more bosses in it.</em></p><p>You have survived a Boss Blitz! What exactly is a Boss Blitz, you might ask? Well you see, actions you Crawlers makes have consequences, and these consequences line up in such a way that it causes the boss fight you just had to have not one, but two (or more) bosses in it making your job way, way harder than it needed to be in the first place! I mean, talk about incredible! Since I have absolutely zero faith in your ability to actually learn from the consequences of your actions, the odds are really good that you''ll likely encounter another one in the future, which, honestly, is great for our viewers.</p><p>Reward: Gold YOLO Box</p><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/achievements/ballroom-blitz">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1363
+    category: achievements
+    slug: ballroom-blitz
+    url: https://pointmongo.com/browse/achievements/ballroom-blitz
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T02:21:29.0546901Z'
+    needsRestat: false
+    missingFields: []
