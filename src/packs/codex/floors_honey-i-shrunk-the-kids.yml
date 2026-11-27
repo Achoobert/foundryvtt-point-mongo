@@ -1,0 +1,23 @@
+_id: JXLmRojVfWRKIeGT
+_key: '!journal!JXLmRojVfWRKIeGT'
+name: Honey, I Shrunk the Kids
+folder: VHmu31aNxbf2nxSa
+pages:
+  - _id: iOsITE16OFXjGfr1
+    _key: '!journal.pages!JXLmRojVfWRKIeGT.iOsITE16OFXjGfr1'
+    name: Honey, I Shrunk the Kids
+    type: text
+    text:
+      format: 1
+      content: '<p><em>A floor where crawlers are shrunk to the size of bugs and turned loose in one suburban backyard, house and garage.</em></p><p>Crawlers must endure the harsh life of insects, as they are shrunken down to the scale of a bug. The entire floor consists of a roughly 1 acre residential backyard, home, garage, etc, in a suburban setting.</p><hr><p><em>Source: Community submission — Austin. From <a href="https://pointmongo.com/browse/floors/honey-i-shrunk-the-kids">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1393
+    category: floors
+    slug: honey-i-shrunk-the-kids
+    url: https://pointmongo.com/browse/floors/honey-i-shrunk-the-kids
+    source: Community submission — Austin
+    tags: []
+    updatedAt: '2026-11-26T23:39:31.9281924Z'
+    needsRestat: false
+    missingFields: []

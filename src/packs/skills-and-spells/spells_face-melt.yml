@@ -1,0 +1,43 @@
+_id: xt9wnKPG56zxUsxm
+_key: '!items!xt9wnKPG56zxUsxm'
+name: Face Melt
+type: spell
+img: icons/svg/explosion.svg
+folder: YWvCHgnBVolBDj0q
+system:
+  description: '<p><em>An air guitar solo that blasts a ring of fire around you and throws enemies back. Governed by Charisma.</em></p><p>Shred a solo on your air guitar and unleash a ring of flames around you in a 10ft blast radius, dealing fire damage and knocking back enemies hit 10ft away from you.</p><table><tbody><tr><th>Base damage</th><td>1d6 + CHA</td></tr><tr><th>Limitations</th><td>None</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/spells/face-melt">Point Mongo</a>.</em></p>'
+  governingStat: cha
+  manaCost: 8
+  range: 10 feet
+  duration: Instant
+  cooldown: 1 Round
+  isPassive: false
+  castingKeywords:
+    - attack
+  favoredClasses:
+    - Bard
+  baseDamage:
+    dice: 1d6
+    stat: cha
+    damageType: fire
+  upgrades:
+    - id: v9e4dALPi9FWm6L8
+      rankThreshold: 5
+      description: <p>This also does 1d6 + CHA Sonic damage</p>
+    - id: XroHwngSBmKkJfSS
+      rankThreshold: 10
+      description: <p>Enemies hit by this gain the Burned debuff</p>
+    - id: 2iSTCnxE7QzOp5Lh
+      rankThreshold: 15
+      description: <p>Enemies are knocked back a further 10 feet away from you</p>
+flags:
+  point-mongo:
+    id: 1399
+    category: spells
+    slug: face-melt
+    url: https://pointmongo.com/browse/spells/face-melt
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T23:39:32.0722102Z'
+    needsRestat: false
+    missingFields: []

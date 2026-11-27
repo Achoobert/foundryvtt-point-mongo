@@ -1,0 +1,23 @@
+_id: yQgpl0SIEmuAYCot
+_key: '!items!yQgpl0SIEmuAYCot'
+name: Platta-Kappa
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>Half kappa, half venomous platypus: a poison-clawed race at home in water and underground, as long as the dish on its head stays wet.</em></p><p>This creature is a cross between the Kappa from Japanese folk lore, and the freak of nature rat, duck, beaver creature native to Australia that for some reason is coated in deadly poison visible under a blacklight ... the Platypus!.</p><p>These guys excel in both aquatic and land combat but with the latter they must ensure the dish on their head doesn''t dry out lest they begin to desiccate and weaken.</p><p>They have the ability to swim in water or on land and coat their natural claws in toxic poison.</p><p>These are some nasty ass fuckers.</p><table><tbody><tr><th>Size</th><td>Medium (4)</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Dexterity</li><li>+4 Intelligence</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+1 Drain Life</li><li>+1 Rootfoot</li></ul><p><strong>Benefits</strong></p><ul><li>Immunity to Poison <em>(extreme)</em></li><li>Poisonous Slash: 1d8+F to Slashing and Poison Damage <em>(major)</em></li><li>The Ability to Breathe Underwater <em>(moderate)</em></li><li>The Ability to Burrow <em>(moderate)</em></li><li>Double Mana from Mending while in a water rich environment. <em>(minor)</em></li><li>Resistance to Lightning Damage <em>(moderate)</em></li><li>+1 to the Attack of Opportunity, Dodge, Double Tap, Swimming, and Tactics Skills. <em>(extreme)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Vulnerable to Fire Damage <em>(3 pt)</em></li><li>-2 Strength <em>(1 pt)</em></li><li>Must fill water dish on head once every 6 hours or suffer the dry land debuff until refilled. <em>(1 pt)</em></li><li>Dry Land Debuff: -1 for all skill checks made during period. Stacks for every 6 hours your dish remains unfilled.</li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/races/platta-kappa">Point Mongo</a>.</em></p>'
+  size: Medium (4)
+  prerequisites: ''
+  isEarthBased: false
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1396
+    category: races
+    slug: platta-kappa
+    url: https://pointmongo.com/browse/races/platta-kappa
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-26T23:39:32.0665888Z'
+    needsRestat: false
+    missingFields: []

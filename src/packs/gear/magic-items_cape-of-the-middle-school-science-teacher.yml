@@ -1,0 +1,19 @@
+_id: yzuLmvxy5BpNftVO
+_key: '!items!yzuLmvxy5BpNftVO'
+name: Cape of the Middle School Science Teacher
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>The Cape of KABOOM, for crawlers who drop potassium in water just to watch.</em></p><p>Also known as the Cape of KABOOM, this is a silver tier enchanted item.  What happens when you add a sliver of pure potassium into a beaker of water for the amusement of a classroom full of juvenile students?  Most people have the good sense not to try this at home, but the middle school science teacher does it for kicks, at least once a semester.  Jim Moergeli, this one is for you.  When equipped it bestows the following benefit: +1 Explosive Handling Skill.  Fly free Jungle Boy, Fly Free.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+1 Explosives Handling Skill</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/cape-of-the-middle-school-science-teacher">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1404
+    category: magic-items
+    slug: cape-of-the-middle-school-science-teacher
+    url: https://pointmongo.com/browse/magic-items/cape-of-the-middle-school-science-teacher
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-26T23:39:32.0779874Z'
+    needsRestat: false
+    missingFields: []

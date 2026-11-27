@@ -1,0 +1,19 @@
+_id: joN2HV4TgA7L5dhG
+_key: '!items!joN2HV4TgA7L5dhG'
+name: Cape of the Con-scripted
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A Skull Empire conscript''s cape, repurposed by the System AI as a reward for low-level crawlers.</em></p><p>This enchanted cloak is a silver tier magical item.  In the past, these items were commonly used by the Skull Empire to bolster the stats of their crawler conscripts on the 9th Floor of the World Dungeon for Faction Wars.  The recently added  War Chest rules that limit the amount of gear brought into the Dungeon by various factions, have restricted the number of bulkier items currently in play.  So the system AI has repurposed many of these items to become low level crawler rewards.  When equipped, this cape grants the following benefit: +2 Constitution.  Now say thank-you, and try to survive long enough to make this a worth-while reward.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Constitution</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/cape-of-the-con-scripted">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1403
+    category: magic-items
+    slug: cape-of-the-con-scripted
+    url: https://pointmongo.com/browse/magic-items/cape-of-the-con-scripted
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-26T23:39:32.0771154Z'
+    needsRestat: false
+    missingFields: []

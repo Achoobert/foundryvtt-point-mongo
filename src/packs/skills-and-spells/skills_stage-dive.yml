@@ -1,0 +1,41 @@
+_id: a5QxPaNfgJ0AtWzF
+_key: '!items!a5QxPaNfgJ0AtWzF'
+name: Stage Dive
+type: skill
+img: icons/svg/book.svg
+folder: RdHeMykKiwaJidGt
+system:
+  description: '<p><em>Leap up to 10 feet and slam into the ground, hitting every enemy around you where you land. Governed by Strength.</em></p><p>You launch yourself up into the air and at a distance of 10 feet to slam yourself into the ground, dealing damage to all enemies around you within a 5 foot radius.</p><p>Upon landing, all enemies within 5 feet of you take the same damage.</p><table><tbody><tr><th>Category</th><td>Melee Attack</td></tr><tr><th>Base damage</th><td>1d6 + STR</td></tr></tbody></table><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/skills/stage-dive">Point Mongo</a>.</em></p>'
+  governingStat: str
+  category: attack
+  attackType: melee
+  isPassive: false
+  range: 10 feet
+  cooldown: 1 Round
+  limitations: You may not leap up to an area of higher elevation than you with this skill.
+  aiFavor: 0
+  baseDamage:
+    dice: 1d6
+    stat: str
+    damageType: bludgeoning
+  upgrades:
+    - id: L6QCy8LV2nzySmLR
+      rankThreshold: 5
+      description: <p>Increase the damage radius from impact to 10 feet.</p>
+    - id: AOJ3j2pfLZa00zuH
+      rankThreshold: 10
+      description: <p>Increase the jump distance to 20 feet.</p>
+    - id: 7DBcN2fjS4uSLprG
+      rankThreshold: 15
+      description: <p>Enemies hit by this are affected with the Take Down debuff.</p>
+flags:
+  point-mongo:
+    id: 1398
+    category: skills
+    slug: stage-dive
+    url: https://pointmongo.com/browse/skills/stage-dive
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T23:39:32.070172Z'
+    needsRestat: false
+    missingFields: []

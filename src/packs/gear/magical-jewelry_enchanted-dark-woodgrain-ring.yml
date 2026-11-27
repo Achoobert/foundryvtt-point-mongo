@@ -1,0 +1,19 @@
+_id: 7fIH82pMpfjIGo1A
+_key: '!items!7fIH82pMpfjIGo1A'
+name: Enchanted Dark Woodgrain Ring
+type: item
+img: icons/svg/item-bag.svg
+folder: bsWg3RcCqIUz15Ti
+system:
+  description: '<p><em>A featherlight oak ring that turns one dodge per fight into a timing gamble, with a flawless handspring out of the way when it pays off.</em></p><p>A narrow band of dark oak with a pale line running around the outside, it feels shockingly light in the hand and puts an extra spring in your step whenever danger is incoming.</p><p></p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Ring</td></tr><tr><th>Tier</th><td>Gold</td></tr><tr><th>Cooldown</th><td>1 per combat</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>I-frames: Once per combat, when you would take an Evade Action against a visible melee Attack, but before the d20 is rolled, roll 1d6. This die shows how far into the attack the aggressor is. Choose:</li><li>Flip now: add the result to your Evade Check total.</li><li>Hold: roll another 1d6. If the total is 6 or less, add the total to your Evade Check, otherwise you mistimed it and instead take a -3 to that check.</li><li>Then roll your Evade Check normally. This ring affects one incoming Attack and costs no additional Action. On a success the wearer executes a flawless low handspring over or under the attack and lands on their feet.</li></ul><hr><p><em>Source: Community submission — Kron. From <a href="https://pointmongo.com/browse/magical-jewelry/enchanted-dark-woodgrain-ring">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1409
+    category: magical-jewelry
+    slug: enchanted-dark-woodgrain-ring
+    url: https://pointmongo.com/browse/magical-jewelry/enchanted-dark-woodgrain-ring
+    source: Community submission — Kron
+    tags: []
+    updatedAt: '2026-11-26T23:39:32.0998242Z'
+    needsRestat: false
+    missingFields: []

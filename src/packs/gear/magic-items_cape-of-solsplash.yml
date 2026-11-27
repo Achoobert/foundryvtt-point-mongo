@@ -1,0 +1,19 @@
+_id: 3Md69ZuzuUI4niBe
+_key: '!items!3Md69ZuzuUI4niBe'
+name: Cape of Solsplash
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A vibrant orange cape with a golden sun on its back that casts Solsplash for free every two hours.</em></p><p>This vibrant orange, full length silk cape has a large golden sun screen printed on the back.  When equipped it bestows the following benefit: Solsplash Spell at Rank 1, with no mana cost, on a 2 hour cooldown.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>Solsplash Spell at Rank 1, no Mana cost, 2 hour cooldown</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/cape-of-solsplash">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1405
+    category: magic-items
+    slug: cape-of-solsplash
+    url: https://pointmongo.com/browse/magic-items/cape-of-solsplash
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-26T23:39:32.0788993Z'
+    needsRestat: false
+    missingFields: []

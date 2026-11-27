@@ -1,0 +1,24 @@
+_id: 3LWqa9teXPLYjWjR
+_key: '!items!3LWqa9teXPLYjWjR'
+name: Guitar Hero
+type: class
+img: icons/svg/combat.svg
+folder: vdVnXkhQ0bcs7QUZ
+system:
+  description: '<p><em>A Bard/Barbarian class for the would-be guitar legend, first into the mosh pit and powering up the whole party once a day with Power Metal.</em></p><p>Jimi Hendrix. Eddie Van Halen. Jimmy Page. Eric Clapton. B.B. King. Steve Vai. Tim Henson. At one point or another in your life, one of these legends have made an impact on people''s lives so astounding, they too have delved into the magic that is playing guitar. Though your ability may have lain solely in being able to play a 5-multi-colored-button guitar for a video game, your own desire to be a legend burns bright.</p><p>Guitar Heroes truly imbue what it means to wield your axe in the pursuit of chasing your dream. The Guitar Hero is the vain personality, the main character, the one with whom all the crowds will chant their name. Because of that, they''re typically the ones who are the first to leap into the fray and clear out the mosh pits that wait before them.</p><table><tbody><tr><th>DR</th><td>0</td></tr><tr><th>Prerequisites</th><td>You must have a guitar and have the Axe skill at Rank 5.</td></tr><tr><th>Bonus box</th><td>Silver Earth Box</td></tr><tr><th>Build points</th><td>30</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Charisma</li><li>+4 Strength</li><li>+3 Dexterity</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+4 Performance Skill with a guitar specialty</li><li>+2 Face Melt Spell</li><li>+2 Stage Dive Skill</li></ul><p><strong>Benefits</strong></p><ul><li>All Axe-based Skills can go up to Rank 20 <em>(moderate)</em></li><li>You get a free room in safe rooms <em>(minor)</em></li><li>Power Metal - Once per day, you may play your guitar for 30 minutes, and if you do you and your party''s Attack Skills can deal either +1d4 Sonic damage or +1d4 Fire damage of your choice extra damage to targets it. You must decide what damage type this bonus gives for the day. <em>(major)</em></li></ul><p><strong>Detriments</strong></p><ul><li>You gain disadvantage in all Performance checks that don''t involve a guitar <em>(2 pt)</em></li><li>-2 Intelligence <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — JackWreckem. From <a href="https://pointmongo.com/browse/classes/guitar-hero">Point Mongo</a>.</em></p>'
+  classTypes:
+    - Bard
+    - Barbarian
+  prerequisites: You must have a guitar and have the Axe skill at Rank 5.
+  isEarthBased: true
+flags:
+  point-mongo:
+    id: 1395
+    category: classes
+    slug: guitar-hero
+    url: https://pointmongo.com/browse/classes/guitar-hero
+    source: Community submission — JackWreckem
+    tags: []
+    updatedAt: '2026-11-26T23:39:32.0533428Z'
+    needsRestat: false
+    missingFields: []

@@ -1,0 +1,23 @@
+_id: QAfJ6OY693OHUzmG
+_key: '!items!QAfJ6OY693OHUzmG'
+name: Sphinx-Kin
+type: race
+img: icons/svg/statue.svg
+folder: Cw7mqeUD08x4nYV3
+system:
+  description: '<p><em>A winged, riddle-obsessed race of lion-cats with a big intellect, unlimited flight and a superiority complex to match.</em></p><p>A glorified house cat with wings, an inflated sense of superiority, and an insufferable obsession with riddles. Descendants of ancient guardians of forbidden knowledge, Sphinx-Kin possess formidable intellect, natural magical affinities, and predatory instincts of a lion.</p><p>Remember, being the smartest person in a room doesn''t mean anything when people can be fireball you instead of answering your stupid riddles.</p><table><tbody><tr><th>Size</th><td>Large (5)</td></tr><tr><th>Prerequisites</th><td>Must have a minimum of 6 Intelligence</td></tr></tbody></table><p><strong>Stat bonuses</strong></p><ul><li>+4 Intelligence</li><li>-2 Strength</li></ul><p><strong>Skill bonuses</strong></p><ul><li>+5 Lore</li></ul><p><strong>Benefits</strong></p><ul><li>Eureka: Advantage in all Intelligence based skill checks. <em>(epic)</em></li><li>Membership to Dungeon Book of the Floor Club. <em>(moderate)</em></li><li>Flight without limits <em>(epic)</em></li></ul><p><strong>Detriments</strong></p><ul><li>Must Worship Deity (Nekhebit) <em>(1 pt)</em></li><li>Vulnerable to Necrotic Damage <em>(1 pt)</em></li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/races/sphinx-kin">Point Mongo</a>.</em></p>'
+  size: Large (5)
+  prerequisites: Must have a minimum of 6 Intelligence
+  isEarthBased: true
+  isAlien: false
+flags:
+  point-mongo:
+    id: 1397
+    category: races
+    slug: sphinx-kin
+    url: https://pointmongo.com/browse/races/sphinx-kin
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-26T23:39:32.0676446Z'
+    needsRestat: false
+    missingFields: []

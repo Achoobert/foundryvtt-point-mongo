@@ -1,0 +1,19 @@
+_id: gXuSUSqGUMLeUGHJ
+_key: '!items!gXuSUSqGUMLeUGHJ'
+name: Cape of Fortitude
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A hooded dark grey wool cape that makes its wearer a little tougher.</em></p><p>This full length, hooded cape is crafted from dark grey dyed wool.  When equipped, it bestows the following benefit: +2 Constitution.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Silver</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+2 Constitution</li></ul><hr><p><em>Source: Community submission — DeaDPaN79. From <a href="https://pointmongo.com/browse/magic-items/cape-of-fortitude">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1402
+    category: magic-items
+    slug: cape-of-fortitude
+    url: https://pointmongo.com/browse/magic-items/cape-of-fortitude
+    source: Community submission — DeaDPaN79
+    tags: []
+    updatedAt: '2026-11-26T23:39:32.0762282Z'
+    needsRestat: false
+    missingFields: []

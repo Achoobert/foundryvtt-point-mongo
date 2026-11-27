@@ -1,0 +1,19 @@
+_id: O2hWbGoLdRFpblmr
+_key: '!items!O2hWbGoLdRFpblmr'
+name: Mantle of Pork Skull Bastard
+type: item
+img: icons/svg/item-bag.svg
+folder: IAic1C8xuCprLJVv
+system:
+  description: '<p><em>A gaudy Skull Empire mantle with real power and a terrible catch: put it on and you''re in the royal line, bound to kill every other royal before you can leave the ninth floor.</em></p><p>This is a FLEETING Item</p><p>This is a UNIQUE Item</p><p>This cloak resembles a gaudy red velvet cloak with peacock feathers lining the neck and a large yellow jewel imbedded in the clasp. It bears the crest of the Skull Empire.</p><p>The wearer of this item receives a +5 boost to strength, access to the bang bro spell, and an intimidating presence. You also have a slight chance of inflicting the Swine Flu Debuff with your attacks, which has an even rarer chance at causing LITERAL Explosive Diarrhoea.</p><p>Warning! (And no, this isn''t one of those funny little warnings about explosive diarrhoea.)</p><p>WARNING! READ THIS BEFORE YOU PUT THE FUCKING MANTLE ON.</p><p>Draping this mantle over your shoulders permanently places you within the royal line of succession of the Skull Empire, the ruling Orc empire on the ninth floor of the world dungeon. Removing, destroying, or otherwise losing this item will not remove this status.</p><p>All members of the Skull Empire''s royal line of succession are required to slay the reigning Emperor and every other member of the royal bloodline before being permitted to descend to the tenth floor.</p><p>Congratulations! You''ve just turned a fashion statement into a legally binding commitment to royal familicide. Hope you like pork, because there''s going to be a whole lot of bacon to make before you get off the ninth floor.</p><table><tbody><tr><th>Slot</th><td>Accessory</td></tr><tr><th>Type</th><td>Cape</td></tr><tr><th>Tier</th><td>Legendary</td></tr><tr><th>DR</th><td>2</td></tr><tr><th>Limitations</th><td>You cannot move past the 9th Floor until every last Royal of the Skull Empire is Slain.</td></tr></tbody></table><p><strong>Effects</strong></p><ul><li>+5 Strength</li><li>+5 Bang Bro</li><li>+5 Intimidate</li><li>15% Chance of Inflicting Swine Flu Debuff on targets on All Attacks made while wearing this cloak.</li><li>Swine Flu Debuff: Halves Movement, Double Damage Taken, Half Healing. 10% Chance of literal Explosive Diarrhoea</li></ul><hr><p><em>Source: Community submission — Connor MT Dargan. From <a href="https://pointmongo.com/browse/magic-items/mantle-of-pork-skull-bastard">Point Mongo</a>.</em></p>'
+flags:
+  point-mongo:
+    id: 1400
+    category: magic-items
+    slug: mantle-of-pork-skull-bastard
+    url: https://pointmongo.com/browse/magic-items/mantle-of-pork-skull-bastard
+    source: Community submission — Connor MT Dargan
+    tags: []
+    updatedAt: '2026-11-26T23:39:32.074457Z'
+    needsRestat: false
+    missingFields: []
